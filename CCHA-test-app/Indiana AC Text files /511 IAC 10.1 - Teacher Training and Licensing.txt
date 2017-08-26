@@ -1,0 +1,774 @@
+Rule 1. Definitions 
+511 IAC 10.1-1-1 Definitions Authority: IC 20-28-2-6 Affected: IC 20-19-3; IC 20-24-3; IC 20-28-7.5-1; IC 20-28-11.5; IC 20-29-2-19; IC 20-31-4; IC 20-35-5; IC 20-37-1-1; IC 20-38-1; IC 36-1-7 
+Sec. 1. The following definitions apply throughout this title: 
+(1) "Accomplished practitioner license" means a license granted to an applicant under 515 IAC 12-1-1 and 511 IAC 14-4-1. 
+(2)"Applicant"meanstheperson or entitythat applies for thelicensesand permits granted bytheboard or departmentunder a certain rule. 
+(3) 
+"Approved program" means a program that has been approved by the board in accordance with 511 IAC 13-1-1. 
+
+(4) 
+"Assessment" means department-approved measurement documenting mastery of state approved standards. 
+
+(5) 
+"Assessment system" means a set of measures that collects and analyzes data on: 
+
+(A) 
+applicant qualifications; 
+
+(B) 
+candidate and graduate performance; and 
+
+
+
+(C) 
+unit operations; 
+to evaluate and improve the performance of candidates, the unit, and its programs. 
+
+
+(6) 
+"Bulletin 400" means the teacher licensure rules that became effective in 1963 and under which applicants could complete licensure requirements until 1982. 
+
+(7) 
+"Certificate of eligibility" means a document issued by a state that specifies the details of a license for which an individual has met all substantive licensure requirements. 
+
+(8) 
+"Compact state" means a state that has entered into the Interstate Compact Agreement for any license with a content area established under 511 IAC 15-6-1 through 511 IAC 15-6-36. 
+
+(9) 
+"Content area" means the: 
+
+(A) 
+subject matter an applicant is licensed to teach; or 
+
+(B) 
+administrative or service function an applicant is licensed to provide. 
+
+
+
+(10) 
+"Day" means a calendar day unless otherwise specified. 
+
+(11) 
+"Department" or "department of education" means the Indiana department of education established under IC 20-19-3. 
+
+(12) 
+"Department-approved program" means a transition to teaching program that is not offered by an institution of higher education that has been approved by the department to grant a certificate that may result in a participant's eligibility for an initial practitioner license. 
+
+(13) 
+"Effective teacher" means a teacher who is effective or highly effective under evaluations that meet the components set out in IC 20-28-11.5. 
+
+(14) 
+"General education and subject matter concentration" means curriculum that is based on a content area established under 511 IAC 15-6-1 through 511 IAC 15-6-27. The term does not include curriculum based on professional education and pedagogy. 
+
+
+(15)"Goodstanding"meansan employer didnotcancelor suspendtheapplicant'scontractfor groundsequivalenttogrounds listed under IC 20-28-7.5-1. 
+(16) 
+"Governing body" means the group responsible for the governance of one (1) of the following: 
+
+(A) 
+A school corporation. 
+
+(B) 
+A school organized by an interlocal agreement under IC 36-1-7. 
+
+(C) 
+A special education cooperative organized under IC 20-35-5. 
+
+(D) 
+A cooperating school corporation for vocational education organized under IC 20-37-1-1. 
+
+(E) 
+An accredited nonpublic school under 511 IAC 6.1-1-1. 
+
+(F) 
+A charter school established under IC 20-24-3. 
+
+
+
+(17) 
+"Initial practitioner license" means a two-year license granted to an applicant under 515 IAC 8-1-1.1 or granted under 511 IAC 14-1-1. 
+
+(18) 
+"Institution of higher education" means a college or university accredited by at least one (1) of the following: 
+
+(A) 
+A state accrediting authority of the college or university's state of origin. 
+
+(B) 
+One (1) of the following regional institutional accrediting organizations: 
+
+(i) 
+Middle States Association of Colleges and Schools, Commission on Higher Education. 
+
+(ii) 
+New England Association of Schools and Colleges, Inc., Commission on Institutions of Higher Education. 
+
+
+(iii) North Central Association of Colleges and Schools, Higher Learning Commission. 
+(iv) 
+North Central Association ofColleges and Schools, Commission on Accreditation and School Improvement, Board of Trustees. 
+
+(v) 
+Northwest Commission on Colleges and Universities. 
+
+(vi) 
+Southern Association of Colleges and School, Commission on Colleges. 
+
+
+(vii) Western Association of Schools and Colleges, Accrediting Commission for Community and Junior Colleges. 
+(viii) Western Association of Schools and Colleges, Accrediting Commission for Senior Colleges and Universities. 
+
+(C) 
+The National Council for Accreditation of Teacher Education/Council for the Accreditation of Educator Preparation or its successor. 
+
+
+
+(19) 
+"Interstate Compact Agreement" means the reciprocity agreement under IC 20-38-1. 
+
+(20) 
+"Licensing advisor" means a representative of an institution of higher education who acts as an advisor for, and at the request of, the applicant and who has the authority of the approved program to provide the department with information on the applicant's qualifying degree, approved program completed and, if applicable, evidence of teaching experience. 
+
+(21) 
+"Out-of-state applicant" means an applicant who has: 
+
+(A) 
+completed a baccalaureate degree from an institution of higher education outside of Indiana; or 
+
+(B) 
+a valid license issued by another state. 
+
+
+
+(22) 
+"Practitioner license" means a license granted to an applicant under 511 IAC 14-3-1. 
+
+(23) 
+"Professional education and pedagogy" means a curriculum that is based on the art or science of teaching, including, but not limited to, practice, experience, and a curriculum based on scientifically-based reading instruction, differentiation of instruction and teaching methods, cultural competency, instructional technology, classroom and behavioral management, curriculum development, and the psychology of child development, including, but not limited to, the development of exceptional needs students. 
+
+(24) 
+"Professional license" means a life-license when issued under Bulletin 400 and is a ten-year license when issued under Rules 46-47. 
+
+(25) 
+"Proficient practitioner license" means a license granted to an applicant under 515 IAC 4-2-1. 
+
+(26) 
+"Provisional license" means a license that was granted to an applicant under Bulletin 400. 
+
+(27) 
+"Reading instruction" means instruction on the components of scientifically-based reading, which includes the following: 
+
+(A) 
+Phonics. 
+
+(B) 
+Phonemic awareness. 
+
+(C) 
+Fluency. 
+
+(D) 
+Vocabulary. 
+
+(E) 
+Comprehension. 
+
+(F) 
+Interventions that are direct, explicit, and multi-sensory. 
+
+
+
+(28) 
+"REPA teacher developmental and content standards", "developmental standards", or "content standards" means the professional standards recognized by the state board of education in 2014. 
+
+(29) 
+"Rules 46-47" means the teacher licensure rules that became effective in 1982 and under which applicants could complete licensure requirements until 2006. 
+
+(30) 
+"School setting" means the grades for which the license holder is licensed. 
+
+(31) 
+"Standard license" is a license that was granted to an applicant under Rules 46-47. 
+
+(32) 
+"Student teaching" means a supervised teaching practice occurring near the end of an applicant's approved program. 
+
+(33) 
+"Teacher training program" means an institution of higher education that prepares teachers for the workforce. 
+
+(34) 
+"Workplace specialist I license" means a two-year license granted to an applicant under 511 IAC 17-3-1. 
+
+(35) 
+"Workplace specialist II license" means a five-year license granted to an applicant under 511 IAC 17-3-2 that is equivalent to a practitioner license. 
+
+
+(Indiana State Board of Education; 511 IAC 10.1-1-1; filed Nov 18, 2014, 3:51 p.m.: 20141217-IR-511130399FRA) 
+Rule 2. Persons Currently Enrolled in Approved Programs 
+511 IAC 10.1-2-1 Recognition 
+Authority: IC 20-28-2-6; IC 20-28-4 
+Affected: IC 20-28 
+
+Sec. 1. All persons who have begun an approved teacher preparation program for initial licensure under prior rules and regulations will have until August 31, 2019, to complete the program. Applications for licensure under prior rules, including evidence of successful completion of testing requirements, must be received by the department no later than December 31, 2019. 
+(Indiana State Board of Education; 511 IAC 10.1-2-1; filed Nov 18, 2014, 3:51 p.m.: 20141217-IR-511130399FRA) 
+Rule 3. Transition to Teaching Requirements on Approved Programs 
+
+511 IAC 10.1-3-1 Transition to teaching; applicability 
+Authority: IC 20-28-2-6; IC 20-28-4 
+Affected: IC 20-28-4 
+
+Sec. 1. (a) This rule implements and supplements IC 20-28-4. 
+(b) 
+Each approved program under 511 IAC 13-1-1 may offer a transition to teaching program to prepare a qualified person who holds at least a baccalaureate degree to enter the teaching profession through a transition to teaching program. 
+
+(c) The transition to teaching program shall include a preparation component to meet Indiana standards for teaching. 
+
+(d) 
+Completion of the program and testing requirements as stated under 511 IAC 15-7-1 results in eligibility for an initial practitioner license. (Indiana State Board of Education; 511 IAC 10.1-3-1; filed Nov 18, 2014, 3:51 p.m.: 20141217-IR­511130399FRA) 
+
+
+
+511 IAC 10.1-3-2 Definitions 
+Authority: IC 20-28-2-6; IC 20-28-4 
+Affected: IC 20-28-3; IC 20-28-4-4 
+
+Sec. 2. (a) The definitions in this section apply throughout this rule. 
+(b) 
+"Complete the program" means to be verified by a transition to teaching program as having successfully completed the preparation program. 
+
+(c) 
+"Degree" means a degree from a four (4) year institution of higher education. 
+
+(d) 
+"Elementary" means a school setting as set forth in IC 20-28-4-4(1)(B). 
+
+(e) 
+"Eligible person" means a qualified person who meets the admission requirements of the transition to teaching program. 
+
+(f) 
+"Enroll" means to do the following: 
+
+(1) 
+Be admitted by a transition to teaching program. 
+
+(2) 
+Register for at least one (1) course in the program. 
+
+(g) 
+"Participant" means a person who is enrolled in the preparation program. 
+
+
+
+(h) 
+"Professional experience" means the experience that occurred through full-time employment in an educational related field or in a field in which the person intends to be licensed. 
+
+
+(i) "Program" means the transition to teaching program under this rule. 
+(j)"Qualifiedperson"meansaperson whoholdsthedegreeandanyprofessionalexperiencerequiredfortheintendedlicense. 
+(k) 
+"Secondary" means a school setting as set forth in IC 20-28-4-4(1)(A). 
+
+(l) 
+"Transition to teaching program" means a program under IC 20-28-4 and established under this rule. (Indiana State 
+
+
+Board of Education; 511 IAC 10.1-3-2; filed Nov 18, 2014, 3:51 p.m.: 20141217-IR-511130399FRA) 
+
+511 IAC 10.1-3-3 Eligibility for program in elementary teaching 
+Authority: IC 20-28-2-6; IC 20-28-4 
+Affected: IC 20-28-4 
+
+Sec. 3. A person is eligible to enroll in the program for an elementary school setting in accordance with 511 IAC 15-1-1 if the person has met the following requirements: 
+(1) 
+Passing the required basic skills assessment or an alternative as approved by the board and published by the department. 
+
+(2) 
+[Voided by P.L.127-2016, SECTION 25, effective March 23, 2016.] 
+
+(3) 
+Has earned a baccalaureate degree with a grade point average of: 
+
+(A) 
+at least 3.0 on a 4.0 point scale from an institution of higher education; or 
+
+(B) 
+at least 2.5 on a 4.0 point scale from an institution of higher education and has five (5) years of professional experience. 
+
+
+
+
+(Indiana State Board of Education; 511 IAC 10.1-3-3; filed Nov 18, 2014, 3:51 p.m.: 20141217-IR-511130399FRA) 
+
+511 IAC 10.1-3-4 Eligibility for program in secondary teaching 
+Authority: IC 20-28-2-6; IC 20-28-4 
+Affected: IC 20-28-4 
+
+Sec. 4. A person is eligible to enroll in the program for a secondary school setting in accordance with 511 IAC 15-2-1 that corresponds to the content area of the degree if the person has met the following requirements: 
+(1) 
+Passing the required basic skills assessment or an alternative as approved by the board and published by the department. 
+
+(2) 
+[Voided by P.L.127-2016, SECTION 25, effective March 23, 2016.] 
+
+(3) 
+Has earned either of the following: 
+
+(A) 
+A baccalaureate degree with a grade point average of at least 3.0 on a 4.0 point scale from an institution of higher education. 
+
+(B) 
+A baccalaureate or graduate degree with a grade point average of at least 2.5 on a 4.0 point scale from an institution of higher education and has five (5) years of professional experience. 
+
+
+
+
+(Indiana State Board of Education; 511 IAC 10.1-3-4; filed Nov 18, 2014, 3:51 p.m.: 20141217-IR-511130399FRA) 
+
+511 IAC 10.1-3-5 Eligibility for program in P-12 teaching 
+Authority: IC 20-28-2-6; IC 20-28-4 
+Affected: IC 20-28-4 
+
+Sec. 5. A person is eligible to enroll in the program for a P-12 school setting in accordance with 511 IAC 15-3-1 that corresponds to the content area of the degree if the person has met the following requirements: 
+(1) 
+Passing the required basic skills assessment or an alternative as approved by the board and published by the department. 
+
+(2) 
+[Voided by P.L.127-2016, SECTION 25, effective March 23, 2016.] 
+
+(3) 
+Has earned either of the following: 
+
+(A) 
+A baccalaureate degree with a grade point average of at least 3.0 on a 4.0 point scale from an institution of higher education. 
+
+(B) 
+A baccalaureate or graduate degree with a grade point average of at least 2.5 on a 4.0 point scale from an institution of higher education and has five (5) years of professional experience. 
+
+
+
+
+(Indiana State Board of Education; 511 IAC 10.1-3-5; filed Nov 18, 2014, 3:51 p.m.: 20141217-IR-511130399FRA) 
+
+511 IAC 10.1-3-6 Eligibility for program in prekindergarten through grade 3 
+Authority: IC 20-28-2-6; IC 20-28-4 
+Affected: IC 20-28-4 
+
+Sec. 6. A person is eligible to enroll in the program for a prekindergarten through grade 3 (P-3) school setting in accordance with 511 IAC 15-4-1 if the person has met the following requirements: 
+(1) 
+Passing the required basic skills assessment or an alternative as approved by the board and published by the department. 
+
+(2) 
+[Voided by P.L.127-2016, SECTION 25, effective March 23, 2016.] 
+
+(3) 
+Has earned a baccalaureate degree with a grade point average of: 
+
+(A) 
+at least 3.0 on a 4.0 point scale from an institution of higher education; or 
+
+(B) 
+at least 2.5 on a 4.0 point scale from an institution of higher education and has five (5) years of professional experience. 
+
+
+
+
+(Indiana State Board of Education; 511 IAC 10.1-3-6; filed Nov 18, 2014, 3:51 p.m.: 20141217-IR-511130399FRA) 
+
+511 IAC 10.1-3-7 Preparation 
+Authority: IC 20-28-2-6 
+Affected: IC 20-28-4 
+
+Sec. 7. (a) A department-approved transition to teaching program offered by an institution of higher education may offer the course of study as either undergraduate or graduate level. A department-approved program offered by an entity other than an institution of higher education may offer a noncredit hour based certificate. 
+(b) 
+The qualified person must meet the general admission standards of the approved program for the credit or certificate being awarded. 
+
+(c) 
+The course of study may be part of a degree program, but a participant is not required to earn a degree to successfully complete the preparation program. 
+
+(d) 
+The preparation shall include the following: 
+
+(1) 
+The course work and field and classroom experiences that prepare the participant to successfully master the developmental standards. 
+
+(2) 
+The performance assessments defined in the approved program assessment system that document mastery of the developmental standards. 
+
+(e) 
+Under IC 20-28-4, preparation shall require not more than the following: 
+
+(1) 
+Eighteen (18) credit hours for secondary teaching. 
+
+(2) 
+Twenty-four (24) credit hours for elementary teaching, including at least six (6) credit hours in reading instruction. 
+
+(3) 
+Twenty-four (24) credit hours for P-3 teaching, including at least six (6) credit hours in reading instruction. 
+
+
+
+(f) 
+Preparation for P-12 teaching shall require not more than twenty-four (24) credit hours. The department shall provide guidance on the requirements for program design to meet credit hours. (Indiana State Board of Education; 511 IAC 10.1-3-7; filed Nov 18, 2014, 3:51 p.m.: 20141217-IR-511130399FRA) 
+
+
+
+511 IAC 10.1-3-8 Scope of initial practitioner license; application procedures 
+Authority: IC 20-28-2-6; IC 20-28-4 
+Affected: IC 20-28-4 
+
+Sec. 8. (a) A participant who completes the transition to teaching program is eligible for an initial practitioner license. 
+(b) The department shall issue an initial practitioner license that is restricted to the content area or areas in which the program participant has a degree unless the program participant demonstrates to the department sufficient knowledge in other content areas of the license. (Indiana State Board of Education; 511 IAC 10.1-3-8; filed Nov 18, 2014, 3:51 p.m.: 20141217-IR­511130399FRA) 
+
+511 IAC 10.1-3-9 Annual report by institution 
+Authority: IC 20-28-2-6; IC 20-28-4 
+Affected: IC 20-28-4 
+
+Sec. 9. (a) Each year, the department will provide institutions with the format for the annual program report integrated within the annual accreditation report by a date determined by the department. 
+(b) 
+An institution shall submit an annual program report to the department, including the number of participants who have: 
+
+(1) 
+enrolled and are participating only in the preparation program; and 
+
+(2) 
+completed the preparation program. 
+
+
+(c) An institution shall submit any other information as required by federal statute. (Indiana State Board of Education; 511 IAC 10.1-3-9; filed Nov 18, 2014, 3:51 p.m.: 20141217-IR-511130399FRA) 
+Rule 4. Beginning Residency Program 
+
+511 IAC 10.1-4-1 Applicability 
+Authority: IC 20-28-2-6 
+Affected: IC 20-19-2-8; IC 20-24-3; IC 20-31-4; IC 20-35-5; IC 20-37-1-1; IC 36-1-7 
+Sec. 1. Beginning with the 2014-2015 school year, each: 
+(1) 
+school corporation; 
+
+(2) 
+school organized by an interlocal agreement under IC 36-1-7; 
+
+(3) 
+special education cooperative organized under IC 20-35-5; 
+
+(4) 
+cooperating school corporation for vocational education organized under IC 20-37-1-1; 
+
+(5) 
+accredited nonpublic school under 511 IAC 6.1-1-1; and 
+
+
+(6) charter school established under IC 20-24-3; may develop and implement a beginning teacher residency program, a beginning building level administrator residency program, or a beginning school services personnel residency program. (Indiana State Board of Education; 511 IAC 10.1-4-1; filed Nov 18, 2014, 3:51 p.m.: 20141217-IR-511130399FRA) 
+
+511 IAC 10.1-4-2 Definitions 
+Authority: IC 20-28-2-6 
+Affected: IC 20-29-2-19; IC 20-31-4 
+Sec. 2. (a) The definitions in this section apply throughout this rule. 
+(b) 
+"Building level administrator" means a license holder who: 
+
+(1) 
+holds a standard, provisional, proficient, or accomplished practitioner license with at least one (1) content area required under: 
+
+(A) 
+511 IAC 15-1-1; 
+
+(B) 
+511 IAC 15-2-1; 
+
+(C) 
+511 IAC 15-3-1; 
+
+(D) 
+511 IAC 15-4-1; 
+
+(E) 
+511 IAC 15-5-1; and 
+
+
+
+(2) 
+has direct authority over a beginning teacher as employed by an entity listed under section 1(a) [section 1] of this rule. 
+
+(c) 
+"Supervisor" means a license holder who has: 
+
+(1) 
+direct authority over a license holder as employed by an entity listed under section 1(a) [section 1] of this rule; and 
+
+(2) 
+held a proficient practitioner license that includes any content area established under 511 IAC 15-6-1 through 511 IAC 15-6-23 or under 511 IAC 15-6-25 for at least five (5) years. 
+
+
+(Indiana State Board of Education; 511 IAC 10.1-4-2; filed Nov 18, 2014, 3:51 p.m.: 20141217-IR-511130399FRA) 
+
+511 IAC 10.1-4-3 Beginning teacher residency program 
+Authority: IC 20-28-2-6 
+Affected: IC 20-29-2-19; IC 20-29-6-4; IC 20-29-6-7; IC 20-31-4 
+Sec. 3. (a) To be eligible for a practitioner license, a beginning teacher shall complete one (1) of the following requirements: 
+(1) 
+Complete the requirements of 511 IAC 14-2-3; or 
+
+(2) 
+Participate in a two (2) year beginning teacher residency program. 
+
+(b) 
+The beginning teacher residency program shall: 
+
+(1) 
+assist beginning teachers in the performance of their duties; 
+
+(2) 
+identify teaching skills and educational practices necessary for excellence in teaching; and 
+
+(3) 
+require building level administrators to assess the performance of beginning teachers. 
+
+(c) 
+A beginning teacher residency program is a two (2) year program that includes, but is not limited to, the following: 
+
+(1) 
+An initial conference between the building level administrator and the beginning teacher to discuss the following: 
+
+(A) 
+The assessment schedule under subdivision (2). 
+
+(B) 
+The minimum assessment criteria developed by the department under subsection (e)(1). 
+
+
+
+(2) 
+An assessment of the beginning teacher before November 15 and April 15 during each of the two (2) years of the beginning teacher's employment. The building level administrator shall assess the beginning teacher by using the minimum assessment criteria provided by the department under subsection (e)(1). 
+
+(3) 
+A growth plan for the beginning teacher if the building level administrator determines after any assessment described in subdivision (2) that a beginning teacher is deficient in any area being assessed. The growth plan must be in writing and include the following: 
+
+(A) 
+Specific expectations of the building level administrator. 
+
+(B) 
+Actions to be taken by the beginning teacher to meet the expectations. 
+
+(C) 
+A date for the actions to be completed. 
+
+(D) 
+The next assessment date. 
+
+
+
+(4) 
+If the building level administrator creates a growth plan in accordance with subdivision (3), a reassessment of the beginning teacher shall occur prior to the next assessment required by subdivision (2). 
+
+(5) 
+After April 15 of the second year of the residency program but before May 1 of that same year, the building level administrator shallmakeadetermination andprovideawritten explanation tothebeginningteacher andsuperintendentthat one (1) of the following occurred: 
+
+(A) 
+The beginning teacher successfully completed the residency program. 
+
+(B) 
+The beginning teacher failed to successfully complete the residency program. 
+
+
+
+(d) 
+The beginning teacher residency program may include a school corporation sponsored mentoring program. 
+
+(e) 
+The department shall: 
+
+(1) 
+develop minimum assessment criteria to be used by a building level administrator when assessing a beginning teacher; 
+
+(2) 
+develop forms for use by a building level administrator in the assessment of the beginning teacher; and 
+
+(3) 
+provide assistance in the development and implementation of a beginning teacher residency program at the request of an entity under section 1(a) [section 1] of this rule. 
+
+(f) 
+Implementation of and participation in a residency program is not a subject of: 
+
+(1) 
+bargaining under IC 20-29-6-4; or 
+
+(2) 
+discussion under IC 20-29-6-7. 
+
+
+(Indiana State Board of Education; 511 IAC 10.1-4-3; filed Nov 18, 2014, 3:51 p.m.: 20141217-IR-511130399FRA) 
+
+511 IAC 10.1-4-4 Beginning building level administrator residency program 
+Authority: IC 20-28-2-6; IC 20-28-6 
+Affected: IC 20-28-6-1; IC 20-29-6; IC 20-31-4 
+
+Sec. 4. (a) To be eligible for a practitioner license, the holder of an initial practitioner license that includes the content area established under 511 IAC 15-6-28 shall complete one (1) of the following requirements: 
+(1) 
+Complete the requirements of 511 IAC 14-2-3; or 
+
+(2) 
+Participate in a two (2) year beginning teacher residency program. 
+
+
+[sic] 
+(1) 
+assist beginning building level administrators in the performance of their duties; 
+
+(2) 
+identify skills and practices necessary for excellence in building level administration; and 
+
+(3) 
+require the supervisor to complete an assessment of the performance of the beginning building level administrator. 
+
+
+(c) 
+A beginning building level administrator residency program is a two (2) year program that includes, but is not limited to, the following: 
+
+(1) 
+An initial conference between the supervisor and the beginning building level administrator to discuss the following: 
+
+(A) 
+The assessment schedule under subdivision (2). 
+
+(B) 
+The minimum assessment criteria developed by the department under subsection (e)(1). 
+
+
+
+(2) 
+An assessment of the beginning building level administrator before November 15 and April 15 during each of the first two (2) years of the beginning building level administrator's employment. The supervisor shall assess the beginning building level administrator by using the minimum assessment criteria provided by the department under subsection (e)(1). 
+
+(3) 
+A growth plan for the beginning building level administrator if the supervisor determines after any assessment described in subdivision (2) that a beginning building level administrator is deficient in any area being assessed. The growth plan must be in writing and include the following: 
+
+(A) 
+Specific expectations of the supervisor. 
+
+(B) 
+Actions to be taken by the beginning building level administrator to meet the expectations. 
+
+(C) 
+A date for the actions to be completed. 
+
+(D) 
+The next assessment date. 
+
+
+
+(4) 
+If the supervisor creates a growth plan in accordance with subdivision (3), a reassessment of the beginning building level administrator shall occur prior to the next assessment required by subdivision (2). 
+
+(5) 
+After April 15 of the second year of the residency program but before May 1 of that same year, the supervisor shall make a determination and provide a written explanation to the building level administrator and superintendent that one (1) of the following occurred: 
+
+(A) 
+The beginning building level administrator successfully completed the residency program. 
+
+(B) 
+The beginning building level administrator failed to successfully complete the residency program. 
+
+
+
+
+
+(d) 
+The beginning building level administrator residency program may include a school corporation sponsored mentoring program. 
+
+
+(e) The department shall: 
+(1)developminimumassessmentcriteriatobeusedbyasupervisor when assessingabeginningbuildingleveladministrator; 
+(2) develop forms for use by a supervisor in the assessment of the beginning building level administrator; and 
+(3)provideassistanceinthedevelopmentandimplementationofabeginningbuildingleveladministrator residencyprogram 
+at the request of an entity under section 1(a) [section 1] of this rule. (Indiana State Board of Education; 511 IAC 10.1-4-4; filed Nov 18, 2014, 3:51 p.m.: 20141217-IR-511130399FRA) 
+
+511 IAC 10.1-4-5 Beginning school services residency program 
+Authority: IC 20-28-2-6; IC 20-28-6 
+Affected: IC 20-28-6-1; IC 20-29-6; IC 20-31-4 
+Sec. 5. (a) To be eligible for a practitioner license the holder of an initial practitioner license that includes any content area established under 511 IAC 15-6-33, 511 IAC 15-6-34, 511 IAC 15-6-35, or 511 IAC 15-6-36 shall complete one (1) of the following requirements: 
+(1) 
+Complete the requirements of 511 IAC 14-2-3; or 
+
+(2) 
+Participate in a two (2) year beginning school services residency program. 
+
+(b) 
+The beginning school services residency program shall: 
+
+(1) 
+assist beginning school services personnel in the performance of their duties; 
+
+(2) 
+identify skills and practices necessary for excellence in school services; and 
+
+(3) 
+require the supervisor to complete an assessment of the performance of the beginning school services personnel. 
+
+
+(c) A beginning school services residency program is a two (2) year program that includes, but is not limited to, the following: 
+(1) 
+An initial conference between the supervisor and the beginning school services personnel to discuss the following: 
+
+(A) 
+The assessment schedule under subdivision (2). 
+
+(B) 
+The minimum assessment criteria developed by the department under subsection (e)(1). 
+
+
+
+(2) 
+An assessment of the beginning school services personnel before November 15 and April 15 during each of the first two 
+
+(2) 
+years of the beginning school services personnel's employment. The supervisor shall assess the beginning school services personnel by using the minimum assessment criteria provided by the department under subsection (e)(1). 
+
+(3) 
+A growth plan for the beginning school services personnel if the supervisor determines after any assessment described in subdivision (2) that a beginning school services personnel is deficient in any area being assessed. The growth plan must be in writing and include the following: 
+
+(A) 
+Specific expectations of the supervisor. 
+
+(B) 
+Actions to be taken by the beginning school services personnel to meet the expectations. 
+
+(C) 
+A date for the actions to be completed. 
+
+(D) 
+The next assessment date. 
+
+
+
+
+(4)Ifthesupervisor createsagrowth plan in accordancewith subdivision (3),areassessmentofthebeginningschoolservices personnel shall occur prior to the next assessment required by subdivision (2). 
+(5) 
+After April 15 of the second year of the program but before May 1 of that same year, the supervisor shall make a determination and provide a written explanation to the beginning school services personnel and superintendent that one (1) of the following determinations: 
+
+(A) 
+The beginning school services personnel successfully completed the residency program. 
+
+(B) 
+The beginning school services personnel failed to successfully complete the residency program. 
+
+
+
+(d) 
+The beginning school services residency program may include a school corporation sponsored mentoring program. 
+
+(e) 
+The department shall: 
+
+(1) 
+develop minimum assessment criteria to be used by a supervisor when assessing a beginning school services personnel; 
+
+(2) 
+develop forms for use by a supervisor in the assessment of the beginning school services personnel; and 
+
+(3) 
+provide assistance in the development and implementation of a beginning school services residency program at the 
+
+
+request of an entity under section 1(a) [section 1] of this rule. (Indiana State Board of Education; 511 IAC 10.1-4-5; filed Nov 18, 2014, 3:51 p.m.: 20141217-IR-511130399FRA) 
+* 
+

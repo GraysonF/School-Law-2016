@@ -1,0 +1,187 @@
+IC 20-43-7 Chapter 7. Special Education Grants 
+IC 20-43-7-0.5 Application; exception 
+Sec. 0.5. This chapter applies to a virtual charter school. 
+As added by P.L.229-2011, SEC.213. 
+
+IC 20-43-7-1 Special education grants; counts; additional grant distributions; grant reductions 
+Sec. 1. (a) In addition to the amount a school corporation is entitled to receive in basic tuition support, each school corporation is entitled to receive a grant for special education programs for the state fiscal year. Subject to subsections (b) and (c), the amount of the special education grant is based on the count of eligible pupils enrolled in special education programs on December 1 of the preceding state fiscal year in: 
+(1) 
+the school corporation; or 
+
+(2) 
+a transferee corporation. 
+
+
+(b) Before February 1 of each calendar year, the department shall determine the result of: 
+(1) 
+the total amount of the special education grant that would have been received by the school corporation during the months of July, August, September, October, November, and December of the preceding calendar year and January of the current calendar year if the grant had been based on the count of students with disabilities that was made on the immediately preceding December 1; minus 
+
+(2) 
+the total amount of the special education grant received by the school corporation during the months of July, August, September, October, November, and December ofthe preceding calendar year and January of the current calendar year. 
+
+
+If the result determined under this subsection is positive, the school corporation shall receive an additional special education grant distribution in February equal to the result determined under this subsection. If the result determined under this subsection is negative, the special education grant distributions that otherwise would be received by the school corporation in February, March, April, and May shall be proportionately reduced so that the total reduction is equal to the result determined under this subsection. 
+(c) 
+The special education grant distributions made in February, March, April, May, and June of a calendar year shall be based on the count of students with disabilities that was made on the immediately preceding December 1. 
+
+(d) 
+After June 30, 2016, in addition to the December 1 count, a second count of eligible pupils enrolled in special education programs shall be conducted. The count must be in the spring 
+
+
+semester on a date fixed by the state board. The spring count of eligible students shall be used for informational purposes and is not used to calculate grant amounts under this chapter. 
+As added by P.L.2-2006, SEC.166. Amended by P.L.205-2013, SEC.290; P.L.106-2016, SEC.12. 
+
+IC 20-43-7-2 Severe disability categories 
+Sec. 2. (a) In a school corporation's nonduplicated count of pupils in programs for severe disabilities, the school corporation shall count each pupil served in any one (1) of the following programs: 
+(1) 
+Autism. 
+
+(2) 
+Dual sensory impairment. 
+
+(3) 
+Emotional handicap, full time. 
+
+(4) 
+Hearing impairment. 
+
+(5) 
+Severe mental handicap. 
+
+(6) 
+Multiple handicap. 
+
+(7) 
+Orthopedic impairment. 
+
+(8) 
+Traumatic brain injury. 
+
+(9) 
+Visual impairment. 
+
+
+(b) A pupil may be counted in only one (1) of the programs in this section even if the pupil is served in more than one (1) program. 
+(c) A pupil may not be included in the nonduplicated count in this section and in the nonduplicated count of pupils in programs for mild or moderate disabilities in section 3 of this chapter. As added by P.L.2-2006, SEC.166. 
+
+IC 20-43-7-3 Mild and moderate disability program categories 
+Sec. 3. (a) In a school corporation's nonduplicated count of pupils in programs for mild and moderate disabilities, the school corporation shall count each pupil served in any one (1) of the following programs: 
+(1) 
+Emotional handicap, all other. 
+
+(2) 
+Learning disability. 
+
+(3) 
+Mild mental handicap. 
+
+(4) 
+Moderate mental handicap. 
+
+(5) 
+Other health impairment. 
+
+
+(b) A pupil may be counted in only one (1) of the programs in this section even if the pupil is served in more than one (1) program. 
+(c) A pupil may not be included in the nonduplicated count in this section and in the nonduplicated count of pupils in programs for severe disabilities in section 2 of this chapter. As added by P.L.2-2006, SEC.166. 
+IC 20-43-7-4 Communication disorder program categories 
+Sec. 4. In a school corporation's duplicated count of pupils in programs for communication disorders, the school corporation shall count each pupil served, even if the pupil is served in another special education program. 
+As added by P.L.2-2006, SEC.166. 
+
+IC 20-43-7-5 Homebound program category 
+Sec. 5. (a) In a school corporation's cumulative count of pupils in homebound programs, a school corporation shall count each pupil who received homebound instruction up to and including December 1 of the current year plus each pupil who received homebound instruction after December 1 of the prior school year. 
+(b) 
+This subsection applies to a state fiscal year starting after June 30, 2016. In addition to the cumulative count described in subsection (a), a school corporation shall conduct a cumulative count of pupils in homebound programs for informational purposes and is not used to calculate grants under this chapter. In a school corporation's informational cumulative count of pupils in homebound programs, a school corporation shall count each pupil who received homebound instruction: 
+
+(1) 
+for the December 1 count, up to and including the December 1 count date of the current year plus each pupil who received homebound instruction after the spring count date of the prior school year; and 
+
+(2) 
+for the spring count, up to and including the spring count date of the current year plus each pupil who received homebound instruction after the December 1 count date of the current school year. 
+
+
+
+(c) 
+A school corporation may include a pupil in the school corporation's cumulative count of pupils in homebound programs even if the pupil also is included in the school corporation's: 
+
+(1) 
+nonduplicated count of pupils in programs for severe disabilities; 
+
+(2) 
+nonduplicated count of pupils in programs for mild and moderate disabilities; or 
+
+(3) 
+duplicated count of pupils in programs for communication disorders. 
+
+
+
+
+As added by P.L.2-2006, SEC.166. Amended by P.L.106-2016, SEC.13. 
+
+IC 20-43-7-6 Calculation; grant amount 
+Sec. 6. A school corporation's special education grant for a state fiscal year is equal to the sum of the following: 
+(1) 
+The nonduplicated count of pupils in programs for severe disabilities multiplied by eight thousand eight hundred dollars ($8,800). 
+
+(2) 
+The nonduplicated count of pupils in programs of mild and 
+
+moderate disabilities multiplied by two thousand three hundred dollars ($2,300). 
+
+(3) 
+The duplicated count of pupils in programs for communication disorders multiplied by five hundred dollars ($500). 
+
+(4) 
+The cumulative count of pupils in homebound programs multiplied by five hundred dollars ($500). 
+
+(5) 
+The nonduplicated count of pupils in special preschool education programs multiplied by two thousand seven hundred fifty dollars ($2,750). 
+
+
+As added by P.L.2-2006, SEC.166. Amended by P.L.234-2007, SEC.252; P.L.182-2009(ss), SEC.340; P.L.205-2013, SEC.291; P.L.213-2015, SEC.220. 
+
+IC 20-43-7-7 Modification of full-time equivalency requirement 
+Sec. 7. Participation in a program is not required to the extent of full-time equivalency. The state board shall adopt rules that define the: 
+(1) nature and extent of participation; and 
+(2) type of program qualifying for approval. A count may not be made on any program that has not been approved by the state board or to the extent that a pupil is not participating to the extent required by any rule of the state board. 
+As added by P.L.2-2006, SEC.166. 
+
+IC 20-43-7-8 Classification of new programs 
+Sec. 8. If a new special education program is created by rule of the state board or by the United States Department of Education, the state board shall determine whether the program shall be included in the list of programs for: 
+(1) 
+severe disabilities; or 
+
+(2) 
+mild and moderate disabilities. 
+
+
+As added by P.L.2-2006, SEC.166. 
+
+IC 20-43-7-9 Special education grants; use for students in nonpublic schools 
+Revisor's Note: IC 20-43-7-9(f), as amended by P.L.229-2011, SEC.214, states that IC 20-43-7-9 takes effect July 1, 2011 (rather than January 1, 2011.) 
+Sec. 9. (a) This section does not apply to a charter school. 
+(b) 
+Each calendar year, a school corporation shall expend part of the school corporation's state special education grant on the provision of special education and related services to parentally placed nonpublic school students with disabilities. The school corporation shall, at a minimum, expend an amount from the state special education grant equal to the amount attributable to the number of 
+
+parentally placed nonpublic school students with disabilities included in the school corporation's count conducted under section 1 of this chapter. 
+
+(c) 
+In determining compliance with this section, a school corporation may include state special education grant expenditures on the following: 
+
+(1) 
+Activities and services for which the school corporation may expend federal grants under Part B of the federal Individuals with Disabilities Education Act (20 U.S.C. 1400 et seq.). 
+
+(2) 
+Child find activities, including the cost of initial educational evaluations and reevaluations. 
+
+
+
+(d) 
+A school corporation shall maintain sufficient and accurate records to demonstrate compliance with this section. 
+
+(e) 
+The state board shall adopt rules to implement this section, including, but not limited to, annual reporting requirements, monitoring, and consequences for noncompliance.Theconsequences may include requiring expenditure of additional state funds in a subsequent year if the school fails to expend the requisite amount in a prior year that occurs after June 30, 2011. 
+
+
+(f) Notwithstanding the effective date in HEA 1341-2011, SECTION 3, this section takes effect July 1, 2011 (rather than January 1, 2011). As added by P.L.72-2011, SEC.3. Amended by P.L.229-2011, SEC.214. 
+

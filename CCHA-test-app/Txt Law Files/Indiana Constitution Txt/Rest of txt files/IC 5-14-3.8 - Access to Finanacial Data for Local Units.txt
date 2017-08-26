@@ -1,0 +1,161 @@
+IC 5-14-3.8 Chapter 3.8. Access to Financial Data for Local Units 
+IC 5-14-3.8-1 "Department" 
+Sec. 1. As used in this chapter, "department" means the department of local government finance established under IC 6-1.1-30-1.1. As added by P.L.172-2011, SEC.18. 
+
+IC 5-14-3.8-2 "Political subdivision" 
+Sec. 2. As used in this chapter, "political subdivision" has the meaning set forth in IC 5-11-10.5-1. As added by P.L.172-2011, SEC.18. 
+
+IC 5-14-3.8-3 Version a Information posted on the Indiana transparency web site 
+Note: This version of section effective until 1-1-2017. See also following version of this section, effective 1-1-2017. 
+Sec. 3. The department, working with the office of technology established by IC 4-13.1-2-1, or another organization that is part of a state educational institution, the office of management and budget established by IC 4-3-22-3, and the state board of accounts established by IC 5-11-1-1, shall post on the Indiana transparency Internet web site the following: 
+(1) 
+The financial reports required by IC 5-11-1-4. 
+
+(2) 
+The report on expenditures per capita prepared under IC 6-1.1-33.5-7. 
+
+(3) 
+A listing of the property tax rates certified by the department. 
+
+(4) 
+An index of audit reports prepared by the state board of accounts. 
+
+(5) 
+Local development agreement reports prepared under IC 4-33-23-10 and IC 4-33-23-17. 
+
+(6) 
+Information for evaluating the fiscal health of a political subdivision in the format required by section 8(b) of this chapter. 
+
+(7) 
+Any other financial information deemed appropriate by the department. 
+
+
+As added by P.L.172-2011, SEC.18. Amended by P.L.229-2013, SEC.37; P.L.84-2014, SEC.5. 
+
+IC 5-14-3.8-3 Version b Information posted on the Indiana transparency web site 
+Note: This version of section effective 1-1-2017. See also preceding version of this section, effective until 1-1-2017. 
+Sec. 3. The department, working with the office of technology established by IC 4-13.1-2-1, or another organization that is part of a state educational institution, the office of management and budget established by IC 4-3-22-3, and the state board of accounts established by IC 5-11-1-1, shall post on the Indiana transparency Internet web site the following: 
+(1) 
+The financial reports required by IC 5-11-1-4. 
+
+(2) 
+The report on expenditures per capita prepared under IC 6-1.1-33.5-7. 
+
+(3) 
+A listing of the property tax rates certified by the department. 
+
+(4) 
+An index of audit reports prepared by the state board of accounts. 
+
+(5) 
+Local development agreement reports prepared under IC 4-33-23-10 and IC 4-33-23-17. 
+
+(6) 
+Information for evaluating the fiscal health of a political subdivision in the format required by section 8(b) of this chapter. 
+
+(7) 
+A listing of expenditures specifically identifying those for: 
+
+(A) 
+personal services; 
+
+(B) 
+other operating expenses or total operating expenses; and 
+
+(C) 
+debt service, including lease payments, related to debt. 
+
+
+
+(8) 
+A listing of fund balances, specifically identifying balances in funds that are being used for accumulation of money for future capital needs. 
+
+(9) 
+Any other financial information deemed appropriate by the department. 
+
+
+As added by P.L.172-2011, SEC.18. Amended by P.L.229-2013, SEC.37; P.L.84-2014, SEC.5; P.L.208-2016, SEC.3. 
+
+IC 5-14-3.8-3.5 Political subdivision contracts 
+Sec. 3.5. (a) As used in this section, "contract" includes all pages of a contract and any attachments to the contract. 
+(b) 
+A political subdivision shall scan and upload the digital image of a contract to the Indiana transparency Internet web site during each year that the contract amount to be paid by the political subdivision for that year exceeds the lesser of: 
+
+(1) ten percent (10%) of the political subdivision's property tax levy for that year; or 
+
+(2) 
+fifty thousand dollars ($50,000). A political subdivision shall scan and upload the contract not later than sixty (60) days after the date the contract is executed. 
+
+
+(c) Nothing in this section prohibits the political subdivision from withholding any information in the contract that the political subdivision shall or may withhold from disclosure under IC 5-14-3. As added by P.L.142-2016, SEC.1. 
+
+IC 5-14-3.8-4 Immunity from civil liability 
+Sec. 4. Employees of the department are immune from any civil liability for posting confidential information under section 3 of this chapter if an employee of the department posted the information in reliance on a determination made by a political subdivision. As added by P.L.172-2011, SEC.18. 
+
+IC 5-14-3.8-5 Recording of information or expending resources for computer programming not required 
+Sec. 5. This chapter does not require a political subdivision to record information or expend resources for the purpose of computer programming to make information reportable under thischapter. This section does not waive requirements under any law that a prescribed form must be submitted electronically. As added by P.L.172-2011, SEC.18. 
+
+IC 5-14-3.8-6 Repealed 
+(As added by P.L.172-2011, SEC.18. Repealed by P.L.121-2016, SEC.13.) 
+
+IC 5-14-3.8-7 Submission of forms in an electronic format 
+Sec. 7. The department may require that prescribed forms be submitted in an electronic format. The department, working with the office of technology established by IC 4-13.1-2-1 or another organization that is part of a state educational institution, shall develop and maintain a secure, web-based system that facilitates electronic submission of the forms under this section. Political subdivisions shall submit forms under this section through the web-based system as prescribed by the department. As added by P.L.172-2011, SEC.18. Amended by P.L.137-2012, SEC.10. 
+
+IC 5-14-3.8-8 Development of fiscal health indicators; publication on Internet dashboard 
+Sec. 8. (a) The department shall develop indicators of fiscal health for evaluating the fiscal health of a political subdivision. The department may consider including any of the following in the indicators developed under this subsection: 
+(1) 
+The cash balance of a political subdivision. 
+
+(2) 
+The debt to revenue ratio of a political subdivision. 
+
+(3) 
+The condition of a political subdivision's property tax base and income tax base, if any, as measured by both the assessed value of the political subdivision and the amount of per capita 
+
+revenue generated from the political subdivision's tax bases. 
+
+(4) 
+The per capita amount of a political subdivision's general fund operating revenue. 
+
+(5) 
+Any trends in the amount of a political subdivision's tax revenue. 
+
+(6) 
+Whether a political subdivision maintains a structural deficit or a structural surplus. 
+
+(7) 
+The number and size of the tax increment financing districts designated by a redevelopment commission established by the political subdivision, if any. 
+
+(8) 
+The extent that the political subdivision is affected by tax increment financing districts. 
+
+(9) 
+The extent that the political subdivision's property tax base is affected by exempt properties. 
+
+(10)
+ The political subdivision's bond rating. 
+
+(11) 
+The amount of retiree benefits paid by the political subdivision. 
+
+(12) 
+The amount of pension contributions paid on behalf of the political subdivision's employees. 
+
+(13) 
+Any other factor that the department considers relevant to evaluating the fiscal health of a political subdivision. 
+
+
+(b) 
+The department shall use the indicators developed under subsection (a) and the associated fiscal data to present the information for evaluating the fiscal health of a political subdivision on the Indiana transparency Internet web site. The information must be presented in a manner that: 
+
+(1) can be conveniently and easily accessed from a single web page; and 
+
+(2) 
+is commonly known as an Internet dashboard. The information must be available on the Indiana transparency Internet web site in the format required by this subsection before July 1, 2015. 
+
+(c) 
+Neither the department of local government finance nor any other state agency may use the fiscal health indicators developed under this section to assign a political subdivision a summative grade. 
+
+
+As added by P.L.84-2014, SEC.6. 
+

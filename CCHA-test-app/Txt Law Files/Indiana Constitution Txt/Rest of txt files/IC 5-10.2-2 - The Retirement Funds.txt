@@ -1,0 +1,732 @@
+IC 5-10.2-2 Chapter 2. The Retirement Funds 
+IC 5-10.2-2-0.1 Application of certain amendments to chapter 
+Sec. 0.1. The addition of section 18 of this chapter by P.L.224-2003 applies only to investments made after June 30, 2003. As added by P.L.220-2011, SEC.71. 
+
+IC 5-10.2-2-1 Scope; purpose 
+Sec. 1. (a) This article applies to the Indiana state teachers' retirement fund and the public employees' retirement fund. Each retirement fund covered by this article is a separate retirement fund managed by the board under the fund's retirement fund law. The board shall make and publish regulations which are appropriate to the efficient administration of this article. The obligations of the state and political subdivisions for benefit payments are specified in each retirement fund law. 
+(b) The Indiana public retirement system is an independent body corporate and politic. The Indiana public retirement system is not a department or agency of the state but is an independent instrumentality exercising essential government functions. 
+(c) The benefits specified in this article and the benefits from the Social Security Act provide the retirement, disability, and survivor benefits for public employees and teachers. However, this article does not prohibit a political subdivision from establishing and providing before January 1, 1995, and continuing to provide after January 1, 1995, retirement, disability, and survivor benefits for the public employees of the political subdivision independent of this article if the political subdivision took action before January 1, 1995, and was not a participant in the public employees' retirement fund on January 1, 1995, under this article or IC 5-10.3. As added by Acts 1977, P.L.53, SEC.2. Amended by P.L.66-1995, SEC.2; P.L.65-1995, SEC.2; P.L.119-2000, SEC.2; P.L.23-2011, SEC.7. 
+
+IC 5-10.2-2-1.5 Qualification under Internal Revenue Code 
+Sec. 1.5. Each retirement fund covered by this article shall satisfy the qualification requirements in Section 401 of the Internal Revenue Code, as applicable to each retirement fund. In order to meet those requirements, each fund is subject to the following provisions, notwithstanding any other provision of the retirement fund law: 
+(1) 
+The board shall distribute the corpus and income of the fund to members and their beneficiaries in accordance with the retirement fund law. 
+
+(2) 
+No part of the corpus or income of a fund may be used for 
+
+or diverted to any purpose other than the exclusive benefit of the members and their beneficiaries. 
+
+(3) 
+Forfeitures arising from severance of employment, death, or for any other reason may not be applied to increase the benefits any member would otherwise receive under the retirement fund law. 
+
+(4) 
+If a fund is terminated, or if all contributions to a fund are completely discontinued, the rights of each affected member to the benefits accrued at the date of the termination or discontinuance, to the extent then funded, are nonforfeitable. 
+
+(5) 
+All benefits paid from a retirement fund shall be distributed in accordance with the requirements of Section 401(a)(9) of the Internal Revenue Code and the regulations under that section. In order to meet those requirements, each retirement fund is subject to the following provisions: 
+
+(A) 
+The life expectancy of a member, the member's spouse, or the member's beneficiary may not be recalculated after the initial determination for purposes of determining benefits. 
+
+(B) 
+If a member dies before the distribution of the member's benefits has begun, distributions to beneficiaries must begin no later than December 31 of the calendar year immediately following the calendar year in which the member died. 
+
+(C) 
+The amount of an annuity paid to a member's beneficiary may not exceed the maximum determined under the incidental death benefit requirement of the Internal Revenue Code. 
+
+
+
+(6) 
+The board may not: 
+
+(A) 
+determine eligibility for benefits; 
+
+(B) 
+compute rates of contribution; or 
+
+
+
+(C) 
+compute benefits of members or beneficiaries; in a manner that discriminates in favor of members who are considered officers, supervisors, or highly compensated, as prohibited under Section 401(a)(4) of the Internal Revenue Code. 
+
+(7) 
+Benefits paid under this chapter may not exceed the maximum benefits specified by Section 415 of the Internal Revenue Code. 
+
+(8) 
+The salary taken into account under this chapter may not exceed the applicable amount under Section 401(a)(17) of the Internal Revenue Code. 
+
+(9) 
+The board may not engage in a transaction prohibited by Section 503(b) of the Internal Revenue Code. 
+
+
+As added by P.L.55-1989, SEC.8. Amended by P.L.35-2012, SEC.30. 
+
+IC 5-10.2-2-2 Separate accounts and subaccounts 
+Sec. 2. (a) The board shall maintain the following separate accounts in the public employees' retirement fund: 
+(1) 
+The annuity savings account. 
+
+(2) 
+The retirement allowance account. 
+
+
+(b) 
+The board shall maintain the following two (2) separate accounts in the Indiana state teachers' retirement fund: 
+
+(1) 
+The pre-1996 account. 
+
+(2) 
+The 1996 account. 
+
+
+
+(c) 
+Within each account specified in subsection (b), the board shall maintain the following separate subaccounts: 
+
+
+(1) The annuity savings account. 
+(2) The retirement allowance account. As added by Acts 1977, P.L.53, SEC.2. Amended by P.L.35-1985, SEC.3; P.L.54-1993, SEC.5; P.L.23-2011, SEC.8. 
+
+IC 5-10.2-2-2.5 Investment guidelines and limits established by boards; commingling of assets 
+Sec. 2.5. (a) The board may establish investment guidelines and limits on all types of investments (including, but not limited to, stocks and bonds) and take other actions necessary to fulfill its duty as a fiduciary for all assets under its control, subject to the limitations and restrictions set forth in section 18 of this chapter, IC 5-10.3-5-3, IC 5-10.4-3-10, and IC 5-10.5-5. 
+(b) The board may commingle or pool assets with the assets of any other persons or entities. This authority includes, but is not limited to, the power to invest in commingled or pooled funds, partnerships, or mortgage pools, including pools that consist in part or entirely of mortgages that qualify as five star mortgages under the program established by IC 24-5-23.6. In the event of any such investment, the board shall keep separate detailed records of the assets invested. Any decision to commingle or pool assets is subject to the limitations and restrictions set forth in IC 5-10.3-5-3, IC 5-10.4-3-10, and IC 5-10.5-5. As added by P.L.43-1997, SEC.1. Amended by P.L.61-2002, SEC.2; P.L.224-2003, SEC.185;P.L.2-2006, SEC.20; P.L.115-2010, SEC.2; P.L.35-2012, SEC.31. 
+
+IC 5-10.2-2-3 Annuity savings account; guaranteed program; stable value fund program; alternative investment programs 
+Sec. 3. (a) The annuity savings account consists of: 
+(1) 
+the members' contributions; and 
+
+(2) 
+the interest credits on these contributions in the guaranteed fund (before January 1, 2017), the gain or loss in the balance of the member's account in the stable value fund (after December 31, 2016), or the gain or loss in market value on these contributions in the alternative investment program, as specified in section 4 of this chapter. 
+
+
+Each member shall be credited individually with the amount of the member's contributions and interest credits. 
+(b) 
+The board shall maintain the investment program in effect on December 31, 1995, (referred to in this chapter as the guaranteed program) within the annuity savings account until January 1, 2017. In addition, the board shall establish and maintain a guaranteed program within the 1996 account until January 1, 2017. After December 31, 2016, the board shall establish an investment fund (referred to in this chapter as the stable value fund) that has preservation of capital as the primary investment objective. The board may establish investment guidelines and limits on all types of investments (including, but not limited to, stocks and bonds) and take other actions necessary to fulfill its duty as a fiduciary of the annuity savings account, subject to the limitations and restrictions set forth in IC 5-10.3-5-3, IC 5-10.4-3-10, and IC 5-10.5-5. 
+
+(c) 
+The board shall establish alternative investment programs within the annuity savings account of the public employees' retirement fund, the pre-1996 account, and the 1996 account, based on the following requirements: 
+
+(1) 
+The board shall maintain at least one (1) alternative investment program that is an indexed stock fund and one (1) alternative investment program that is a bond fund. The board may maintain one (1) or more alternative investment programs that: 
+
+(A) 
+invest in one (1) or more commingled or pooled funds that consist in part or entirely of mortgages that qualify as five star mortgages under the program established by IC 24-5-23.6; or 
+
+(B) 
+otherwise invest in mortgages that qualify as five star mortgages under the program established by IC 24-5-23.6. 
+
+
+
+(2) 
+The programs should represent a variety of investment objectives under IC 5-10.3-5-3. 
+
+(3) 
+No program may permit a member to withdraw money from the member's account except as provided in IC 5-10.2-3 and IC 5-10.2-4. 
+
+(4) 
+All administrative costs of each alternative program shall be paid from the earnings on that program or as may be determined by the rules of the board. 
+
+(5) 
+Except as provided in section 4(e) of this chapter, a valuation of each member's account must be completed as of: 
+
+(A) 
+the last day of each quarter; or 
+
+(B) 
+another time as the board may specify by rule. 
+
+
+
+
+
+(d) 
+The board must prepare, at least annually, an analysis of the guaranteed program (before January 1, 2017), the stable value fund (after December 31, 2016), and each alternative investment program. This analysis must: 
+
+(1) 
+include a description of the procedure for selecting an alternative investment program; 
+
+(2) 
+be understandable by the majority of members; and 
+
+(3) 
+include a description of prior investment performance. 
+
+
+
+(e) 
+A member may direct the allocation of the amount credited to the member among the guaranteed fund (before January 1, 2017), the stable value fund (after December 31, 2016), and any available alternative investment funds, subject to the following conditions: 
+
+(1) 
+A member may make a selection or change an existing selection under rules established by the board. The board shall allow a member to make a selection or change any existing selection at least once each quarter. 
+
+(2) 
+The board shall implement the member's selection beginning on the first day of the next calendar quarter that begins at least thirty (30) days after the selection is received by the board or on an alternate date established by the rules of the board. This date is the effective date of the member's selection. 
+
+(3) 
+A member may select any combination of the guaranteed fund (before January 1, 2017), the stable value fund (after December 31, 2016), or any available alternative investment funds, in ten percent (10%) increments or smaller increments that may be established by the rules of the board. 
+
+(4) 
+A member's selection remains in effect until a new selection is made. 
+
+(5) 
+On the effective date of a member's selection, the board shall reallocate the member's existing balance or balances in accordance with the member's direction, based on: 
+
+(A) 
+for an alternative investment program balance, the market value on the effective date; 
+
+(B) 
+for any guaranteed programbalance, the account balance on the effective date; and 
+
+(C) 
+for any stable value fund program balance, the balance 
+
+
+
+
+
+
+of the member's account on the effective date. All contributions to the member's account shall be allocated as of the last day of that quarter or at an alternate time established by the rules of the board in accordance with the member's most recent effective direction. The board shall not reallocate the member's account at any other time. 
+(6) The provisions concerning the transition from the guaranteed program to the stable value fund program are met, as set forth in section 24 of this chapter. 
+(f) 
+When a member who participates in an alternative investment program transfers the amount credited to the member from one (1) alternative investment program to another alternative investment program, to the guaranteed program (before January 1, 2017), or to the stable value fund program (after December 31, 2016), the amount credited to the member shall be valued at the market value of the member's investment, as of the day before the effective date of the member's selection or at an alternate time established by the rules of the board. When a member who participates in an alternative investment program retires, becomes disabled, dies, or suspends 
+
+membership and withdraws from the fund, the amount credited to the member shall be the market value of the member's investment as of the last day of the quarter preceding the member's distribution or annuitization at retirement, disability, death, or suspension and withdrawal, plus contributions received after that date or at an alternate time established by the rules of the board. 
+
+(g) 
+This subsection applies before January 1, 2017. When a member who participates in the guaranteed program transfers the amount credited to the member to an alternative investment program, the amount credited to the member in the guaranteed program is computed without regard to market value and is based on the balance of the member's account in the guaranteed program as of the last day of the quarter preceding the effective date of the transfer. However, the board may by rule provide for an alternate valuation date. When a member who participates in the guaranteed program retires, becomes disabled, dies, or suspends membership and withdraws from the fund, the amount credited to the member shall be computed without regard to market value and is based on the balance of the member's account in the guaranteed program as of the last day of the quarter preceding the member's distribution or annuitization at retirement, disability, death, or suspension and withdrawal, plus any contributions received since that date plus interest since that date. However, the board may by rule provide for an alternate valuation date. 
+
+
+(h) This subsection applies after December 31, 2016. When a member who participates in the stable value fund program transfers the amount credited to the member from the stable value fund program to an alternative investment program, the amount credited to the member shall be the balance of the member's account, as of the day before the effective date of the member's selection or at an alternate time established by the rules of the board. When a member who participates in the stable value fund program retires, becomes disabled, dies, or suspends membership and withdraws from the fund, the amount credited to the member shall be the balance of the member's account as of the last day of the quarter preceding the member's distribution or annuitization at retirement, disability, death, or suspension and withdrawal, plus contributions received after that date or at an alternate time established by the rules of the board. As added by Acts 1977, P.L.53, SEC.2. Amended by P.L.35-1985, SEC.4; P.L.40-1986, SEC.1; P.L.58-1987, SEC.1; P.L.55-1989, SEC.9; P.L.54-1993, SEC.6; P.L.43-1997, SEC.2; P.L.195-1999, SEC.9; P.L.285-2001, SEC.1; P.L.62-2005, SEC.1; P.L.2-2006, SEC.21; P.L.165-2009, SEC.2; P.L.1-2010, SEC.17; P.L.115-2010, SEC.3; P.L.35-2012, SEC.32; P.L.193-2016, SEC.3. 
+IC 5-10.2-2-3.3 Crediting interest in annuity savings accounts 
+Sec. 3.3. Interest credited prior to July 1, 2005, in the annuity savings account of the public employees' retirement fund to suspended members participating in the guaranteed fund (before its elimination on January 1, 2017) under section 3 of this chapter shall be treated as properly credited. 
+As added by P.L.220-2011, SEC.72. Amended by P.L.193-2016, SEC.4. 
+
+IC 5-10.2-2-4 Crediting interest and omitted contributions before January 1, 2017 
+Sec. 4. (a) Except as provided in subsection (e), interest shall be credited and compounded at least annually on all amounts credited to the member in the guaranteed program. For the guaranteed program, the board shall annually establish an interest credit rate equal to or less than the investment income earned. 
+(b) 
+Except as provided in subsection (e), the market value of each alternative investment program shall be allocated at least annually to the members participating in that program. 
+
+(c) 
+Contributions to the guaranteed program and the alternative investment programs shall be invested as of the last day of the quarter in which the contributions are received or at an alternate time established by the rules of the board. Contributions to the guaranteed program shall begin to accumulate interest at the beginning of the quarter after the quarter in which the contributions are received or at an alternate time established by the rules of the board. 
+
+(d) 
+When a member retires or withdraws with a balance in the guaranteed program, a proportional interest credit determined by the board shall be granted for the period elapsed since the last interest date on that balance. 
+
+(e) 
+This subsection applies whenever the board is required to establish an interest or earnings rate in order to credit interest or earnings to an omitted contribution to a member's annuity savings account. As used in this subsection, "omitted contribution" means a contribution contributed by or on behalf of a member under IC 5-10.3-7-9 or IC 5-10.4-4-11 that is received by the board after the time required by IC 5-10.3-7-12.5 or IC 5-10.4-7-6(b)(1). Notwithstanding any law to the contrary, the board may by rule specify: 
+
+(1) 
+a single composite interest rate and the period to which the rate applies for the purpose of computing the interest credits on a member's contributions (including omitted contributions) in the guaranteed fund; and 
+
+(2) 
+a single composite earnings rate for the gain or loss in market value for each alternative investment program and the period to which the rate applies for the purpose of computing the gain or loss in market value on a member's contributions (including omitted contributions) in the alternate investment program. 
+
+
+
+
+(f) This section expires January 1, 2017. 
+As added by Acts 1977, P.L.53, SEC.2. Amended by Acts 1977(ss), P.L.1, SEC.1; Acts 1980, P.L.28, SEC.1; P.L.35-1985, SEC.5; P.L.43-1997, SEC.3; P.L.195-1999, SEC.10; P.L.165-2009, SEC.3; P.L.35-2012, SEC.33; P.L.193-2016, SEC.5. 
+
+IC 5-10.2-2-4.1 Crediting interest and omitted contributions after December 31, 2016 
+Sec. 4.1. (a) This section applies only after December 31, 2016. 
+(b) 
+Except as provided in subsection (e), the market value of the stable value fund program shall be allocated at least annually to the members participating in that program. 
+
+(c) 
+Except as provided in subsection (e), the market value of each alternative investment program shall be allocated at least annually to the members participating in that program. 
+
+(d) 
+Contributions to the stable value fund program and the alternative investment programs shall be invested as of the last day of the quarter in which the contributions are received or at an alternate time established by the rules of the board. 
+
+(e) 
+This subsection applies whenever the board is required to establish an earnings rate in order to credit earnings to an omitted contribution to a member's annuity savings account. As used in this subsection, "omitted contribution" means a contribution contributed by or on behalf of a member under IC 5-10.3-7-9 or IC 5-10.4-4-11 that is received by the board after the time required by IC 5-10.3-7-12.5 or IC 5-10.4-7-6(b)(1). Notwithstanding any law to the contrary, the board may by rule specify: 
+
+(1) 
+a single composite earnings rate for the gain or loss in market value for the stable value fund program for the purpose of computing the gain or loss in market value on a member's contributions (including omitted contributions) in the stable value fund program; and 
+
+(2) 
+a single composite earnings rate for the gain or loss in market value for each alternative investment program and the period to which the rate applies for the purpose of computing the gain or loss in market value on a member's contributions (including omitted contributions) in the alternate investment program. 
+
+
+
+
+As added by P.L.193-2016, SEC.6. 
+
+IC 5-10.2-2-5 Repealed 
+(Repealed by P.L.55-1989, SEC.67.) 
+IC 5-10.2-2-6 Retirement allowance accounts 
+Sec. 6. (a) The retirement allowance account of the public employees' retirement fund consists of the retirement fund, exclusive of the annuity savings account. The retirement allowance account also includes any amounts received under IC 5-10.3-12-24 or IC 5-10.3-12-24.5. For the public employees' retirement fund, separate accounts within the retirement allowance account shall be maintained for contributions made by each contribution rate group. 
+(b) The retirement allowance account of the pre-1996 account consists of the pre-1996 account, exclusive of the annuity savings account. 
+(c) The retirement allowance account of the 1996 account consists of the 1996 account, exclusive of the annuity savings account. As added by Acts 1977, P.L.53, SEC.2. Amended by P.L.55-1989, SEC.10; P.L.54-1993, SEC.7; P.L.13-2011, SEC.3; P.L.22-2011, SEC.1; P.L.23-2011, SEC.9; P.L.6-2012, SEC.28; P.L.35-2012, SEC.34; P.L.241-2015, SEC.3. 
+
+IC 5-10.2-2-7 Transfer of accounts 
+Sec. 7. (a) When a member retires or dies in service under conditions which entitle a beneficiary or spouse to survivor benefits and if the member or survivor chooses to receive an annuity from the fund, the annuity savings account shall be charged with the amount credited to him in the account. This amount shall be credited to the retirement allowance account, and the annuity shall be paid from this account. 
+(b) When: 
+(1) 
+a member of the public employees' retirement fund who is an employee of a participating political subdivision; or 
+
+(2) 
+a member of the Indiana state teachers' retirement fund who is covered by the 1996 account and is an employee of a school corporation or other institution; 
+
+
+retires or dies in service under conditions which entitle a beneficiary or spouse to survivor benefits, the political subdivision's, school corporation's, or other institution's account in the retirement allowance account shall be charged with an amount equal to the actuarial reserve of the member's retirement pension or the survivor benefit. The amount charged shall be credited to the retirement allowance account, and the retirement pension or survivor benefit shall be paid from this account. 
+As added by Acts 1977, P.L.53, SEC.2. Amended by P.L.35-1985, SEC.6; P.L.54-1993, SEC.8. 
+
+IC 5-10.2-2-8 Payment and computation of benefits for combined creditable service 
+Sec. 8. (a) For a member who retires after June 30, 2008, with service in more than one (1) retirement fund, the member may choose at the time the member files an application for retirement benefits whether to retire from the Indiana state teachers' retirement fund or from the public employees' retirement fund. The fund that the member chooses shall pay the retirement benefits to the member. The pension shall be computed and vested status shall be determined on the basis of combined creditable service. The annuity, if any, shall be computed on the basis of amounts credited to the member in annuity savings accounts in all funds minus any amount withdrawn by the member under IC 5-10.2-3-6.5. The funds in which the employee was a member shall pay to the fund responsible for payment of benefits: 
+(1) 
+the amount credited to the member in the annuity savings account; and 
+
+(2) 
+the proportionate actuarial cost of the member's pension. 
+
+
+(b) A member of the Indiana state teachers' retirement fund who has served as a member of the general assembly and who retires after June 30, 1980, may choose at the member's retirement date whether to retire from the Indiana state teachers' retirement fund or from the public employees' retirement fund. If the member chooses to retire from the public employees' retirement fund, that fund is responsible for the payment of benefits provided in IC 5-10.2-4, and the Indiana state teachers' retirement fund shall pay to the public employees' retirement fund: 
+(1) the amount credited to that member in the annuity savings account in the Indiana state teachers' retirement fund; and 
+(2) the proportionate actuarial cost of the member's pension. As added by Acts 1977, P.L.53, SEC.2. Amended by Acts 1980, P.L.28, SEC.2; P.L.35-1985, SEC.7; P.L.115-2008, SEC.5. 
+
+IC 5-10.2-2-9 Actuarial investigation and valuation 
+Sec. 9. (a) The funds may employ a common actuary or actuarial service. 
+(b) At least once in every five (5) years and in every year in which this article is amended so that benefits are changed, the actuary shall make a separate actuarial investigation for each fund of the mortality, service, and compensation experience of the members and their beneficiaries and shall make a valuation of the assets and liabilities of the fund, using the "entry-age normal cost" method. 
+(c) The actuarial investigation must include in the determination of the liability and the rates of contribution the amount necessary to fully fund past and estimated future cost of living increases for members of the public employees' retirement fund amortized over a term determined by the board that does not exceed thirty (30) years. As added by Acts 1977, P.L.53, SEC.2. Amended by P.L.54-1993, SEC.9; P.L.246-2005, SEC.48; P.L.111-2015, SEC.2. 
+IC 5-10.2-2-10 Mortality tables 
+Sec. 10. Based on the actuarial investigation and valuation in section 9 of this chapter, the board shall adopt mortality, service, and such other tables as the board considers necessary for the implementation of this article. The board shall adopt a single mortality table for both men and women that reasonably reflects each fund's mortality experience. 
+As added by Acts 1977, P.L.53, SEC.2. Amended by P.L.55-1989, SEC.11; P.L.35-2012, SEC.35. 
+IC 5-10.2-2-11 Contribution rate determination; contribution rate groups; supplemental contributions; contributions and contribution rates report 
+Sec. 11. (a) Based on the actuarial investigation and valuation in section 9 of this chapter, the board shall determine: 
+(1) 
+the normal contribution for each contribution rate group, which is the amount necessary to fund the pension portion of the retirement benefit; 
+
+(2) 
+the rate of normal contribution; 
+
+(3) 
+the unfunded accrued liability of the public employees' retirement fund, the pre-1996 account, and the 1996 account, which is the excess of total accrued liability over the fund's or account's total assets, respectively; and 
+
+(4) 
+the period, which must be thirty (30) years or a shorter period, necessary to amortize the unfunded accrued liability determined in subdivision (3). 
+
+
+(b) 
+Based on the information in subsection (a), the board may determine, in its sole discretion, contributions and contribution rates for individual employers or for a group of employers. 
+
+(c)
+ The board shall require an employer to make a supplemental contribution to the fund in addition to the amounts described in subsection (a)(3) and (a)(4) in an amount necessary to pay the employer's share of the fund's actuarial unfunded liability that other employers would otherwise be required to pay because the employer's employees are becoming members of the plan under IC 5-10.3-12 instead of the fund. The amount necessary to pay an employer's contribution under this subsection in full must be made in a lump sum or in a series of payments determined by the board. 
+
+(d) The board's determinations under subsection (a): 
+(1) 
+are subject to sections 1.5 and 11.5 of this chapter; and 
+
+(2) 
+may not include an amount for a retired member for whom the employer may not make contributions during the member's period of reemployment as provided under IC 5-10.2-4-8(e). 
+
+
+
+(e) 
+If the board determines contributions and contribution rates for one (1) or more employers under this section differ from the contributions and contribution rates determined by the actuarial investigation under section 9 of this chapter, the board shall notify the interim study committee for pension management oversight of this fact by reporting the board's action to the legislative services 
+
+
+agency in an electronic format under IC 5-14-6. 
+As added by Acts 1977, P.L.53, SEC.2. Amended by P.L.55-1989, SEC.12; P.L.54-1993, SEC.10; P.L.246-2005, SEC.49; P.L.72-2007, SEC.1; P.L.1-2009, SEC.16; P.L.182-2009(ss), SEC.70; P.L.23-2011, SEC.10; P.L.35-2012, SEC.36; P.L.195-2013, SEC.2; P.L.241-2015, SEC.4. 
+
+IC 5-10.2-2-11.5 Employer contribution rates for Vincennes University 
+Sec. 11.5. (a) As used in this section, "Vincennes University" refers to the state educational institution established under IC 21-25-2. 
+(b) 
+Notwithstanding section 11 of this chapter or any other law, Vincennes University is not required to make employer contributions to the Indiana state teachers' retirement fund at any time for the employment during the period July 1, 2001, through June 30, 2009, of Vincennes University's employees who are members of the Indiana state teachers' retirement fund and are covered by the Indiana state teachers' retirement fund pre-1996 account. 
+
+(c) 
+This subsection applies to employer contributions made by Vincennes University to the Indiana state teachers' retirement fund on account of the employment after June 30, 2009, of Vincennes University's employees who are members of the Indiana state teachers' retirement fund and are covered by the Indiana state teachers' retirement fund pre-1996 account. Notwithstanding section 11 of this chapter or any other law, Vincennes University is required to pay only the following employer contributions to the Indiana state teachers' retirement fund for those employees for the specified years: 
+
+(1) 
+For the year beginning July 1, 2009, fifteen percent (15%) of the employer contribution otherwise determined for Vincennes University. 
+
+(2) 
+For the year beginning July 1, 2010, twenty percent (20%) of the employer contribution otherwise determined for Vincennes University. 
+
+(3) 
+For the year beginning July 1, 2011, twenty-five percent (25%) of the employer contribution otherwise determined for Vincennes University. 
+
+(4) 
+For the year beginning July 1, 2012, thirty-five percent (35%) of the employer contribution otherwise determined for Vincennes University. 
+
+(5) 
+For the year beginning July 1, 2013, fifty percent (50%) of the employer contribution otherwise determined for Vincennes University. 
+
+(6) 
+For the year beginning July 1, 2014, seventy-five percent (75%) of the employer contribution otherwise determined for Vincennes University. 
+
+(7) 
+For each year beginning after June 30, 2015, one hundred percent (100%) of the employer contribution otherwise 
+
+
+
+
+determined for Vincennes University. Payments made according to this subsection shall be considered payment in full of employer contributions. As added by P.L.182-2009(ss), SEC.71. 
+
+IC 5-10.2-2-12 State appropriation 
+Sec. 12. (a) The general assembly shall appropriate biennially for each fund covered by this article that satisfies the conditions of section 1.5 of this chapter the sum of the following: 
+(1) 
+the state's normal contribution for its employees to the public employees' retirement fund, the pre-1996 account, and the 1996 account, as determined in section 11 of this chapter; 
+
+(2) 
+at least the anticipated increase in the state's unfunded accrued liability in each fund, other than the pre-1996 account, as estimated by the board under the procedures specified in section 11 of this chapter; and 
+
+(3) 
+the state's obligation as estimated by the board for disability benefits and benefits payable under retirement fund laws in effect before April 1, 1955. 
+
+
+The request for this sum for each fund shall be submitted to the budget agency as one (1) item for each fund. The board shall submit to the agency its actuarial investigation and valuation and any other actuarial information to support the request. 
+(b) The biennial appropriation specified in subsection (a) of this section shall be paid annually to each fund covered by this article that satisfies the conditions of section 1.5 of this chapter in equal installments in July of each year of the biennium. 
+(c) The biennial appropriation under this section shall be deposited in the trust of each fund and used only as provided in section 1.5 of this chapter. As added by Acts 1977, P.L.53, SEC.2. Amended by P.L.54-1993, SEC.11; P.L.119-2000, SEC.3; P.L.35-2012, SEC.37. 
+
+IC 5-10.2-2-12.5 Submission of contributions, records, and reports electronically 
+Sec. 12.5. (a) This section applies to reports, records, and contributions submitted after December 31, 2009, by an employer. 
+(b) 
+As used in this section, "electronic funds transfer" has the meaning set forth in IC 4-8.1-2-7(f). 
+
+(c) 
+Except as provided in subsection (e), an employer shall submit through the use of electronic funds transfer: 
+
+(1) 
+the employer contributions determined under sections 11 and 11.5 of this chapter; and 
+
+(2) 
+contributions paid by or on behalf of a member under IC 5-10.3-7-9 or IC 5-10.4-4-11. 
+
+
+
+(d) 
+Except as provided in subsection (e), an employer shall submit in a uniform format through a secure connection over the Internet or 
+
+
+through other electronic means specified by the board the reports and records described in: 
+(1) 
+IC 5-10.3-7-12.5, for the public employees' retirement fund; or 
+
+(2) 
+IC 5-10.4-7-6, for the Indiana state teachers' retirement fund. 
+
+
+(e) An employer that is unable to comply with either subsection 
+(c) 
+or (d), or both, may request that the board grant a waiver of the requirement of subsection (c) or (d), or both. The employer must: 
+
+(1) 
+state the reason for requesting the waiver; 
+
+(2) 
+provide a date, not to exceed two (2) years from the date the employer is first subject to either the electronic funds transfer requirement or the electronic reporting requirement of this section, by which the employer agrees to comply with the requirement of subsection (c) or (d), or both; and 
+
+(3) 
+sign and verify the waiver form. 
+
+
+(f) The board may: 
+(1) 
+grant the employer's request for a waiver; and 
+
+(2) 
+specify the date by which the employer is required to comply with the electronic funds transfer requirement or the electronic reporting requirement, or both. 
+
+
+
+(g) 
+The board shall establish a waiver form consistent with this section. 
+
+
+(h) The board may establish or amend its rules or policies as necessary to administer this section. As added by P.L.165-2009, SEC.4. Amended by P.L.182-2009(ss), SEC.72. 
+
+IC 5-10.2-2-13 Custodial agreements for securities; servicing of mortgages; securities lending program 
+Sec. 13. (a) The board may enter into a custodial agreement with a trust company or state or national bank to provide for the custody and servicing of the securities and other investments under the control of the board. 
+(b) 
+The agreement may contain such terms as the board considers desirable including: 
+
+(1) 
+the custody, safeguarding or indemnity, servicing, handling and delivery of the securities and other investments; and 
+
+(2) 
+the payment of taxes, fees of the custodian, and other expenses and payments required in connection with the securities and investments. 
+
+
+
+(c) 
+Any person, firm, limited liability company, or corporation authorized to service mortgage loans guaranteed by the federal housing administration may be authorized by the board to service a mortgage loan held by the fund. 
+
+(d) 
+The board may authorize its custodian to enter into a securities lending program agreement, under which the securities held by each fund may be loaned in order to provide revenue to the fund. Such an 
+
+
+agreement must require that collateral be pledged in excess of the total market value of the loaned securities. 
+As added by Acts 1977, P.L.53, SEC.2. Amended by Acts 1980, P.L.28, SEC.3; P.L.8-1993, SEC.55; P.L.35-2012, SEC.38. 
+
+IC 5-10.2-2-14 Transfer of benefits to financial institutions; rollover 
+Sec. 14. (a) Upon written authorization of a retired member or a retired member's survivor or beneficiary, each fund may satisfy a claim for benefits by directly depositing the amount of the benefits payable to the retired member's or the survivor's or beneficiary's account in any state or federal chartered financial institution (as defined in IC 28-1-1-3(1)). 
+(b) All forms and accounting procedures for implementing subsection (a) must be approved by the state board of accounts, and any contract or agreement between a fund and a state or federal chartered financial institution (as defined in IC 28-1-1-3(1)) must be approved by the attorney general and the governor. 
+(c) Notwithstanding any other provision of the retirement fund law, to the extent required by Internal Revenue Code Section 401(a)(31), as added by the Unemployment Compensation Amendments of 1992 (P.L.102-318), and any amendments and regulations related to Section 401(a)(31), each retirement fund shall allow participants and qualified beneficiaries to elect a direct rollover of eligible distributions to another eligible retirement plan. As added by Acts 1979, P.L.35, SEC.1. Amended by P.L.10-1993, SEC.3; P.L.42-1993, SEC.2; P.L.1-1994, SEC.18. 
+
+IC 5-10.2-2-15 Repealed 
+(As added by P.L.55-1993, SEC.1. Amended by P.L.5-1997, SEC.2. Repealed by P.L.1-2002, SEC.172.) 
+
+IC 5-10.2-2-16 Repealed 
+(As added by P.L.246-2001, SEC.2. Repealed by P.L.23-2011, SEC.31.) 
+
+IC 5-10.2-2-17 Repealed 
+(As added by P.L.246-2001, SEC.3. Amended by P.L.2-2006, SEC.22. Repealed by P.L.23-2011, SEC.31.) 
+
+IC 5-10.2-2-18 Expired 
+(As added by P.L.224-2003, SEC.186. Amended by P.L.4-2005, SEC.24. Expired 7-1-2013 by P.L.4-2005, SEC.24.) 
+
+IC 5-10.2-2-19 Repealed 
+(As added by P.L.107-2010, SEC.1. Repealed by P.L.23-2011, SEC.31.) 
+
+IC 5-10.2-2-20 Withdrawal of miscellaneous participating entity 
+Sec. 20. (a) As used in this section: 
+(1) 
+"fund" means the public employees' retirement fund; and 
+
+(2) 
+"withdrawing participating entity" means a miscellaneous participating entity that takes an action described in subsection (b). 
+
+
+(b) 
+Subject to the provisions of this section, a miscellaneous participating entity may do the following: 
+
+(1) 
+Stop its participation in the fund and withdraw all of the miscellaneous participating entity's employees from participation in the fund. 
+
+(2) 
+Withdraw a departmental, an occupational, or other definable classification of employees from participation in the fund. 
+
+(3) 
+Stop the miscellaneous participating entity's participation in the fund by: 
+
+(A) 
+selling all of the miscellaneous participating entity's assets; or 
+
+(B) 
+ceasing to exist. 
+
+
+
+
+
+(c) 
+The withdrawal of a miscellaneous participating entity's participation in the fund is effective on a termination date established by the board. The termination date may not occur before all the following have occurred: 
+
+(1) 
+The withdrawing participating entity has provided written notice of the following to the board: 
+
+(A) 
+The withdrawing participating entity's intent to cease participation. 
+
+(B) 
+The names of the withdrawing participating entity's current employees and former employees as of the date on which the notice is provided. 
+
+
+
+(2) 
+The expiration of: 
+
+(A) 
+a ninety (90) day period following the filing of the notice with the board, for a withdrawing participating entity that sells all of the withdrawing participating entity's assets or that ceases to exist; or 
+
+(B) 
+a two (2) year period following the filing of the notice with the board, for all other withdrawing participating entities. 
+
+
+
+(3) 
+The withdrawing participating entity takes all actions required in subsections (d) through (g). 
+
+
+
+(d) 
+With respect to retired members who have creditable service with the withdrawing participating entity, the withdrawing 
+
+participating entity must contribute to the fund any additional amounts that the board determines are necessary to provide for reserves with sufficient assets to pay all future benefits from the fund to those retired members attributable to service with the withdrawing participating entity. The contribution by the withdrawing participating entity must be made in a lump sum or in a series of payments over a term that does not exceed thirty (30) years. 
+
+(e) 
+A member who is an employee of the miscellaneous participating entity as of the date of the notice under subsection (c) is vested in the pension portion of the member's retirement benefit. The withdrawing participating entity must contribute to the fund the amount the board determines is necessary to fund fully the vested benefit attributable to service with the withdrawing participating entity. The contribution by the withdrawing participating entity must be made in a lump sum or in a series of payments over a term that does not exceed thirty (30) years. 
+
+(f) 
+A member who is covered by subsection (e) and who is at least sixty-five (65) years of age may elect to retire under IC 5-10.2-4-1 even if the member has fewer than ten (10) years of service. The benefit for the member shall be computed under IC 5-10.2-4-4 using the member's actual years of service. 
+
+
+(g) With respect to members of the fund who have creditable service with the withdrawing participating entity and who are not employees as of the date of the notice under subsection (c), the withdrawing participating entity must contribute the amount that the board determines is necessary to fund fully the service for those members that is attributable to service with the withdrawing participating entity. The contribution by the withdrawing participating entity must be made in a lump sum or in a series of payments over a term that does not exceed thirty (30) years. As added by P.L.241-2015, SEC.5. 
+
+IC 5-10.2-2-21 Freeze in participation by miscellaneous participating entity 
+Sec. 21. (a) This section applies to a miscellaneous participating entity that takes any of the following actions on or after December 31, 2010: 
+(1) 
+The miscellaneous participating entity determines a date: 
+
+(A) 
+before which newly hired employees of a departmental, occupational, or other definable classification of employees are required or allowed to participate in the fund; and 
+
+(B) 
+on or after which newly hired employees of the departmental, occupational, or other definable classification of employees are not allowed to participate in the fund. 
+
+
+
+(2) 
+The miscellaneous participating entity determines a date: 
+
+(A) 
+before which newly hired employees of a departmental, occupational, or other definable classification of employees are required to participate in the fund; and 
+
+(B) 
+on or after which newly hired employees of the departmental, occupational, or other definable classification of employees are allowed to choose to participate in a retirement plan other than the fund. 
+
+
+
+(3) 
+The miscellaneous participating entity modifies its employee classification scheme as of a specified date in such a way that there is at least one (1) position that: 
+
+(A) 
+is covered by the fund before the specified date; and 
+
+(B) 
+is not covered by the fund after the specified date. 
+
+
+
+
+(b) The following definitions apply throughout this section: 
+(1) 
+"Freeze" or "freeze participation in the fund" means to take an action described in subsection (a). 
+
+(2) 
+"Freezing participating entity" means a miscellaneous participating entity that freezes its participation in the fund. 
+
+(3) 
+"Fund" means the public employees' retirement fund. 
+
+
+(c) 
+A miscellaneous participating entity that freezes its participation in the fund after December 31, 2010, shall do the following: 
+
+(1) 
+Provide written notice of the following to the board: 
+
+(A) 
+The action that was taken under subsection (a) by the freezing participating entity. 
+
+(B) 
+The effective date of the action taken under subsection (a). 
+
+(C) 
+The employee classifications that: 
+
+(i) 
+are covered by the fund before the effective date of the freeze; and 
+
+(ii) 
+will not be covered by the fund on or after the effective date of the freeze. 
+
+
+
+(D) 
+The names of the freezing participating entity's current employees and former employees as of the date on which the notice is provided. 
+
+
+
+(2) 
+Comply with subsections (d) through (f). 
+
+
+
+(d) 
+With respect to retired members who have creditable service with the freezingparticipating entity, the freezing participating entity shall contribute to the fund any additional amounts that the board determines are necessary to provide for reserves with sufficient assets to pay all future benefits from the fund to those retired members attributable to service with the freezing participating entity. The board shall collaborate with the freezing participating entity by sharing the actuarial method and report used in determining the amounts under this subsection and under subsections (e) and (f). The contribution by the freezing participating entity must be made in a lump sum or in a series of payments over a term that does not exceed thirty (30) years, as determined by the freezing participating entity. 
+
+(e) 
+With respect to members of the fund who have creditable service with the freezing participating entity and who are not employees as of the effective date on which the miscellaneous participating entity freezes its participation in the fund, the freezing 
+
+participating entity shall contribute the amount that the board determines is necessary to fund fully the service for those members that is attributable to service with the freezing participating entity. The board shall collaborate with the freezing participating entity by sharing the actuarial method and report. The contribution by the freezing participating entity must be made in a lump sum or in a series of payments over a term that does not exceed thirty (30) years, as determined by the freezing participating entity. 
+
+(f) 
+With respect to members of the fund who are employees of the freezing participating entity on the date of the notice under subsection (c), the freezing participating entity shall continue to contribute the amounts required under section 11 of this chapter for those employees for the duration of their employment with the freezing participating entity. In addition, the freezing participating entity shall contribute to the fund the amount the board determines is necessary to fund fully the benefits attributable to service with the freezing participating entity that are vested or will become vested and are not expected to be fully funded through the continuing contributions under section 11 of this chapter during the duration of the members' employment with the freezing participating entity. The board shall collaborate with the freezing participating entity by sharing the actuarial method and report. The contribution by the freezing participating entity must be made in a lump sum or in a series of payments over a term that does not exceed thirty (30) years, as determined by the freezing participating entity. 
+
+(g) 
+The Indiana public retirement system may do any of the following to determine a miscellaneous participating entity's compliance with this section: 
+
+(1) 
+Require reports from the miscellaneous participating entity. 
+
+(2) 
+Audit the miscellaneous participating entity. 
+
+
+
+
+(h) A miscellaneous participating entity must begin payments required under this section not later than July 1, 2016, or a date determined by the board. The board may charge interest on any amount that remains unpaid after the payment date determined by the board. As added by P.L.241-2015, SEC.6. Amended by P.L.193-2016, SEC.7. 
+IC 5-10.2-2-22 Retirement plans offeredby miscellaneous participatingentitythat withdraws from or freezes participation in public employees' retirement fund 
+Sec. 22. (a) This section applies to a miscellaneous participating entity that: 
+(1) either: 
+(A) 
+withdraws from the public employees' retirement fund under section 20 of this chapter; or 
+
+(B) 
+freezes its participation in the public employees' 
+
+
+retirement fund as described in section 21 of this chapter; and 
+(2) chooses thereafter to offer a retirement plan to its employees. 
+(b) 
+Except as provided in subsection (c), a miscellaneous participating entity to which this section applies may offer a retirement plan to its employees only by participating in the defined contribution plan under IC 5-10.3-12. 
+
+(c) 
+If, on July 1, 2015, a miscellaneous participating entity to which this section applies has established or is otherwise participating in a defined contribution plan other than the defined contribution planunder IC 5-10.3-12, the miscellaneous participating entity may continue to participate in the defined contribution plan in which the miscellaneous participating entity participated on July 1, 2015. 
+
+
+As added by P.L.241-2015, SEC.7. 
+
+IC 5-10.2-2-23 Election or discretionary action by branch of state government 
+Sec. 23. If any provision of this article, IC 5-10.3, or IC 5-10.4 allows the state as an employer to make an election or take discretionary action, the election or discretionary action shall be taken by the following entities, as applicable: 
+(1) 
+The governor, if the election or discretionary action involves an elected officer, appointed officer, or employee of the executive branch. 
+
+(2) 
+The legislative council, if the election or discretionary action involves a senator, a representative, or an employee of the legislative branch. 
+
+(3) 
+The chief justice of the supreme court, if the election or discretionary action involves: 
+
+(A) 
+a justice; 
+
+(B) 
+a judge; 
+
+(C) 
+a prosecuting attorney; 
+
+(D) 
+an officer paid by the state under IC 33-23-5-10, IC 33-38-5-7, or IC 33-39-6-2; or 
+
+(E) 
+an employee of the judicial branch of state government. 
+
+
+
+
+As added by P.L.241-2015, SEC.8. 
+
+IC 5-10.2-2-24 Transitionfromguaranteedprogramtostablevalue fundprogram 
+Sec. 24. (a) After December 31, 2016, a member may not make contributions to the guaranteed program. 
+(b) 
+For those members who as of December 31, 2016, have designated the guaranteed program as the investment program to receive all or part of the contributions to the member's annuity savings account, the board shall designate as a substitute one (1) or more alternative investment programs that are to receive those 
+
+contributions after December 31, 2016. The designation by the board of an alternative investment program to receive a member's contributions under this subsection remains in effect until the member makes another allowable designation. 
+
+(c) 
+After December 31, 2016, if a member has allocated all or part of the amount credited to the member to the guaranteed program, the board shall exchange the amount allocated to the guaranteed program by the member for an equivalent market value allocation to the stable value fund. 
+
+(d) 
+The board shall eliminate the guaranteed program on January 1, 2017. 
+
+
+(e) After December 31, 2016, a member may allocate contributions and money invested in the alternative investment program to the stable value fund. As added by P.L.193-2016, SEC.8. 
+

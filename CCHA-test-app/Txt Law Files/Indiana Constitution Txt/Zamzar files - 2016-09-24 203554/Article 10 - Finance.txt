@@ -1,0 +1,36 @@
+﻿ARTICLE 10. Finance.
+Section 1. (a) Subject to this section, the General Assembly shall provide, by law, for a uniform and equal rate of property assessment and taxation and shall prescribe regulations to secure a just valuation for taxation of all property, both real and personal.
+(b) A provision of this section permitting the General Assembly to exempt property from taxation also permits the General Assembly to exercise its legislative power to enact property tax deductions and credits for the property. The General Assembly may impose reasonable filing requirements for an exemption, deduction, or credit.
+(c) The General Assembly may exempt from property taxation any property in any of the following classes:
+(1) Property being used for municipal, educational, literary, scientific, religious, or charitable purposes.
+(2) Tangible personal property other than property being held as an investment.
+(3) Intangible personal property.
+(4) Tangible property, including curtilage, used as a principal place of residence by an:
+(A) owner of the property;
+(B) individual who is buying the tangible property under a contract; or
+(C) individual who has a beneficial interest in the owner of the tangible property.
+(d) The General Assembly may exempt any motor vehicles, mobile homes (not otherwise exempt under this section), airplanes, boats, trailers, or similar property, provided that an excise tax in lieu of the property tax is substituted therefor.
+(e) This subsection applies to property taxes first due and payable in 2012 and thereafter. The following definitions apply to subsection (f):
+(1) "Other residential property" means tangible property (other than tangible property described in subsection (c)(4)) that is used for residential purposes.
+(2) "Agricultural land" means land devoted to agricultural use. (3) "Other real property" means real property that is not tangible property described in subsection (c)(4), is not other residential property, and is not agricultural land.
+(f) This subsection applies to property taxes first due and payable in 2012 and thereafter. The General Assembly shall, by law, limit a taxpayer's property tax liability as follows:
+(1) A taxpayer's property tax liability on tangible property described in subsection (c)(4) may not exceed one percent (1%) of the gross assessed value of the property that is the basis for the determination of property taxes.
+(2) A taxpayer's property tax liability on other residential property may not exceed two percent (2%) of the gross assessed value of the property that is the basis for the determination of property taxes.
+
+(3) A taxpayer's property tax liability on agricultural land may not exceed two percent (2%) of the gross assessed value of the land that is the basis for the determination of property taxes.
+(4) A taxpayer's property tax liability on other real property may not exceed three percent (3%) of the gross assessed value of the property that is the basis for the determination of property taxes. (5) A taxpayer's property tax liability on personal property (other than personal property that is tangible property described in subsection (c)(4) or personal property that is other residential property) within a particular taxing district may not exceed three percent (3%) of the gross assessed value of the taxpayer's personal property that is the basis for the determination of property taxes within the taxing district.
+(g) This subsection applies to property taxes first due and payable in 2012 and thereafter. Property taxes imposed after being approved by the voters in a referendum shall not be considered for purposes of calculating the limits to property tax liability under subsection (f).
+(h) As used in this subsection, "eligible county" means only a county for which the General Assembly determines in 2008 that limits to property tax liability as described in subsection (f) are expected to reduce in 2010 the aggregate property tax revenue that would otherwise be collected by all units of local government and school corporations in the county by at least twenty percent (20%). The General Assembly may, by law, provide that property taxes imposed in an eligible county to pay debt service or make lease payments for bonds or leases issued or entered into before July 1, 2008, shall not be considered for purposes of calculating the limits to property tax liability under subsection (f). Such a law may not apply after December 31, 2019.
+(History: As Amended November 8, 1966; November 2, 2004; November 2, 2010).
+Section 2. All the revenues derived from the sale of any of the public works belonging to the State, and from the net annual income thereof, and any surplus that may, at any time, remain in the Treasury, derived from taxation for general State purposes, after the payment of the ordinary expenses of the government, and of the interest on bonds of the State, other than Bank bonds; shall be annually applied, under the direction of the General Assembly, to the payment of the principal of the Public Debt.
+Section 3. No money shall be drawn from the Treasury, but in pursuance of appropriations made by law.
+Section 4. An accurate statement of the receipts and expenditures of the public money, shall be published with the laws of each regular session of the General Assembly.
+Section 5. No law shall authorize any debt to be contracted, on behalf of the State, except in the following cases: to meet casual deficits in the revenue; to pay the interest on the State Debt; to repel invasion, suppress insurrection, or, if hostilities be threatened, provide
+
+for the public defense.
+Section 6. No county shall subscribe for stock in any incorporated company, unless the same be paid for at the time of such subscription; nor shall any county loan its credit to any incorporated company, nor borrow money for the purpose of taking stock in any such company; nor shall the GeneralAssemblyever, on behalf of the State, assume the debts of any county, city, town, or township; nor of any corporation whatever.
+Section 7. No law or resolution shall ever be passed by the General Assembly of the State of Indiana, that shall recognize any liability of this State to pay or redeem any certificate of stock issued in pursuance of an act entitled "An Act to provide for the funded debt of the State of Indiana, and for the completion of the Wabash and Erie Canal to Evansville," passed January 19th, 1846; and an act supplemental to said act, passed January 29th, 1847, which, by the provisions of the said acts, or either of them, shall be payable exclusively from the proceeds of the canal lands, and the tolls and revenues of the canal, in said acts mentioned, and no such certificates or stocks shall ever be paid by this State.
+(History: Added February 18, 1873).
+Section 8. The general assembly may levy and collect a tax upon income, from whatever source derived, at such rates, in such manner, and with such exemptions as may be prescribed by law.
+(History: Added November 8, 1932).
+

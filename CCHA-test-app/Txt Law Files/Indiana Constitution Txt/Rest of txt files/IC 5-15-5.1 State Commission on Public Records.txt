@@ -1,0 +1,391 @@
+IC 5-15-5.1 Chapter 5.1. State Commission on Public Records 
+IC 5-15-5.1-1 Definitions 
+Sec. 1. (a) The definitions in this section apply throughout this chapter: 
+(b) 
+"Administration" means the Indiana archives and records administration created by this chapter. 
+
+(c) 
+"Agency" means any state office, department, division, board, bureau, commission, authority, or other separate unit of state government established by the Constitution of the State of Indiana, by law, or by executive or legislative order. 
+
+(d) "Critical records" means records necessary to: 
+(1) 
+resume or continue governmental operations; 
+
+(2) 
+the reestablishing of the legal and financial responsibilities of government in Indiana; or 
+
+(3) 
+protect and fulfill governmental obligations to the citizens of Indiana. 
+
+
+
+(e) 
+"Form" means every piece of paper, electronic content, transparent plate, or film containing information, printed, generated, or reproduced by whatever means, with blank spaces left for the entry of additional information to be used in any transaction involving the state. 
+
+(f) 
+"Forms management" means the program maintained by the administration to provide continuity of forms design procedures from the form's origin up to its completion as a record by determining the: 
+
+(1) 
+form's size, style, and size of type; 
+
+(2) 
+format; 
+
+(3) 
+type of construction; 
+
+(4) 
+number of plies; 
+
+(5) 
+quality, weight, and type of paper and carbon; and 
+
+(6) 
+use of the form for data entry as well as the distribution. 
+
+
+
+(g) 
+"Imaging" means the process by which a record is converted from physical form to a computer readable digital image file. 
+
+(h) 
+"Indiana state archives" means the program maintained by the administration for the preservation of those records and other government papers that have been determined by the administration to have sufficient permanent values to warrant their continued preservation by the state. 
+
+(i) 
+"Information management" means the program maintained by the administration for the application of management techniques to the purchase, creation, utilization, maintenance, retention, preservation, and disposal of forms and records undertaken to improve efficiency and reduce costs of recordkeeping, including management of filing, microfilming, and imaging equipment and supplies, filing and information retrieval systems, files, correspondence, reports and forms management, historical 
+
+documentation, micrographic retention programming, electronic content management systems, and critical records protection. 
+
+(j) 
+"Local government" means a political subdivision (as defined in IC 36-1-2-13). 
+
+(k) 
+"Microfilm" means a photographic film containing an image greatly reduced in size from the original. 
+
+(l) 
+"Nonrecord materials" means all identical copies of forms, records, reference books, and exhibit materials that are made, or acquired, and preserved solely for reference use, exhibition purposes, or publication and that are not included within the definition of record. 
+
+(m)
+ "Personal records" means: 
+
+(1) 
+all documentary materials of a private or nonpublic character that do not relate to or have an effect upon the carrying out of the constitutional, statutory, or other official or ceremonial duties of a public official, including diaries, journals, or other personal notes serving as the functional equivalent of a diary or journal that are not prepared or used for, or circulated or communicated in the course of, transacting government business; or 
+
+(2) 
+materials relating to private political associations, and having no relation to or effect upon the carrying out of constitutional, statutory, or other official or ceremonial duties of a public official and are not considered public records. 
+
+
+
+(n) 
+"Public official" means: 
+
+(1) 
+an individual holding an office created by the Constitution of the State of Indiana, by act or resolution of the general assembly, or by the governor; 
+
+(2) 
+all officers of the executive and administrative branch of state or local government; and 
+
+(3) 
+all other officers, heads, presidents, or chairpersons of agencies of state or local government. 
+
+
+
+
+
+(o) 
+"Record" means all documentation of the informational, communicative, or decision making processes of state and local government, its agencies and subdivisions made or received by any agency of state and local government or its employees in connection with the transaction of public business or government functions, which documentation is created, received, retained, maintained, or filed by that agency or local government or its successors as evidence of its activities or because of the informational value of the data in the documentation, and which is generated on: 
+
+(1) 
+paper or paper substitutes; 
+
+(2) 
+photographic or chemically based media; 
+
+(3) 
+magnetic, electronic, or machine readable media; or 
+
+(4) 
+any other materials, regardless of form or characteristics. 
+
+
+
+(p) 
+"Records center" means a program maintained by the administration primarily for the storage, processing, retrieving, servicing, and security of government records that must be retained 
+
+for varying periods of time but should not be maintained in an agency's office equipment or space. 
+
+(q) 
+"Records coordinator" means a person designated by an agency to serve as an information liaison person between the agency and the administration. 
+
+(r) 
+"Records series" means documents or records that are filed in a unified arrangement and having similar physical characteristics or relating to a similar function or activity. 
+
+
+(s) "Retention schedule" means a set of instructions prescribing how long, where, and in what form a records series must be kept. As added by Acts 1979, P.L.40, SEC.1. Amended by P.L.1-1999, SEC.7; P.L.84-2012, SEC.16; P.L.134-2012, SEC.22; P.L.171-2015, SEC.10. 
+
+IC 5-15-5.1-2 Application of chapter 
+Sec. 2. (a) This chapter applies to records: 
+(1) 
+open to the public and carrying no classification or restriction; 
+
+(2) 
+required to be kept confidential by federal law, rule, or regulation; 
+
+(3) 
+declared confidential by the general assembly; or 
+
+(4) 
+declared confidential by a rule adopted under specific authority for confidential records granted to an agency by the general assembly. 
+
+
+(b) The provisions of this chapter do not apply to state-supported colleges and universities, but the administration may offer its services to them. 
+(c) The provisions of this chapter shall in no way restrict the powers and duties of the state board of accounts as prescribed by IC 5-11. As added by Acts 1979, P.L.40, SEC.1. Amended by P.L.19-1983, SEC.8; P.L.36-1984, SEC.1; P.L.171-2015, SEC.11. 
+
+IC 5-15-5.1-3 Creation of archives and records administration; seal; serving legislative and judicial branches 
+Sec. 3. There is created the Indiana archives and records administration to administer this chapter. The administration shall adopt a seal which shall be the seal of the state of Indiana. The administration shall offer its services to the legislative and judicial branches of state government. As added by Acts 1979, P.L.40, SEC.1. Amended by P.L.171-2015, SEC.12. 
+IC 5-15-5.1-4 Director; qualifications; staff; salaries 
+Sec. 4. (a) The governor shall appoint a director as the executive head of the administration. The director must be versed in the principles of information and forms management, archives, and the affairs and organization of state government. It is the intent of the general assembly that the director be a person who is qualified by training and experience to administer the affairs of the administration. 
+(b) The director, subject to the approval of the governor and the budget agency, shall appoint such staff as necessary to implement this chapter. 
+(c) The salary of the director is subject to the approval of the governor and the budget agency. Salaries of the staff are subject to the approval of the state personnel department and the budget agency. The provisions of IC 4-15-2.2 apply to the staff of the administration. As added by Acts 1979, P.L.40, SEC.1. Amended by P.L.3-1989, SEC.28; P.L.100-2012, SEC.18; P.L.171-2015, SEC.13. 
+
+IC 5-15-5.1-5 Duties and powers of the archives and records administration 
+Sec. 5. (a) Subject to approval by the oversight committee on public records created by section 18 of this chapter, the administration shall do the following: 
+(1) 
+Establish a forms management program for state government and approve the design, typography, format, logo, data sequence, form analysis, form number, and agency file specifications of each form. 
+
+(2) 
+Establish a central state form numbering system and a central cross index filing system of all state forms, and standardize, consolidate, and eliminate, wherever possible, forms used by state government. 
+
+(3) 
+Approve, provide, and may, in the manner prescribed by IC 5-22, purchase photo-ready copy for all forms. 
+
+(4) 
+Establish a statewide records management program, prescribing the standards and procedures for record making and record keeping. However, the investigative and criminal history records of the state police department are exempted from this requirement. 
+
+(5) 
+Coordinate utilization of all micrographics and imaging equipment in state government. 
+
+(6) 
+Assist the Indiana department of administration in coordinating utilization of all duplicating and printing equipment in the executive and administrative branches. 
+
+(7) 
+Advise the Indiana department of administration with respect to the purchase of all records storage equipment. 
+
+(8) 
+Establish and operate a distribution center for the receipt, storage, and distribution of all material printed for an agency. 
+
+(9) 
+Establish and operate a statewide archival program to be called the Indiana state archives for the permanent government 
+
+records of the state and local governments, provide consultant services for archival programs, conduct surveys, and provide training for records coordinators. 
+
+(10) 
+Establish and operate a statewide record preservation laboratory. 
+
+(11) 
+Prepare, develop, and implement record retention schedules. 
+
+(12)
+ Establish and operate a central records center to be called the Indiana state records center, which shall accept all records approved for transfer to it, provide secure storage and reference service for the same, and submit written notice to the applicable agency of intended destruction of records in accordance with approved retention schedules. 
+
+(13) 
+Demand from any person, organization, or body who has illegal possession of original state or local government records those records, which shall be delivered to the administration. 
+
+(14) 
+Have the authority to examine all forms and records housed or possessed by state agencies and local governments for the purpose of fulfilling the provisions of this chapter. 
+
+(15) 
+In coordination with the office of technology established by IC 4-13.1-2-1, establish standards to ensure the preservation of adequate and permanent computerized and auxiliary automated information records of state agencies and local government. 
+
+(16) 
+Notwithstanding IC 5-14-3-8, establish a schedule of fees for services provided to patrons of the Indiana state archives, patrons of the state imaging and microfilm laboratory, and state agencies. A copying fee established under this subdivision may exceed the copying fee set forth in IC 5-14-3-8(c). 
+
+(17) 
+Advise the office of technology established by IC 4-13.1-2-1 with respect to records management and archival principles as applicable to the purchase of all electronic content and information management systems. 
+
+
+(b) 
+In implementing a forms management program, the administration shall follow procedures and forms prescribed by the federal government. 
+
+(c)
+ Fees collected under subsection (a)(16) shall be deposited in the state archives preservation and reproduction account established by section 5.3 of this chapter. 
+
+
+As added by Acts 1979, P.L.40, SEC.1. Amended by P.L.28-1983, SEC.52; P.L.58-1993, SEC.11; P.L.49-1997, SEC.29; P.L.177-2005, SEC.17; P.L.84-2012, SEC.17; P.L.171-2015, SEC.14. 
+
+IC 5-15-5.1-5.3 State archives preservation and reproduction account; establishment 
+Sec. 5.3. (a) The state archives preservation and reproduction account (referred to in this section as "the account") is established as an account within the state general fund. The account shall be administered by the administration. The money in the account does not revert to any other account within the state general fund at the end of a state fiscal year. 
+(b) The account consists of fees collected under section 5(a)(16) of this chapter. 
+(c) Money in the account is annually appropriated to the administration for use in the preservation and reproduction of public records by the administration. As added by P.L.58-1993, SEC.12. Amended by P.L.171-2015, SEC.15. 
+IC 5-15-5.1-6 Designing, numbering, standardizing, consolidating, and eliminating forms; consultation with affected agency or local government 
+Sec. 6. The administration shall design, redesign, number, standardize, consolidate, or eliminate when obsolete, all forms used by state government, apply the definition of record to any governmental materials so questioned, and determine the nature of nonrecord materials housed or maintained by an agency or local government. In performing these functions, the administration shall consult with each affected agency and local government and shall consider each agency's and local government's statutory responsibilities, its relationships with federal or other governmental agencies and the requirements of state law. As added by Acts 1979, P.L.40, SEC.1. Amended by P.L.171-2015, SEC.16. 
+
+IC 5-15-5.1-6.5 Racial or ethnic identification information; multiracial classification 
+Sec. 6.5. (a) This section does not apply to a printed document that was printed and in stock before July 1, 1995. 
+(b) 
+As used in this section, "multiracial" means having a biological parent who is of a different race from the other biological parent. 
+
+(c) 
+All forms, questionnaires, and other printed or electronic documents: 
+
+(1) 
+that are used by a public agency (as defined in IC 5-14-3-2) to request information on the racial or ethnic identification of a respondent; and 
+
+(2) 
+that contain an enumeration of racial and ethnic classifications from which the respondent must select a classification; 
+
+
+
+
+must include among the choices the classification multiracial. 
+As added by P.L.80-1995, SEC.1. 
+
+IC 5-15-5.1-7 Archives available for public use, subject to need for preservation; furnishing copies of archival materials 
+Sec. 7. The administration shall make the archives of the state available for public use under supervised control at reasonable hours. However, the administration shall weigh the need for preservation from deterioration or mutilation of original records in establishing access use to such items. The administration shall furnish copies of archival materials upon request, unless confidential by law or restricted by promulgated rule, and payment of fees as may be required. As added by Acts 1979, P.L.40, SEC.1. Amended by P.L.171-2015, SEC.17. 
+
+IC 5-15-5.1-8 State imaging and microfilm laboratory; standards for microfilming and imaging documents 
+Sec. 8. The administration shall operate a state imaging and microfilm laboratory. The oversight committee in coordination with the supreme court shall promulgate regulations concerning quality standards for microfilming and imaging documents that shall allow documents meeting those standards to be admissible in court. Such microfilming and imaging standards shall be followed by all state agencies and local governments. As added by Acts 1979, P.L.40, SEC.1. Amended by P.L.171-2015, SEC.18. 
+
+IC 5-15-5.1-9 Copies of records transferred to archives and records administration; force and effect 
+Sec. 9. Copies of records transferred from the office of their origin to the custody of the administration, when certified by the director or the director's designee, under seal of the administration, shall have the same force and effect as if certified by the original custodian. As added by Acts 1979, P.L.40, SEC.1. Amended by P.L.171-2015, SEC.19. 
+
+IC 5-15-5.1-10 Duties of agencies and local governments 
+Sec. 10. (a) Each agency and local government shall: 
+(1) 
+Make and preserve records containing adequate and proper documentation of the organization, functions, policies, decisions, procedures, and essential transactions of the agency and local government to protect the legal and financial rights of the government and of persons directly affected by the agency's activities and the local government's activities. 
+
+(2) 
+Cooperate fully with the administration in implementing the 
+
+provisions of this chapter. 
+
+(3) 
+Establish and maintain an active and continuing program for the economical and efficient management of information and assist the administration in the conduct of information management surveys. 
+
+(4) 
+Implement information management procedures and regulations issued by the administration. 
+
+(5) 
+Establish necessary safeguards against the removal, alteration, or loss of records; safeguards shall include notification to all officials and employees of the agency or local government that records in the custody of the agency or local government may not be alienated or destroyed except in accordance with: 
+
+(A) 
+the provisions of this chapter; and 
+
+(B) 
+if applicable, an order of the county commission of public records under IC 5-15-6. 
+
+
+
+
+(b) Each agency shall do the following: 
+(1) 
+Submit to the administration a recommended retention schedule for each form and records series in the agency's custody. However, retention schedules for forms and records series that are common to at least two (2) agencies may be established by the oversight committee. Records may not be scheduled for retention any longer than is necessary to perform required functions. Records requiring retention for severalyears must be transferred to the records center. 
+
+(2) 
+Designate an agency information coordinator who shall assist the administration in the content requirements of the form design process and in the development of the agency's records retention schedules. 
+
+
+As added by Acts 1979, P.L.40, SEC.1. Amended by P.L.171-2015, SEC.20. 
+
+IC 5-15-5.1-11 Title to records 
+Sec. 11. Title to any record transferred to the Indiana state archives as authorized by this chapter or IC 5-15-6 shall be vested in the administration. However, title to any record deposited in the Indiana state records center shall remain with the agency transferring that record. As added by Acts 1979, P.L.40, SEC.1. Amended by P.L.171-2015, SEC.21. 
+
+IC 5-15-5.1-12 Critical records program 
+Sec. 12. The administration shall establish and maintain a critical records program for the state of Indiana. It shall determine what records are essential to the continuity of state and local government operations and shall survey agency and local government records to identify those records. The administration shall plan and implement a program for protection of critical records through dispersal, duplication, or secure vault storage of those records. 
+As added by Acts 1979, P.L.40, SEC.1. Amended by P.L.171-2015, SEC.22. 
+
+IC 5-15-5.1-13 Confidential records; destruction 
+Sec. 13. Records designated as confidential by law shall be so treated by the administration in the maintenance, storage, transfer, or other disposition of those records. Confidential records scheduled for destruction shall be destroyed in such a manner that they cannot be read, interpreted, or reconstructed. As added by Acts 1979, P.L.40, SEC.1. Amended by P.L.19-1983, SEC.9; P.L.171-2015, SEC.23. 
+
+IC 5-15-5.1-14 Mutilation, sale, loan, or other disposition of records by public official or agency 
+Sec. 14. A public official or agency may not mutilate, destroy, sell, loan, or otherwise dispose of any government record, except under a record retention schedule or with the written consent of the administration. As added by Acts 1979, P.L.40, SEC.1. Amended by P.L.171-2015, SEC.24. 
+IC 5-15-5.1-15 Public official's delivery of records to successor; deposit of records witharchives andrecords administrationuponterminationofstate agency or local government 
+Sec. 15. (a) A public official who has the custody of any records, excluding personal records, shall at the expiration of the public official's term of office or appointment, deliver to the public official's successor, or to the administration if there is no successor, all materials defined as records by this chapter. 
+(b) Upon the termination of a state agency or local government whose functions have not been transferred to another agency or local government the records of the state agency or local government shall be deposited with the administration. The administration shall determine which records are of sufficient legal, historical, administrative, research or fiscal value to warrant their continued preservation. Records that are determined to be of insufficient value to warrant continued preservation shall be disposed of or destroyed. As added by Acts 1979, P.L.40, SEC.1. Amended by P.L.171-2015, SEC.25. 
+IC 5-15-5.1-16 Transfer of records to state archives; agreements with legislature and supreme court 
+
+Sec. 16. (a) The administration may enter into agreements with the legislative branch of government for transfer of the permanent records of that body not having current administrative value to the Indiana state archives. 
+(b) The administration may enter into agreements with the Indiana supreme court and court of appeals and their clerk for transfer of the permanent records of those bodies not having current administrative value to the state archives. As added by Acts 1979, P.L.40, SEC.1. Amended by P.L.171-2015, SEC.26. 
+
+IC 5-15-5.1-17 State or local government official's delivery of books, records, and other materials to archives and records administration; copying 
+Sec. 17. (a) A state or local government official may turn over to the administration, in accordance with the rules of the administration for permanent preservation, any official books, records, documents, original papers, newspaper files, or printed books or materials not in current use in the official's office. 
+(b) Subject to subsection (c), the administration may make a copy, by photography or in any other way, of any official book, record, document, original paper, newspaper, or printed book or material of any local government office for preservation in the state archives. Local government officials shall permit such copies to be made of the books, records, documents, and papers in their respective offices. 
+(c) The administration shall copy the official copy of the rules (including incorporated matters filed under IC 4-22-2-21) published under IC 4-22-2. Any duplicate original copy possessed by another agency is not a critical record and may not be copied. If the publisher prepares micrographic copies of these documents and the copies are in a form that meets the specifications of the administration, the administration shall arrange with the publisher to obtain the number of copies needed by the administration, rather than copying the documents as part of a separate program. As added by Acts 1979, P.L.40, SEC.1. Amended by P.L.31-1985, SEC.42; P.L.11-1996, SEC.3; P.L.171-2015, SEC.27. 
+
+IC 5-15-5.1-18 Oversight committee; composition; secretary; compensation and expenses 
+Sec. 18. (a) The oversight committee on public records consists ex officio of: 
+(1) 
+the governor or the governor's designee; 
+
+(2) 
+the secretary of state or the secretary's designee; 
+
+(3) 
+the state examiner of the state board of accounts or the state examiner's designee; 
+
+(4) 
+the director of the state library; 
+
+(5) 
+the director of the historical bureau; 
+
+(6) 
+the director of the Indiana archives and records administration; 
+
+(7) 
+the commissioner of the department of administration or the commissioner's designee; 
+
+(8) 
+the public access counselor; and 
+
+(9) 
+the chief information officer of the office of technology appointed under IC 4-13.1-2-3 or the chief information officer's designee. 
+
+
+(b) 
+The oversight committee also consists of two (2) lay members appointed by the governor for a term of four (4) years. One (1) lay member shall be a professional journalist or be a member of an association related to journalism. 
+
+(c) 
+The oversight committee shall elect one (1) of its members to be chairman. The director of the Indiana archives and records administration shall be the secretary of the committee. The ex officio members of the oversight committee shall serve without compensation and shall receive no reimbursement for any expense which they may incur. Each lay member is entitled to reimbursement for traveling and other expenses as provided in the state travel policies and procedures, established by the department of administration and approved by the budget agency and each lay member is entitled to the minimum salary per diem as provided in IC 4-10-11-2.1(b). 
+
+
+As added by Acts 1979, P.L.40, SEC.1. Amended by P.L.114-2001, SEC.1; P.L.177-2005, SEC.18; P.L.171-2015, SEC.28. 
+
+IC 5-15-5.1-19 Duties of oversight committee 
+Sec. 19. (a) It is the duty of the oversight committee to: 
+(1) 
+function as the policy making body for the administration; and 
+
+(2) 
+determine what records have no apparent official value but should be preserved for research or other purposes. 
+
+
+(b) 
+The oversight committee shall maintain a master list of all record series that are classified as confidential by statute or rule. 
+
+(c) 
+The oversight committee has final approval of all record retention schedules. 
+
+(d) 
+The oversight committee has final approval of a fee schedule established by the administration under section 5(a)(16) of this chapter. 
+
+
+As added by Acts 1979, P.L.40, SEC.1. Amended by P.L.19-1983, SEC.10; P.L.58-1993, SEC.13; P.L.171-2015, SEC.29. 
+
+IC 5-15-5.1-20 Establishment of standards by oversight committee; forms; records using archival materials, processes, and standards; rules 
+Sec. 20. (a) The oversight committee shall: 
+(1) 
+establish standards for safeguarding personal information systems that shall be followed by agencies maintaining such systems; 
+
+(2) 
+approve the content of all forms that involve confidential records; and 
+
+(3) 
+require use of archival materials, processes, and standards for records that the administration determines should be preserved indefinitely. 
+
+
+(b) The oversight committee may adopt rules under IC 4-22-2 necessary for the performance of its duties, consistent with this chapter and other applicable Indiana laws. As added by Acts 1979, P.L.40, SEC.1. Amended by P.L.19-1983, SEC.11; P.L.30-1989, SEC.3; P.L.171-2015, SEC.30. 
+
+IC 5-15-5.1-20.5 Restriction on location of state archives facility 
+Sec. 20.5. A facility to house some or all of the state archives or to be used in the administration of the state archives may not be located on land bound by New York Street, Ohio Street, West Street, and Senate Avenue in Indianapolis. As added by P.L.213-2015, SEC.65. 
+

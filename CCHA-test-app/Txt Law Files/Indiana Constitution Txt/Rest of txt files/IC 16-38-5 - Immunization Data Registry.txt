@@ -1,0 +1,192 @@
+IC 16-38-5 Chapter 5. Immunization Data Registry 
+IC 16-38-5-1 Development and maintenance of registry; use of information; rules 
+Sec. 1. (a) The state department shall maintain an immunization data registry to collect, store, analyze, release, and report immunization data. 
+(b) Data in the immunization data registry may be used only for the following purposes: 
+(1) 
+To assure that necessary immunizations are provided and overimmunization is avoided. 
+
+(2) 
+To assess immunization coverage rates. 
+
+(3) 
+To determine areas of underimmunization and other epidemiological research for disease control purposes. 
+
+(4) 
+To document that required immunizations have been provided as required for school or child care admission. 
+
+(5) 
+To accomplish other public health purposes as determined by the state department. 
+
+
+(c) The state department may adopt rules under IC 4-22-2 concerning who may input and retrieve information from the immunization data registry. As added by P.L.231-1999, SEC.14. Amended by P.L.135-2003, SEC.1; P.L.122-2012, SEC.5; P.L.191-2013, SEC.5. 
+
+IC 16-38-5-2 Provision of data; exemptions; forms; information on registry 
+Sec. 2. (a) Except as provided in subsection (c), a provider, a physician's designee, a pharmacist's designee, or a person approved by the state department may provide immunization data to the immunization data registry in a manner prescribed by the state department and for the purposes allowed under this chapter. 
+(b) 
+This subsection takes effect July 1, 2015. Except as provided in subsections (c) and (e), a provider who is licensed under IC 25 and who is authorized within the provider's scope of practice to administer immunizations or the provider's designee shall electronically provide immunization data to the immunization data registry for all immunizations administered to individuals who are less than nineteen (19) years of age: 
+
+(1) 
+not later than seven (7) business days after providing the immunization; 
+
+(2) 
+in a manner prescribed by the state department, after reasonable notice; and 
+
+(3) 
+for the purposes allowed under this chapter. 
+
+
+
+(c)
+ A person is exempt from providing immunization data to the immunization data registry if: 
+
+(1) 
+the patient or the patient's parent or guardian, if the patient 
+
+is less than eighteen (18) years of age, has completed and filed a written immunization data exemption form with either the person who provides the immunization or the state department; or 
+
+(2) 
+the patient is a resident of or is receiving services from a facility licensed under IC 16-28. 
+
+
+
+(d) 
+The minimum immunization data that must be provided under subsection (b) are the following: 
+
+(1) 
+Patient identification number. 
+
+(2) 
+Patient first and last name. 
+
+(3) 
+Patient date of birth. 
+
+(4) 
+Patient address. 
+
+(5) 
+Patient race. 
+
+(6) 
+Patient gender. 
+
+(7) 
+Vaccine for Children program eligibility, if the patient is eligible for the Vaccine for Children program. 
+
+(8) 
+Dose at the administration level under the Vaccine for Children program, if the patient is eligible for the Vaccine for Children program. 
+
+(9) 
+Vaccination presentation or vaccination code using approved Immunization Information System (IIS) code type. 
+
+(10)
+ Vaccination date administered. 
+
+
+
+(11)
+ Lot number of the administered vaccine. The state department may expand or modify the list of minimum immunization data that must be provided under this section based on Centers for Disease Control Immunization Information System (IIS) minimum field requirements. 
+
+(e) 
+A provider who is unable to electronically provide immunization data to the immunization data registry by July 1, 2015, shall submit a detailed plan for compliance with the requirements of subsection (b) to the state department no later than March 31, 2015. The state department will assist the provider so the provider is able to electronically provide immunization data in a reasonable amount of time. 
+
+(f) 
+The state department shall create and provide copies of immunization data exemption forms to: 
+
+(1) providers who are: 
+(A) 
+licensed under IC 25; and 
+
+(B) 
+authorized within the provider's scope of practice to administer immunizations; and 
+
+
+
+(2) 
+individuals; who request the form. 
+
+(g) 
+The state department shall distribute, upon request, written information to be disseminated to patients that describes the immunization data registry. The written information must include the following: 
+
+(1) 
+That, beginning July 1, 2015, the provider is required to report immunization data to the immunization data registry. 
+
+(2) 
+That the patient or the patient's parent or guardian, if the patient is less than eighteen (18) years of age, has a right to exempt disclosure of immunization data to the registry and may prevent disclosure by signing an immunization data exemption form. 
+
+(3) 
+That the patient or the patient's parent or guardian, if the patient is less than eighteen (18) years of age, may have the individual's information removed from the immunization data registry. 
+
+
+
+
+(4) Instructions on how to have the information removed. As added by P.L.231-1999, SEC.14. Amended by P.L.135-2003, SEC.2; P.L.161-2009, SEC.1; P.L.122-2012, SEC.6; P.L.191-2013, SEC.6; P.L.2-2014, SEC.79. 
+
+IC 16-38-5-3 Confidentiality of information; release of information to certain persons; data use agreement; release of statistics 
+Sec. 3. (a) Records maintained as part of the immunization data registry are confidential. 
+(b) 
+The state department may release information from the immunization data registry to the individual or to the individual's parent or guardian if the individual is less than eighteen (18) years of age. 
+
+(c) 
+Subject to subsection (d), the state department may release information in the immunization data registry concerning an individual to the following persons or entities: 
+
+(1) 
+The immunization data registry of another state. 
+
+(2) 
+A provider or a provider's designee. 
+
+(3) 
+A local health department. 
+
+(4) 
+An elementary or secondary school that is attended by the individual. 
+
+(5) 
+A child care center that is licensed under IC 12-17.2-4 in which the individual is enrolled. 
+
+(6) 
+A child care home that is licensed under IC 12-17.2-5 in which the individual is enrolled. 
+
+(7) 
+A child care ministry that is registered under IC 12-17.2-6 in which the individual is enrolled. 
+
+(8) 
+The office of Medicaid policy and planning or a contractor of the office of Medicaid policy and planning. 
+
+(9) 
+A child placing agency licensed under IC 31-27. 
+
+(10)
+ A college or university (as defined in IC 21-7-13-10) that is attended by the individual. 
+
+
+
+(d) 
+Before immunization data may be released to a person or an entity, the person or entity must enter into a data use agreement with the state department that provides that information that identifies a patient will not be released to any other person or entity without the written consent of the patient unless the release is to a person or entity described in subsection (c). 
+
+
+(e) The state department may release summary statistics regarding information in the immunization data registry to a person or entity that has entered into a data use agreement with the state department. As added by P.L.231-1999, SEC.14. Amended by P.L.135-2003, SEC.3; P.L.161-2009, SEC.2; P.L.122-2012, SEC.7; P.L.171-2014, SEC.10. 
+
+IC 16-38-5-4 Immunity for providing data; penalty 
+Sec. 4. (a) An entity described in section 3(c) of this chapter, the state department, or an agent of the state department who in good faith provides or receives immunization information is immune from civil and criminal liability for the following: 
+(1) 
+Providing information to the immunization data registry. 
+
+(2) 
+Using the immunization data registry information to verify that a patient or child has received proper immunizations. 
+
+(3) 
+Using the immunization data registry information to inform a patient or the child's parent or guardian: 
+
+(A) 
+of the patient's or child's immunization status; or 
+
+(B) 
+that an immunization is due according to recommended immunization schedules. 
+
+
+
+
+(b) A person who knowingly, intentionally, or recklessly discloses confidential information contained in the immunization data registry in violation of this chapter commits a Class A misdemeanor. As added by P.L.135-2003, SEC.4. Amended by P.L.97-2004, SEC.66. 
+

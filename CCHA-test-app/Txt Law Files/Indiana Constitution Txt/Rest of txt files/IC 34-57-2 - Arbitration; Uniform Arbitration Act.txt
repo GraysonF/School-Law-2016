@@ -1,0 +1,169 @@
+IC 34-57-2 Chapter 2. Arbitration: Uniform Arbitration Act 
+IC 34-57-2-1 Written agreement to arbitrate; enforceability; exemptions from chapter 
+Sec. 1. (a) A written agreement to submit to arbitration is valid, and enforceable, an existing controversy or a controversy thereafter arising is valid and enforceable, except upon such grounds as exist at law or in equity for the revocation of any contract. If the parties to such an agreement stipulate in writing, the agreement may be enforced by designated third persons, who shall in such instances have the same rights as a party under this chapter. This chapter also applies to arbitration agreement between employers and employees or between their respective representatives (unless otherwise provided in the agreement). 
+(b) This chapter specifically exempts from its coverage all consumer leases, sales, and loan contracts, as these terms are defined in the Uniform Consumer Credit Code (IC 24-4.5). As added by P.L.1-1998, SEC.53. 
+
+IC 34-57-2-2 Commencement of arbitration; procedure; tolling statute of limitations 
+Sec. 2. Arbitration shall be initiated by a written notice by either party, mailed by registered or certified mail, or delivered to the other party, briefly stating a claim, the grounds for the claim and the amount or amounts. Issues shall be joined by written notice of admissions or denials and any counterclaims or set-offs so mailed or delivered. The statutes of limitations ceases to run from the time of any notice of claim or counterclaim. As added by P.L.1-1998, SEC.53. 
+
+IC 34-57-2-3 Order to commence arbitration; stay of arbitration proceedings; procedure 
+Sec. 3. (a) On application of a party showing an agreement described in section 1 of this chapter, and the opposing party's refusal to arbitrate, the court shall order the parties to proceed with arbitration. Ten (10) days notice in writing of the hearing of such application shall be served personally upon the party in default. If the opposing party denies the existence of the agreement to arbitrate, the court shall proceed summarily to the determination of the issue raised without further pleading and shall order arbitration if found for the moving party; otherwise, the application shall be denied. 
+(b) 
+On application, the court may stay an arbitration proceeding commenced or threatened on a showing that there is no agreement to arbitrate. Ten (10) days notice in writing of the hearing of the 
+
+application shall be served personally upon the party in default. Such an issue, when in substantial and bona fide dispute, shall be forthwith summarily determined without further pleadings and the stay ordered if found for the moving party. If found for the opposing party, the court shall order the parties to proceed to arbitration. 
+
+(c) 
+If an issue referable to arbitration under the alleged agreement is involved in an action or proceeding pending in a court having jurisdiction to hear applications under subsection (a), the application shall be made in that action or proceeding. Otherwise and subject to section 17 of this chapter, the application may be made in any court with jurisdiction. 
+
+(d) 
+Any action or proceeding involving an issue subject to arbitration shall be stayed if an order for arbitration or an application for an order for arbitration has been made under this section (or IC 34-4-2-3 before its repeal), or, if the issue is severable, the stay may be with respect to the issue only. When the application is made in such an action or proceeding, the order for arbitration must include such a stay. 
+
+(e) 
+An order for arbitration shall not be refused on the ground that the claim in issue lacks merit or bona fides or because any fault or grounds for the claim sought to be arbitrated have not been shown. 
+
+(f) 
+If the court determines that there are other issues between the parties that are not subject to arbitration and that are the subject of a pending action or special proceeding between the parties and that a determination of such issues is likely to make the arbitration unnecessary, the court may delay its order to arbitrate until the determination of such other issues or until such earlier time as the court specifies. 
+
+
+(g) On application the court may stay an arbitration proceeding on a showing that the method of appointment of arbitrators is likely to or has resulted in the appointment of a majority of arbitrators who are partial or biased in some relevant respect. The court shall then appoint one (1) or more arbitrators as provided in section 4 of this chapter. As added by P.L.1-1998, SEC.53. 
+
+IC 34-57-2-4 Appointment of arbitrators by agreement or by court 
+Sec. 4. If the arbitration agreement provides a method of appointment of arbitrators, this method shall be followed. In the absence of such an agreement, any method of appointment of arbitrators agreed upon by the parties to the contract shall be followed. When an arbitrator appointed fails or is unable to act, a successor shall be appointed in the same manner as the original appointment. If the method of appointment of arbitrators is not specified in the agreement and can not be agreed upon by the parties, or if agreed method fails or for any reason can not be followed, or if an arbitrator appointed fails or is unable to act and a successor has not been appointed within a reasonable time, the court on application of a party shall appoint one (1) or more arbitrators, who have all the powers of an arbitrator appointed according to the agreement. 
+As added by P.L.1-1998, SEC.53. 
+
+IC 34-57-2-5 Powers of arbitrators exercised by majority 
+Sec. 5. The powers of the arbitrators may be exercised by a majority unless otherwise provided by the agreement or by this chapter. 
+As added by P.L.1-1998, SEC.53. 
+
+IC 34-57-2-6 Hearings; time and place; notice; procedure 
+Sec. 6. Unless otherwise provided by the agreement: 
+(a)
+ The arbitrators shall appoint a time and place for the hearing and cause notification to the parties to be served personally or by registered mail not less than thirty (30) days before the hearing. Appearance at the hearing waives such notice. The arbitrators may adjourn the hearing from time to time as necessary and, on request of a party and for good cause, or upon their own motion may postpone the hearing to a time not later than the date fixed by the agreement for making the award unless the parties consent to a later date. The arbitrators may hear and determine the controversy upon the evidence produced notwithstanding the failure of a party duly notified to appear. The court on application may direct the arbitrators to proceed promptly with the hearing and determination of the controversy. Any party may require that the hearing be recorded in a manner sufficient for appeal. 
+
+(b) 
+The parties are entitled to be heard and to present any and all evidence material to the controversy regardless of its admissibility under judicial rules of evidence. 
+
+(c) 
+The hearing shall be conducted by all the arbitrators but a majority may determine any question and render a final award. If, during the course of the hearing, an arbitrator for any reason ceases to act, the remaining neutral arbitrator or neutral arbitrators may continue with the hearing and determination of the controversy. 
+
+
+As added by P.L.1-1998, SEC.53. 
+
+IC 34-57-2-7 Right to representation by attorney 
+Sec. 7. A party is entitled to be represented by an attorney at any proceeding or hearing under this chapter. A waiver of the right to representation before the proceeding or hearing is ineffective. 
+As added by P.L.1-1998, SEC.53. 
+IC 34-57-2-8 Subpoenas for witnesses or documents; depositions; witness fees 
+Sec. 8. (a) The arbitrators may issue subpoenas for the attendance of witnesses and for the production of books, records, documents and other evidence, and have authority to administer oaths. In matters subject to arbitration between labor and management, neither party may subpoena or obtain an order for the production of the financial books, financial records, or documents pertaining to the income or financial condition of the other party. Subpoenas so issued shall be served, and upon application to the court by a party or the arbitrators, enforced, in manner provided by law for the service and enforcement of subpoenas in a civil action. 
+(b) 
+On application of a party, the arbitrators may order the deposition of a witness to be taken for use as evidence, and not for discovery, if the witness can not be subpoenaed or is unable to attend the hearing. The deposition shall be taken in the manner prescribed by law for the taking of depositions in civil actions. 
+
+(c) 
+All provisions of law compelling a person under subpoena to testify are applicable and enforceable upon application to the court. 
+
+
+(d) Fees for attendance as a witness are the same as for a witness in the superior court. As added by P.L.1-1998, SEC.53. 
+
+IC 34-57-2-9 Award; form and copies 
+Sec. 9. (a) The award must be in writing and signed by the arbitrators concurring therein. It must include a determination of all the questions submitted to the arbitrators, the decision of which is necessary in order to determine the controversy. The arbitrators shall deliver a copy to each party personally or by registered mail, or as provided in the agreement. 
+(b) An award shall be made within the time fixed by the agreement or, if not fixed, or, if not agreed upon, within a reasonable time. The parties may extend the time in writing either before or after the expiration of the time. A party waives the objection that an award was not made within the time required unless the party notifies the arbitrators of his objection before service of a signed copy of the award on the party. As added by P.L.1-1998, SEC.53. 
+
+IC 34-57-2-10 Modification or correction of award; procedure 
+Sec. 10. On written application of a party or, if an application to the court is pending under section 12, 13, or 14 of this chapter (or IC 34-4-2-12, IC 34-4-2-13, or IC 34-4-2-14 before their repeal), on submission to the arbitrators by the court under such conditions as the court may order, the arbitrators may modify or correct the award upon the grounds stated in section 14(a)(1) and 14(a)(3) of this chapter, or for the purpose of clarifying the award. The application shall be made within twenty (20) days after delivery of the award to the applicant. Written notice thereof shall be given forthwith to the opposing party, stating that the opposing party must serve his objections thereto, if any, within ten (10) days from the notice. The award so modified or corrected is subject to sections 12, 13, and 14 of this chapter. 
+As added by P.L.1-1998, SEC.53. 
+
+IC 34-57-2-11 Fees and expenses of arbitration 
+Sec. 11. The arbitrators' expenses and fees, together with other expenses, not including counsel fees, incurred in the conduct of the arbitration, shall be paid as provided in the award. As added by P.L.1-1998, SEC.53. 
+
+IC 34-57-2-12 Confirmation of award by court 
+Sec. 12. Upon application of a party, but not before ninety (90) days after the mailing of a copy of the award to the parties, the court shall confirm an award, unless within the time limits hereinafter imposed grounds are urged for vacating or modifying or correcting the award, in which case the court shall proceed as provided in sections 13 and 14 of this chapter. Upon confirmation, the court shall enter a judgment consistent with the award and cause such entry to be docketed as if rendered in an action in the court. As added by P.L.1-1998, SEC.53. 
+
+IC 34-57-2-13 Vacation of award by court; procedure 
+Sec. 13. (a) Upon application of a party, the court shall vacate an award where: 
+(1) 
+the award was procured by corruption or fraud; 
+
+(2) 
+there was evident partiality by an arbitrator appointed as a neutral or corruption in any of the arbitrators or misconduct prejudicing the rights of any party; 
+
+(3) 
+the arbitrators exceeded their powers and the award can not be corrected without affecting the merits of the decision upon the controversy submitted; 
+
+(4) 
+the arbitrators refused to postpone the hearing upon sufficient cause being shown therefor or refused to hear evidence material to the controversy or otherwise so conducted the hearing, contrary to the provisions of section 6 of this chapter, as to prejudice substantially the rights of a party; or 
+
+(5) 
+there was no arbitration agreement and the issue was not adversely determined in proceedings under section 3 of this chapter (or IC 34-4-2-3 before its repeal), and the party did not participate in the arbitration hearing without raising the objection; 
+
+
+but the fact that the relief was such that it could not or would not be granted by a court of law or equity is not ground for vacating or refusing to confirm the award. 
+(b) An application under this section shall be made within ninety 
+(90) 
+days after the mailing of a copy of the award to the applicant, except that, if predicated upon corruption or fraud or other undue means, it shall be made within ninety (90) days after such grounds are known or should have been known. 
+
+(c) 
+In vacating the award on grounds other than stated in subsection (a)(5), the court may order a rehearing before new arbitrators chosen as provided in the agreement, or in the absence thereof, by the court in accordance with section 4 of this chapter, or, if the award is vacated on grounds set forth in subsection (a)(3) or (a)(4), the court may order a rehearing before the arbitrators who made the award or their successors appointed in accordance with section 4 of this chapter. The time within which the agreement requires the award to be made is applicable to the rehearing and commences from the date of the order. 
+
+
+(d) If the application to vacate is denied and no motion to modify or correct the award is pending, the court shall confirm the award. As added by P.L.1-1998, SEC.53. 
+
+IC 34-57-2-14 Modification or correction of award by court; procedure 
+Sec. 14. (a) Upon application made within ninety (90) days after mailing of a copy of the award to the applicant, the court shall modify or correct the award where: 
+(1) 
+there was an evident miscalculation of figures or an evident mistake in the description of any person, thing, or property referred to in the award; 
+
+(2) 
+the arbitrators have awarded upon a matter not submitted to them and the award may be corrected without affecting the merits of the decision upon the issues submitted; or 
+
+(3) 
+the award is imperfect in a matter of form, not affecting the merits of the controversy. 
+
+
+(b) If the application is granted, the court shall modify and correct the award so as to effect its intent and shall confirm the award as so modified and corrected. Otherwise, the court shall confirm the award as made. 
+(c) An application to modify or correct an award may be joined in the alternative with an application to vacate the award. As added by P.L.1-1998, SEC.53. 
+
+IC 34-57-2-15 Entry of judgment or decree confirming, modifying, or correcting award; costs 
+Sec. 15. Upon the granting of an order confirming, modifying, or correcting an award, judgment, or decree shall be entered in conformity therewith and be enforced as any other judgment or decree. Costs of the application and of the proceedings subsequent thereto, and disbursements may be awarded by the court. 
+As added by P.L.1-1998, SEC.53. 
+
+IC 34-57-2-16 Applications to court 
+Sec. 16. Except as otherwise provided, an application to the court under this chapter shall be by motion and shall be heard in the manner and upon the notice provided by law or rule of court for the making and hearing of motions. Unless the parties have agreed otherwise, notice of an initial application for an order shall be served in the manner provided by law for the service of a summons in civil cases. As added by P.L.1-1998, SEC.53. 
+
+IC 34-57-2-17 "Court" defined; jurisdiction 
+Sec. 17. The term "court" means any circuit or superior court. The making of an agreement described in section 1 of this chapter providing for arbitration in Indiana confers jurisdiction on the court to enforce the agreement under and to enter judgment on an award thereunder. As added by P.L.1-1998, SEC.53. 
+
+IC 34-57-2-18 Application; proper court 
+Sec. 18. An application, as provided for in section 3(a) of this chapter, shall be made to the court in the county where the adverse party resides or has a place of business or, if the adverse party has no residence or place of business in this state, to the court of any county. All subsequent applications shall be made to the court hearing the initial application unless the court otherwise directs. As added by P.L.1-1998, SEC.53. 
+
+IC 34-57-2-19 Appeals authorized; procedure 
+Sec. 19. (a) An appeal may be taken from: 
+(1) 
+an order denying an application to compel arbitration made under section 3 of this chapter (or IC 34-4-2-3 before its repeal); 
+
+(2) 
+an order granting an application to stay arbitration made under section 3(b) of this chapter (or IC 34-4-2-3(b) before its repeal); 
+
+(3) 
+an order confirming or denying confirmation of an award; 
+
+(4) 
+an order modifying or correcting an award; 
+
+(5) 
+an order vacating an award without directing a rehearing; or 
+
+(6) 
+a judgment or decree entered pursuant to the provisions of this chapter (or IC 34-4-2 before its repeal). 
+
+
+(b) The appeal shall be taken in the manner and to the same extent as from orders or judgments in a civil action. As added by P.L.1-1998, SEC.53. 
+
+IC 34-57-2-20 Applicability of chapter 
+Sec. 20. This chapter applies only to agreements made after August 18, 1969. As added by P.L.1-1998, SEC.53. 
+
+IC 34-57-2-21 Construction of chapter 
+Sec. 21. This chapter shall be so construed as to effectuate its general purpose to make uniform the law of those states which enact similar arbitration statutes. As added by P.L.1-1998, SEC.53. 
+IC 34-57-2-22 Short title 
+Sec. 22. This chapter may be cited as the Uniform Arbitration Act. 
+As added by P.L.1-1998, SEC.53. 
+

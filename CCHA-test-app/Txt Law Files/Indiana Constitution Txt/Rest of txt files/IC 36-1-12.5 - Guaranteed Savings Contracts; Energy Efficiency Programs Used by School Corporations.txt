@@ -1,0 +1,507 @@
+IC 36-1-12.5 Chapter 12.5. Guaranteed Savings Contracts; Energy Efficiency Programs Used by School Corporations 
+IC 36-1-12.5-0.5 "Actual savings" defined 
+Sec. 0.5. As used in this chapter, "actual savings" includes stipulated savings. 
+As added by P.L.98-2002, SEC.1. 
+
+IC 36-1-12.5-0.6 "Billable revenues" defined; "billable revenue increases" defined; "revenues" defined 
+Sec. 0.6. As used in this chapter, "billable revenues", "billable revenue increases", and "revenues" include only revenues of a municipal water or wastewater utility operated by a political subdivision. 
+As added by P.L.168-2006, SEC.3. 
+
+IC 36-1-12.5-0.7 "Causally connected work" defined 
+Sec. 0.7. As used in this chapter, "causally connected work" means work that is required to properly implement a conservation measure. 
+As added by P.L.98-2002, SEC.2. Amended by P.L.168-2006, SEC.4. 
+
+IC 36-1-12.5-1 "Conservation measure" defined 
+Sec. 1. (a) As used in this chapter, "conservation measure": 
+(1) means: 
+(A) 
+a facility alteration; 
+
+(B) 
+an alteration of a structure (as defined in IC 36-1-10-2); 
+
+(C) 
+a technology upgrade; or 
+
+(D) 
+with respect to an installation described in subdivision 
+
+
+(2)(G) or (2)(H), an alteration of a structure or system; designed to provide billable revenue increases or reduce energy or water consumption costs, wastewater costs, or other operating costs; and 
+(2) includes the following: 
+(A) 
+Providing insulation of the facility or structure and systems in the facility or structure. 
+
+(B) 
+Installing or providing for window and door systems, including: 
+
+(i)
+ storm windows and storm doors; 
+
+(ii) 
+caulking or weatherstripping; 
+
+
+(iii) multi-glazed windows and doors; 
+(iv) 
+heat absorbing or heat reflective glazed and coated windows and doors; 
+
+(v)
+ additional glazing; 
+
+(vi) 
+the reduction in glass area; and 
+
+
+(vii) other modifications that reduce energy consumption. 
+
+(C) 
+Installing automatic energy control systems. 
+
+(D) 
+Modifying or replacing heating, ventilating, or air conditioning systems. 
+
+(E) 
+Unless an increase in illumination is necessary to conform to Indiana laws or rules or local ordinances, modifying or replacing lighting fixtures to increase the energy efficiency of the lighting system without increasing the overall illumination of a facility or structure. 
+
+(F) 
+Providing for other conservation measures that provide billable revenue increases or reduce energy or water consumption, reduce operating costs, or reduce wastewater costs, including future: 
+
+(i)
+ labor costs; 
+
+(ii) 
+costs or revenues for contracted services; and 
+
+
+(iii) related capital expenditures. 
+
+(G) 
+Installing equipment upgrades that improve accuracy of billable revenue generating systems. 
+
+(H) 
+Installing automated, electronic, or remotely controlled systems or measures that reduce direct personnel costs. 
+
+
+(b) The term does not include an alteration of a water or wastewater structure or system that increases the capacity of the structure or system. As added by P.L.24-1993, SEC.6. Amended by P.L.208-1995, SEC.3; P.L.98-2002, SEC.3; P.L.168-2006, SEC.5; P.L.71-2009, SEC.5; P.L.99-2009, SEC.4. 
+
+IC 36-1-12.5-1.5 "Governing body" defined 
+Sec. 1.5. As used in this chapter, "governing body" means the following: 
+(1) 
+With respect to school corporations, the governing body (as defined in IC 20-18-2-5). 
+
+(2) 
+With respect to a public library, the library board (as defined in IC 36-12-1-3). 
+
+(3) 
+With respect to a library described in IC 36-12-7-8, the trustees of the library. 
+
+(4) 
+With respect to a political subdivision that operates a municipal water or wastewater utility and in connection with the installation of a conservation measure to a water or wastewater structure or system under this chapter, the board or officer that has the power to award contracts. 
+
+(5) 
+With respect to other political subdivisions for any other project or program under this chapter, the legislative body (as defined in IC 36-1-2-9). 
+
+
+As added by P.L.208-1995, SEC.4. Amended by P.L.227-1999, 
+SEC.12; P.L.1-2005, SEC.235; P.L.168-2006, SEC.6. 
+
+
+IC 36-1-12.5-2 "Guaranteed savings contract" defined 
+Sec. 2. As used in this chapter, "guaranteed savings contract" refers to a contract entered into under this chapter, in which a qualified provider enters into an agreement with the governing body to: 
+(1) 
+evaluate and recommend to the governing body conservation measures; and 
+
+(2) 
+provide for the implementation of at least one (1) conservation measure. 
+
+
+As added by P.L.24-1993, SEC.6. Amended by P.L.208-1995, SEC.5; P.L.168-2006, SEC.7. 
+
+IC 36-1-12.5-2.5 "Industry engineering standards" defined 
+Sec. 2.5. As used in this chapter, "industry engineering standards" includes the following: 
+(1) 
+Lifecycle costing. 
+
+(2) 
+The R. S. Means estimating method developed by the R. S. Means Company. 
+
+(3) 
+Historical data. 
+
+(4) 
+Manufacturer's data. 
+
+(5) 
+American Society of Heating, Refrigeration, and Air Conditioning Engineers (ASHRAE) standards. 
+
+
+As added by P.L.98-2002, SEC.4. Amended by P.L.1-2010, SEC.146. 
+
+IC 36-1-12.5-3 "Qualified provider" defined 
+Sec. 3. (a) As used in this chapter, "qualified provider" means the following: 
+(1) 
+Before July 1, 1999, the term means a person that satisfies both of the following: 
+
+(A) 
+The person is experienced in the design, implementation, and installation of energy conservation measures. 
+
+(B) 
+The person submits to the school corporation or political subdivision a performance bond to ensure the qualified provider's faithful performance of the qualified provider's obligations over the term of the guaranteed energy savings contract. 
+
+
+
+(2) 
+After June 30, 1999, the term means a person that satisfies all of the following: 
+
+(A) 
+Subject to subdivision (3), the person is experienced in the design, implementation, and installation of energy conservation measures. 
+
+(B) 
+The person is certified and meets the requirements of IC 4-13.6-4. The person's response to the request for 
+
+proposals must include a copy of the person's certificate of qualification issued under IC 4-13.6-4. 
+
+(C) 
+Subject to subdivision (3), the person provides energy conservation engineering services by a professional engineer licensed under IC 25-31 who is under the person's direct employment and supervision. The person's response to the request for proposals must include the license number of each professional engineer employed by the person to satisfy the requirement of this clause. 
+
+(D) 
+The person provides: 
+
+(i) 
+monitoring for the facility performance guarantee; and 
+
+(ii) 
+service personnel under the person's direct 
+
+
+
+
+
+
+employment and supervision; for the duration of the contract's guarantee. 
+(E) 
+The person performs at least twenty percent (20%) of the work (measured in dollars of the total contract price) with its own workforce. 
+
+(F) 
+The person submits to the school corporation or political subdivision a performance bond to ensure the qualified provider's faithful performance of the qualified provider's obligations over the term of: 
+
+(i)
+ the guaranteed energy savings contract; or 
+
+(ii) 
+the guaranteed savings contract. 
+
+
+
+
+(3) With respect to conservation measures for which a contract is executed after June 30, 2006, the term includes a person that satisfies the following: 
+(A) 
+The person is experienced in the design, implementation, and installation of conservation measures. 
+
+(B) 
+The person provides engineering services with respect to conservation measures by a professional engineer licensed under IC 25-31 who is under the person's direct employment and supervision. The person's response to the request for proposals must include the license number of each professional engineer employed by the person to satisfy the requirement of this clause. 
+
+
+(b) For purposes of a guaranteed energy savings contract entered into before July 1, 1999, a person who was a qualified provider under subsection (a)(1) at the time the contract was entered into remains a qualified provider for that contract after June 30, 1999. If the person enters into: 
+(1) 
+a guaranteed energy savings contract after June 30, 1999, and before July 1, 2006, the person must satisfy the requirements of subsection (a)(2); or 
+
+(2) 
+a guaranteed savings contract after June 30, 2006, the person must satisfy the requirements of subsection (a)(2) and (a)(3); 
+
+
+to be considered a qualified provider. 
+As added by P.L.24-1993, SEC.6. Amended by P.L.208-1995, SEC.6; 
+P.L.58-1999, SEC.10; P.L.168-2006, SEC.8. 
+
+IC 36-1-12.5-3.5 "Related capital expenditures" defined 
+Sec. 3.5. As used in this chapter, "related capital expenditures" includes capital costs that: 
+(1) 
+the governing body reasonably believes will be incurred during the contract term; 
+
+(2) 
+are part of or are causally connected to the conservation measures being implemented; and 
+
+(3) 
+are documented by industry engineering standards. 
+
+
+As added by P.L.98-2002, SEC.5. Amended by P.L.168-2006, SEC.9. 
+
+IC 36-1-12.5-3.7 "Stipulated savings" defined 
+Sec. 3.7. As used in this chapter, "stipulated savings" are assumed savings that are documented by industry engineering standards. As added by P.L.98-2002, SEC.6. 
+
+IC 36-1-12.5-4 "Utility efficiency program" defined 
+Sec. 4. As used in this chapter, "utility efficiency program" refers to an energy, a water, or a wastewater efficiency program that: 
+(1) 
+includes a conservation measure; 
+
+(2) 
+is established by a public utility (as defined in IC 8-1-8.7-2); and 
+
+
+(3) is undertaken pursuant to this chapter. As added by P.L.24-1993, SEC.6. Amended by P.L.168-2006, SEC.10. 
+
+IC 36-1-12.5-5 Agreements to participate in programs or enter into contracts; necessary findings, notice, and provisions 
+Sec. 5. (a) The governing body may enter into an agreement with a public utility to participate in a utility efficiency program or enter into a guaranteed savings contract with a qualified provider to increase the political subdivision's billable revenues or reduce the school corporation's or the political subdivision's energy or water consumption, wastewater usage costs, or operating costs if, after review of the report described in section 6 of this chapter, the governing body finds: 
+(1) 
+in the case of conservation measures other than those that are part of a project related to the alteration of a water or wastewater structure or system, that the amount the governing body would spend on the conservation measures under the contract and that are recommended in the report is not likely to exceed the amount to be saved in energy consumption costs and other operating costs over twenty (20) years from the date of 
+
+installation if the recommendations in the report were followed; 
+
+(2) 
+in the case of conservation measures that are part of a project related to the alteration of a water or wastewater structure or system, that the amount the governing body would spend on the conservation measures under the contract and that are recommended in the report is not likely to exceed the amount of increased billable revenues or the amount to be saved in energy and water consumption costs, wastewater usage costs, and other operating costs over twenty (20) years from the date of installation if the recommendations in the report were followed; and 
+
+(3) 
+in the case of a guaranteed savings contract, the qualified provider provides a written guarantee as described in subsection (d)(3). 
+
+
+(b) 
+Before entering into an agreement to participate in a utility efficiency program or a guaranteed savings contract under this section, the governing body must publish notice under subsection (c) indicating: 
+
+(1) 
+that the governing body is requesting public utilities or qualified providers to propose conservation measures through: 
+
+(A) 
+a utility efficiency program; or 
+
+(B) 
+a guaranteed savings contract; and 
+
+
+
+(2) 
+the date, the time, and the place where proposals must be received. 
+
+
+(c) The notice required by subsection (b) must: 
+(1) 
+be published in two (2) newspapers of general circulation in the county where the school corporation or the political subdivision is located; 
+
+(2) 
+be published two (2) times with at least one (1) week between publications and with the second publication made at least thirty (30) days before the date by which proposals must be received; and 
+
+(3) 
+meet the requirements of IC 5-3-1-1. 
+
+
+
+(d) 
+An agreement to participate in a utility efficiency program or guaranteed savings contract under this section must provide that: 
+
+(1) 
+in the case of conservation measures other than those that are part of a project related to the alteration of a water or wastewater structure or system, all payments,exceptobligations upon the termination of the agreement or contract before the agreement or contract expires, may be made to the public utility or qualified provider (whichever applies) in installments, not to exceed the lesser of twenty (20) years or the average life of the conservation measures installed from the date of final installation; 
+
+(2) 
+in the case of conservation measures that are part of a project related to the alteration of a water or wastewater structure or system, all payments, except obligations upon the termination of the agreement or contract before the agreement 
+
+or contract expires, may be made to the public utility or qualified provider (whichever applies) in installments, not to exceed the lesser of twenty (20) years or the average life of the conservation measures installed from the date of final installation; 
+
+(3) 
+in the case of the guaranteed savings contract: 
+
+(A) 
+the: 
+
+(i) savings in energy and water consumption costs, wastewater usage costs, and other operating costs; and 
+
+(ii) 
+increase in billable revenues; due to the conservation measures are guaranteed to cover the costs of the payments for the measures; and 
+
+(B) 
+the qualified provider will reimburse the school corporation or political subdivision for the difference between the guaranteed savings and the actual savings; and 
+
+
+
+(4) 
+payments are subject to annual appropriation by the fiscal body of the school corporation or political subdivision and do not constitute an indebtedness of the school corporation or political subdivision within the meaning of a constitutional or statutory debt limitation. 
+
+
+
+
+As added by P.L.24-1993, SEC.6. Amended by P.L.212-1995, SEC.2; P.L.208-1995, SEC.7; P.L.168-2006, SEC.11; P.L.71-2009, SEC.6; P.L.99-2009, SEC.5; P.L.252-2015, SEC.45. 
+
+IC 36-1-12.5-5.3 Certification of subcontractor required 
+Sec. 5.3. (a) This section applies only to a guaranteed energy savings contract or a guaranteed savings contract entered into after June 30, 1999. 
+(b) A qualified provider may enter into a subcontract: 
+(1) 
+with a value of more than one hundred fifty thousand dollars ($150,000); and 
+
+(2) 
+for the performance of any part of a guaranteed energy 
+
+
+savings contract or guaranteed savings contract; only if the subcontractor is certified under IC 4-13.6-4. 
+As added by P.L.58-1999, SEC.11. Amended by P.L.168-2006, SEC.12. 
+
+IC 36-1-12.5-5.5 Procedures for issuance of bonds by political subdivisions not applicable 
+Sec. 5.5. IC 6-1.1-20 does not apply to an agreement to participate in: 
+(1) a utility efficiency program; or 
+(2) a guaranteed savings contract; entered into under this chapter. 
+As added by P.L.212-1995, SEC.3. Amended by P.L.168-2006, SEC.13. 
+
+IC 36-1-12.5-6 Report before installation or remodeling 
+Sec. 6. (a) Before the public utility or the qualified provider may install equipment in, make modifications to, or remodel a building or complex of buildings under a utility efficiency program or a guaranteed savings contract, the public utility or the qualified provider (whichever applies) must issue a report that includes estimates for the following: 
+(1) 
+All costs attributable to the work stipulated in the agreement or the contract, including the costs of design, engineering, installation, maintenance, repairs, or debt service. 
+
+(2) 
+The amounts by which: 
+
+(A) 
+energy or water consumption; 
+
+(B) 
+wastewater costs; or 
+
+
+
+(C) 
+operating costs; 
+will be reduced. 
+
+
+(3) 
+The amounts by which billable revenues will be increased. 
+
+
+(b) The report must also contain a listing of contractors and subcontractors to be used by the public utility or the qualified provider with respect to the conservation measures. As added by P.L.24-1993, SEC.6. Amended by P.L.168-2006, SEC.14. 
+
+IC 36-1-12.5-7 Installment payment contracts; maximum period 
+Sec. 7. (a) If the governing body enters into an installment payment contract for the purchase and installation of conservation measures under this chapter that are part of a project that is not related to the alteration of a water or wastewater structure or system, the balance of the payments must be paid in installments not to exceed the lesser of twenty (20) years or the average life of the conservation measure installed from the date of final installation. Payments under an installment payment contract are subject to annual appropriation by the fiscal body of the school corporation or political subdivision and do not constitute an indebtedness of the school corporation or political subdivision within the meaning of a constitutional or statutory debt limitation. 
+(b) 
+If the governing body enters into an installment payment contract for the purchase and installation of conservation measures under this chapter that are part of a project that is related to the alteration of a water or wastewater structure or system, the balance of the payments must be paid in installments not to exceed the lesser of twenty (20) years or the average life of the conservation measure installed from the date of final installation. Payments under an installment payment contract are subject to annual appropriation by the fiscal body of the school corporation or political subdivision and do not constitute an indebtedness of the school corporation or political subdivision within the meaning of a constitutional or 
+
+statutory debt limitation. 
+
+(c) 
+With respect to a conservation measure described in section 1(a)(2)(G) or 1(a)(2)(H) of this chapter, annual revenues or savings from a guaranteed savings contract may be less than annual payments on the contract if during the length of the contract total savings and increased billable revenues occur as provided for by the contract. 
+
+(d) 
+The financing of a guaranteed savings contract may be provided by: 
+
+
+(1) the vendor under the guaranteed savings contract; or 
+(2) a third party financial institution or company. As added by P.L.24-1993, SEC.6. Amended by P.L.212-1995, SEC.4; P.L.208-1995, SEC.8; P.L.168-2006, SEC.15; P.L.71-2009, SEC.7; P.L.99-2009, SEC.6. 
+
+IC 36-1-12.5-8 Approval required 
+Sec. 8. Conservation measures installed under a utility efficiency program or a guaranteed savings contract must be approved by the following: 
+(1) 
+The state department of health, division of fire and building safety, and any other state agency designated by statute. 
+
+(2) 
+An architect or engineer licensed under IC 25-4 or IC 25-31 if the conservation measures have a cost of more than fifty thousand dollars ($50,000). 
+
+
+As added by P.L.24-1993, SEC.6. Amended by P.L.1-2006, SEC.555; P.L.168-2006, SEC.16. 
+
+IC 36-1-12.5-9 Payroll records required; inspection 
+Sec. 9. (a) The contractor and each subcontractor engaged in installing conservation measures under a guaranteed savings contract shall keep full and accurate records indicating the names, classifications, and work performed by each worker employed by the respective contractor and subcontractor in connection with the work, together with an accurate record of the number of hours worked by each worker and the actual wages paid. 
+(b) The payroll records required to be kept under this section must be open to inspection by an authorized representative of the governing body or the department of labor. As added by P.L.24-1993, SEC.6. Amended by P.L.208-1995, SEC.9; P.L.168-2006, SEC.17. 
+
+IC 36-1-12.5-10 Submission of contract and annual report to department of local government finance 
+Sec. 10. The governing body shall: 
+(1) provide to the director of the department of local government finance not more than sixty (60) days after the date of execution of the guaranteed savings contract: 
+(A) 
+a copy of the executed guaranteed savings contract; 
+
+(B) 
+the: 
+
+(i)
+ energy or water consumption costs; 
+
+(ii) 
+wastewater usage costs; and 
+
+
+
+
+(iii) billable revenues, if any; before the date of execution of the guaranteed savings contract; and 
+(C) the documentation using industry engineering standards for: 
+(i)
+ stipulated savings; and 
+
+(ii) 
+related capital expenditures; and 
+
+
+(2) annually report to the director of the department of local government finance, in accordance with procedures established by the department, the savings resulting in the previous year from the guaranteed savings contract or utility efficiency program. 
+As added by P.L.24-1993, SEC.6. Amended by P.L.208-1995, SEC.10; P.L.98-2002, SEC.7; P.L.1-2006, SEC.556; P.L.168-2006, SEC.18; P.L.109-2015, SEC.57; P.L.233-2015, SEC.331. 
+
+IC 36-1-12.5-11 Contracts that include stipulated savings 
+Sec. 11. (a) A guaranteed savings contract that includes stipulated savings must specify the methodology used to calculate the savings using industry engineering standards. 
+(b) Stipulated savings may be used for conservation measures including the following: 
+(1) 
+Heating. 
+
+(2) 
+Air conditioning. 
+
+(3) 
+Ventilating. 
+
+(4) 
+Lighting. 
+
+(5) 
+Roofing. 
+
+(6) 
+Windows. 
+
+(7) 
+Water conservation. 
+
+(8) 
+Fuel and power improvements. 
+
+(9) 
+Wastewater generation. 
+
+(10)
+ Billable revenue increases. 
+
+(11) 
+Any work that is causally connected to the conservation measures listed in subdivisions (1) through (10). 
+
+
+(c) The guaranteed savings contract shall: 
+(1) describe stipulated savings for: 
+(A) 
+conservation measures; and 
+
+(B) 
+work causally connected to the conservation measures; and 
+
+
+(2) document assumptions by industry engineering standards. As added by P.L.98-2002, SEC.8. Amended by P.L.168-2006, SEC.19. 
+
+IC 36-1-12.5-12 Improvements not causally connected to conservation measure 
+Sec. 12. (a) An improvement that is not causally connected to a conservation measure may be included in a guaranteed savings contract if: 
+(1) 
+the total value of the improvement does not exceed fifteen percent (15%) of the total value of the guaranteed savings contract; and 
+
+(2) 
+either: 
+
+(A) 
+the improvement is necessary to conform to a law, a rule, or an ordinance; or 
+
+(B) 
+an analysis within the guaranteed savings contract demonstrates that: 
+
+(i) 
+there is an economic advantage to the political subdivision in implementing an improvement as part of the guaranteed savings contract; and 
+
+(ii) 
+the savings justification for the improvement is documented by industry engineering standards. 
+
+
+
+
+
+
+(b) The information required under subsection (a) must be reported to the director of the department of local government finance. As added by P.L.98-2002, SEC.9. Amended by P.L.1-2006, SEC.557; P.L.168-2006, SEC.20; P.L.109-2015, SEC.58; P.L.233-2015, SEC.332. 
+

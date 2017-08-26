@@ -1,0 +1,1269 @@
+IC 3-14 ARTICLE 14. OFFENSES 
+IC 3-14-1 Chapter 1. Campaign Violations 
+IC 3-14-1-1 Defacing,falsifying,or destroying declarations,requests, petitions, or certificates 
+Sec. 1. A person who knowingly: 
+(1) 
+falsely makes or fraudulently defaces or destroys a declaration of candidacy, request for ballot placement under IC 3-8-3, certificate or petition of nomination, recount petition or cross-petition, contest petition, or certificate of candidate selection, or a part of the declaration, request, petition, or certificate; 
+
+(2) 
+files a declaration of candidacy, request for ballot placement under IC 3-8-3, certificate or petition of nomination, recount petition or cross-petition, contest petition, or certificate of candidate selection, knowing any part thereof to be falsely made; 
+
+(3) 
+refuses to execute a certificate of nomination or candidate selection when required by this title to do so and knowing that the candidate has been nominated or selected; 
+
+(4) 
+if the document is listed in subdivision (1), refuses to: 
+
+(A) receive the document; or 
+
+(B) 
+record the date and time the document was received; when presented in accordance with this title; or 
+
+(5) 
+suppresses a declaration of candidacy, request for ballot placement under IC 3-8-3, petition or certificate of nomination, recount petition or cross-petition, contest petition, or certificate of candidate selection, that has been duly filed, or any part of the declaration, request, petition, or certificate; 
+
+
+commits a Level 6 felony. 
+As added by P.L.5-1986, SEC.10. Amended by P.L.10-1988, SEC.204; P.L.158-2013, SEC.4. 
+
+IC 3-14-1-2 Printing, publishing, or distributing of slate during primary campaign without authority 
+Sec. 2. (a) A person who: 
+(1) prints, publishes, or distributes a slate during a primary election campaign without authority from and: 
+(A) 
+over the name of an organization of voters, including the name of the organization and its officers; or 
+
+(B) 
+if it is not an organized group of voters, over the names of at least ten (10) voters in the political subdivision in which the primary election is being held; 
+
+
+together with the name of the printer who printed the slate; 
+(2) 
+prints on a slate during a primary election campaign the name or number of a candidate without the candidate's written consent; or 
+
+(3) 
+prints, publishes, or distributes a slate during a primary election campaign unless at least five (5) days before it is printed and published the written consent of the voters over whose names it is published and the written consent of the candidates in whose behalf it is distributed are filed in the office of the county election board in each county where the election is held; 
+
+
+commits a Class A misdemeanor. 
+(b) As used in this section, "slate" means a sample ballot, reproduction of an official ballot, or a listing of candidates: 
+(1) 
+having the names or numbers of more than one (1) candidate for nomination at a primary election; and 
+
+(2) 
+that expresses support for more than one (1) of the candidates set forth on the ballot or list. 
+
+
+As added by P.L.5-1986, SEC.10. Amended by P.L.3-1987, SEC.463; P.L.10-1988, SEC.205; P.L.3-1997, SEC.399. 
+
+IC 3-14-1-3 Circulation or publication of anonymous campaign material 
+Sec. 3. An individual, an organization, or a committee that circulates or publishes material in an election without the statement required under IC 3-9-3-2.5 commits a Class A misdemeanor. As added by P.L.5-1986, SEC.10. Amended by P.L.10-1988, SEC.206; P.L.5-1989, SEC.71; P.L.3-1997, SEC.400. 
+
+IC 3-14-1-4 Repealed 
+(Repealed by P.L.3-1997, SEC.475.) 
+
+IC 3-14-1-5 Repealed 
+(Repealed by P.L.5-1989, SEC.120.) 
+
+IC 3-14-1-6 Solicitation, challenge, orperformance of electionfunctionby state police department employee, police officer, or firefighter 
+Sec. 6. (a) A state police department employee or a police officer or firefighter (including a special duty, auxiliary, or volunteer police officer or firefighter) of a political subdivision who recklessly: 
+(1) 
+solicits votes or campaign funds; 
+
+(2) 
+challenges voters; or 
+
+
+(3) performs any other election related function; while wearing any identifying insignia or article of clothing that is part of an official uniform or while on duty commits a Class A misdemeanor. 
+(b) This section does not prohibit any of the following: 
+(1) 
+A state police department civilian employee from voting while on duty. 
+
+(2) 
+A police officer or firefighter from voting while wearing any part of an official uniform or while on duty. 
+
+(3) 
+An individual described in subsection (a) from consenting to a photograph (or other visual depiction) of the individual wearing any part of the individual's official uniform appearing in an advertisement in support of a candidate or political party. 
+
+(4) 
+An individual from serving as a pollbook holder under IC 3-6-6-36. 
+
+(5) 
+A police officer wearing any identifying insignia or article of clothing that is part of an official uniform or while on duty from serving as an absentee ballot courier appointed under IC 3-11.5-4-22. 
+
+
+As added by P.L.5-1986, SEC.10. Amended by P.L.16-1987, SEC.1; P.L.12-1989, SEC.1; P.L.3-1997, SEC.401; P.L.176-1999, SEC.117. 
+
+IC 3-14-1-7 Collection, receipt, or disbursement of money or property by committee without appointment of treasurer 
+Sec. 7. A committee subject to IC 3-9 or any of its members that recklessly collects, receives, keeps, or disburses money or other property to promote any activity to which IC 3-9 applies without appointing and maintaining a treasurer as required by IC 3-9-1 commits a Class B misdemeanor. As added by P.L.5-1986, SEC.10. 
+
+IC 3-14-1-8 Repealed 
+(Repealed by P.L.3-1995, SEC.157.) 
+
+IC 3-14-1-9 Repealed 
+(Repealed by P.L.3-1995, SEC.157.) 
+
+IC 3-14-1-10 Excess contributions by corporation or labor organization 
+Sec. 10. A corporation or labor organization that recklessly exceeds any of the limitations on contributions prescribed by IC 3-9-2-4 commits a Class B misdemeanor. As added by P.L.5-1986, SEC.10. 
+
+IC 3-14-1-10.5 Acceptance of contributions in excess of permitted amounts by certain judges 
+Sec. 10.5. (a) A person who recklessly violates IC 33-33-2-11 by accepting contributions that exceed the amount permitted under that section commits a Class B misdemeanor. 
+(b) A person described by subsection (a) is also subject to a civil penalty under IC 3-9-4-17. The county election board may assess a penalty of not more than three (3) times the amount of the contribution that exceeds the limit prescribed by IC 33-33-2-11, plus any investigative costs incurred and documented by the board. 
+As added by P.L.3-1997, SEC.402. Amended by P.L.98-2004, SEC.44. 
+
+IC 3-14-1-11 Contributions in the name of another person 
+Sec. 11. A person who: 
+(1) 
+recklessly makes a contribution in the name of another person; or 
+
+(2) 
+knowingly accepts a contribution made by one person in the 
+
+
+name of another person; commits a Class B misdemeanor. 
+As added by P.L.5-1986, SEC.10. 
+
+IC 3-14-1-12 Repealed 
+(Repealed by P.L.3-1995, SEC.157.) 
+
+IC 3-14-1-13 Filing fraudulent reports 
+Sec. 13. A person who knowingly files a report required by IC 3-9 that is fraudulent commits a Level 6 felony. 
+As added by P.L.5-1986, SEC.10. Amended by P.L.158-2013, SEC.5. 
+
+IC 3-14-1-14 Failure to file required report 
+Sec. 14. A person who fails to file a report with the proper office as required by IC 3-9 commits a Class B misdemeanor. 
+As added by P.L.5-1986, SEC.10. Amended by P.L.3-1987, SEC.465. 
+
+IC 3-14-1-14.5 Commingling committee funds with personal funds 
+Sec. 14.5. A person who recklessly violates IC 3-9-2-9(c) by commingling the funds of a committee with the personal funds of an officer, a member, or an associate of the committee commits a Class B misdemeanor. 
+As added by P.L.3-1993, SEC.231. 
+IC 3-14-1-15 Repealed 
+(Repealed by P.L.3-1995, SEC.157.) 
+
+IC 3-14-1-16 Violation of IC 3-9-3-4 
+Sec. 16. A person who knowingly or intentionally violates IC 3-9-3-4 commits a Class A infraction. 
+As added by P.L.13-1987, SEC.3. 
+IC 3-14-1-17 Use of government employer's property for soliciting contribution, advocating election or defeat of a candidate, or advocate approval or defeat of a public question 
+Sec. 17. (a) As used in this section, "government employee" refers to any of the following: 
+(1) 
+An employee of the state. 
+
+(2) 
+An employee of a political subdivision. 
+
+(3) 
+A special state appointee (as defined in IC 4-2-6-1). 
+
+(4) 
+An employee of a charter school (as defined in IC 20-24-1-4). 
+
+
+(b) 
+As used in this section, "government employer" refers to the state or a political subdivision. 
+
+(c) As used in this section, "property" refers only to the following: 
+(1) 
+Equipment, goods, and materials, including mail and messaging systems. 
+
+(2) 
+Money. 
+
+
+
+(d) 
+A government employee may not knowingly or intentionally use the property of the employee's government employer to do any of the following: 
+
+(1) 
+Solicit a contribution. 
+
+(2) 
+Advocate the election or defeat of a candidate. 
+
+(3) 
+Advocate the approval or defeat of a public question. 
+
+
+
+(e) 
+A government employee may not knowingly or intentionally distribute campaign materials advocating: 
+
+(1) the election or defeat of a candidate; or 
+
+(2) 
+the approval or defeat of a public question; on the government employer's real property during regular working hours. 
+
+(f) This section does not prohibit the following: 
+(1) 
+Activities permitted under IC 6-1.1-20. 
+
+(2) 
+A government employee from carrying out administrative duties under the direction of an elected official who is the government employee's supervisor. 
+
+
+
+(g) 
+A government employee who knowingly or intentionally performs several actions described in subsection (d) or (e) in a connected series that are closely related in time, place, and circumstance may be charged with only one (1) violation of this section for that connected series of actions. 
+
+(h) 
+A government employee who violates this section commits a Class A misdemeanor. However, the offense is a Level 6 felony if the person has a prior unrelated conviction under this section. 
+
+
+As added by P.L.258-2013, SEC.85. Amended by P.L.219-2013, SEC.72; P.L.168-2014, SEC.2; P.L.169-2015, SEC.157; P.L.216-2015, SEC.34. 
+
+IC 3-14-2 Chapter 2. Vote Fraud 
+IC 3-14-2-1 Fraudulent application for registration or absentee ballot; fraudulent voting 
+Sec. 1. A person who knowingly does any of the following commits a Level 6 felony: 
+(1) 
+Conspires with an individual for the purpose of encouraging the individual to submit a false application for registration. 
+
+(2) 
+Conspires with an individual for the purpose of encouraging the individual to vote illegally. 
+
+(3) 
+Pays or offers to pay an individual for doing any of the following: 
+
+(A) 
+Applying for an absentee ballot. 
+
+(B) 
+Casting an absentee ballot. 
+
+(C) 
+Registering to vote. 
+
+(D) 
+Voting. 
+
+
+
+(4) 
+Accepts the payment of any property for doing any of the following: 
+
+(A) 
+Applying for an absentee ballot. 
+
+(B) 
+Casting an absentee ballot. 
+
+(C) 
+Registering to vote. 
+
+(D) 
+Voting. 
+
+
+
+
+As added by P.L.5-1986, SEC.10. Amended by P.L.103-2005, SEC.21; P.L.158-2013, SEC.6. 
+
+IC 3-14-2-2 Fraudulent application for registration or procurement of registration 
+Sec. 2. A person who, knowing the person is not a voter and will not be a voter at the next election, applies for registration or procures registration as a voter commits a Class A misdemeanor. 
+As added by P.L.5-1986, SEC.10. 
+
+IC 3-14-2-2.5 Solicitation for fraudulent absentee ballot application 
+Sec. 2.5. A person who does either of the following, knowing that an individual is ineligible to register to vote or to vote, commits absentee ballot fraud, a Level 6 felony: 
+(1) 
+Solicits the individual to complete an absentee ballot application. 
+
+(2) 
+Solicits the individual to submit an absentee ballot application to a county election board. 
+
+
+As added by P.L.103-2005, SEC.22. Amended by P.L.158-2013, SEC.7. 
+IC 3-14-2-3 Fraudulent subscription of another person's name 
+
+Sec. 3. A person who: 
+(1) 
+subscribes the name of another person to an affidavit of registration, a petition of nomination, a declaration of candidacy, or application for an absentee ballot knowing that the affidavit, petition, declaration, or application contains a false statement; or 
+
+(2) 
+subscribes the name of another person to an affidavit of registration, a petition of nomination, a declaration of candidacy, or application for an absentee ballot without writing on it the person's own name and address as an attesting witness; 
+
+
+commits a Level 6 felony. 
+As added by P.L.5-1986, SEC.10. Amended by P.L.103-2005, SEC.23; P.L.194-2013, SEC.94; P.L.158-2013, SEC.8; P.L.168-2014, SEC.3. 
+
+IC 3-14-2-4 Registering to vote more than once 
+Sec. 4. A person who recklessly registers or offers to register to vote more than once commits a Class A misdemeanor. As added by P.L.5-1986, SEC.10. 
+
+IC 3-14-2-5 Destruction or failure to file or deliver registration form or absentee ballot application after execution 
+Sec. 5. (a) A person who recklessly destroys or fails to deliver an absentee ballot application to the proper officer in accordance with IC 3-11-4 after the application has been executed by another individual in accordance with IC 3-11-4 commits a Class A misdemeanor. 
+(b) A person who recklessly destroys or fails to file or deliver to the proper officer a registration affidavit or form of registration in accordance with IC 3-7 after the affidavit or form has been executed commits a Class A misdemeanor. As added by P.L.5-1986, SEC.10. Amended by P.L.103-2005, SEC.24; P.L.194-2013, SEC.95. 
+
+IC 3-14-2-6 Unauthorized release or removal of registration materials or information 
+Sec. 6. A person who knowingly, intentionally, or recklessly releases or removes any registration materials or information contained in the computerized list maintained under IC 3-7-26.3 from the county voter registration office, except when release or removal is necessary: 
+(1) to comply with IC 3-7; or 
+(2) for the destruction of the materials under IC 5-15-6; commits a Class A misdemeanor. 
+As added by P.L.5-1986, SEC.10. Amended by P.L.12-1995, SEC.87; P.L.4-1996, SEC.87; P.L.209-2003, SEC.192; P.L.164-2006, SEC.131. 
+
+IC 3-14-2-7 Withholding information or furnishing false information to poll taker; return of false names or names of deceased persons 
+Sec. 7. A person who knowingly: 
+(1) 
+upon the demand of a poll taker, withholds any information from the poll taker with regard to the qualifications of a voter or person not entitled to vote; 
+
+(2) 
+furnishes to a poll taker any false information with regard to the qualifications of any person for voting; or 
+
+(3) 
+returns to the poll taker as voters any false names or the 
+
+
+names of any persons who are dead or are not voters; commits a Class A misdemeanor. 
+As added by P.L.5-1986, SEC.10. 
+
+IC 3-14-2-8 Returnof names of ineligible, fictitious,ordeceasedpersons by poll taker 
+Sec. 8. A poll taker who knowingly returns: 
+(1) 
+the name of a person who is not entitled to vote in the precinct for which the poll is taken at the next election; 
+
+(2) 
+a fictitious name; or 
+
+
+(3) the name of a dead person; commits a Class A misdemeanor. 
+As added by P.L.5-1986, SEC.10. 
+
+IC 3-14-2-9 Unregistered or unauthorized voting 
+Sec. 9. A person who knowingly votes or offers to vote at an election when the person is not registered or authorized to vote commits a Level 6 felony. 
+As added by P.L.5-1986, SEC.10. Amended by P.L.158-2013, SEC.9. 
+
+IC 3-14-2-10 Voting by ineligible persons 
+Sec. 10. A person who recklessly votes at an election, unless the person is a registered voter under the requirements of IC 3-7 at the time of the election, commits a Class A misdemeanor. 
+As added by P.L.5-1986, SEC.10. 
+
+IC 3-14-2-11 Voting in other precincts; making false statements concerning certain voter information 
+Sec. 11. (a) A person who knowingly votes or offers to vote in a precinct except the one in which the person is registered and resides commits a Level 6 felony, except when permitted under IC 3-10-10, IC 3-10-11, or IC 3-10-12. 
+(b) A person who knowingly makes a false statement concerning the name, address, or voter identification number of the person by: 
+(1) 
+signing a person's signature on a poll list to affirm false information concerning a voter printed on the poll list; or 
+
+(2) 
+making a written or oral affirmation under IC 3-7-39-7, IC 3-10-1-24, IC 3-10-10-4, IC 3-10-11-4, IC 3-10-12-4, or IC 3-11-8-25.1 to provide false information concerning a voter in addition to the information concerning the voter printed on the poll list; 
+
+
+commits a Level 6 felony. 
+As added by P.L.5-1986, SEC.10. Amended by P.L.3-1987, SEC.466; P.L.10-1988,SEC.208; P.L.17-1993, SEC.17; P.L.12-1995, SEC.88; P.L.194-2013, SEC.96; P.L.158-2013, SEC.10; P.L.168-2014, SEC.4; P.L.169-2015, SEC.158. 
+
+IC 3-14-2-12 Voting or applying to vote in false name and own name 
+Sec. 12. A person who: 
+(1) 
+knowingly votes or makes application to vote in an election in a name other than the person's own; or 
+
+(2) 
+having voted once at an election, knowingly applies to vote at the same election in the person's own name or any other name; 
+
+
+commits a Level 6 felony. 
+As added by P.L.5-1986, SEC.10. Amended by P.L.158-2013, SEC.11. 
+
+IC 3-14-2-13 Hiring or soliciting an ineligible person to vote in a precinct 
+Sec. 13. A person who knowingly hires or solicits another person to go into a precinct for the purpose of voting at an election at the precinct when the person hired or solicited is not a voter in the precinct commits a Level 6 felony. As added by P.L.5-1986, SEC.10. Amended by P.L.103-2005, SEC.25; P.L.158-2013, SEC.12. 
+
+IC 3-14-2-14 Precinct officer or public official allowing ineligible voters or unauthorized procedure 
+Sec. 14. A precinct election officer or public official upon whom a duty is imposed by this title who knowingly: 
+(1) allows a person to vote who is not entitled to vote; or 
+(2) allows a person to vote by use of an unauthorized procedure; commits a Level 6 felony. As added by P.L.5-1986, SEC.10. Amended by P.L.158-2013, SEC.13. 
+
+IC 3-14-2-15 Unauthorized delivery of ballots 
+Sec. 15. A member, an employee, or an agent of a county election board who knowingly delivers a ballot to a person except in the manner prescribed by this title commits a Level 6 felony. 
+As added by P.L.5-1986, SEC.10. Amended by P.L.8-1995, SEC.65; P.L.103-2005, SEC.26; P.L.158-2013, SEC.14. 
+
+IC 3-14-2-16 Ballots; fraudulent application, showing, examination, receipt, possession, completion, or delivery 
+Sec. 16. A person who knowingly does any of the following commits a Level 6 felony: 
+(1) 
+Applies for or receives a ballot in a precinct other than that precinct in which the person is entitled to vote. 
+
+(2) 
+Except when receiving assistance under IC 3-11-9, shows a ballot after it is marked to another person in such a way as to reveal the contents of it or the name of a candidate for whom the person has voted. 
+
+(3) 
+Except when offering assistance requested by a voter in accordance with IC 3-11-9, examines a ballot that a voter has prepared for voting or solicits the voter to show the ballot. 
+
+(4) 
+Receives from a voter a ballot prepared by the voter for voting, except: 
+
+(A) 
+the inspector; 
+
+(B) 
+a member of the precinct election board temporarily acting for the inspector; 
+
+(C) 
+a member or an employee of a county election board (acting under the authority of the board and state law) or an absentee voter board member acting under IC 3-11-10; or 
+
+(D) 
+a member of the voter's household, an individual designated as attorney in fact for the voter, or an employee of: 
+
+(i) the United States Postal Service; or 
+
+(ii) 
+a bonded courier company; (acting in the individual's capacity as an employee of the United States Postal Service or a bonded courier company) when delivering an envelope containing an absentee ballot under IC 3-11-10-1. 
+
+
+
+(5) 
+Receives a ballot from a person other than one (1) of the poll clerks or authorized assistant poll clerks. 
+
+(6) 
+Delivers a ballot to a voter to be voted, unless the person is: 
+
+(A) 
+a poll clerk or authorized assistant poll clerk; or 
+
+(B) 
+a member of a county election board or an absentee voter board acting under IC 3-11-10. 
+
+
+
+(7) 
+Delivers a ballot (other than an absentee ballot) to an inspector that is not the ballot the voter receives from the poll clerk or assistant poll clerk. 
+
+(8) 
+Delivers an absentee ballot to a team of absentee ballot counters appointed under IC 3-11.5-4-22, a county election board, a circuit court clerk, or an absentee voting board under IC 3-11-10 that is not the ballot cast by the absentee voter. 
+
+(9) 
+Delivers an absentee ballot prepared by the voter for voting to a county election board, except for: 
+
+(A) 
+the inspector; 
+
+(B) 
+a member of the precinct election board temporarily acting for the inspector; 
+
+(C) 
+a member or an employee of a county election board (acting under the authority of the board and in accordance with state law) or an absentee voter board member acting under IC 3-11-10; or 
+
+(D) 
+a member of the voter's household or an individual designated as attorney in fact for the voter, an employee of: 
+
+(i) the United States Postal Service; or 
+
+(ii) 
+a bonded courier company; (acting in the individual's capacity as an employee of the United States Postal Service or a bonded courier company) when delivering an envelope containing an absentee ballot under IC 3-11-10-1. 
+
+
+
+(10) 
+Possesses an unmarked absentee ballot on or before the date of the election for which the absentee ballot has been printed, unless the person is authorized to possess the absentee ballot under this title as any of the following: 
+
+(A) 
+A printer, when arranging for the delivery of unmarked absentee ballots to a county election board under IC 3-11-2. 
+
+(B) 
+A county election board member or employee (acting under the authority of the board and in accordance with state law). 
+
+(C) 
+An absentee voter board member. 
+
+(D) 
+An employee of: 
+
+(i) the United States Postal Service; or 
+
+(ii) 
+a bonded courier company; (acting in the individual's capacity as an employee of the United States Postal Service or a bonded courier company) when delivering an envelope containing an absentee ballot. 
+
+(E) 
+An individual authorized under IC 3-11-10-24 to deliver an absentee ballot. 
+
+(F) 
+An absentee ballot counter under IC 3-11.5. 
+
+(G) 
+A provisional ballot counter. 
+
+(H) 
+A precinct election officer. 
+
+(I)
+ The voter who applied for the absentee ballot. 
+
+
+
+(11) 
+Completes or signs an absentee ballot application for a voter, or assists a voter in completing an absentee ballot application in violation of IC 3-11. 
+
+
+As added by P.L.5-1986, SEC.10. Amended by P.L.3-1987, SEC.467; P.L.5-1989, SEC.73; P.L.3-1993, SEC.232; P.L.19-1993, SEC.3; 
+P.L.4-1996, SEC.88; P.L.38-1999, SEC.70; P.L.103-2005, SEC.27; P.L.158-2013, SEC.15. 
+
+IC 3-14-2-17 Marking ballot to indicate to another person how voter has voted 
+Sec. 17. A voter at an election who knowingly writes or places on a ballot a name, sign, or device as a distinguishing mark by which to indicate to any other person how the voter has voted commits a Level 6 felony. 
+As added by P.L.5-1986, SEC.10. Amended by P.L.158-2013, SEC.16. 
+
+IC 3-14-2-18 Disclosure of voter's vote to another 
+Sec. 18. A voter who knowingly: 
+(1) 
+does anything to enable any other person to see or know for what ticket, candidates, or public questions the voter has voted; or 
+
+(2) 
+moves into a position, or does any other thing, to enable the voter to see or know for what ticket, candidates, or public questions any other voter votes; 
+
+
+commits a Level 6 felony. 
+As added by P.L.5-1986, SEC.10. Amended by P.L.10-1988, SEC.209; P.L.103-2005, SEC.28; P.L.221-2005, SEC.134; P.L.158-2013, SEC.17. 
+
+IC 3-14-2-19 Forgery of official ballot endorsement; printing or circulating imitation ballot 
+Sec. 19. (a) A person who knowingly: 
+(1) forges or falsely makes the official endorsement of a ballot; or 
+(2) 
+prints or circulates an imitation ballot; commits a Level 6 felony. 
+
+(b) 
+This section does not prohibit the printing or circulation of a sample ballot or a reproduction of an official ballot if the sample or reproduction complies with IC 3-9-3-2.5 and the printing or circulation does not violate IC 3-14-1-2. 
+
+
+As added by P.L.5-1986, SEC.10. Amended by P.L.66-2003, SEC.51; P.L.158-2013, SEC.18. 
+
+IC 3-14-2-20 Deceptive registration of vote 
+Sec. 20. A person who knowingly: 
+(1) 
+deceives a voter in registering the voter's vote under IC 3-11-8; or 
+
+(2) 
+registers a voter's vote in a way other than as requested by the voter; 
+
+
+commits a Level 6 felony. 
+As added by P.L.5-1986, SEC.10. Amended by P.L.3-1987, SEC.468; P.L.158-2013, SEC.19. 
+
+IC 3-14-2-21 Fraudulent inducement to vote other than as intended 
+Sec. 21. A person who fraudulently causes a voter at an election to vote for a person different from the one the voter intended to vote for or on a public question different from the vote the voter intended to cast commits a Level 6 felony. As added by P.L.5-1986, SEC.10. Amended by P.L.3-1987, SEC.469; P.L.10-1988, SEC.210; P.L.158-2013, SEC.20. 
+
+IC 3-14-2-22 False representation of ballot to non-English speaking voter 
+Sec. 22. A person who knowingly furnishes a voter who cannot read the English language with a ballot at an election that the person represents to the voter as containing a name different from the one printed or written on it commits a Level 6 felony. As added by P.L.5-1986, SEC.10. Amended by P.L.3-1987, SEC.470; P.L.158-2013, SEC.21. 
+
+IC 3-14-2-23 Opening, destruction, or unauthorized delivery of ballots by custodian of ballots 
+Sec. 23. A person entrusted with the custody of ballots who knowingly: 
+(1) 
+opens a package in which the ballots are contained; 
+
+(2) 
+destroys a ballot; or 
+
+(3) 
+delivers such a package or ballot to a person not entitled to 
+
+
+receive it; commits a Level 6 felony. As added by P.L.5-1986, SEC.10. Amended by P.L.158-2013, SEC.22. 
+
+IC 3-14-2-24 Removal or destruction of ballots; false entries in poll book; false tallying 
+Sec. 24. A person who: 
+(1) 
+takes a ballot legally deposited out of a ballot box or out of a voting system for the purpose of destroying the ballot or substituting another ballot in its place; 
+
+(2) 
+destroys or misplaces a ballot with the intent to substitute another ballot for it or with the intent to prevent it from being counted; or 
+
+(3) 
+knowingly enters upon the pollbooks the name of a person who has not legally voted or knowingly tallies a vote for a candidate or on a public question not voted for by the ballot; 
+
+
+commits a Level 6 felony. 
+As added by P.L.5-1986, SEC.10. Amended by P.L.10-1988, SEC.211; P.L.103-2005, SEC.29; P.L.158-2013, SEC.23. 
+
+IC 3-14-2-25 Marking or defacing ballots by precinct election board member or authorized election personnel 
+Sec. 25. A member of a precinct election board or county election board, a person employed at the central counting headquarters, or a person charged with a duty in connection with an election or entrusted with the custody or control of a ballot either before or after voting who marks or defaces a ballot for the purpose of: 
+(1) identifying the ballot (except by numbering protested ballots for future reference as provided by law); or 
+(2) vitiating the ballot; commits a Level 6 felony. As added by P.L.5-1986, SEC.10. Amended by P.L.158-2013, SEC.24. 
+
+IC 3-14-2-26 Tampering with ballot container, voting system component, or contents 
+Sec. 26. A person who: 
+(1) 
+during the progress of an election or within the time for preparation required under this title, knowingly breaks open or violates the seal or lock of a ballot box, envelope, container, bag, or voting system component in which ballots have been deposited; 
+
+(2) 
+knowingly obtains a ballot box, envelope, container, bag, or voting system component that contains ballots and cancels, withholds, or destroys a ballot; 
+
+(3) 
+knowingly increases or decreases the number of ballots legally deposited in a ballot box, envelope, container, bag, or voting system component; or 
+
+(4) 
+knowingly makes a fraudulent erasure or alteration on a tally sheet, poll book, list of voters, or election return deposited in a ballot box, envelope, bag, or voting system component; 
+
+
+commits a Level 6 felony. 
+As added by P.L.5-1986, SEC.10. Amended by P.L.3-1987, SEC.471; P.L.103-2005, SEC.30; P.L.158-2013, SEC.25. 
+
+IC 3-14-2-27 Fraudulent recording of votes; false statement, certificate, or return of vote 
+Sec. 27. A precinct election officer at the close of the polls, an absentee ballot counter acting under IC 3-11.5-5 or IC 3-11.5-6, or a provisional ballot counter acting under IC 3-11.7-5 who knowingly: 
+(1) 
+causes the vote to be incorrectly taken down for a candidate 
+
+or public question; or 
+
+(2) 
+makes a false statement, certificate, or return of any kind of 
+
+
+that vote; commits a Level 6 felony. As added by P.L.5-1986, SEC.10. Amended by P.L.3-1987, SEC.472; P.L.3-1993, SEC.233; P.L.19-1993, SEC.4; P.L.126-2002, SEC.89; P.L.158-2013, SEC.26. 
+
+IC 3-14-2-28 Fraudulent alteration of electionreturn; intentional destruction of poll book or tally; fraudulent alteration of vote as returned 
+Sec. 28. A person who: 
+(1) 
+with intent to defraud, alters an election return; 
+
+(2) 
+knowingly destroys, misplaces, or loses a poll book or tally sheet; or 
+
+(3) 
+with intent to defraud, alters the vote of a candidate or on a public question as returned by the county election board or its employees; 
+
+
+commits a Level 6 felony. 
+As added by P.L.5-1986, SEC.10. Amended by P.L.10-1988, SEC.212; P.L.158-2013, SEC.27. 
+
+IC 3-14-2-29 Inspecting voting system without authorization 
+Sec. 29. A person who knowingly inspects a voting system under IC 3-12-4-18 without: 
+(1) 
+the adoption of an order under IC 3-12-4-18 to conduct the inspection; or 
+
+(2) 
+the filing of an order adopted under IC 3-12-4-18 with the 
+
+
+secretary of state; commits a Level 6 felony. As added by P.L.3-1987, SEC.473. Amended by P.L.103-2005, SEC.31; P.L.194-2013, SEC.97; P.L.158-2013, SEC.28; P.L.168-2014, SEC.5. 
+
+IC 3-14-2-30 Violations 
+Sec. 30. A person who knowingly votes at a town convention in violation of IC 3-8-5-11(c) commits a Class A misdemeanor. As added by P.L.167-2001, SEC.9. 
+
+IC 3-14-3 Chapter 3. Interference With Free and Equal Elections 
+IC 3-14-3-0.1 Effect of legislation enacted during 2015 regular session of the general assembly 
+Sec. 0.1. Notwithstanding any other law, the additions and amendments to this chapter made by legislation enacted in the 2015 regular session of the general assembly do not affect any: 
+(1) 
+rights or liabilities accrued; 
+
+(2) 
+penalties incurred; 
+
+(3) 
+offenses committed; or 
+
+
+(4) proceedings begun; before July 1, 2015. Those rights, liabilities, penalties, offenses, and proceedings continue and shall be imposed and enforced under prior law as if the legislation had not been enacted. 
+As added by P.L.169-2015, SEC.159. 
+
+IC 3-14-3-1 Repealed 
+(Repealed by P.L.3-1987, SEC.570.) 
+IC 3-14-3-1.1 Procuring or submission of false, fictitious, or fraudulent registration application; procuring, casting, or tabulating false, fictitious, or fraudulent ballot 
+Sec. 1.1. A person who knowingly does any of the following commits a Level 6 felony: 
+(1) 
+Procures or submits a voter registration application known by the person to be materially false, fictitious, or fraudulent. 
+
+(2) 
+Procures, casts, or tabulates a ballot known by the person to be materially false, fictitious, or fraudulent. 
+
+
+As added by P.L.103-2005, SEC.32. Amended by P.L.158-2013, SEC.29; P.L.169-2015, SEC.160. 
+
+IC 3-14-3-2 Failure to cast or return ballot in authorized manner 
+Sec. 2. A person who, having procured an official ballot, knowingly fails to cast or return it in the prescribed manner commits a Class A misdemeanor. 
+As added by P.L.5-1986, SEC.10. 
+
+IC 3-14-3-3 Interference with watcher's duties 
+Sec. 3. A person who knowingly: 
+(1) 
+interferes with a watcher; 
+
+(2) 
+prevents a watcher from performing the watcher's duties; 
+
+(3) 
+otherwise violates: 
+
+
+(A) 
+IC 3-6-8-3; 
+
+(B) 
+IC 3-6-8-4; 
+
+(C) 
+IC 3-6-8-5; 
+
+(D) 
+IC 3-6-8-6; 
+
+(E) 
+IC 3-6-9; or 
+
+(F) 
+IC 3-6-10; or 
+
+
+(4) violates IC 3-11-13-44(d); commits a Level 6 felony. 
+As added by P.L.5-1986, SEC.10. Amended by P.L.5-1989, SEC.74; P.L.2-1998, SEC.9;P.L.221-2005, SEC.135; P.L.158-2013, SEC.30. 
+
+IC 3-14-3-4 Obstruction of, interference with, or injury of voter or election officer 
+Sec. 4. (a) A person who: 
+(1) 
+knowingly obstructs or interferes with an election officer in the discharge of the officer's duty; or 
+
+(2) 
+knowingly obstructs or interferes with a voter within the 
+
+
+chute; commits a Level 6 felony. 
+(b) A person who knowingly injures an election officer or a voter: 
+(1) 
+in the exercise of the officer's or voter's rights or duties; or 
+
+(2) 
+because the officer or voter has exercised the officer's or 
+
+
+voter's rights or duties; commits a Level 6 felony. 
+(c) A person called as a witness to testify against another for a violation of this section is a competent witness to prove the offense even though the person may have been a party to the violation. The person shall be compelled to testify as other witnesses. However, the person's evidence may not be used against the person in a prosecution growing out of matters about which the person testifies, and the person is not liable to indictment or information for the offense. 
+As added by P.L.5-1986, SEC.10. Amended by P.L.103-2005, SEC.33; P.L.158-2013, SEC.31. 
+
+IC 3-14-3-5 Tampering with voting system 
+Sec. 5. A precinct election officer who, with the intent to cause or permit a ballot card voting system or an electronic voting system to fail to correctly register all votes cast, tampers with or disarranges the system or any part of it commits a Level 6 felony. 
+As added by P.L.5-1986, SEC.10. Amended by P.L.3-1987, SEC.474; P.L.221-2005, SEC.136; P.L.158-2013, SEC.32. 
+IC 3-14-3-6 Allowing inaccurately adjusted voting system to be used 
+Sec. 6. A precinct election officer who permits a ballot card voting system or an electronic voting system to be used for voting at an election, with knowledge of the fact that the system is not in order or not perfectly set and adjusted so that it will correctly register all votes cast, commits a Level 6 felony. 
+As added by P.L.5-1986, SEC.10. Amended by P.L.3-1987, SEC.475; P.L.221-2005, SEC.137; P.L.158-2013, SEC.33. 
+
+IC 3-14-3-7 Removal, change, or mutilation of voting system ballot label to deceive voter 
+Sec. 7. An inspector or poll clerk in a precinct who, for the purpose of: 
+(1) 
+deceiving a voter; 
+
+(2) 
+causing it to be doubtful for what ticket, candidate, or public question a vote is cast; or 
+
+(3) 
+causing it to appear that votes cast for one (1) ticket, candidate, or public question were cast for another ticket, candidate, or public question; 
+
+
+removes, changes, or mutilates a voting system or any part of a voting system commits a Level 6 felony. 
+As added by P.L.5-1986, SEC.10. Amended by P.L.103-2005, SEC.34; P.L.158-2013, SEC.34. 
+
+IC 3-14-3-8 Damaging, disarranging, or tampering with voting system 
+Sec. 8. A person other than a precinct election officer who knowingly, before or during an election: 
+(1) 
+damages, disarranges, or tampers with a ballot card system or an electronic voting system; or 
+
+(2) 
+damages a ballot label placed or to be placed on the electronic voting system, or any other appliance used in connection with the ballot card voting system or electronic voting system; 
+
+
+commits a Level 6 felony. 
+As added by P.L.5-1986, SEC.10. Amended by P.L.3-1987, SEC.476; P.L.221-2005, SEC.138; P.L.158-2013, SEC.35. 
+
+IC 3-14-3-9 Failure to receive vote of legal voter 
+Sec. 9. A person who knowingly fails to receive the vote of a legal voter at an election commits a Level 6 felony. As added by P.L.5-1986, SEC.10. Amended by P.L.3-1987, SEC.477; P.L.158-2013, SEC.36. 
+
+IC 3-14-3-10 Removal, defacing, or destruction of supplies or instruction cards from voting booth; removal or destruction of voting booth 
+Sec. 10. A person who during an election recklessly: 
+(1) 
+removes or destroys any of the supplies or other conveniences placed in the voting booths or delivered to the voter for the purpose of enabling a voter to prepare a ballot; 
+
+(2) 
+removes or defaces the cards printed for the instruction of the voters; or 
+
+(3) 
+removes or destroys a voting booth, railing, or other 
+
+
+convenience provided for the election; commits a Level 6 felony. 
+As added by P.L.5-1986, SEC.10. Amended by P.L.3-1987, SEC.478; P.L.158-2013, SEC.37. 
+
+IC 3-14-3-11 Tampering with marking device, ballot, or record or equipment; interference with operation or secrecy of voting 
+Sec. 11. A person who recklessly: 
+(1) 
+tampers with or damages a marking device, ballot, or other record or equipment used in an election; 
+
+(2) 
+interferes with the correct operation of such a device or equipment; or 
+
+
+(3) interferes with the secrecy of voting; commits a Level 6 felony. 
+As added by P.L.5-1986, SEC.10. Amended by P.L.158-2013, SEC.38. 
+
+IC 3-14-3-12 Leaving poll with ballot or ballot marking device 
+Sec. 12. A voter who recklessly attempts to leave the polls with a ballot, the pencil, or other marking device used in marking ballots in the voter's possession commits a Class A misdemeanor. A voter who attempts to leave the polls with a ballot, pencil, or other marking device in the voter's possession shall be arrested at once on demand of any member of the precinct election board. 
+As added by P.L.5-1986, SEC.10. Amended by P.L.3-1987, SEC.479. 
+
+IC 3-14-3-13 Removal of ballot or marking device frompolls; possession outside polls 
+Sec. 13. A person who during an election knowingly: 
+(1) 
+removes a ballot, pencil, or other marking device from the polls; or 
+
+(2) 
+possesses outside the polls a ballot, pencil, or other marking 
+
+
+device either genuine or counterfeit; commits a Level 6 felony. 
+As added by P.L.5-1986, SEC.10. Amended by P.L.3-1987, SEC.480; P.L.158-2013, SEC.39. 
+IC 3-14-3-14 Printers; unauthorized printing or delivery of ballots 
+Sec. 14. A printer of the ballots for an election, or person employed in printing the ballots, who knowingly: 
+(1) 
+delivers a ballot to a person other than a county election board for which the ballots are being printed; 
+
+(2) 
+prints a ballot in any form other than the one prescribed by law; or 
+
+(3) 
+prints a ballot containing any names, spellings, or arrangements other than as authorized by the election division or a county election board; 
+
+
+commits a Level 6 felony. 
+As added by P.L.5-1986, SEC.10. Amended by P.L.3-1997, SEC.403; P.L.225-2011, SEC.87; P.L.158-2013, SEC.40; P.L.169-2015, SEC.161. 
+
+IC 3-14-3-15 Unauthorized entries at polls 
+Sec. 15. A person not authorized by this title who recklessly: 
+(1) 
+enters the polls; 
+
+(2) 
+enters within the railing leading from the challenge window or door to the entrance of the polls without having been passed by the challengers or having been sworn in; or 
+
+(3) 
+remains within the polls or within the chute in violation of 
+
+
+IC 3-11-8-15 or IC 3-11-8-16; commits a Class A misdemeanor. As added by P.L.5-1986, SEC.10. Amended by P.L.3-1997, SEC.404; P.L.14-2004, SEC.176. 
+
+IC 3-14-3-16 Electioneering 
+Sec. 16. (a) As used in this section, "electioneering" includes expressing support or opposition to any candidate or political party or expressing approval or disapproval of any public question in any manner that could reasonably be expected to convey that support or opposition to another individual. The term includes wearing or displaying an article of clothing, sign, button, or placard that states the name of any political party or includes the name, picture, photograph, or other likeness of any currently elected federal, state, county, or local official. The term does not include expressing support or opposition to a candidate or a political party or expressing approval or disapproval of a public question in: 
+(1) 
+material mailed to a voter; or 
+
+(2) 
+a telephone or an electronic communication with a voter. 
+
+
+(b) A person who knowingly does any electioneering: 
+(1) 
+on election day within: 
+
+(A) 
+the polls; or 
+
+(B) 
+the chute; 
+
+
+
+(2) 
+within an area in the office of the circuit court clerk or a satellite office of the circuit court clerk established under 
+
+IC 3-11-10-26.3 used by an absentee voter board to permit an individual to cast an absentee ballot; or 
+
+(3) 
+except for a voter who is: 
+
+(A) 
+the person's spouse; 
+
+(B) 
+an incapacitated person (as defined in IC 29-3-1-7.5) for whom the person has been appointed the guardian (as defined in IC 29-3-1-6); or 
+
+
+
+(C) 
+a member of the person's household; in the presence of a voter whom the person knows possesses an absentee ballot provided to the voter in accordance with Indiana law; 
+
+
+commits a Class A misdemeanor. 
+As added by P.L.5-1986, SEC.10. Amended by P.L.3-1997, SEC.405; P.L.66-2003, SEC.52; P.L.14-2004, SEC.177; P.L.103-2005, SEC.35; P.L.164-2006, SEC.132; P.L.194-2013, SEC.98. 
+
+IC 3-14-3-17 Inducement of votes by board member or precinct election officer prohibited 
+Sec. 17. A member of a precinct election board, a precinct election officer, or a member of an absentee voter board who knowingly induces or persuades a voter to vote for a candidate or for or against a public question while acting as a board member or precinct election officer commits a Level 6 felony. As added by P.L.5-1986, SEC.10. Amended by P.L.3-1987, SEC.481; P.L.10-1988, SEC.213; P.L.3-1997, SEC.406; P.L.158-2013, SEC.41. 
+
+IC 3-14-3-18 Actions to unlawfully influence voter or candidate 
+Sec. 18. (a) As used in this section, "candidate" includes an individual whom the person knows is considering becoming a candidate. 
+(b) A person who, for the purpose of influencing a voter or candidate, does any of the following commits a Level 6 felony: 
+(1) 
+Seeks to enforce the payment of a debt by force or threat of force. 
+
+(2) 
+Ejects or threatens to eject the voter or candidate from a house the voter or candidate occupies. 
+
+(3) 
+Begins a criminal prosecution. 
+
+(4) 
+Damages the business or trade of the voter or candidate. 
+
+(5) 
+Communicates a threat to commit a forcible felony (as defined in IC 35-31.5-2-138) against a voter or candidate with the intent that the voter or candidate: 
+
+(A) 
+engage in conduct against the voter's or candidate's will; or 
+
+(B) 
+be placed in fear of retaliation for a prior lawful act as a voter or candidate. 
+
+
+
+
+As added by P.L.5-1986, SEC.10. Amended by P.L.176-1999, SEC.118; P.L.103-2005, SEC.36; P.L.114-2012, SEC.6; P.L.158-2013, SEC.42. 
+
+IC 3-14-3-19 Inducing votes by gift or offer to compensate 
+Sec. 19. A person who, for the purpose of inducing or procuring another person to: 
+(1) 
+apply for or cast an absentee ballot; or 
+
+(2) 
+vote or refrain from voting for or against a candidate or for or against a public question at an election or political convention; 
+
+
+gives, offers, or promises to any person any money or other property commits a Level 6 felony. 
+As added by P.L.5-1986, SEC.10. Amended by P.L.3-1987, SEC.482; P.L.103-2005, SEC.37; P.L.158-2013, SEC.43. 
+
+IC 3-14-3-20 Acceptance or solicitation of compensation to induce or procure votes 
+Sec. 20. A person who, for the purpose of inducing or procuring a voter to: 
+(1) 
+apply for or cast an absentee ballot; or 
+
+(2) 
+vote or refrain from voting for or against a candidate or for or against a public question at an election or political convention; 
+
+
+receives, accepts, requests, or solicits from any person any money or other property commits a Level 6 felony. 
+As added by P.L.5-1986, SEC.10. Amended by P.L.3-1987, SEC.483; P.L.103-2005, SEC.38; P.L.158-2013, SEC.44. 
+
+IC 3-14-3-20.5 Conspiracy to secure fraudulent registration or absentee ballot application 
+Sec. 20.5. (a) This section does not apply to activity subject to 18 
+U.S.C. 1341. 
+(b) An individual who knowingly: 
+(1) 
+conspires to obtain property the individual would be entitled to receive as compensation for serving as an elected official by securing false or fraudulent absentee ballot applications or voter registration applications; and 
+
+(2) 
+for the purpose of executing the conspiracy: 
+
+(A) 
+causes the applications to be sent or delivered by a private or commercial carrier operating entirely within Indiana; or 
+
+(B) 
+takes or receives from the private or commercial carrier the false or fraudulent applications, or causes the applications to be delivered by the carrier to another person; 
+
+
+
+
+commits a Level 6 felony. 
+As added by P.L.103-2005, SEC.39. Amended by P.L.158-2013, SEC.45. 
+
+IC 3-14-3-21 Influencing political opinions or actions of employees in the workplace 
+Sec. 21. A person who: 
+(1) 
+pays employees the salary or wages due in pay envelopes upon which there is printed or in which there is enclosed a political motto, device, or argument containing threats intended or calculated to influence the political opinions or actions of the employees; or 
+
+(2) 
+exhibits in the workplace of the person's employees a handbill or placard containing a threat, notice, or information that, if a particular ticket, candidate, or public question is elected, approved, or defeated: 
+
+(A) 
+work in the person's place or establishment will cease in whole or in part; 
+
+(B) 
+the person's establishment will be closed; or 
+
+
+
+(C) 
+the wages of the employees will be reduced; or that is otherwise intended or calculated to influence the political opinions or actions of the employees; 
+
+
+commits a Level 6 felony. 
+As added by P.L.5-1986, SEC.10. Amended by P.L.3-1987, SEC.484; P.L.10-1988, SEC.214; P.L.158-2013, SEC.46. 
+
+IC 3-14-3-21.5 Voter intimidation 
+Sec. 21.5. A person who knowingly or intentionally intimidates, threatens, or coerces an individual for: 
+(1) 
+voting or attempting to vote; 
+
+(2) 
+urging or aiding another individual to vote or attempt to vote; or 
+
+(3) 
+exercising any power or duty under this title concerning 
+
+
+registration or voting; commits voter intimidation, a Level 6 felony. 
+As added by P.L.103-2005, SEC.40. Amended by P.L.158-2013, SEC.47. 
+
+IC 3-14-3-22 Repealed 
+(Repealed by P.L.11-1992, SEC.5.) 
+
+IC 3-14-3-23 Violation of IC 3-6-11-5 or IC 3-6-11-7; classification 
+Sec. 23. A proprietor, a manager, or an association of co-owners who violates IC 3-6-11-5 or IC 3-6-11-7 commits a Class C infraction. 
+As added by P.L.7-1990, SEC.51. 
+
+IC 3-14-3-24 Repealed 
+(As added by P.L.7-1990, SEC.52. Repealed by P.L.83-2016, SEC.6.) 
+
+IC 3-14-4 Chapter 4. Procedural Violations by Election Officers 
+IC 3-14-4-1 Unlawfully serving as precinct election board member 
+Sec. 1. A person who knowingly serves as a member of a precinct election board in violation of IC 3-6-6 commits a Level 6 felony. As added by P.L.5-1986, SEC.10. Amended by P.L.3-1987, SEC.486; P.L.158-2013, SEC.48. 
+
+IC 3-14-4-2 Inspectors; negligent or knowing failure to appear at election board's office 
+Sec. 2. An inspector who negligently or knowingly fails to appear at the county election board's office in person or by representative as required by IC 3-11-3 commits a Level 6 felony. As added by P.L.5-1986, SEC.10. Amended by P.L.3-1987, SEC.487; P.L.158-2013, SEC.49. 
+
+IC 3-14-4-3 Omission in performance of required duties 
+Sec. 3. A precinct election officer or public official upon whom a duty is imposed by this title who knowingly omits to perform the duty commits a Level 6 felony. As added by P.L.5-1986, SEC.10. Amended by P.L.158-2013, SEC.50. 
+
+IC 3-14-4-3.5 Voter registration information violations 
+Sec. 3.5. A circuit court clerk, a member of a board of registration, a county official, or another person responsible for maintaining computerized voter registration information who recklessly fails to comply with IC 3-7-26.3 more than thirty (30) days after being required to perform a duty under IC 3-7-26.3 commits a Class B misdemeanor. As added by P.L.3-1993, SEC.234. Amended by P.L.12-1995, SEC.89; P.L.3-1995, SEC.135; P.L.209-2003, SEC.193; P.L.164-2006, SEC.133. 
+IC 3-14-4-4 Allowing observance of voter preparing ballot 
+Sec. 4. A member of a precinct election board who recklessly allows a booth or compartment in which a voter is preparing a ballot to be used: 
+(1) 
+without a screen; or 
+
+(2) 
+with a screen arranged so as not to shield the preparation of 
+
+
+the ballot from observation; commits a Level 6 felony. 
+As added by P.L.5-1986, SEC.10. Amended by P.L.3-1987, SEC.488; P.L.158-2013, SEC.51. 
+
+IC 3-14-4-5 Repealed 
+(Repealed by P.L.5-1989, SEC.120.) 
+
+IC 3-14-4-6 Deposit of ballots not initialed or ballots externally defaced 
+Sec. 6. An inspector, or person acting in the inspector's behalf, who knowingly deposits: 
+(1) 
+a ballot upon which the initials of the poll clerks or authorized assistant poll clerks do not appear; or 
+
+(2) 
+a ballot on which appears externally a distinguishing mark 
+
+
+or defacement; commits a Level 6 felony. As added by P.L.5-1986, SEC.10. Amended by P.L.3-1987, SEC.490; P.L.158-2013, SEC.52. 
+
+IC 3-14-4-7 Disclosure of how voter voted or information regarding appearance of ballot voted 
+Sec. 7. A member of a precinct election board or a person otherwise entitled to the inspection of the ballots who knowingly: 
+(1) 
+reveals to another person how a voter has voted; or 
+
+(2) 
+gives information concerning the appearance of any ballot 
+
+
+voted; commits a Level 6 felony. As added by P.L.5-1986, SEC.10. Amended by P.L.158-2013, SEC.53. 
+
+IC 3-14-4-8 Opening or marking ballot or ascertaining how voter voted 
+Sec. 8. A member of a precinct election board, an absentee ballot counter appointed under IC 3-11.5-4-22, or a provisional ballot counter appointed under IC 3-11.7-3 who knowingly: 
+(1) 
+opens or marks, by folding or otherwise, a ballot presented by a voter, except as provided by law; or 
+
+(2) 
+tries to find out how the voter voted before the ballot is deposited in the ballot box or cast on a ballot card voting system or an electronic voting system or counted by the absentee ballot counter; 
+
+
+commits a Level 6 felony. 
+As added by P.L.5-1986, SEC.10. Amended by P.L.3-1987, SEC.491; P.L.3-1993, SEC.235; P.L.19-1993, SEC.5; P.L.126-2002, SEC.90; P.L.221-2005, SEC.139; P.L.158-2013, SEC.54. 
+IC 3-14-4-9 Disclosure of votes or electioneering 
+
+Sec. 9. An election officer who knowingly: 
+(1) discloses to a person the name of a candidate for whom a voter has voted or how a voter voted on a public question; or 
+(2) does any electioneering on election day; commits a Class A misdemeanor. As added by P.L.5-1986, SEC.10. Amended by P.L.10-1988, SEC.215; P.L.66-2003, SEC.53. 
+
+IC 3-14-4-10 Provision of information concerning absentee vote count before closing of polls 
+Sec. 10. A person who knowingly violates: 
+(1) 
+IC 3-11.5-5; 
+
+(2) 
+IC 3-11.5-6; 
+
+(3) 
+IC 3-12-2-1; 
+
+(4) 
+IC 3-12-3-14; or 
+
+
+(5) IC 3-12-3.5-7; by providing any other person with information concerning the number of votes a candidate received for an office or cast to approve or reject a public question on absentee ballots counted under IC 3-11.5-5, IC 3-11.5-6, or IC 3-12 before the closing of the polls commits a Level 6 felony. As added by P.L.3-1993, SEC.236 and P.L.19-1993, SEC.6. Amended by P.L.3-1995, SEC.136; P.L.221-2005, SEC.140; P.L.158-2013, SEC.55. 
+
+IC 3-14-5 Chapter 5. Enforcement Provisions 
+IC 3-14-5-1 Affidavit against illegal voter 
+Sec. 1. (a) This section applies during an election whenever a voter makes an affidavit before the inspector in a precinct that a person who has voted is an illegal voter in the precinct. This section does not apply to an affidavit executed by an individual who: 
+(1) 
+is subject to the requirements set forth in IC 3-7-33-4.5; 
+
+(2) 
+is challenged solely as a result of the individual’s inability or refusal to comply with IC 3-7-33-4.5; and 
+
+(3) 
+subsequently complies with IC 3-7-33-4.5 before the close of the polls on election day. 
+
+
+(b) Immediately after the close of the polls the inspector shall deliver the affidavit to the county election board for delivery by the prosecuting attorney for the county to the grand jury under section 2 of this chapter. The prosecuting attorney for the county shall: 
+(1) 
+proceed as if the affidavit had been made before the prosecuting attorney; and 
+
+(2) 
+ensure that the grand jury notifies the NVRA official under section 2 of this chapter if a violation of NVRA appears to have occurred. 
+
+
+As added by P.L.5-1986, SEC.10. Amended by P.L.12-1995, SEC.90; P.L.2-1996, SEC.207; P.L.3-1997, SEC.407; P.L.230-2005, SEC.66. 
+
+IC 3-14-5-2 Affidavits; packaging, sealing, endorsing, and delivery to grand jury; inquiry by grand jury 
+Sec. 2. (a) Each precinct election board shall, at the close of the polls, place all affidavits prescribed by this title for use on election day to determine the eligibility of a precinct election officer (or a person who wishes to cast a ballot) in a strong paper bag or envelope and securely seal it. Each member shall endorse that member's name on the back of the bag or envelope. 
+(b) The inspector and judge of the opposite political party shall deliver the sealed bag or envelope to the county election board. The county election board shall do the following: 
+(1) 
+Remove the affidavits from the bag or envelope. 
+
+(2) 
+Mail a copy of each affidavit to the secretary of state. 
+
+(3) 
+Replace the affidavits within the bag or envelope. 
+
+(4) 
+Reseal the bag or envelope with the endorsement of the name of each county election board member on the back of the bag or envelope. 
+
+(5) 
+Carefully preserve the resealed bag or envelope and deliver it, with the county election board's seal unbroken, to the foreman of the grand jury when next in session. 
+
+
+(c) The grand jury shall inquire into the truth or falsity of the affidavits, and the court having jurisdiction over the grand jury shall specially charge the jury as to its duties under this section. 
+(d) The grand jury shall file a report of the result of its inquiry with: 
+(1) 
+the court; and 
+
+(2) 
+the NVRA official if a violation of NVRA appears to have occurred. 
+
+
+As added by P.L.5-1986, SEC.10. Amended by P.L.12-1995, SEC.91; P.L.2-1996, SEC.208; P.L.3-1997, SEC.408; P.L.230-2005, SEC.67. 
+
+IC 3-14-5-3 Duty to report violations to prosecuting attorney and violator; presentation to grand jury 
+Sec. 3. (a) This section does not apply to a violation of NVRA or IC 3-7. 
+(b) The commission and each county election board shall report a violation of this title as a felony or misdemeanor to the appropriate prosecuting attorney and the alleged violator. 
+(c) The commission and boards may have the report transmitted and presented to the grand jury of the county in which the violation was committed at its first session after making the report and at subsequent sessions that may be required. The commission and boards shall furnish the grand jury any evidence at their command necessary in the investigation and prosecution of the violation. As added by P.L.5-1986, SEC.10. Amended by P.L.12-1995, SEC.92; P.L.2-1996, SEC.209; P.L.81-2005, SEC.31. 
+
+IC 3-14-5-4 Prosecution of violators 
+Sec. 4. In addition to the duties prescribed by IC 33-39, the prosecuting attorney of each circuit shall prosecute each resident of the circuit who the prosecutor believes has violated IC 3-14-1-7, IC 3-14-1-10, IC 3-14-1-13, IC 3-14-1-14, or IC 3-14-1-14.5 in any circuit of the state. As added by P.L.5-1986, SEC.10. Amended by P.L.3-1995, SEC.137; P.L.3-1997, SEC.409; P.L.98-2004, SEC.45. 
+
+IC 3-14-5-5 Indictment or information; allegations 
+Sec. 5. When an election offense is committed, an indictment or information for the offense is sufficient if it alleges that the election was authorized by law without stating the names of the officers holding the election, the candidates voted for, or the offices filled at the election. As added by P.L.5-1986, SEC.10. 
+IC 3-14-5-6 Criminal prosecutions; self-incrimination defense not available to witness 
+
+Sec. 6. In a criminal prosecution for violation of IC 3-14-1-7, IC 3-14-1-10, IC 3-14-1-13, IC 3-14-1-14, or IC 3-14-1-14.5, a witness, except the person who is accused and on trial, may not be excused from answering a question or producing a book, paper, or other thing on the ground that the witness' answer or the thing to be produced may tend to incriminate the witness or render the witness liable to a penalty. However, the witness' answer or the thing produced by the witness may not be used in a proceeding against the witness, except in a prosecution for perjury in so testifying. As added by P.L.5-1986, SEC.10. Amended by P.L.3-1995, SEC.138; P.L.3-1997, SEC.410. 
+
+IC 3-14-5-7 Informants; immunity 
+Sec. 7. If a person who has given or received money or other property to or from another person for the purpose of influencing any voter's vote at an election informs upon and testifies against the person receiving or giving the money in a criminal prosecution, the person informing and testifying may not be prosecuted in connection with the transaction. As added by P.L.5-1986, SEC.10. 
+IC 3-14-5-8 Employment sanctions for a person convicted of a vote fraud felony or class A misdemeanor; remedies if conviction is reversed, vacated, or set aside; injunctions; civil penalties 
+Sec. 8. (a) As used in this section, "governmental entity" refers to any of the following: 
+(1) 
+A city. 
+
+(2) 
+A town. 
+
+(3) 
+An agency of a governmental entity referred to in any of subdivisions (1) through (2). 
+
+
+(b) 
+As used in this section, "date of conviction" refers to the date when: 
+
+(1) 
+in a jury trial, a jury publicly announces a verdict against a person for a felony or Class A misdemeanor; 
+
+(2) 
+in a bench trial, the court publicly announces a verdict against a person for a felony or Class A misdemeanor; or 
+
+(3) 
+in a guilty plea hearing, a person pleads guilty or nolo contendere to a felony or Class A misdemeanor. 
+
+
+
+(c) 
+A person who is convicted under IC 3-14-2 of a felony or Class A misdemeanor that relates to an election for an office for a governmental entity shall not: 
+
+(1) 
+continue employment with; 
+
+(2) 
+obtain future employment with; 
+
+(3) 
+contract with; or 
+
+(4) 
+be a subcontractor under a contract with; 
+
+
+
+
+any governmental entity for twenty (20) years after the date of conviction. 
+(d) 
+For twenty (20) years after the person's date of conviction, a governmental entity may not: 
+
+(1) 
+employ; 
+
+(2) 
+offer employment to; 
+
+(3) 
+contract with; or 
+
+
+
+(4) 
+maintain a contractual relationship when a subcontractor is; a person who is convicted under IC 3-14-2 of a felony or Class A misdemeanor that relates to an election for an office for any governmental entity. 
+
+(e) If: 
+(1) 
+a person was employed by a governmental entity; 
+
+(2) 
+the person was convicted under IC 3-14-2 of a felony or Class A misdemeanor relating to an election for an office for a governmental entity; 
+
+(3) 
+the person's employment with the governmental entity was discontinued under subsection (c) or (d); and 
+
+
+
+(4) 
+the person's conviction is reversed, vacated, or set aside; the governmental entity shall reemploy the person in the same position the person held before the person's conviction or in another position equivalent in benefits, pay, and working conditions to the position the person held before the person's conviction, and the person is entitled to receive any salary or other remuneration that the person would have received if the person's employment had not been discontinued under subsection (c) or (d). 
+
+(f) 
+The attorney general may petition a court with jurisdiction for an injunction against a person who violates subsection (c) or a governmental entity that violates subsection (d). 
+
+
+(g) The attorney general may petition a court with jurisdiction to impose a civil penalty of not more than one thousand dollars ($1,000) on a person who violates subsection (c). As added by P.L.164-2006, SEC.134. Amended by P.L.109-2015, SEC.2; P.L.233-2015, SEC.3. 
+
+IC 3-14-6 Chapter 6. Election Profiteering 
+IC 3-14-6-1 Repealed 
+(As added by P.L.13-1992, SEC.4. Amended by P.L.12-1995, SEC.93; P.L.8-1995, SEC.66; P.L.2-1996, SEC.210; P.L.3-1997, SEC.411; P.L.209-2003, SEC.194. Repealed by P.L.164-2006, SEC.143.) 
+
+IC 3-14-6-1.1 Grant of request for voter information to be used in prohibited manner; second or subsequent offense 
+Sec. 1.1. (a) A person who grants a request for voter registration information under IC 3-7-26.3 or IC 3-7-27 with knowledge that the information will be used in a manner prohibited by IC 3-7-26.3 or IC 3-7-27 commits a Class B infraction. 
+(b) A person who has previously received a judgment for committing an infraction under this section and knowingly, intentionally, or recklessly violates this section a second or subsequent time commits a Level 6 felony. As added by P.L.209-2003, SEC.195. Amended by P.L.164-2006, SEC.135; P.L.158-2013, SEC.56; P.L.109-2015, SEC.3. 
+
+IC 3-14-6-2 Use of voter registration information for solicitation; infraction; misdemeanor 
+Sec. 2. (a) This section does not apply to: 
+(1) 
+political activities; or 
+
+(2) 
+political fundraising activities. 
+
+
+(b) A person who uses voter registration information obtained under IC 3-7-26.3 or IC 3-7-27 to solicit the sale of merchandise, goods, services, or subscriptions commits a Class B infraction. 
+(c) The court shall: 
+(1) 
+keep a record; and 
+
+(2) 
+send a copy of the record to the prosecuting attorney of the 
+
+
+county in which the infraction proceeding was tried; of a judgment for an infraction proceeding tried under this section. 
+(d) A person who: 
+(1) 
+has previously received a judgment for committing an infraction under this section; and 
+
+(2) 
+knowingly or intentionally uses voter registration 
+
+
+information in violation of this section; commits a Class A misdemeanor. As added by P.L.13-1992, SEC.4. Amended by P.L.12-1995, SEC.94; P.L.3-1997, SEC.412; P.L.209-2003, SEC.196; P.L.164-2006, SEC.136. 
+ 
+
+

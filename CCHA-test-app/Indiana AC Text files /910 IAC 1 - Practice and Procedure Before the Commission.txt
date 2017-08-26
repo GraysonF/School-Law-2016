@@ -1,0 +1,924 @@
+TITLE 910 CIVIL RIGHTS COMMISSION 
+ARTICLE 1. PRACTICE AND PROCEDURE BEFORE THE COMMISSION 
+Rule 1. Definitions (Repealed) 
+(Repealed by Civil Rights Commission; filed Feb 7, 2000, 3:15 p.m.: 23 IR 1400) 
+Rule 1.5. Definitions 
+910 IAC 1-1.5-1 Applicability 
+Authority: IC 22-9-1-6 
+Affected: IC 22-9-1-3; IC 22-9-1-4 
+Sec. 1. The definitions in this rule apply throughout this article unless otherwise indicated. Any term used in this rule that is defined in the Indiana Civil Rights Law shall be given the meaning provided under the Indiana Civil Rights Law unless otherwise indicated. (Civil Rights Commission; 910 IAC 1-1.5-1; filed Feb 7, 2000, 3:15 p.m.: 23 IR 1384; readopted filed Oct 25, 2001, 2:15 p.m.: 25 IR 942; readopted filed Oct 29, 2007, 2:55 p.m.: 20071128-IR-910070566RFA; readopted filed Nov 19, 2013, 9:07 a.m.: 20131218-IR-910130454RFA) 
+
+910 IAC 1-1.5-2 "Administrative law judge" defined 
+Authority: IC 22-9-1-6 
+Affected: IC 22-9-1-3; IC 22-9-1-4 
+Sec.2."Administrativelawjudge"meansacommissioner or an agentofthecommission designatedor delegated bythechair or vice chair to: 
+(1) conduct public hearings; and 
+(2) rule on prehearing motions and petitions. (Civil Rights Commission; 910 IAC 1-1.5-2; filed Feb 7, 2000, 3:15 p.m.: 23 IR 1385; readopted filed Oct 25, 2001, 2:15 p.m.: 25 IR 942; readopted filed Oct 29, 2007, 2:55 p.m.: 20071128-IR-910070566RFA; readopted filed Nov 19, 2013, 9:07 a.m.: 20131218-IR-910130454RFA) 
+
+910 IAC 1-1.5-3 "Administrative Orders and Procedures Act" defined 
+Authority: IC 22-9-1-6 
+Affected: IC 4-21.5-1; IC 22-9-1-3; IC 22-9-1-4 
+Sec. 3. "Administrative Orders and Procedures Act" means IC 4-21.5-1 as amended from time to time. (Civil Rights Commission; 910 IAC 1-1.5-3; filed Feb 7, 2000, 3:15 p.m.: 23 IR 1385; readopted filed Oct 25, 2001, 2:15 p.m.: 25 IR 942; readopted filed Oct 29, 2007, 2:55 p.m.: 20071128-IR-910070566RFA; readopted filed Nov 19, 2013, 9:07 a.m.: 20131218-IR­910130454RFA) 
+
+910 IAC 1-1.5-4 "Chair" defined 
+Authority: IC 22-9-1-6 
+Affected: IC 22-9-1-3; IC 22-9-1-4 
+Sec. 4. "Chair" means the person elected chair of the commission in accordance with the provisions of the Indiana Civil Rights Law. (Civil Rights Commission; 910 IAC 1-1.5-4; filed Feb 7, 2000, 3:15 p.m.: 23 IR 1385; readopted filed Oct 25, 2001, 
+2:15 p.m.: 25 IR 942; readopted filed Oct 29, 2007, 2:55 p.m.: 20071128-IR-910070566RFA; readopted filed Nov 19, 2013, 9:07 a.m.: 20131218-IR-910130454RFA) 
+
+910 IAC 1-1.5-5 "Commission" defined 
+Authority: IC 22-9-1-6 
+Affected: IC 22-9-1-3; IC 22-9-1-4 
+Sec. 5. "Commission" means the civil rights commission. (Civil Rights Commission; 910 IAC 1-1.5-5; filed Feb 7, 2000, 
+3:15 p.m.: 23 IR 1385; readopted filed Oct 25, 2001, 2:15 p.m.: 25 IR 942; readopted filed Oct 29, 2007, 2:55 p.m.: 20071128-IR­910070566RFA; readopted filed Nov 19, 2013, 9:07 a.m.: 20131218-IR-910130454RFA) 
+
+910 IAC 1-1.5-6 "Commissioner" defined 
+Authority: IC 22-9-1-6 
+Affected: IC 22-9-1-3; IC 22-9-1-4 
+Sec. 6. "Commissioner" means an individual appointed as a commissioner pursuant to the Indiana Civil Rights Law. (Civil Rights Commission; 910 IAC 1-1.5-6; filed Feb 7, 2000, 3:15 p.m.: 23 IR 1385; readopted filed Oct 25, 2001, 2:15 p.m.: 25 IR 942; readopted filed Oct 29, 2007, 2:55 p.m.: 20071128-IR-910070566RFA; readopted filed Nov 19, 2013, 9:07 a.m.: 20131218­IR-910130454RFA) 
+
+910 IAC 1-1.5-7 "Day" defined 
+Authority: IC 22-9-1-6 
+Affected: IC 22-9-1-3; IC 22-9-1-4 
+Sec. 7. "Day" means a calendar day unless the context clearly requires otherwise, provided, however, that when any period in which action must be taken under this article expires on a Saturday, Sunday, national or state holiday, or a day upon which the commission is closed for business, such period shall be extended to the next business day, provided further, that all periods of notice or time for taking action prescribed by this article or the Indiana Civil Rights Law shall be calculated by excluding the day from which the period begins to run and including the day on which the notice is effective or the action must be taken. (Civil Rights Commission; 910 IAC 1-1.5-7; filed Feb 7, 2000, 3:15 p.m.: 23 IR 1385; readopted filed Oct 25, 2001, 2:15 p.m.: 25 IR 942; readopted filed Oct 29, 2007, 2:55 p.m.: 20071128-IR-910070566RFA; readopted filed Nov 19, 2013, 9:07 a.m.: 20131218-IR­910130454RFA) 
+
+910 IAC 1-1.5-8 "Finding of no probable cause" defined 
+Authority: IC 22-9-1-6 
+Affected: IC 22-9-1-3; IC 22-9-1-4 
+Sec. 8. "Finding of no probable cause" means a written finding issued by the director, deputy director, or commission that probable cause does not exist to believe that an unlawful discriminatory practice occurred. (Civil Rights Commission; 910 IAC 1­1.5-8; filed Feb 7, 2000, 3:15 p.m.: 23 IR 1385; readopted filed Oct 25, 2001, 2:15 p.m.: 25 IR 942; readopted filed Oct 29, 2007, 
+2:55 p.m.: 20071128-IR-910070566RFA; readopted filed Nov 19, 2013, 9:07 a.m.: 20131218-IR-910130454RFA) 
+
+910 IAC 1-1.5-9 "Finding of probable cause" defined 
+Authority: IC 22-9-1-6 
+Affected: IC 22-9-1-3; IC 22-9-1-4 
+Sec. 9. "Finding of probable cause" means a written finding issued by the director, deputy director, or commission that probable cause exists to believe that a discriminatory practice occurred. (Civil Rights Commission; 910 IAC 1-1.5-9; filed Feb 7, 2000, 3:15 p.m.: 23 IR 1385; readopted filed Oct 25, 2001, 2:15 p.m.: 25 IR 942; readopted filed Oct 29, 2007, 2:55 p.m.: 20071128-IR-910070566RFA; readopted filed Nov 19, 2013, 9:07 a.m.: 20131218-IR-910130454RFA) 
+
+910 IAC 1-1.5-10 "Indiana Civil Rights Law" defined 
+Authority: IC 22-9-1-6 
+Affected: IC 22-9 
+Sec. 10. "Indiana Civil Rights Law" means IC 22-9-1, IC 22-9-5, IC 22-9-6, and IC 22-9-8 as amended from time to time. (Civil Rights Commission; 910 IAC 1-1.5-10; filed Feb 7, 2000, 3:15 p.m.: 23 IR 1385; readopted filed Oct 25, 2001, 2:15 p.m.: 25 IR 942; readopted filed Oct 29, 2007, 2:55 p.m.: 20071128-IR-910070566RFA; readopted filed Nov 19, 2013, 9:07 a.m.: 20131218-IR-910130454RFA) 
+
+910 IAC 1-1.5-11 "Order by default" defined 
+Authority: IC 22-9-1-6 
+Affected: IC 22-9-1-3; IC 22-9-1-4 
+Sec.11."Order bydefault"meansan order issued bythecommission, after proper notice,againstarespondentthathasfailed to answer a complaint within the time provided by the Indiana Civil Rights Law or this article, against a party that has failed to appear at a public hearing, or against a party that has otherwise failed to comply with the Indiana Civil Rights Law or this article. An order by default shall have the same scope and effect as a final order issued by the commission subsequent to a public hearing. (Civil Rights Commission; 910 IAC 1-1.5-11; filed Feb 7, 2000, 3:15 p.m.: 23 IR 1385; readopted filed Oct 25, 2001, 2:15 p.m.: 25 IR 942; readopted filed Oct 29, 2007, 2:55 p.m.: 20071128-IR-910070566RFA; readopted filed Nov 19, 2013, 9:07 a.m.: 20131218-IR-910130454RFA) 
+
+910 IAC 1-1.5-12 "Party" defined 
+Authority: IC 22-9-1-6 
+Affected: IC 22-9-1-3; IC 22-9-1-4 
+Sec. 12. "Party" means a complainant, a respondent, an intervenor, or, where appropriate, the director or deputy director of the commission, acting in his or her official capacity. (Civil Rights Commission; 910 IAC 1-1.5-12; filed Feb 7, 2000, 3:15 p.m.: 23 IR 1386; readopted filed Oct 25, 2001, 2:15 p.m.: 25 IR 942; readopted filed Oct 29, 2007, 2:55 p.m.: 20071128-IR­910070566RFA; readopted filed Nov 19, 2013, 9:07 a.m.: 20131218-IR-910130454RFA) 
+
+910 IAC 1-1.5-13 "Presiding officer" defined 
+Authority: IC 22-9-1-6 
+Affected: IC 22-9-1-3; IC 22-9-1-4 
+Sec. 13. "Presiding officer" means the administrative law judge, or, if more than one (1) administrative law judge has been appointed for a given complaint, it means that administrative law judge selected by the chair or the vice chair to preside over a public hearing and shall rule on all prehearing motions and petitions. In those instances where a presiding officer has not been appointed, the chair or the vice chair shall perform all the duties of the presiding officer until such time as a presiding officer is duly appointed. (Civil Rights Commission; 910 IAC 1-1.5-13; filed Feb 7, 2000, 3:15 p.m.: 23 IR 1386; readopted filed Oct 25, 2001, 2:15 p.m.: 25 IR 942; readopted filed Oct 29, 2007, 2:55 p.m.: 20071128-IR-910070566RFA; readopted filed Nov 19, 2013, 
+9:07 a.m.: 20131218-IR-910130454RFA) 
+
+910 IAC 1-1.5-14 "Probable cause" defined 
+Authority: IC 22-9-1-6 
+Affected: IC 22-9-1-3; IC 22-9-1-4 
+Sec. 14. "Probable cause" means such an apparent state of facts established by personal knowledge or by information from others reasonably accepted as true, as would lead a person of normal intelligence and prudence to believe that an unlawful discriminatory practice has occurred. (Civil Rights Commission; 910 IAC 1-1.5-14; filed Feb 7, 2000, 3:15 p.m.: 23 IR 1386; 
+readopted filed Oct 25, 2001, 2:15 p.m.: 25 IR 942; readopted filed Oct 29, 2007, 2:55 p.m.: 20071128-IR-910070566RFA; readopted filed Nov 19, 2013, 9:07 a.m.: 20131218-IR-910130454RFA) 
+
+910 IAC 1-1.5-15 "Respondent" defined 
+Authority: IC 22-9-1-6 
+Affected: IC 22-9-1-3; IC 22-9-1-4 
+Sec.15."Respondent"meansanypersonagainstwhomacomplainthasbeen filed. (Civil Rights Commission; 910 IAC 1-1.5­15; filed Feb 7, 2000, 3:15 p.m.: 23 IR 1386; readopted filed Oct 25, 2001, 2:15 p.m.: 25 IR 942; readopted filed Oct 29, 2007, 
+2:55 p.m.: 20071128-IR-910070566RFA; readopted filed Nov 19, 2013, 9:07 a.m.: 20131218-IR-910130454RFA) 
+
+910 IAC 1-1.5-16 "Vice chair" defined 
+Authority: IC 22-9-1-6 
+Affected: IC 22-9-1-3; IC 22-9-1-4 
+Sec. 16. "Vice chair" means the person elected vice chair of the commission in accordance with the provisions of the Indiana Civil Rights Law. (Civil Rights Commission; 910 IAC 1-1.5-16; filed Feb 7, 2000, 3:15 p.m.: 23 IR 1386; readopted filed Oct 25, 2001, 2:15 p.m.: 25 IR 942; readopted filed Oct 29, 2007, 2:55 p.m.: 20071128-IR-910070566RFA; readopted filed Nov 19, 2013, 
+9:07 a.m.: 20131218-IR-910130454RFA) 
+Rule 2. General Information 
+
+910 IAC 1-2-1 Applicability of rules; jurisdiction of commission (Repealed) 
+Sec. 1. (Repealed by Civil Rights Commission; filed Feb 7, 2000, 3:15 p.m.: 23 IR 1400) 
+
+910 IAC 1-2-2 Authority to promulgate rules (Repealed) 
+Sec. 2. (Repealed by Civil Rights Commission; filed Feb 7, 2000, 3:15 p.m.: 23 IR 1400) 
+
+910 IAC 1-2-3 Complaints; amendment 
+Authority: IC 22-9-1-6 
+Affected: IC 22-9-1-11 
+Sec. 3. (a) Any person claiming to be aggrieved by a discriminatory practice or act contrary to the provisions of the Indiana Civil Rights Law may make, sign, and file a complaint with the commission. 
+(b) 
+The director or deputy director, in his or her official capacity, may initiate a complaint when he or she has reason to believe that an act of discrimination has been committed against a person or a class of people in order to vindicate the policy of the state as defined in the Indiana Civil Rights Law. 
+
+(c) 
+Where a complaint is filed in accordance with this article, and the director or deputy director, in the course of the investigation, determines that relief for more than the individual complainant is appropriate, he or she, in his or her official capacity, may file a separate complaint with respect to the acts of discrimination against such other individuals. Such separate complaint may be consolidated with the original or amended complaint for purposes of all subsequent proceedings or may be docketed separately at the discretion of the director or deputy director. (Civil Rights Commission; Rule 2, Sec 2.3; filed Mar 29, 1974, 4:16 p.m.: Rules and Regs. 1975, p. 197; filed Feb 7, 2000, 3:15 p.m.: 23 IR 1386; readopted filed Oct 25, 2001, 2:15 p.m.: 25 IR 942; readopted filed Oct 29, 2007, 2:55 p.m.: 20071128-IR-910070566RFA; readopted filed Nov 19, 2013, 9:07 a.m.: 20131218-IR-910130454RFA) 
+
+
+
+910 IAC 1-2-4 Complaints filed with other agencies; federal and local findings 
+Authority: IC 22-9-1-6 
+Affected: IC 22-9-1 
+
+Sec. 4. (a) A complaint deferred to the commission by the United States Equal Employment Opportunity Commission (EEOC) or by the United States Department of Housing and Urban Development (HUD) pursuant to federal civil rights laws shall be deemed filed with the commission as of the date it was received by EEOC or HUD, provided the complaint conforms to the requirements of the Indiana Civil Rights Law. 
+(b) 
+A complaint filed with a local commission, office, or agency created by the authority of the Indiana Civil Rights Law, shall be deemed a complaint filed with the commission as of the date it was received by the local commission, office, or agency, provided the complaint conforms to the requirements of the Indiana Civil Rights Law. 
+
+(c) 
+Thedirector or deputydirector mayissuea finding adopting theresult reachedbyEEOCor HUDconcerning a complaint that has been filed with one (1) of those federal agencies and with the commission, provided that there is no substantial difference between state and federal law as such laws pertain to the facts at issue in the complaint. A finding of no probable cause issued by thedirector or deputydirector pursuanttothissection maybereviewedbythecommission pursuanttothesameprocedures setforth under this article for reviewing findings of no probable cause issued by the director or deputy director in cases investigated by the commission. The only issues subject to review are whether there is a material difference between state and federal law, and whether any such material difference requires additional investigation or the issuance of a finding different from that issued by EEOC or HUD. (Civil Rights Commission; Rule 2, Sec 2.4; filed Mar 29, 1974, 4:16 p.m.: Rules and Regs. 1975, p. 197; filed Feb 7, 2000, 
+
+
+3:15 p.m.: 23 IR 1386; readopted filed Oct 25, 2001, 2:15 p.m.: 25 IR 942; readopted filed Oct 29, 2007, 2:55 p.m.: 20071128-IR­910070566RFA; readopted filed Nov 19, 2013, 9:07 a.m.: 20131218-IR-910130454RFA) 
+
+910 IAC 1-2-5 Filing complaints 
+Authority: IC 22-9-1-6 
+Affected: IC 22-9-1 
+
+Sec. 5. (a) Complaints may be filed with the commission at its Indianapolis office either by personal delivery or by mail. The commission's staff may provide assistance in drafting and filing a complaint. 
+(b) 
+The complaint shall be deemed filed as of the date of either of the following: 
+
+(1) 
+The postmark, if the complaint is filed by first class mail, or its receipt at the commission's offices if no postmark is visible. 
+
+(2) 
+Receipt at the commission's office if the complaint is filed by means other than first class mail. 
+
+
+(Civil Rights Commission; Rule 2, Sec 2.5; filed Mar 29, 1974, 4:16 p.m.: Rules and Regs. 1975, p. 198; filed Feb 7, 2000, 3:15 p.m.: 23 IR 1387; readopted filed Oct 25, 2001, 2:15 p.m.: 25 IR 942; readopted filed Oct 29, 2007, 2:55 p.m.: 20071128-IR­910070566RFA; readopted filed Nov 19, 2013, 9:07 a.m.: 20131218-IR-910130454RFA) 
+
+910 IAC 1-2-6 Withdrawal of complaint; notice 
+Authority: IC 22-9-1-6 
+Affected: IC 22-9-1 
+
+Sec.6.WithdrawalOfAComplaint.(A)WhoMayWithdraw.Acomplaint,or anypartthereof,maybewithdrawn onlyupon written request as hereinafter set forth: 
+(i) 
+If the request for withdrawal is made before the case has been set for hearing, and notice thereof sent, the Complaint may be withdrawn at the discretion of the Complainant. 
+
+(ii) 
+If the request for withdrawal is made after the case has been set for hearing, the written consent of a majority of the Commissioners shall be obtained. 
+
+
+(B) Notice Of Withdrawal. All parties shall be notified of a withdrawal. (Civil Rights Commission; Rule 2,Sec 2.6; filed Mar 29, 1974, 4:16 pm: Rules and Regs. 1975, p. 198; readopted filed Oct 25, 2001, 2:15 p.m.: 25 IR 942; readopted filed Oct 29, 2007, 2:55 p.m.: 20071128-IR-910070566RFA; readopted filed Nov 19, 2013, 9:07 a.m.: 20131218-IR-910130454RFA) 
+
+910 IAC 1-2-7 Answers; relief; time limits; default; replies 
+Authority: IC 22-9-1-6 
+Affected: IC 22-9-1 
+
+Sec. 7. (a) A respondent may choose not to file an answer and, in the alternative, may grant relief to a complainant within twenty (20) days after service upon the respondent of a copy of the complaint. If a complainant accepts the offer of relief and the relief offered is acceptable to the commission as a just resolution of the complaint, such complaint will be dismissed subject to full performance by the respondent of the terms of the respondent's proposed offer. 
+(b) 
+A respondent may answer by filing an answer to the complaint in accordance with this section. An answer shall state in short and plain terms the defenses to each claim asserted and shall admit or deny the allegations set forth in the complaint. If, in good faith, the respondent intends to deny all the allegations in the complaint, the respondent must do so subject to verification under oath. In lieu of a general denial, the respondent may: 
+
+(1) specifically deny designated allegations or paragraphs; or 
+
+(2) 
+generally deny all allegations, except such allegations and paragraphs as expressly admitted. If the respondent lacks knowledge or information sufficient to form a belief as to the truth of an allegation, the respondent shall so state and such statement will be considered a denial. If the respondent intends to deny only a part or qualify an allegation, the respondent shall specify so much of it as is true and material and deny the remainder. All denials shall meet the substance of the allegations denied. Allegations in a complaint, except those pertaining to amount of damages, are admitted when not denied in an answer. 
+
+(c) 
+An answer shall be in writing and signed by the respondent or the respondent's duly authorized representative and shall be filed with the commission within twenty (20) days after service upon the respondent of a copy of the complaint. 
+
+(d) 
+If a respondent fails to grant immediate relief pursuant to subsection (a) and the respondent fails to file an answer to the complaint within twenty (20) days after service upon such respondent of a copy of the complaint, the commission will deem this failure to answer an admission to the truth of the allegations set forth in the complaint and, upon its own motion or the motion of any party in accordance with this article, the commission may issue an order by default. 
+
+(e) Any new allegation raised in an answer shall be deemed denied without the necessity of a reply. 
+
+(f) 
+Upon application, the chair, vice chair of the commission, or, if both are unavailable, any commissioner, for good cause shown, may extend the time within which the answer may be filed. (Civil Rights Commission; Rule 2, Sec 2.7; filed Mar 29, 1974, 
+
+
+4:16 p.m.: Rules and Regs. 1975, p. 199; filed Feb 7, 2000, 3:15 p.m.: 23 IR 1387; readopted filed Oct 25, 2001, 2:15 p.m.: 25 IR 942; readopted filed Oct 29, 2007, 2:55 p.m.: 20071128-IR-910070566RFA; readopted filed Nov 19, 2013, 9:07 a.m.: 20131218-IR-910130454RFA) 
+
+910 IAC 1-2-8 Amendments to pleadings 
+Authority: IC 22-9-1-6 
+Affected: IC 22-9-1-6 
+
+Sec. 8. (a) At any time prior to the issuance of the notice of a prehearing conference, a complaint, or any part thereof, may be amended as a matter of a right by the complainant. Otherwise, a complainant may amend the complaint only by leave of the commission, and such leave shall be given when justice so requires. 
+(b) 
+A respondent may amend his or her answer as a matter of right at any time prior to the issuance of notice of a prehearing conference. Otherwise, a respondent may amend its answer only by leave of the commission, and such leave shall be given when justice so requires. 
+
+(c) Each party shall be served with a copy of each amendment to a pleading. 
+
+(d) 
+When issues not raised in the pleadings filed by the parties are heard by express or implied consent of the parties, they shall be treated in all respects as if they had been raised in the pleadings. Such amendments of the pleadings as may be necessary to cause them to conform to the evidence and to raise these issues may be made upon motion of any party at any time, even after final order, but failure to so amend shall not affect the adjudication of the hearing. If evidence is objected to at the hearing on the ground that it isnotwithin theissuesraisedbythepleadings,thepresidingofficer mayallowthepleadings tobeamended and shall do so freely when the presentation of the merits of the action will be served thereby and the objecting party fails to show that the 
+
+
+admission of such evidence would prejudice such party in maintaining a claim or defense on the merits. The presiding officer may grant a continuance to enable the objecting party to meet such evidence. (Civil Rights Commission; Rule 2, Sec 2.8; filed Mar 29, 1974, 4:16 p.m.: Rules and Regs. 1975, p. 199; filed Feb 7, 2000, 3:15 p.m.: 23 IR 1388; readopted filed Oct 25, 2001, 2:15 p.m.: 25 IR 942; readopted filed Oct 29, 2007, 2:55 p.m.: 20071128-IR-910070566RFA; readopted filed Nov 19, 2013, 9:07 a.m.: 20131218-IR-910130454RFA) 
+
+910 IAC 1-2-9 Ruling on prehearing motions and petitions 
+Authority: IC 22-9-1-6 
+Affected: IC 22-9-1-6 
+Sec. 9. When a party files a prehearing motion or petition, and a presiding officer has not been appointed, the chair, vice chair, or, if both are unavailable, any commissioner, shall rule on the motion or petition. If a presiding officer has been appointed pursuant to this article, the presiding officer shall rule on the motion or petition. (Civil Rights Commission; Rule 2, Sec 2.9; filed Mar 29, 1974, 4:16 p.m.: Rules and Regs. 1975, p. 200; filed Feb 7, 2000, 3:15 p.m.: 23 IR 1388; readopted filed Oct 25, 2001, 
+2:15 p.m.: 25 IR 942; readopted filed Oct 29, 2007, 2:55 p.m.: 20071128-IR-910070566RFA; readopted filed Nov 19, 2013, 9:07 a.m.: 20131218-IR-910130454RFA) 
+
+910 IAC 1-2-10 Motion for a more definite statement 
+Authority: IC 22-9-1-6 
+Affected: IC 22-9-1-6 
+Sec. 10. (a) Any person named as a respondent may file a motion in writing within ten (10) days after service of a complaint requesting that the allegations in the complaint be made more definite and certain. Such motion shall set forth the deficiencies in the complaint. If a presiding officer: 
+(1) 
+has not been appointed under this article, the chair, vice chair, or, if both are unavailable, any commissioner shall: 
+
+(A) 
+rule on the motion; and 
+
+(B) 
+if the motion is granted, fix the time within which the complainant shall comply; or 
+
+
+
+(2) 
+has been appointed under this article, the presiding officer shall: 
+
+(A) 
+rule on the motion; and 
+
+(B) 
+if the motion is granted, fix the time within which the complainant shall comply. 
+
+
+
+
+(b) The motion to make more specific shall be utilized only to clarify the issues sufficiently to enable the moving party to prepare his or her defense to the allegations raised in the complaint. (Civil Rights Commission; Rule 2, Sec 2.10; filed Mar 29, 1974, 4:16 p.m.: Rules and Regs. 1975, p. 200; filed Feb 7, 2000, 3:15 p.m.: 23 IR 1388; readopted filed Oct 25, 2001, 2:15 p.m.: 25 IR 942; readopted filed Oct 29, 2007, 2:55 p.m.: 20071128-IR-910070566RFA; readopted filed Nov 19, 2013, 9:07 a.m.: 20131218-IR-910130454RFA) 
+Rule 3. Processing a Complaint 
+
+910 IAC 1-3-1 Docketing; notice; selection of investigator 
+Authority: IC 22-9-1-6 
+Affected: IC 4-21.5-3-1 
+Sec. 1. (a) Each complaint shall be given a case number in sequential order by date of filing with the commission. 
+(b) 
+Each respondent shall be served with a copy of the complaint and a statement of the respondents' procedural rights and obligations. Service shall be deemed sufficient if accomplished by any means by which subpoenas may be served in accordance with this article. Service shall also be deemed sufficient if made by publication in compliance with IC 4-21.5-3-1, as amended from time to time. 
+
+(c) 
+The director or deputy director may conduct the investigation of a complaint or assign all or any part thereof to a member of the staff. (Civil Rights Commission; Rule 3, Sec 3.1; filed Mar 29, 1974, 4:16 p.m.: Rules and Regs. 1975, p. 201; filed Feb 7, 
+
+
+2000, 3:15 p.m.: 23 IR 1389; readopted filed Oct 25, 2001, 2:15 p.m.: 25 IR 942; readopted filed Oct 29, 2007, 2:55 p.m.: 20071128-IR-910070566RFA; readopted filed Nov 19, 2013, 9:07 a.m.: 20131218-IR-910130454RFA) 
+
+910 IAC 1-3-2 Investigation and finding; appeal; dismissal 
+Authority: IC 22-9-1-6 
+Affected: IC 22-9-1-2; IC 22-9-1-3 
+Sec. 2. (a) If a respondent chooses to defend against a complaint, the director shall initiate a full investigation of such complaint. Based on the results of the investigation, the director shall determine whether probable cause exists. 
+(b) 
+If the director or deputy director issues a finding of probable cause or if the commission issues a finding of probable cause pursuant to an appeal under subsection (d), notice of such finding shall be served on all parties and a presiding officer shall be appointed. 
+
+(c) 
+If the director or deputy director issues a finding of no probable cause, notice of such finding shall be served upon all parties. 
+
+(d) 
+The director or deputy director shall issue a written finding that complainant did not proceed if the director or deputy director finds that dismissal of the complaint will serve the public interest and further finds that, after reasonable effort by the commission's staff: 
+
+(1) 
+the complainant has unreasonably failed to cooperate with the commission's staff; or 
+
+(2) 
+the commission's staff has been unable to locate the complainant. 
+
+(e) 
+The director or deputy director shall issue a finding of lack of jurisdiction if the commission lacks jurisdiction over: 
+
+(1) 
+a person necessary to the just adjudication of the case; 
+
+(2) 
+the subject matter of the complaint; or 
+
+(3) 
+the particular case. 
+
+
+
+(f) 
+The director or deputy director may issue a finding of administrative dismissal if the director or deputy director finds that dismissal of a complaint will serve the public interest and further finds that: 
+
+(1) 
+each respondent in a case has received a discharge of its debts under the United States Bankruptcy Code and that such discharge is effective to discharge all monetary claims under the Indiana Civil Rights Law; 
+
+(2) 
+there is no substantial likelihood of payment of relief that has been or may be ordered by the commission; or 
+
+(3) 
+the complainant has failed to present a claim with substantial likelihood of merit. 
+
+
+
+(g) 
+A party who is aggrieved by a finding of the director or the deputy director, other than a finding of probable cause, may file, within fifteen (15) days after receipt of notice of such finding, a written appeal of such finding with the commission. Notice of the right to appeal and of the aggrieved party's right to submit additional documentary evidence shall be contained in the notice of each appealable finding issued by the director or deputy director. 
+
+(h) 
+The chair shall appoint a commissioner to review and rule on each appeal. The reviewing commissioner shall base his or her decision on the investigation results submitted by the director or deputy director as supplemented by any other documentary evidence submitted by the parties, including the following: 
+
+(1) 
+If the reviewing commissioner, or the commission, determines that a finding of no probable cause might be reversed, each respondent shall be notified of such determination and allowed fifteen (15) days to object in writing. If the reviewing commissioner, after due consideration of each respondent's written objections, determines that the finding of no probable cause should be reversed, the case shall be processed as if an original finding of probable cause had been made. 
+
+(2) 
+If the reviewing commissioner determines that the finding of no probable cause should be upheld, the complaint shall be referred to the commission on such reviewing commissioner's recommendation that the commission adopt the finding of no probable cause. In the event of such a recommendation by the reviewing commissioner, the commission shall consider only evidence submitted to the reviewing commissioner in ruling on an appeal of the director's or deputy director's finding of no probable cause. 
+
+(3) 
+If the commission adopts the finding of no probable cause recommended by the reviewing commissioner, the complaint shall be dismissed and the parties shall be served with notice of such finding. 
+
+(4) 
+A reviewing commissioner or the commission may decline to adopt or recommend a finding of no probable cause under this section in favor of referral for further investigation specifying in writing the investigatory efforts desired. Such a referral 
+
+shall have the effect of setting aside the director's or deputy director's finding of no probable cause pending the further investigation requested after which the director or deputy director may once again make a determination whether probable cause exists, taking any new evidence into consideration. 
+
+(5) 
+A commissioner who reverses a finding of no probable cause shall take no further part in the proceedings on the complaint that was the subject of the appeal; provided, however, that if disqualification of a commissioner who has reversed a finding of no probable cause would deprive the commission of a quorum, such commissioner need not be disqualified. 
+
+
+
+(i) 
+The issuance of the following shall result in the dismissal of a complaint, with prejudice, upon the exhaustion of the administrative appeal process: 
+
+(1) 
+Finding of no probable cause. 
+
+(2) 
+Finding that complainant did not proceed. 
+
+(3) 
+Finding of lack of jurisdiction. 
+
+
+
+
+(4) Finding of administrative dismissal. (Civil Rights Commission; Rule 3, Sec 3.2; filed Mar 29, 1974, 4:16 p.m.: Rules and Regs. 1975, p. 201; filed Jun 26, 1984, 3:13 p.m.: 7 IR 1939; filed Feb 7, 2000, 3:15 p.m.: 23 IR 1389; readopted filed Oct 25, 2001, 2:15 p.m.: 25 IR 942; readopted filed Oct 29, 2007, 2:55 p.m.: 20071128-IR-910070566RFA; readopted filed Nov 19, 2013, 9:07 a.m.: 20131218-IR-910130454RFA) 
+
+910 IAC 1-3-3 Conciliation conference 
+Authority: IC 22-9-1-6 
+Affected: IC 22-9-1-6 
+Sec. 3. Upon written request of a respondent, or upon agreement of all parties, the director or the director's designee may schedule a conciliation conference. If a case is scheduled for a conciliation conference, all parties must attend such conference and participate in good faith. All settlement discussions made in the course of a conciliation conference scheduled by the director shall be confidential, and no admissions made against interest during the course of such conciliation conference shall be admissible as evidence in a public hearing held by the commission or in any other legal proceeding. (Civil Rights Commission; Rule 3, Sec 3.3; filed Mar 29, 1974, 4:16 p.m.: Rules and Regs. 1975, p. 202; filed Feb 7, 2000, 3:15 p.m.: 23 IR 1390; readopted filed Oct 25, 2001, 2:15 p.m.: 25 IR 942; readopted filed Oct 29, 2007, 2:55 p.m.: 20071128-IR-910070566RFA; readopted filed Nov 19, 2013, 
+9:07 a.m.: 20131218-IR-910130454RFA) 
+
+910 IAC 1-3-4 Consent agreements 
+Authority: IC 22-9-1-6 
+Affected: IC 22-9-1-2; IC 22-9-1-3 
+Sec. 4. The director or such person as the director designates may sign a consent agreement with regard to settlement in any case. Such agreement, however, is not final unless approved by the commission. A consent agreement approved by the commission shall be binding on the commission and shall be enforceable as a final order by the commission against any party signing such agreement. The commission may enforce such agreement by action brought in a circuit or superior court upon a showing that such party: 
+(1) 
+has failed to comply with one (1) or more terms or conditions of the consent agreement; 
+
+(2) 
+is subject to the commission's jurisdiction; and 
+
+
+(3) resides or transacts business within the county in which the petition for enforcement is brought. (Civil Rights Commission; Rule 3, Sec 3.4; filed Mar 29, 1974, 4:16 p.m.: Rules and Regs. 1975, p. 203; filed Feb 7, 2000, 3:15 p.m.: 23 IR 1391; readopted filed Oct 25, 2001, 2:15 p.m.: 25 IR 942; readopted filed Oct 29, 2007, 2:55 p.m.: 20071128-IR­910070566RFA; readopted filed Nov 19, 2013, 9:07 a.m.: 20131218-IR-910130454RFA) 
+
+910 IAC 1-3-5 Appointment of administrative law judges and presiding officer; appointments by presiding officer 
+Authority: IC 22-9-1-6 
+Affected: IC 22-9-1-6 
+Sec. 5. (a) When the director or deputy director has issued a finding of probable cause or a motion has been filed prior to the issuance of a finding by the director or deputy director, the chair or, if the chair is unavailable, a commissioner, shall appoint an administrative law judge or judges to conduct a public hearing and to rule on all prehearing motions and petitions. When more than one (1) administrative law judge is appointed for a public hearing, the chair shall designate which administrative law judge shall be the presiding officer. The parties shall be notified of such appointment. 
+(b) 
+The presiding officer may: 
+
+(1) 
+appoint a settlement judge to preside over and conduct settlement conferences and negotiations under such conditions as may be imposed by the presiding officer; and 
+
+
+(2) upon agreement of the parties, appoint a conciliator. (Civil Rights Commission; Rule 3, Sec 3.5; filed Mar 29, 1974, 4:16 p.m.: Rules and Regs. 1975, p. 204; filed Feb 7, 2000, 3:15 p.m.: 23 IR 1392; readopted filed Oct 25, 2001, 2:15 p.m.: 25 IR 942; readopted filed Oct 29, 2007, 2:55 p.m.: 20071128-IR­910070566RFA; readopted filed Nov 19, 2013, 9:07 a.m.: 20131218-IR-910130454RFA) 
+
+910 IAC 1-3-6 Election of forum 
+Authority: IC 22-9-1-6 
+Affected: IC 22-9-1-6 
+Sec. 6. The parties to a case before the commission may elect, in writing, to proceed before a circuit or superior court of competent jurisdiction. An election to proceed in circuit or superior court is effective only if all parties to a case timely file a written election. If all parties have filed a timely election to proceed in circuit or superior court, the commission shall dismiss the case, without prejudice. Such dismissal shall be sufficient to exhaust all administrative remedies in the case. (Civil Rights Commission; 910 IAC 1-3-6; filed Feb 7, 2000, 3:15 p.m.: 23 IR 1392; readopted filed Oct 25, 2001, 2:15 p.m.: 25 IR 942; readopted filed Oct 29, 2007, 2:55 p.m.: 20071128-IR-910070566RFA; readopted filed Nov 19, 2013, 9:07 a.m.: 20131218-IR-910130454RFA) 
+Rule 4. Discovery 
+
+910 IAC 1-4-1 Discovery 
+Authority: IC 22-9-1-6 
+Affected: IC 34-5-1-1 
+Sec. 1. (a) Any party to the proceeding shall be entitled to conduct discovery upon issuance of a finding of probable cause. When any party has filed a motion prior to the issuance of a finding of probable cause, all parties are entitled to conduct discovery relevant to the issues raised by such motion. At any other time, the parties may conduct discovery only by leave of the presiding officer, or, if a presiding officer has not been appointed, by any commissioner. Discovery shall be conducted pursuant to the rules of procedure governing discovery set forth in the Indiana Rules of Trial Procedure. Upon the request of any party, the presiding officer, or, if no presiding officer has been appointed, any commissioner, shall, or upon a motion may, issue subpoenas and discovery orders, including protective orders, in accordance with the Indiana Rules of Trial Procedure. The presiding officer, or, if a presiding officer has not been appointed, any commissioner, may limit the conduct of discovery as justice requires. Nothing contained in this section limits the commission's authority to issue a subpoena at any time. 
+(b)Subpoenasandother discoveryordersissuedbythepresidingofficer,acommissioner,or thecommission maybeenforced in circuit or superior court in the manner set forth in the Administrative Orders and Procedures Act. 
+(c) 
+No deposition, request for discovery, or response to a request for discovery under the Indiana Rules of Trial Procedure shall be filed with the commission unless: 
+
+(1) 
+a motion is filed pursuant to Rule 26(c) or Rule 37 of the Indiana Rules of Trial Procedure and the original deposition, request for discovery, or response to a request for discovery is necessary to enable the commission to rule; or 
+
+(2) 
+a party desires to use the deposition or request for discovery or response thereto for evidentiary purposes at hearing or in connection with a motion and the presiding officer permits such usage. 
+
+(d) 
+Subject to Rule 30(e) of the Indiana Rules of Trial Procedure, the original of a deposition shall be: 
+
+(1) 
+delivered by the reporter to the party taking it; and 
+
+(2) 
+maintained by that party until filed with the commission or until the case has been finally resolved and the parties have exhausted all rights to appeal. 
+
+
+
+(e) 
+The original of any request for discovery or response thereto shall be maintained by the party originating the request or response until filed with the commission or until the case has been finally resolved and the parties have exhausted all rights to appeal. 
+
+(f) 
+In the event it is made to appear to the satisfaction of the commission that the original of a deposition or request for discovery or response thereto cannot be filed with the commission when required, the commission may allow use of a copy instead of the original. 
+
+
+(g)Thefilingofanydeposition shallconstitutepublication. (Civil Rights Commission; Rule 4; filed Mar 29, 1974, 4:16 p.m.; Rules and Regs. 1975, p. 204; filed Feb 7, 2000, 3:15 p.m.: 23 IR 1392; readopted filed Oct 25, 2001, 2:15 p.m.: 25 IR 942; readopted filed Oct 29, 2007, 2:55 p.m.: 20071128-IR-910070566RFA; readopted filed Nov 19, 2013, 9:07 a.m.: 20131218-IR­910130454RFA) 
+Rule 5. Service of Process 
+
+910 IAC 1-5-1 Filing 
+Authority: IC 22-9-1-6 
+Affected: IC 22-9-1-3 
+Sec. 1. (a) Complaints filed with the commission shall be filed as provided in this article. All other pleadings, motions, petitions, requests, and other instruments shall be filed by delivering in person during regular business hours, or by mailing the original instrument and three (3) copies thereof to the office of the commission at Indianapolis. All such instruments shall be signed by the party on whose behalf they are filed or by such party's attorney. Where, pursuant to this article, a complainant has elected to have the case in support of the complaint presented by the commission's staff attorney, such instruments may be signed by the commission's staff attorney on behalf of the complainant. All such instruments shall show the party's address and phone number and the address and phone number of the attorney filing the instrument. 
+(b) 
+All notices, orders, and other documents provided for in this article shall be served on all parties. If a party is represented in the proceedings by an attorney of record, all notices, orders, and other documents shall be served on such party's attorney with a copy of such document sent to the party. 
+
+(c) 
+When a commission staff attorney has appeared for purposes of presenting the case in support of the complaint, all notices,orders,andother documentsshall beserved on thecommission'sstaffattorneywith acopysenttothecomplainant.Service may be by regular mail or personal delivery unless otherwise ordered. 
+
+(d) 
+Service shall be deemed complete upon mailing; however, whenever a party has the right or is required to do some act or take some proceeding within a prescribed period after the service of a notice or other document upon him or her by mail, three 
+
+(3) 
+days shall be added to the prescribed period. Proof of mailing of any document shall constitute prima facie proof of service of such document. A signed certificate affirming that the signatory placed a document in the mail shall constitute proof of mailing of such document for purposes of this article. 
+
+(e) 
+In all cases in which the commission is the moving party, all notices provided for in this section shall be in writing, and shall be given at least five (5) days prior to the event of which notice is given, unless a longer period of notice is prescribed in this article. Every notice shall set forth a statement of the fact or law involved to advise the person notified of the matters at issue to be heard or determined by the commission together with the time and place of any hearing or the time before which any action called for or permitted by the notice must be taken. Such statement may be informal and need not conform to the requirements of a pleading in court. 
+
+(f) 
+An application to the commission to take any action or to enter any order after the filing of the initial complaint or answer shall be by motion that, unless made during a hearing, shall: 
+
+(1) 
+be made in writing; 
+
+(2) 
+state specifically the grounds therefore; and 
+
+
+
+(3) 
+set forth the action or order sought. Each motion made in writing, or reduced to writing at the request of the commission, shall be filed with the commission and notice 
+
+
+thereof shall be served upon all parties. (Civil Rights Commission; Rule 5, Sec 5.1; filed Mar 29, 1974, 4:16 p.m.: Rules and Regs. 1975, p. 205; filed Feb 7, 2000, 3:15 p.m.: 23 IR 1393; readopted filed Oct 25, 2001, 2:15 p.m.: 25 IR 942; readopted filed Oct 29, 2007, 2:55 p.m.: 20071128-IR-910070566RFA; readopted filed Nov 19, 2013, 9:07 a.m.: 20131218-IR-910130454RFA) 
+
+910 IAC 1-5-2 Subpoenas 
+Authority: IC 22-9-1-6 
+Affected: IC 22-9-1-6 
+
+Sec. 2. (a) The commission may issue subpoenas on its own motion or upon request of any party. 
+(b) 
+A subpoena issued by the commission may be served by a sheriff, the sheriff's deputy, a party, or any person. Service of a subpoena upon a person named in the subpoena shall be made by delivering a copy thereof to the person named in the subpoena, or an individual acting in a representative capacity for such person, by: 
+
+(1) 
+sending a copyofthesubpoenabyregisteredor certifiedmailor other publicmeansbywhich a written acknowledgement of receipt may be requested and obtained to his or her residence, place of business, or place of employment; 
+
+(2) 
+delivering a copy of the subpoena personally; 
+
+(3) 
+leaving a copy of the subpoena at his or her dwelling house or usual place of abode; or 
+
+
+
+(4) 
+serving his or her agent as provided by rule, statute, or valid agreement. Whenever service is made under subdivision (3) or (4), the person making the service shall also send a copy of the subpoena by first class mail to the last known address of the person being served and this fact shall be shown upon the return. 
+
+(c) 
+Subpoenas issued by the commission shall be signed by an individual commissioner under the seal of the commission and shall state the following: 
+
+(1) 
+The name of the commission. 
+
+(2) 
+The title of the action without naming more than the first named complainant and respondent. 
+
+(3) 
+The docket number. 
+
+
+
+(d) 
+A subpoena may command the person named in the subpoena to appear and give testimony at a time and place as specified. 
+
+(e) 
+A subpoena may command the person named in the subpoena to produce books, papers, documents, or tangible things as designated. 
+
+(f) 
+The chair, vice chair, or, if both are unavailable, any commissioner, or, if a presiding officer has been appointed pursuant to this article, the presiding officer, upon a timely motion may: 
+
+(1) 
+quash or modify the subpoena if it is unreasonable or oppressive; or 
+
+(2) 
+condition denial of the motion to quash upon the advancement by the person on whose behalf the subpoena is issued of the reasonable cost of producing the books, papers, documents, or tangible things. 
+
+
+
+(g) 
+If any person named in a subpoena shall fail to appear before the commission, to answer any question, or to produce any book,record,paper,orotherdocumentascommandedbysuchsubpoena,orshallotherwisedisobeysuch subpoena,such contumacy or refusal shall constitute a contempt. The commission may apply for a citation of contempt to the circuit or superior court or judge thereof, in the county in which: 
+
+(1) 
+the hearing is held; 
+
+(2) 
+the person subpoenaed resides or transacts business; or 
+
+(3) 
+the books, records, or documents are kept or are located. 
+
+
+
+(h) 
+Nothing in this article shall be construed as making public or requiring the production of records or information made privileged or confidential by law. 
+
+(i) 
+When a subpoena is served by the sheriff or the sheriff's deputy, his or her return shall be proof of service. When served by any other person, service must be shown by affidavit. No fees or costs for the service of a subpoena shall be collected or charged as costs except when service is made by the sheriff or the sheriff's deputy. (Civil Rights Commission; Rule 5, Sec 5.2; filed Mar 29, 1974, 4:16 p.m.: Rules and Regs. 1975, p. 206; filed Feb 7, 2000, 3:15 p.m.: 23 IR 1393; readopted filed Oct 25, 2001, 2:15 p.m.: 25 IR 942; readopted filed Oct 29, 2007, 2:55 p.m.: 20071128-IR-910070566RFA; readopted filed Nov 19, 2013, 9:07 a.m.: 20131218-IR-910130454RFA) 
+
+
+Rule 6. Default 
+
+910 IAC 1-6-1 Failures constituting default; default orders 
+Authority: IC 22-9-1-6 
+Affected: IC 22-9-1-6 
+
+Sec. 1. When a party has: 
+(1) failed to plead or otherwise defend as provided by this article; or 
+(2) failed to appear for a public hearing after proper notice; such party is in default. Upon a showing that a party is in default, the commission may enter an order by default in accordance with the procedures set forth in the Administrative Orders and Procedures Act. (Civil Rights Commission; Rule 6, Sec 6.1; filed Mar 29, 1974, 4:16 p.m.: Rules and Regs. 1975, p. 207; filed Feb 7, 2000, 3:15 p.m.: 23 IR 1394; readopted filed Oct 25, 2001, 2:15 p.m.: 25 IR 942; readopted filed Oct 29, 2007, 2:55 p.m.: 20071128-IR-910070566RFA; readopted filed Nov 19, 2013, 9:07 a.m.: 20131218-IR-910130454RFA) 
+
+910 IAC 1-6-2 Default orders against governmental organizations 
+Authority: IC 22-9-1-6 
+Affected: IC 22-9-1-6 
+
+Sec. 2. An order by default may be entered against a governmental organization. (Civil Rights Commission; Rule 6, Sec 6.2; filed Mar 29, 1974, 4:16 p.m.: Rules and Regs. 1975, p. 207; filed Feb 7, 2000, 3:15 p.m.: 23 IR 1395; readopted filed Oct 25, 2001, 2:15 p.m.: 25 IR 942; readopted filed Oct 29, 2007, 2:55 p.m.: 20071128-IR-910070566RFA; readopted filed Nov 19, 2013, 
+9:07 a.m.: 20131218-IR-910130454RFA) 
+
+910 IAC 1-6-3 Vacation of default order 
+Authority: IC 22-9-1-6 
+Affected: IC 22-9-1-6 
+
+Sec. 3. Setting Aside Default. Upon application within a reasonable time and upon good cause shown, the Chairman of the Commission may set aside on Order by Default. (Civil Rights Commission; Rule 6,Sec 6.3; filed Mar 29, 1974, 4:16 pm: Rules and Regs. 1975, p. 208; readopted filed Oct 25, 2001, 2:15 p.m.: 25 IR 942; readopted filed Oct 29, 2007, 2:55 p.m.: 20071128­IR-910070566RFA; readopted filed Nov 19, 2013, 9:07 a.m.: 20131218-IR-910130454RFA) 
+
+910 IAC 1-6-4 Default by governmental organization 
+Authority: IC 22-9-1-6 
+Affected: IC 22-9-1-6 
+
+Sec. 4. Order Against Governmental Organizations. An Order by Default may be entered against a governmental organization. (Civil Rights Commission; Rule 6,Sec 6.4; filed Mar 29, 1974, 4:16 pm: Rules and Regs. 1975, p. 208; readopted filed Oct 25, 2001, 2:15 p.m.: 25 IR 942; readopted filed Oct 29, 2007, 2:55 p.m.: 20071128-IR-910070566RFA; readopted filed Nov 19, 2013, 9:07 a.m.: 20131218-IR-910130454RFA) 
+Rule 7. Parties 
+
+910 IAC 1-7-1 Substitution of parties; relation back 
+Authority: IC 22-9-1-6 
+Affected: IC 22-9-1-6 
+
+Sec. 1. (a) Whenever the claim or defense asserted in the amended pleading arose out of the conduct, transaction, or occurrence set forth or attempted to be set forth in the original pleading, the amendment relates back to the date of the original pleading. An amendment changing the person against whom a claim is asserted relates back if the foregoing provision is satisfied and, within the period provided by law for commencing the action against the person to be brought in by amendment, such person: 
+(1) has received such notice of the institution of the action that he or she will not be prejudiced in maintaining a defense on the merits; and 
+(2)knewor should haveknown that, but for a mistakeconcerning theidentityoftheproper party,theaction wouldhavebeen brought against him or her. 
+(b) 
+With respect to a governmental organization, the requirements of subsection (a) may be satisfied by: 
+
+(1) 
+in the case of a state or governmental organization, delivery or mailing of process to the attorney general or to a governmental executive; or 
+
+(2) 
+in the case of a local governmental organization, delivery or mailing of process to: 
+
+(A) 
+its attorney as provided by statute; 
+
+(B) 
+a governmental executive thereof; or 
+
+
+
+
+(C) the officer holding the office if suit is against the officer or an office. (Civil Rights Commission; Rule 7, Sec 7.1; filed Mar 29, 1974, 4:16 p.m.: Rules and Regs. 1975, p. 208; filed Feb 7, 2000, 3:15 p.m.: 23 IR 1395; readopted filed Oct 25, 2001, 2:15 p.m.: 25 IR 942; readopted filed Oct 29, 2007, 2:55 p.m.: 20071128-IR­910070566RFA; readopted filed Nov 19, 2013, 9:07 a.m.: 20131218-IR-910130454RFA) 
+
+910 IAC 1-7-2 Intervention 
+Authority: IC 22-9-1-6 
+Affected: IC 22-9-1-6 
+Sec. 2. (a) The director, or the deputy director, in his or her official capacity, may intervene as a party in any case following the issuance of a finding of probable cause. The director or deputy director may also intervene as a party in any case in which a motion has been filed prior to the issuance of a finding of probable cause or a finding of no probable cause for the limited purpose of addressing or contesting such prefinding motion. Nothing in this section shall be construed as limiting the right of the director or deputy director to initiate or join any proceeding or case as provided elsewhere in this article. 
+(b) 
+The Administrative Orders and Procedures Act shall govern all petitions for intervention by any person other than the director or the deputy director. (Civil Rights Commission; Rule 7, Sec 7.2; filed Mar 29, 1974, 4:16 p.m.: Rules and Regs. 1975, 
+
+p. 
+209; filed Feb 7, 2000, 3:15 p.m.: 23 IR 1395; readopted filed Oct 25, 2001, 2:15 p.m.: 25 IR 942; readopted filed Oct 29, 2007, 
+
+
+2:55 p.m.: 20071128-IR-910070566RFA; readopted filed Nov 19, 2013, 9:07 a.m.: 20131218-IR-910130454RFA) 
+
+910 IAC 1-7-3 Joinder of parties; indispensable parties 
+Authority: IC 22-9-1-6 
+Affected: IC 22-9-1-6 
+Sec. 3. (a) A person who is subject to service or process shall be joined as a party before the commission if: 
+(1) 
+in such person's absence, complete relief cannot be accorded among those already parties; or 
+
+(2) 
+such person claims an interest relating to the subject of the action and is so situated that the disposition of the action in his or her absence may: 
+
+(A) 
+as a practical matter, impair or impede his or her ability to protect that interest; or 
+
+(B) 
+leave any of the persons already parties subject to substantial risk of incurring double, multiple, or otherwise 
+
+
+
+
+inconsistent obligations by reason of such absent person's claimed interest. If such a person has not been so joined, the presiding officer shall order that he or she be made a party. If, in accordance with the foregoing, a person should join as a complainant, but refuses to do so, such person may be made a respondent. 
+(b) Notwithstanding subsection (a), when a person described in clause (A) [sic.] is not made a party, the presiding officer may treat the absent person as not indispensable and allow the action to proceed without such absent person, or the presiding officer may treat such absent person as indispensable and dismiss the action if such person is not subject to process. In determining whether or not a person is indispensable, the presiding officer shall consider the following factors: 
+(1) 
+The extent to which a judgment rendered in the person's absence might be prejudicial to him or her or to those already parties. 
+
+(2) 
+The extent to which, by protective provisions in the final order, by the shaping of relief, or by other measures the prejudice can be lessened or avoided. 
+
+(3) 
+Whether a final order rendered in the person's absence will be adequate. 
+
+
+(4) Whether the complainants will have an adequate remedy if the complaint is dismissed for nonjoinder. (Civil Rights Commission; Rule 7, Sec 7.3; filed Mar 29, 1974, 4:16 p.m.: Rules and Regs. 1975, p. 209; filed Feb 7, 2000, 3:15 p.m.: 23 IR 1395; readopted filed Oct 25, 2001, 2:15 p.m.: 25 IR 942; readopted filed Oct 29, 2007, 2:55 p.m.: 20071128-IR­910070566RFA; readopted filed Nov 19, 2013, 9:07 a.m.: 20131218-IR-910130454RFA) 
+Rule 8. Practice Before the Commission 
+
+910 IAC 1-8-1 Representation of parties 
+Authority: IC 22-9-1-6 
+Affected: IC 22-9-1-6 
+Sec. 1. (a) Any person may appear before the commission, or presiding officer on his or her own behalf, or by an attorney admitted to practice and in good standing before the bar of any of the United States or the District of Columbia. 
+(b) 
+A complainant may appear before the commission, or presiding officer, in person, by an attorney, or by a legal intern pursuing an education in a legal institution and engaged in a program certified by the supreme court of Indiana. In lieu of the options provided in this subsection, the case in support of the complaint may be presented by the commission's staff attorney. In such case, the commission's staff attorney represents the public interest and does not enter into an attorney-client relationship with a complainant. In the event the commission's staff attorney presents the case in support of the complaint and the complainant's interest conflicts with the public interest, the commission's attorney is bound to pursue the public interest. 
+
+(c) 
+In the event a complainant appears in person or by an attorney or a legal intern pursuing an education in a legal institution and engaging in a program certified by the supreme court of Indiana, the commission's staff attorney may present the case in support of the complaint for purposes of furthering the public interest. (Civil Rights Commission; Rule 8, Sec 8.1; filed Mar 29, 1974, 4:16 p.m.: Rules and Regs. 1975, p. 210; filed Feb 7, 2000, 3:15 p.m.: 23 IR 1396; readopted filed Oct 25, 2001, 2:15 p.m.: 25 IR 942; readopted filed Oct 29, 2007, 2:55 p.m.: 20071128-IR-910070566RFA; readopted filed Nov 19, 2013, 9:07 a.m.: 20131218-IR-910130454RFA) 
+
+
+
+910 IAC 1-8-2 Venue 
+Authority: IC 22-9-1-6 
+Affected: IC 22-9-1-6 
+Sec. 2. It is the policy of the commission to maintain an objective neutral forum equally accessible to all participants in the proceeding before the commission. In order to preserve this policy, hearings shall be held in Indianapolis unless otherwise ordered by the commission. (Civil Rights Commission; Rule 8, Sec 8.2; filed Mar 29, 1974, 4:16 p.m.: Rules and Regs. 1975, p. 210; filed Feb 7, 2000, 3:15 p.m.: 23 IR 1396; readopted filed Oct 25, 2001, 2:15 p.m.: 25 IR 942; readopted filed Oct 29, 2007, 2:55 p.m.: 20071128-IR-910070566RFA; readopted filed Nov 19, 2013, 9:07 a.m.: 20131218-IR-910130454RFA) 
+Rule 9. Pre-Hearing Conference 
+
+910 IAC 1-9-1 Prehearing conference; report; continuing duty to make discovery 
+Authority: IC 22-9-1-6 
+Affected: IC 22-9-1 
+Sec. 1. (a) In the event that a public hearing is required under this article, the presiding officer may direct the parties, the attorneys for the parties, and, where appropriate, the commission's staff attorney to appear before him or her for a prehearing conference to consider the following: 
+(1) 
+The simplification of the issues. 
+
+(2) 
+The necessity or desirability of amendments to the pleadings. 
+
+(3) 
+The possibility of obtaining admissions of fact and of documents that will avoid unnecessary proof. 
+
+(4) 
+A limitation of the number of expert witnesses. 
+
+(5) 
+An exchange of names of witnesses to be called during the hearing and the general nature of their expected testimony. 
+
+(6) 
+Such other matters as may aid in the disposition of the action. 
+
+
+(b) 
+Unless otherwise ordered by the commission, a prehearing conference may be called at any time after the issuance of a finding of probable cause. 
+
+(c) 
+Where a party is represented by counsel, at least one (1) attorney planning to take part in the hearing shall appear for such party and participate in the prehearing conference. Where, pursuant to this article, a complainant has elected to have the case in support of the complaint be presented by the commission's staff attorney, the commission's staff attorney may appear at the prehearing conference on behalf of such complainant. However, when a party chooses to proceed without counsel before the commission at a final hearing, that party shall appear personally at the prehearing conference. 
+
+(d) 
+Unless otherwise ordered by the presiding officer, all attorneys who are required to participate in the prehearing conference shall meet and confer at least three (3) days prior to the prehearing conference, for the following purposes: 
+
+(1) 
+Each attorney shall mark for identification and provide opposing counsel an opportunity to inspect and copy all exhibits which he or she expects to introduce at the hearing. Numbers or marks placed on such exhibits shall be prefixed with the symbol "P/H/C", denoting its prehearing conference designation. When the exhibit is introduced at the hearing of the case, the prehearing conference designation will be stricken. The exhibits must also indicate the party identifying such exhibits. Exhibits of such a nature as to prohibit or make impracticable their production at the prehearing conference shall be identified and notice given of their intended use. Necessary arrangements must be made to afford opposing counsel an opportunity to examine such exhibits. 
+
+(2) 
+The parties shall prepare a written stipulation with reference to all exhibits exchanged or identified. The stipulation shall: 
+
+(A) 
+contain all agreements of the parties with reference to the exchanged and identified exhibits; and 
+
+(B) 
+set forth, without limitation, the following: 
+
+(i) 
+The agreement of the parties with reference to the authenticity of the exhibits. 
+
+(ii) 
+The admissibility of such exhibits as evidence. 
+
+
+
+
+(iii) The use of such exhibits in opening statements. 
+
+(iv) 
+The provisions made for the inspection of identified exhibits. The original of the exhibit stipulations shall be presented to the presiding officer at the prehearing conference. 
+
+(3) 
+The parties shall stipulate in writing with reference to all facts and issues not in genuine dispute. The original of the stipulations shall be presented to the presiding officer at the time of the prehearing conference. 
+
+(4) 
+Attorneys for each of the parties shall furnish opposing counsel with a written list of the names and addresses of all witnesses then known. The original of each witness list shall be presented to the presiding officer at the time of the prehearing conference. 
+
+(5) 
+If a party, other than a complainant who has elected to have the case in support of the complaint be presented by the commission's staff attorney, is not represented by counsel, he or she shall represent himself or herself at such a conference. The possibility of compromise settlement shall be fully discussed and explored. 
+
+
+
+(e) 
+Each attorney shall completely familiarize himself or herself with all aspects of the case in advance of the conference of attorneys and shall be prepared to enter into stipulations with reference to as many facts and issues and exhibits as possible. 
+
+(f) 
+It shall be the duty of counsel for the parties to arrange for the conference of attorneys at least ten (10) days in advance of the prehearing conference unless waived by the presiding officer. 
+
+(g) 
+If, after the conference of the attorneys and before the prehearing conference, counsel discovers additional information required to be disclosed at the conference of attorneys, this information shall immediately be furnished to opposing counsel. The original of any such disclosures shall be presented to the presiding officer at the prehearing conference. 
+
+(h) 
+If, following the prehearing conference or during hearing, counsel discovers additional exhibits or the names of additional witnesses, the same information required to be disclosed at the conference of attorneys shall immediately be furnished to opposing counsel. Theoriginal ofanydisclosuresshallimmediatelybefiled with thecommission and shall indicatethedateit wasfurnished 
+
+to opposing counsel. 
+
+(i) 
+If necessary or advisable, the presiding officer may adjourn the prehearing conference from time to time or may order additional prehearing conferences. 
+
+(j) 
+The presiding officer shall issue a written order that: 
+
+(1) 
+recites the action taken at each prehearing conference; 
+
+(2) 
+recites the amendments allowed to the pleadings; 
+
+(3) 
+recites the agreements made by the parties as to any of the matters considered; and 
+
+
+
+(4) 
+limits the issues before the commission to those not disposed of by admission or agreement at the prehearing conference. Such order shall control the subsequent course of action unless modified thereafter to prevent manifest injustice. At the start of the hearing, after witnesses have been sworn and preliminary motions considered, the presiding officer may read into the record the order regarding the scope of the hearing. Objections to the order may be noted on the record for appeal purposes. (Civil Rights Commission; Rule 9, Sec 9.1; filed Mar 29, 1974, 4:16 p.m.: Rules and Regs. 1975, p. 210; filed Feb 7, 2000, 3:15 p.m.: 23 IR 1396; readopted filed Oct 25, 2001, 2:15 p.m.: 25 IR 942; readopted filed Oct 29, 2007, 2:55 p.m.: 20071128-IR-910070566RFA; readopted filed Nov 19, 2013, 9:07 a.m.: 20131218-IR-910130454RFA) 
+
+
+Rule 10. Notice of Hearing 
+
+910 IAC 1-10-1 Notice of hearing 
+Authority: IC 22-9-1-6 
+Affected: IC 22-9-1 
+
+Sec. 1. (a) If, pursuant to this article, a hearing is required, the complaint shall be set for hearing by the presiding officer, or, if no presiding officer has been appointed, by the director or deputy director. Notice thereof shall be served upon all parties. 
+(b) 
+All notices of hearing shall state the date, time, place of hearing, and that parties shall appear with or without counsel at the hearing to answer the complaint and submit testimony with respect to the alleged discriminatory practice. All notices shall advise each party that the failure to appear will result in an adverse order by default pursuant to this article. 
+
+(c) 
+Notice of hearing shall be delivered or mailed no less than fifteen (15) days prior to the date of the hearing. (Civil Rights Commission; Rule 10, Sec 10.1; filed Mar 29, 1974, 4:16 p.m.: Rules and Regs. 1975, p. 213; filed Feb 7, 2000, 3:15 p.m.: 23 IR 1398; readopted filed Oct 25, 2001, 2:15 p.m.: 25 IR 942; readopted filed Oct 29, 2007, 2:55 p.m.: 20071128-IR­910070566RFA; readopted filed Nov 19, 2013, 9:07 a.m.: 20131218-IR-910130454RFA) 
+
+
+
+910 IAC 1-10-2 Continuances 
+Authority: IC 22-9-1-6 
+Affected: IC 22-9-1-6 
+
+Sec. 2. Upon application, the chair, vice chair, or, if both are unavailable, any commissioner for good cause shown may extend the date on which a hearing has been set. If a presiding officer has been appointed pursuant to this article, the presiding officer shall rule on such application. (Civil Rights Commission; Rule 10, Sec 10.2; filed Mar 29, 1974, 4:16 p.m.: Rules and Regs. 1975, p. 213; filed Feb 7, 2000, 3:15 p.m.: 23 IR 1398; readopted filed Oct 25, 2001, 2:15 p.m.: 25 IR 942; readopted filed Oct 29, 2007, 2:55 p.m.: 20071128-IR-910070566RFA; readopted filed Nov 19, 2013, 9:07 a.m.: 20131218-IR-910130454RFA) 
+Rule 11. Hearings 
+
+910 IAC 1-11-1 Rules of practice governing hearings 
+Authority: IC 22-9-1-6 
+Affected: IC 22-9-1-6 
+
+Sec.1.(a)Allpartiestotheproceedingmayappear in person or bycounsel and shall beallowed topresent andcrossexamine witnesses and to submit evidence. 
+(b) 
+No evidence shall be received at any hearing except upon reasonable opportunity for all parties to be present. Each party shall, unless excused by the presiding officer, be present in person at each hearing and may be represented by counsel if he or she desires. 
+
+(c) 
+The commission shall conduct its hearings in an informal manner in accordance with the Administrative Orders and Procedures Act. 
+
+(d) 
+The presiding officer may, among other things: 
+
+(1) 
+administer oaths and affirmations; 
+
+(2) 
+issue subpoenas; 
+
+(3) 
+rule on offers of proof and receive relevant oral or documentary evidence; 
+
+(4) 
+take or cause depositions to be taken; 
+
+(5) 
+conduct conferences for the settlement or simplification of the issues by consent of the parties; and 
+
+(6) 
+dispose of procedural motions and similar matters. 
+
+(e) 
+The presiding officer may, within his or her discretion, order the separation of witnesses. 
+
+
+
+(f) 
+The presiding officer may exclude from the hearing room or from further participation in the proceeding, any person, except a party, who engages in improper conduct before the presiding officer. 
+
+(g) All hearings of the commission under this article shall be open to the public. 
+
+(h) 
+The presiding officer may grant a continuance on the motion of either party, for good cause shown. If a continuance is granted,costsincurredon accountofthecontinuancemaybeassessedagainstthepartymovingforthecontinuanceatthediscretion of the presiding officer. 
+
+(i) 
+Thepresiding officer mayat anytimeorder a continuanceupon hisor her own motion iftheinterestsofjusticesorequire. When all parties are present, such oral notice shall constitute final notice of such continued hearing. 
+
+(j) 
+At any hearing upon a complaint or upon any matter connected therewith, evidence shall be admissible as to any retaliatory action against any person because: 
+
+(1) 
+he or she filed the complaint, which is the basis for the hearing; 
+
+(2) 
+he or she testified at any hearing before the commission in connection with such complaint; or 
+
+
+
+(3) 
+he or she assisted the commission in any way in connection with its investigation of the complaint. Such evidence shall be admissible in the discretion of the presiding officer, whether or not allegations of such retaliatory acts are contained in the complaint. The presiding officer shall give the respondent such opportunity to prepare a defense to previously undisclosedallegationsofretaliation asjusticerequires,andfor thatpurposethepresidingofficermaycontinuesuch hearing. (Civil Rights Commission; Rule 11, Sec 11.1; filed Mar 29, 1974, 4:16 p.m.: Rules and Regs. 1975, p. 213; filed Feb 7, 2000, 3:15 p.m.: 23 IR 1398; readopted filed Oct 25, 2001, 2:15 p.m.: 25 IR 942; readopted filed Oct 29, 2007, 2:55 p.m.: 20071128-IR­910070566RFA; readopted filed Nov 19, 2013, 9:07 a.m.: 20131218-IR-910130454RFA) 
+
+
+
+910 IAC 1-11-2 Reopening hearings 
+Authority: IC 22-9-1-6 
+Affected: IC 22-9-1-6 
+
+Sec. 2. Motion To Reopen Hearing. (A) Reopening Hearings. At any time after a hearing has been closed, but prior to a final determination, the Commission may on its own motion, or upon motion by any party, reopen the proceeding to receive further evidence or argument. (Civil Rights Commission; Rule 11,Sec 11.2; filed Mar 29, 1974, 4:16 pm: Rules and Regs. 1975, p. 215; readopted filed Oct 25, 2001, 2:15 p.m.: 25 IR 942; readopted filed Oct 29, 2007, 2:55 p.m.: 20071128-IR-910070566RFA; readopted filed Nov 19, 2013, 9:07 a.m.: 20131218-IR-910130454RFA) 
+
+910 IAC 1-11-3 Briefs; proposed findings, conclusions, and order 
+Authority: IC 22-9-1-6 
+Affected: IC 22-9-1-6 
+
+Sec. 3. Briefs And Post Hearing Procedure. (A) Who May File. Briefs may be filed by a party, or any interested person, either before or during the course of a public hearing, or within such time thereafter as the Presiding Officer shall designate. Failure to file a brief shall in no way prejudice the rights of any party. 
+(B) At The Close Of Hearing. At the close of the public hearing the Presiding Officer may order the parties to submit a suggested decision to the Commission. A suggested decision shall include suggested findings of fact, conclusions of law, and the final order by the Commission which the party desires. (Civil Rights Commission; Rule 11,Sec 11.3; filed Mar 29, 1974, 4:16 pm: Rules and Regs. 1975, p. 215; readopted filed Oct 25, 2001, 2:15 p.m.: 25 IR 942; readopted filed Oct 29, 2007, 2:55 p.m.: 20071128-IR-910070566RFA; readopted filed Nov 19, 2013, 9:07 a.m.: 20131218-IR-910130454RFA) 
+Rule 12. Orders (Repealed) 
+(Repealed by Civil Rights Commission; filed Feb 7, 2000, 3:15 p.m.: 23 IR 1400) 
+Rule 13. Judicial Review (Voided) 
+NOTE: Voided by P.L.14-1994, SECTION 10, effective January 1, 1994. 
+Rule 14. Revocation or Suspension of Licenses 
+
+910 IAC 1-14-1 License suspension or revocation; notice; hearing 
+Authority: IC 22-9-1-6 
+Affected: IC 22-9-1-6 
+
+Sec. 1. Notice To Licensee And Licensing Agency. (A) Procedure. Any licensee of the State of Indiana who is found to have committed a Discriminatory Practice shall be put on notice by the order of the Commission that failure to comply with its final order will subject said licensee to the possible suspension or revocation of such license. The licensing agency shall be given notice of the Commission's determination, and upon failure of the licensee to comply with the Commission's final order, the Commission shall request the licensing agency to conduct a hearing on the matter of whether or not such licensee shall continue to be licensed. 
+(Civil Rights Commission; Rule 14,Sec 14.1; filed Mar 29, 1974, 4:16 pm: Rules and Regs. 1975, p. 218; readopted filed Oct 25, 2001, 2:15 p.m.: 25 IR 942; readopted filed Oct 29, 2007, 2:55 p.m.: 20071128-IR-910070566RFA; readopted filed Nov 19, 2013, 
+9:07 a.m.: 20131218-IR-910130454RFA) 
+Rule 15. Construction of Regulations 
+
+910 IAC 1-15-1 Construction of rules; severability 
+Authority: IC 22-9-1-6 
+Affected: IC 22-9-1-6 
+
+Sec. 1. How Construed And Partial Invalidity. (A) Broadly. These regulations [910 IAC 1] shall be broadly construed to accomplish the purposes of the Law and the policies of the Commission. 
+(B) Partial Invalidity. If any provision of these rules [910 IAC 1] or the application of a provision to any person or circumstances shall be held invalid, the remainder of these rules [910 IAC 1] or the application of a rule to persons or circumstances other than those as to which it is held invalid shall not be affected thereby. (Civil Rights Commission; Rule 15,Sec 15.1; filed Mar 29, 1974, 4:16 pm: Rules and Regs. 1975, p. 218; readopted filed Oct 25, 2001, 2:15 p.m.: 25 IR 942; readopted filed Oct 29, 2007, 2:55 p.m.: 20071128-IR-910070566RFA; readopted filed Nov 19, 2013, 9:07 a.m.: 20131218-IR­910130454RFA) 
+Rule 16. Complainants 
+
+910 IAC 1-16-1 Duties 
+Authority: IC 22-9-1-6 
+Affected: IC 22-9-1-6 
+
+Sec. 1. (a) Each complainant has the duty to diligently prosecute his or her case before the commission. Such duty includes, without limitation, the following obligations: 
+(1) 
+To promptly notify the commission of any change in address or telephone number. 
+
+(2) 
+To provide in good faith truthful answers to all questions from any member of the commission's staff pursuant to the conduct of an investigation by the commission. 
+
+(3) 
+To provide any and all documents within his or her control that are requested by any member of the commission's staff and are reasonably related to the conduct of an investigation by the commission. 
+
+(4) 
+To execute any documents requested by any member of the commission's staff that are reasonably necessary to the conduct of an investigation by the commission, including, without limitation, documents authorizing the release of confidential medical information. 
+
+(5) 
+To claim any and all certified or registered mail from the commission. 
+
+(6) 
+To respond, in a timely manner, to any and all requests by members of the commission's staff that are reasonably necessary to the conduct of an investigation by the commission. 
+
+
+(b) Failure by a complainant to fulfill his or her duty to diligently prosecute a complaint may result in issuance of a finding that complainant did not proceed and a dismissal of the complaint with prejudice, in accordance with this article. (Civil Rights Commission; 910 IAC 1-16-1; filed Feb 7, 2000, 3:15 p.m.: 23 IR 1399; readopted filed Oct 25, 2001, 2:15 p.m.: 25 IR 942; readopted filed Oct 29, 2007, 2:55 p.m.: 20071128-IR-910070566RFA; readopted filed Nov 19, 2013, 9:07 a.m.: 20131218-IR­910130454RFA) 
+Rule 17. Telephonic Hearings 
+
+910 IAC 1-17-1 Telephonic hearings 
+Authority: IC 22-9-1-6 
+Affected: IC 22-9-1-6 
+Sec. 1. The commission, in its discretion, may hold a public hearing by telephone on the issue of whether an order of the commission should be set aside on grounds that a party did not receive sufficient notice of a finding, notice, order, or other document. The commission shall not exercise its discretion to hold a hearing telephonically where to do so would unduly prejudice a party. (Civil Rights Commission; 910 IAC 1-17-1; filed Feb 7, 2000, 3:15 p.m.: 23 IR 1399; readopted filed Oct 25, 2001, 2:15 p.m.: 25 IR 942; readopted filed Oct 29, 2007, 2:55 p.m.: 20071128-IR-910070566RFA; readopted filed Nov 19, 2013, 9:07 a.m.: 20131218-IR-910130454RFA) 
+
+910 IAC 1-17-2 Procedures 
+Authority: IC 22-9-1-6 
+Affected: IC 22-9-1-6 
+Sec. 2. (a) The commission shall provide all parties with notice that a hearing will be held telephonically at least ten (10) business days prior to the scheduled hearing date. Such notice shall include the following: 
+(1) 
+Notification of the right to object to a telephonic hearing within five (5) business days of the date of receipt of such notice of telephonic hearing. 
+
+(2) 
+Instructions as to the means and manner by which the telephonic hearing will be conducted. 
+
+
+(b) 
+All witnesses for a telephonic hearing must be present at the offices of the commission or at the location of the party participating by telephone. The presiding officer or the commission shall advise all participants that the proceedings will be recorded. The presiding officer or the commission shall permit each party a reasonable opportunity to question any witness testifying via telephone for the purpose of verifying the identity of such witness. In order for documentary evidence to be admitted at a telephonic hearing, it must be delivered to the commission at least five (5) business days prior to the telephonic hearing and be otherwise admissible under this article and the Administrative Orders and Procedures Act. 
+
+(c) 
+Except as expressly provided in this section, telephonic hearings shall be subject to the same rules governing other public hearings under this article. (Civil Rights Commission; 910 IAC 1-17-2; filed Feb 7, 2000, 3:15 p.m.: 23 IR 1400; readopted filed 
+
+
+Oct 25, 2001, 2:15 p.m.: 25 IR 942; readopted filed Oct 29, 2007, 2:55 p.m.: 20071128-IR-910070566RFA; readopted filed Nov 19, 2013, 9:07 a.m.: 20131218-IR-910130454RFA) 
+* 
+
+
+

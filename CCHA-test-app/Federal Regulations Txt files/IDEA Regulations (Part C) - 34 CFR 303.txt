@@ -1,0 +1,5256 @@
+Off. of Spec. Educ. and Rehab. Services, Education
+§ 301.31 Allocations
+to
+cational agencies.
+
+local
+
+edu-
+
+(a) Base payments. The State shall
+first award each agency described in
+§ 301.30 the amount that agency would
+have received under section 619 of the
+Act for fiscal year 1997 if the State had
+distributed 75 percent of its grant for
+that year under section 619(c)(3), as
+then in effect.
+(b) Base payment adjustments. For fiscal year 1998 and beyond—
+(1) If a new LEA is created, the State
+shall divide the base allocation determined under paragraph (a) of this section for the LEAs that would have been
+responsible for serving children with
+disabilities now being served by the
+new LEA, among the new LEA and affected LEAs based on the relative numbers of children with disabilities ages 3
+through 5 currently provided special
+education by each of the LEAs;
+(2) If one or more LEAs are combined
+into a single new LEA, the State shall
+combine the base allocations of the
+merged LEAs; and
+(3) If for two or more LEAs, geographic boundaries or administrative
+responsibility for providing services to
+children with disabilities ages 3
+through 5 changes, the base allocations
+of affected LEAs shall be redistributed
+among affected LEAs based on the relative numbers of children with disabilities ages 3 through 5 currently provided special education by each affected LEA.
+(c) Allocation of remaining funds. After
+making allocations under paragraph (a)
+of this section, the State shall—
+(1) Allocate 85 percent of any remaining funds to those agencies on the basis
+of the relative numbers of children enrolled in public and private elementary
+and secondary schools within the agency’s jurisdiction; and
+(2) Allocate 15 percent of those remaining funds to those agencies in accordance with their relative numbers
+of children living in poverty, as determined by the SEA.
+(3) For the purpose of making grants
+under this section, States must apply
+on a uniform basis across all LEAs the
+best data that are available to them on
+the numbers of children enrolled in
+public and private elementary and sec-
+
+Pt. 303
+
+ondary schools and the numbers of
+children living in poverty.
+(Authority: 20 U.S.C. 1419(g)(1))
+
+§ 301.32 Reallocation of local education agency funds.
+(a) If a SEA determines that an LEA
+is adequately providing a free appropriate public education to all children
+with disabilities aged 3 through 5 residing in the area served by that agency
+with State and local funds, the SEA
+may reallocate any portion of the
+funds under section 619 of the Act that
+are not needed by that local agency to
+provide a free appropriate public education to other local educational agencies in the State that are not adequately providing special education
+and related services to all children
+with disabilities aged 3 through 5 residing in the areas they serve.
+(b) If a State provides services to preschool children with disabilities because some or all LEAs and ESAs are
+unable or unwilling to provide appropriate programs, the SEA may use payments that would have been available
+to those LEAs or ESAs to provide special education and related services to
+children with disabilities aged 3
+through 5 years, and to two-year-old
+children with disabilities receiving
+services consistent with § 301.1 who are
+residing in the area served by those
+LEAs and ESAs.
+(Authority: 20 U.S.C. 1414(d), 1419(g)(2))
+
+PART 303—EARLY INTERVENTION
+PROGRAM FOR INFANTS AND
+TODDLERS WITH DISABILITIES
+Subpart A—General
+PURPOSE, ELIGIBILITY, AND OTHER GENERAL
+PROVISIONS
+Sec.
+303.1 Purpose of the early intervention program for infants and toddlers with disabilities.
+303.2 Eligible recipients of an award.
+303.3 Activities that may be supported
+under this part.
+303.4 Limitation on eligible children.
+303.5 Applicable regulations.
+DEFINITIONS
+303.6 Act.
+303.7 Children.
+
+175
+
+VerDate Aug<2,>2002
+
+15:03 Aug 14, 2002
+
+Jkt 197127
+
+PO 00000
+
+Frm 00175
+
+Fmt 8010
+
+Sfmt 8010
+
+Y:\SGML\197127T.XXX
+
+pfrm12
+
+PsN: 197127T
+
+Pt. 303
+
+34 CFR Ch. III (7–1–02 Edition)
+
+303.8 Council.
+303.9 Days.
+303.10 Developmental delay.
+303.11 Early intervention program.
+303.12 Early intervention services.
+303.13 Health services.
+303.14 IFSP.
+303.15 Include; including.
+303.16 Infants and toddlers with disabilities.
+303.17 Multidisciplinary.
+303.18 Natural environments.
+303.19 Parent.
+303.20 Policies.
+303.21 Public agency.
+303.22 Qualified.
+303.23 Service coordination (case management).
+303.24 State.
+303.25 EDGAR definitions that apply.
+
+Subpart B—State Application for a Grant
+GENERAL REQUIREMENTS
+303.100 Conditions of assistance.
+303.101 How the Secretary disapproves a
+State’s application or statement of assurances.
+
+COMPONENTS OF A STATEWIDE SYSTEM—
+APPLICATION REQUIREMENTS
+303.160 Minimum components of a statewide
+system.
+303.161 State definition of developmental
+delay.
+303.162 Central directory.
+303.163 [Reserved]
+303.164 Public awareness program.
+303.165 Comprehensive child find system.
+303.166 Evaluation, assessment, and nondiscriminatory procedures.
+303.167 Individualized family service plans.
+303.168 Comprehensive system of personnel
+development (CSPD).
+303.169 Personnel standards.
+303.170 Procedural safeguards.
+303.171 Supervision and monitoring of programs.
+303.172 Lead agency procedures for resolving
+complaints.
+303.173 Policies and procedures related to financial matters.
+303.174 Interagency agreements; resolution
+of individual disputes.
+303.175 Policy for contracting or otherwise
+arranging for services.
+303.176 Data collection.
+PARTICIPATION BY THE SECRETARY OF THE
+INTERIOR
+
+PUBLIC PARTICIPATION
+303.110 General requirements and timelines
+for public participation.
+303.111 Notice of public hearings and opportunity to comment.
+303.112 Public hearings.
+303.113 Reviewing public comments received.
+STATEMENT OF ASSURANCES
+303.120 General.
+303.121 Reports and records.
+303.122 Control of funds and property.
+303.123 Prohibition against commingling.
+303.124 Prohibition against supplanting.
+303.125 Fiscal control.
+303.126 Payor of last resort.
+303.127 Assurance regarding expenditure of
+funds.
+303.128 Traditionally underserved groups.
+
+303.180 Payments to the Secretary of the Interior for Indian tribes and tribal organizations.
+
+Subpart C—Procedures for Making Grants
+to States
+303.200 Formula for State allocations.
+303.201 Distribution of allotments from nonparticipating States.
+303.202 Minimum grant that a State may receive.
+303.203 Payments to the Secretary of the Interior.
+303.204 Payments to the jurisdictions.
+
+Subpart D—Program and Service Components of a Statewide System of Early
+Intervention Services
+GENERAL
+
+GENERAL REQUIREMENTS FOR A STATE
+APPLICATION
+303.140 General.
+303.141 Information about the Council.
+303.142 Designation of lead agency.
+303.143 Designation regarding financial responsibility.
+303.144 Assurance regarding use of funds.
+303.145 Description of use of funds.
+303.146 Information about public participation.
+303.147 Services to all geographic areas.
+303.148 Transition to preschool programs.
+
+303.300 State eligibility criteria and procedures.
+303.301 Central directory.
+IDENTIFICATION AND EVALUATION
+303.320
+303.321
+303.322
+303.323
+
+Public awareness program.
+Comprehensive child find system.
+Evaluation and assessment.
+Nondiscriminatory procedures.
+
+INDIVIDUALIZED FAMILY SERVICE PLANS
+(IFSPS)
+303.340
+
+General.
+
+176
+
+VerDate Aug<2,>2002
+
+15:03 Aug 14, 2002
+
+Jkt 197127
+
+PO 00000
+
+Frm 00176
+
+Fmt 8010
+
+Sfmt 8010
+
+Y:\SGML\197127T.XXX
+
+pfrm12
+
+PsN: 197127T
+
+Off. of Spec. Educ. and Rehab. Services, Education
+303.341 [Reserved]
+303.342 Procedures for IFSP development,
+review, and evaluation.
+303.343 Participants in IFSP meetings and
+periodic reviews.
+303.344 Content of an IFSP.
+303.345 Provision of services before evaluation and assessment are completed.
+303.346 Responsibility and accountability.
+
+§ 303.1
+
+303.522 Identification and coordination of
+resources.
+303.523 Interagency agreements.
+303.524 Resolution of disputes.
+303.525 Delivery of services in a timely manner.
+303.526 Policy for contracting or otherwise
+arranging for services.
+303.527 Payor of last resort.
+303.528 Reimbursement procedure.
+
+PERSONNEL TRAINING AND STANDARDS
+REPORTING REQUIREMENTS
+
+303.360 Comprehensive system of personnel
+development.
+303.361 Personnel standards.
+
+303.540
+
+Subpart E—Procedural Safeguards
+
+303.560
+
+USE OF FUNDS FOR STATE ADMINISTRATION
+
+GENERAL
+303.400 General responsibility of lead agency
+for procedural safeguards.
+303.401 Definitions of consent, native language, and personally identifiable information.
+303.402 Opportunity to examine records.
+303.403 Prior notice; native language.
+303.404 Parent consent.
+303.405 Parent right to decline service.
+303.406 Surrogate parents.
+MEDIATION AND DUE PROCESS PROCEDURES
+FOR PARENTS AND CHILDREN
+303.419 Mediation.
+303.420 Due process procedures.
+303.421 Appointment of an impartial person.
+303.422 Parent rights in administrative proceedings.
+303.423 Convenience
+of
+proceedings;
+timelines.
+303.424 Civil action.
+303.425 Status of a child during proceedings.
+CONFIDENTIALITY
+303.460
+
+Data collection.
+
+Use of funds by the lead agency.
+
+Subpart G—State Interagency
+Coordinating Council
+GENERAL
+303.600
+303.601
+303.602
+303.603
+303.604
+
+Establishment of Council.
+Composition.
+Use of funds by the Council.
+Meetings.
+Conflict of interest.
+FUNCTIONS OF THE COUNCIL
+
+303.650 General.
+303.651 Advising and assisting the lead agency in its administrative duties.
+303.652 Applications.
+303.653 Transitional services.
+303.654 Annual report to the Secretary.
+AUTHORITY: 20 U.S.C. 1431–1445, unless otherwise noted.
+SOURCE: 58 FR 40959, July 30, 1993, unless
+otherwise noted.
+EDITORIAL NOTE: Nomenclature changes to
+part 303 appear at 63 FR 18293, Apr. 14, 1998.
+
+Confidentiality of information.
+
+Subpart A—General
+
+Subpart F—State Administration
+
+PURPOSE, ELIGIBILITY, AND OTHER
+GENERAL PROVISIONS
+
+GENERAL
+303.500 Lead agency establishment or designation.
+303.501 Supervision and monitoring of programs.
+LEAD AGENCY PROCEDURES FOR RESOLVING
+COMPLAINTS
+303.510 Adopting complaint procedures.
+303.511 An organization or individual may
+file a complaint.
+303.512 Minimum State complaint procedures.
+POLICIES AND PROCEDURES RELATED TO
+FINANCIAL MATTERS
+303.520 Policies related to payment for services.
+303.521 Fees.
+
+§ 303.1 Purpose of the early intervention program for infants and toddlers with disabilities.
+The purpose of this part is to provide
+financial assistance to States to—
+(a) Maintain and implement a statewide, comprehensive, coordinated, multidisciplinary, interagency system of
+early intervention services for infants
+and toddlers with disabilities and their
+families;
+(b) Facilitate the coordination of
+payment for early intervention services from Federal, State, local, and private sources (including public and private insurance coverage);
+
+177
+
+VerDate Aug<2,>2002
+
+15:03 Aug 14, 2002
+
+Jkt 197127
+
+PO 00000
+
+Frm 00177
+
+Fmt 8010
+
+Sfmt 8010
+
+Y:\SGML\197127T.XXX
+
+pfrm12
+
+PsN: 197127T
+
+§ 303.2
+
+34 CFR Ch. III (7–1–02 Edition)
+
+(c) Enhance the States’ capacity to
+provide quality early intervention
+services and expand and improve existing early intervention services being
+provided to infants and toddlers with
+disabilities and their families; and
+(d) Enhance the capacity of State and
+local agencies and service providers to
+identify, evaluate, and meet the needs
+of historically underrepresented populations, particularly minority, low-income, inner-city, and rural populations.
+(Authority: 20 U.S.C. 1431)
+[58 FR 40959, July 30, 1993, as amended at 63
+FR 18293, Apr. 14, 1998; 64 FR 12535, Mar. 12,
+1999]
+
+§ 303.2 Eligible recipients of an award.
+Eligible recipients include the 50
+States, the Commonwealth of Puerto
+Rico, the District of Columbia, the Secretary of the Interior, and the following jurisdictions: Guam, American
+Samoa, the Virgin Islands, the Commonwealth of the Northern Mariana Islands.
+
+ganizations, services, and personnel for
+the purpose of—
+(1) Identifying and evaluating at-risk
+infants and toddlers;
+(2) Making referrals of the infants
+and toddlers identified and evaluated
+under paragraph (e)(1) of this section;
+and
+(3) Conducting periodic follow-up on
+each referral under paragraph (e)(2) of
+this section to determine if the status
+of the infant or toddler involved has
+changed with respect to the eligibility
+of the infant or toddler for services
+under this part.
+(Authority: 20 U.S.C. 1433 and 1438)
+[58 FR 40959, July 30, 1993, as amended at 63
+FR 18293, Apr. 14, 1998]
+
+§ 303.4
+
+Limitation on eligible children.
+
+This part 303 does not apply to any
+child with disabilities receiving a free
+appropriate public education, in accordance with 34 CFR part 300, with
+funds received under 34 CFR part 301.
+(Authority: 20 U.S.C. 1419(h))
+
+(Authority: 20 U.S.C. 1401(27), 1443)
+
+§ 303.5
+
+[58 FR 40959, July 30, 1993, as amended at 63
+FR 18293, Apr. 14, 1998]
+
+(a) The following regulations apply
+to this part:
+(1) The Education Department General
+Administrative
+Regulations
+(EDGAR), including—
+(i) Part 76 (State Administered Programs), except for § 76.103;
+(ii) Part 77 (Definitions that Apply to
+Department Regulations);
+(iii) Part 79 (Intergovernmental Review of Department of Education Programs and Activities);
+(iv) Part 80 (Uniform Administrative
+Requirements for Grants and Cooperative Agreements to State and Local
+Governments);
+(v) Part 81 (Grants and Cooperative
+Agreements under the General Education Provisions Act—Enforcement);
+(vi) Part 82 (New Restrictions on
+Lobbying); and
+(vii) Part 85 (Governmentwide Debarment and Suspension (Nonprocurement) and Governmentwide Requirements for Drug-Free Work Place
+(Grants)).
+(2) The regulations in this part 303.
+(3) The following regulations in 34
+CFR part 300 (Assistance to States for
+
+§ 303.3 Activities that may be supported under this part.
+Funds under this part may be used
+for the following activities:
+(a) To maintain and implement a
+statewide system of early intervention
+services for children eligible under this
+part and their families.
+(b) For direct services for eligible
+children and their families that are not
+otherwise provided from other public
+or private sources.
+(c) To expand and improve on services for eligible children and their families that are otherwise available, consistent with § 303.527.
+(d) To provide a free appropriate public education, in accordance with part
+B of the Act, to children with disabilities from their third birthday to the
+beginning of the following school year.
+(e) To strengthen the statewide system by initiating, expanding, or improving collaborative efforts related to
+at-risk infants and toddlers, including
+establishing linkages with appropriate
+public or private community-based or-
+
+Applicable regulations.
+
+178
+
+VerDate Aug<2,>2002
+
+15:03 Aug 14, 2002
+
+Jkt 197127
+
+PO 00000
+
+Frm 00178
+
+Fmt 8010
+
+Sfmt 8010
+
+Y:\SGML\197127T.XXX
+
+pfrm12
+
+PsN: 197127T
+
+Off. of Spec. Educ. and Rehab. Services, Education
+the Education of Children with Disabilities Program): §§ 300.560–300.577, and
+§§ 300.580–300.585.
+(b) In applying the regulations cited
+in paragraphs (a)(1) and (a)(3) of this
+section, any reference to—
+(1) State educational agency means the
+lead agency under this part;
+(2) Special education, related services,
+free appropriate public education, free
+public education, or education means
+‘‘early intervention services’’ under
+this part;
+(3) Participating agency, when used in
+reference to a local educational agency
+or an intermediate educational agency,
+means a local service provider under
+this part;
+(4) Section 300.128 means §§ 303.164 and
+303.321; and
+(5) Section 300.129 means § 303.460.
+(Authority: 20 U.S.C. 1401, 1416, 1417)
+[58 FR 40959, July 30, 1993, as amended at 63
+FR 18294, Apr. 14, 1998, 64 FR 12535, Mar. 12,
+1999]
+
+§ 303.6
+
+NOTE: Sections 303.6–303.24 contain definitions, including a definition of ‘‘natural environments’’ in § 303.18, that are used
+throughout these regulations. Other terms
+are defined in the specific subparts in which
+they are used. Below is a list of those terms
+and the specific sections in which they are
+defined:
+Appropriate professional requirements in the
+State (§ 303.361(a)(1))
+Assessment (§ 303.322(b)(2))
+Consent (§ 303.401(a))
+Evaluation (§ 303.322(b)(1))
+Frequency and intensity (§ 303.344(d)(2)(i))
+Highest requirements in the State applicable
+to a profession or discipline (§ 303.361)(a)(2))
+Individualized family service plan and IFSP
+(§ 303.340(b))
+Impartial (§ 303.421(b))
+Location (§ 303.344(d)(3))
+Method (§ 303.344(d)(2)(ii))
+Native language (§ 303.401(b))
+Personally identifiable (§ 303.401(c))
+Primary referral sources (§ 303.321(d)(3))
+Profession or discipline (§ 303.361(a)(3))
+Special definition of ‘‘aggregate amount’’
+(§ 303.200(b)(1))
+Special definition of ‘‘infants and toddlers’’
+(§ 303.200(b)(2))
+Special definition of ‘‘State’’ (§ 303.200(b)(3))
+State approved or recognized certification,
+licensing, registration, or other comparable requirements (§ 303.361(a)(4))
+
+Act.
+
+As used in this part, Act means the
+Individuals with Disabilities Education
+Act.
+(Authority: 20 U.S.C. 1400)
+
+§ 303.7
+
+Children.
+
+As used in this part, children means
+infants and toddlers with disabilities as
+that term is defined in § 303.16.
+(Authority: 20 U.S.C. 1432(5))
+
+§ 303.8
+
+Council.
+
+As used in this part, Council means
+the State Interagency Coordinating
+Council.
+(Authority: 20 U.S.C. 1432(2))
+
+§ 303.9
+
+Days.
+
+As used in this part, days means calendar days.
+(Authority: 20 U.S.C. 1431–1445)
+
+§ 303.10
+
+DEFINITIONS
+
+§ 303.12
+
+Developmental delay.
+
+As used in this part, ‘‘developmental
+delay,’’ when used with respect to an
+individual residing in a State, has the
+meaning given to that term under
+§ 303.300.
+(Authority: 20 U.S.C. 1432(3))
+[64 FR 12535, Mar. 12, 1999]
+
+§ 303.11
+
+Early intervention program.
+
+As used in this part, early intervention
+program means the total effort in a
+State that is directed at meeting the
+needs of children eligible under this
+part and their families.
+(Authority: 20 U.S.C. 1431–1445)
+
+§ 303.12
+
+Early intervention services.
+
+(a) General. As used in this part, early
+intervention services means services
+that—
+(1) Are designed to meet the developmental needs of each child eligible
+under this part and the needs of the
+family related to enhancing the child’s
+development;
+(2) Are selected in collaboration with
+the parents;
+(3) Are provided—
+(i) Under public supervision;
+
+179
+
+VerDate Aug<2,>2002
+
+15:03 Aug 14, 2002
+
+Jkt 197127
+
+PO 00000
+
+Frm 00179
+
+Fmt 8010
+
+Sfmt 8010
+
+Y:\SGML\197127T.XXX
+
+pfrm12
+
+PsN: 197127T
+
+§ 303.12
+
+34 CFR Ch. III (7–1–02 Edition)
+
+(ii) By qualified personnel, as defined
+in § 303.21, including the types of personnel listed in paragraph (e) of this
+section;
+(iii) In conformity with an individualized family service plan; and
+(iv) At no cost, unless, subject to
+§ 303.520(b)(3), Federal or State law provides for a system of payments by families, including a schedule of sliding
+fees; and
+(4) Meet the standards of the State,
+including the requirements of this
+part.
+(b) Natural environments. To the maximum extent appropriate to the needs
+of the child, early intervention services
+must be provided in natural environments, including the home and community settings in which children without
+disabilities participate.
+(c) General role of service providers. To
+the extent appropriate, service providers in each area of early intervention services included in paragraph (d)
+of this section are responsible for—
+(1) Consulting with parents, other
+service providers, and representatives
+of appropriate community agencies to
+ensure the effective provision of services in that area;
+(2) Training parents and others regarding the provision of those services;
+and
+(3) Participating in the multidisciplinary team’s assessment of a child
+and the child’s family, and in the development of integrated goals and outcomes for the individualized family
+service plan.
+(d) Types of services; definitions. Following are types of services included
+under ‘‘early intervention services,’’
+and, if appropriate, definitions of those
+services:
+(1) Assistive technology device means
+any item, piece of equipment, or product system, whether acquired commercially off the shelf, modified, or customized, that is used to increase, maintain, or improve the functional capabilities of children with disabilities.
+Assistive technology service means a
+service that directly assists a child
+with a disability in the selection, acquisition, or use of an assistive technology device. Assistive technology
+services include—
+
+(i) The evaluation of the needs of a
+child with a disability, including a
+functional evaluation of the child in
+the child’s customary environment;
+(ii) Purchasing, leasing, or otherwise
+providing for the acquisition of assistive technology devices by children with
+disabilities;
+(iii) Selecting, designing, fitting, customizing, adapting, applying, maintaining, repairing, or replacing assistive technology devices;
+(iv) Coordinating and using other
+therapies, interventions, or services
+with assistive technology devices, such
+as those associated with existing education and rehabilitation plans and
+programs;
+(v) Training or technical assistance
+for a child with disabilities or, if appropriate, that child’s family; and
+(vi) Training or technical assistance
+for professionals (including individuals
+providing early intervention services)
+or other individuals who provide services to or are otherwise substantially
+involved in the major life functions of
+individuals with disabilities.
+(2) Audiology includes—
+(i) Identification of children with auditory impairment, using at risk criteria
+and
+appropriate
+audiologic
+screening techniques;
+(ii) Determination of the range, nature, and degree of hearing loss and
+communication functions, by use of
+audiological evaluation procedures;
+(iii) Referral for medical and other
+services necessary for the habilitation
+or rehabilitation of children with auditory impairment;
+(iv) Provision of auditory training,
+aural rehabilitation, speech reading
+and listening device orientation and
+training, and other services;
+(v) Provision of services for prevention of hearing loss; and
+(vi) Determination of the child’s need
+for individual amplification, including
+selecting, fitting, and dispensing appropriate listening and vibrotactile devices, and evaluating the effectiveness
+of those devices.
+(3) Family training, counseling, and
+home visits means services provided, as
+appropriate, by social workers, psychologists, and other qualified personnel to assist the family of a child eligible under this part in understanding
+
+180
+
+VerDate Aug<2,>2002
+
+15:03 Aug 14, 2002
+
+Jkt 197127
+
+PO 00000
+
+Frm 00180
+
+Fmt 8010
+
+Sfmt 8010
+
+Y:\SGML\197127T.XXX
+
+pfrm12
+
+PsN: 197127T
+
+Off. of Spec. Educ. and Rehab. Services, Education
+the special needs of the child and enhancing the child’s development.
+(4) Health services (See § 303.13).
+(5) Medical services only for diagnostic
+or evaluation purposes means services
+provided by a licensed physician to determine a child’s developmental status
+and need for early intervention services.
+(6) Nursing services includes—
+(i) The assessment of health status
+for the purpose of providing nursing
+care, including the identification of
+patterns of human response to actual
+or potential health problems;
+(ii) Provision of nursing care to prevent health problems, restore or improve functioning, and promote optimal health and development; and
+(iii) Administration of medications,
+treatments, and regimens prescribed by
+a licensed physician.
+(7) Nutrition services includes—
+(i) Conducting individual assessments in—
+(A) Nutritional history and dietary
+intake;
+(B) Anthropometric, biochemical,
+and clinical variables;
+(C) Feeding skills and feeding problems; and
+(D) Food habits and food preferences;
+(ii) Developing and monitoring appropriate plans to address the nutritional needs of children eligible under
+this part, based on the findings in paragraph (d)(7)(i) of this section; and
+(iii) Making referrals to appropriate
+community resources to carry out nutrition goals.
+(8) Occupational therapy includes
+services to address the functional needs
+of a child related to adaptive development, adaptive behavior and play, and
+sensory, motor, and postural development. These services are designed to
+improve the child’s functional ability
+to perform tasks in home, school, and
+community settings, and include—
+(i) Identification, assessment, and
+intervention;
+(ii) Adaptation of the environment,
+and selection, design, and fabrication
+of assistive and orthotic devices to facilitate development and promote the
+acquisition of functional skills; and
+(iii) Prevention or minimization of
+the impact of initial or future impair-
+
+§ 303.12
+
+ment, delay in development, or loss of
+functional ability.
+(9) Physical therapy includes services
+to
+address
+the
+promotion
+of
+sensorimotor function through enhancement of musculoskeletal status,
+neurobehavioral organization, perceptual
+and
+motor
+development,
+cardiopulmonary status, and effective
+environmental adaptation. These services include—
+(i) Screening, evaluation, and assessment of infants and toddlers to identify
+movement dysfunction;
+(ii) Obtaining, interpreting, and integrating information appropriate to program planning to prevent, alleviate, or
+compensate for movement dysfunction
+and related functional problems; and
+(iii) Providing individual and group
+services or treatment to prevent, alleviate, or compensate for movement
+dysfunction and related functional
+problems.
+(10) Psychological services includes—
+(i) Administering psychological and
+developmental tests and other assessment procedures;
+(ii) Interpreting assessment results;
+(iii) Obtaining, integrating, and interpreting information about child behavior, and child and family conditions
+related to learning, mental health, and
+development; and
+(iv) Planning and managing a program of psychological services, including psychological counseling for children and parents, family counseling,
+consultation on child development,
+parent training, and education programs.
+(11) Service coordination services means
+assistance and services provided by a
+service coordinator to a child eligible
+under this part and the child’s family
+that are in addition to the functions
+and activities included under § 303.23.
+(12) Social work services includes—
+(i) Making home visits to evaluate a
+child’s living conditions and patterns
+of parent-child interaction;
+(ii) Preparing a social or emotional
+developmental assessment of the child
+within the family context;
+(iii) Providing individual and familygroup counseling with parents and
+other family members, and appropriate
+social skill-building activities with the
+child and parents;
+
+181
+
+VerDate Aug<2,>2002
+
+15:03 Aug 14, 2002
+
+Jkt 197127
+
+PO 00000
+
+Frm 00181
+
+Fmt 8010
+
+Sfmt 8010
+
+Y:\SGML\197127T.XXX
+
+pfrm12
+
+PsN: 197127T
+
+§ 303.13
+
+34 CFR Ch. III (7–1–02 Edition)
+
+(iv) Working with those problems in
+a child’s and family’s living situation
+(home, community, and any center
+where early intervention services are
+provided) that affect the child’s maximum utilization of early intervention
+services; and
+(v) Identifying, mobilizing, and coordinating community resources and
+services to enable the child and family
+to receive maximum benefit from early
+intervention services.
+(13) Special instruction includes—
+(i) The design of learning environments and activities that promote the
+child’s acquisition of skills in a variety
+of developmental areas, including cognitive processes and social interaction;
+(ii) Curriculum planning, including
+the planned interaction of personnel,
+materials, and time and space, that
+leads to achieving the outcomes in the
+child’s individualized family service
+plan;
+(iii) Providing families with information, skills, and support related to enhancing the skill development of the
+child; and
+(iv) Working with the child to enhance the child’s development.
+(14) Speech-language pathology includes—
+(i) Identification of children with
+communicative or oropharyngeal disorders and delays in development of
+communication skills, including the diagnosis and appraisal of specific disorders and delays in those skills;
+(ii) Referral for medical or other professional services necessary for the habilitation or rehabilitation of children
+with communicative or oropharyngeal
+disorders and delays in development of
+communication skills; and
+(iii) Provision of services for the habilitation, rehabilitation, or prevention
+of
+communicative
+or
+oropharyngeal disorders and delays in
+development of communication skills.
+(15) Transportation and related costs
+includes the cost of travel (e.g., mileage, or travel by taxi, common carrier,
+or other means) and other costs (e.g.,
+tolls and parking expenses) that are
+necessary to enable a child eligible
+under this part and the child’s family
+to receive early intervention services.
+(16) Vision services means—
+
+(i) Evaluation and assessment of visual functioning, including the diagnosis and appraisal of specific visual
+disorders, delays, and abilities;
+(ii) Referral for medical or other professional services necessary for the habilitation or rehabilitation of visual
+functioning disorders, or both; and
+(iii) Communication skills training,
+orientation and mobility training for
+all environments, visual training, independent living skills training, and additional training necessary to activate
+visual motor abilities.
+(e) Qualified personnel. Early intervention services must be provided by
+qualified personnel, including—
+(1) Audiologists;
+(2) Family therapists;
+(3) Nurses;
+(4) Nutritionists;
+(5) Occupational therapists;
+(6) Orientation and mobility specialists;
+(7) Pediatricians and other physicians;
+(8) Physical therapists;
+(9) Psychologists;
+(10) Social workers;
+(11) Special educators; and
+(12) Speech and language pathologists.
+(Authority: 20 U.S.C. 1401(1) and (2); 1432(4))
+NOTE: The lists of services in paragraph (d)
+and qualified personnel in paragraph (e) of
+this section are not exhaustive. Early intervention services may include such services
+as the provision of respite and other family
+support services. Qualified personnel may include such personnel as vision specialists,
+paraprofessionals, and parent-to-parent support personnel.
+[58 FR 40959, July 30, 1993, as amended at 63
+FR 18294, Apr. 14, 1998; 64 FR 12535, Mar. 12,
+1999]
+
+§ 303.13 Health services.
+(a) As used in this part, health services
+means services necessary to enable a
+child to benefit from the other early
+intervention services under this part
+during the time that the child is receiving the other early intervention
+services.
+(b) The term includes—
+(1) Such services as clean intermittent catheterization, tracheostomy
+care, tube feeding, the changing of
+dressings or colostomy collection bags,
+and other health services; and
+
+182
+
+VerDate Aug<2,>2002
+
+15:03 Aug 14, 2002
+
+Jkt 197127
+
+PO 00000
+
+Frm 00182
+
+Fmt 8010
+
+Sfmt 8010
+
+Y:\SGML\197127T.XXX
+
+pfrm12
+
+PsN: 197127T
+
+Off. of Spec. Educ. and Rehab. Services, Education
+
+§ 303.16
+
+(2) Consultation by physicians with
+other service providers concerning the
+special health care needs of eligible
+children that will need to be addressed
+in the course of providing other early
+intervention services.
+(c) The term does not include the following:
+(1) Services that are—
+(i) Surgical in nature (such as cleft
+palate surgery, surgery for club foot, or
+the shunting of hydrocephalus); or
+(ii) Purely medical in nature (such as
+hospitalization for management of congenital heart ailments, or the prescribing of medicine or drugs for any
+purpose).
+(2) Devices necessary to control or
+treat a medical condition.
+(3) Medical-health services (such as
+immunizations and regular ‘‘wellbaby’’ care) that are routinely recommended for all children.
+
+need early intervention services because they—
+(1) Are experiencing developmental
+delays, as measured by appropriate diagnostic instruments and procedures,
+in one or more of the following areas:
+(i) Cognitive development.
+(ii) Physical development, including
+vision and hearing.
+(iii) Communication development.
+(iv) Social or emotional development.
+(v) Adaptive development; or
+(2) Have a diagnosed physical or mental condition that has a high probability of resulting in developmental
+delay.
+(b) The term may also include, at a
+State’s discretion, children from birth
+through age two who are at risk of having substantial developmental delays if
+early intervention services are not provided.
+
+(Authority: 20 U.S.C. 1432(4))
+NOTE: The definition in this section distinguishes between the health services that are
+required under this part and the medicalhealth services that are not required. The
+IFSP requirements in subpart D of this part
+provide that, to the extent appropriate,
+these other medical-health services are to be
+included in the IFSP, along with the funding
+sources to be used in paying for the services
+or the steps that will be taken to secure the
+services through public or private sources.
+Identifying these services in the IFSP does
+not impose an obligation to provide the services if they are otherwise not required to be
+provided under this part. (See § 303.344(e) and
+the note 3 following that section.)
+
+(Authority: 20 U.S.C. 1432(5))
+NOTE 1: The phrase ‘‘a diagnosed physical
+or mental condition that has a high probability of resulting in developmental delay,’’
+as used in paragraph (a)(2) of this section,
+applies to a condition if it typically results
+in developmental delay. Examples of these
+conditions include chromosomal abnormalities; genetic or congenital disorders; severe
+sensory impairments, including hearing and
+vision; inborn errors of metabolism; disorders reflecting disturbance of the development of the nervous system; congenital infections; disorders secondary to exposure to
+toxic substances, including fetal alcohol syndrome; and severe attachment disorders.
+NOTE 2: With respect to paragraph (b) of
+this section, children who are at risk may be
+eligible under this part if a State elects to
+extend services to that population, even
+though they have not been identified as disabled.
+Under this provision, States have the authority to define who would be ‘‘at risk of
+having substantial developmental delays if
+early intervention services are not provided.’’ In defining the ‘‘at risk’’ population,
+States may include well-known biological
+and environmental factors that can be identified and that place infants and toddlers ‘‘at
+risk’’ for developmental delay. Commonly
+cited factors include low birth weight, respiratory distress as a newborn, lack of oxygen, brain hemorrhage, infection, nutritional
+deprivation, and a history of abuse or neglect. It should be noted that ‘‘at risk’’ factors do not predict the presence of a barrier
+to development, but they may indicate children who are at higher risk of developmental
+delay than children without these problems.
+
+§ 303.14 IFSP.
+As used in this part, IFSP means the
+individualized family service plan, as
+that term is defined in § 303.340(b).
+(Authority: 20 U.S.C. 1436)
+
+§ 303.15 Include; including.
+As used in this part, include or including means that the items named are
+not all of the possible items that are
+covered whether like or unlike the ones
+named.
+(Authority: 20 U.S.C. 1431–1445)
+
+§ 303.16 Infants and toddlers with disabilities.
+(a) As used in this part, infants and
+toddlers with disabilities means individuals from birth through age two who
+
+183
+
+VerDate Aug<2,>2002
+
+15:03 Aug 14, 2002
+
+Jkt 197127
+
+PO 00000
+
+Frm 00183
+
+Fmt 8010
+
+Sfmt 8010
+
+Y:\SGML\197127T.XXX
+
+pfrm12
+
+PsN: 197127T
+
+§ 303.17
+§ 303.17
+
+34 CFR Ch. III (7–1–02 Edition)
+Multidisciplinary.
+
+As used in this part, multidisciplinary
+means the involvement of two or more
+disciplines or professions in the provision of integrated and coordinated
+services, including evaluation and assessment activities in § 303.322 and development of the IFSP in § 303.342.
+(Authority: 20 U.S.C. 1435(a)(3), 1436(a))
+
+§ 303.18
+
+Natural environments.
+
+As used in this part, natural environments means settings that are natural
+or normal for the child’s age peers who
+have no disabilities.
+(Authority: 20 U.S.C. 1435 and 1436)
+[63 FR 18294, Apr. 14, 1998]
+
+§ 303.19
+
+Parent.
+
+(a) General. As used in this part,
+‘‘parent’’ means—
+(1) A natural or adoptive parent of a
+child;
+(2) A guardian;
+(3) A person acting in the place of a
+parent (such as a grandparent or stepparent with whom the child lives, or a
+person who is legally responsible for
+the child’s welfare); or
+(4) A surrogate parent who has been
+assigned in accordance with § 303.406.
+(b) Foster parent. Unless State law
+prohibits a foster parent from acting as
+a parent, a State may allow a foster
+parent to act as a parent under Part C
+of the Act if—
+(1) The natural parents’ authority to
+make the decisions required of parents
+under the Act has been extinguished
+under State law; and
+(2) The foster parent—
+(i) Has an ongoing, long-term parental relationship with the child;
+(ii) Is willing to make the decisions
+required of parents under the Act; and
+(iii) Has no interest that would conflict with the interests of the child.
+(Authority: 20 U.S.C. 1401(19), 1431–1445)
+[64 FR 12535, Mar. 12, 1999]
+
+§ 303.20 Policies.
+(a) As used in this part, policies
+means State statutes, regulations,
+Governor’s orders, directives by the
+lead agency, or other written documents that represent the State’s posi-
+
+tion concerning any matter covered
+under this part.
+(b) State policies include—
+(1) A State’s commitment to maintain
+the
+statewide
+system
+(see
+§ 303.140);
+(2) A State’s eligibility criteria and
+procedures (see § 303.300);
+(3) A statement that, consistent with
+§ 303.520(b), provides that services under
+this part will be provided at no cost to
+parents, except where a system of payments is provided for under Federal or
+State law.
+(4) A State’s standards for personnel
+who provide services to children eligible under this part (see § 303.361);
+(5) A State’s position and procedures
+related to contracting or making other
+arrangements with service providers
+under subpart F of this part; and
+(6) Other positions that the State has
+adopted related to implementing any
+of the other requirements under this
+part.
+(Authority: 20 U.S.C. 1431–1445)
+[58 FR 40959, July 30, 1993. Redesignated and
+amended at 63 FR 18294, Apr. 14, 1998]
+
+§ 303.21
+
+Public agency.
+
+As used in this part, public agency includes the lead agency and any other
+political subdivision of the State that
+is responsible for providing early intervention services to children eligible
+under this part and their families.
+(Authority: 20 U.S.C. 1431–1445)
+[58 FR 40959, July 30, 1993. Redesignated at 63
+FR 18294, Apr. 14, 1998]
+
+§ 303.22
+
+Qualified.
+
+As used in this part, qualified means
+that a person has met State approved
+or recognized certification, licensing,
+registration, or other comparable requirements that apply to the area in
+which the person is providing early
+intervention services.
+(Authority: 20 U.S.C. 1432(4))
+NOTE: These regulations contain the following provisions relating to a State’s responsibility to ensure that personnel are
+qualified to provide early intervention services:
+
+184
+
+VerDate Aug<2,>2002
+
+15:03 Aug 14, 2002
+
+Jkt 197127
+
+PO 00000
+
+Frm 00184
+
+Fmt 8010
+
+Sfmt 8010
+
+Y:\SGML\197127T.XXX
+
+pfrm12
+
+PsN: 197127T
+
+Off. of Spec. Educ. and Rehab. Services, Education
+1. Section 303.12(a)(4) provides that early
+intervention services must meet State standards. This provision implements a requirement that is similar to a longstanding provision under part B of the Act (i.e., that the
+State educational agency establish standards
+and ensure that those standards are currently met for all programs providing special
+education and related services).
+2. Section 303.12(a)(3)(ii) provides that
+early intervention services must be provided
+by qualified personnel.
+3. Section 303.361(b) requires statewide systems to have policies and procedures relating to personnel standards.
+[58 FR 40959, July 30, 1993. Redesignated at 63
+FR 18294, Apr. 14, 1998]
+
+§ 303.23 Service coordination
+management).
+
+(case
+
+(a) General. (1) As used in this part,
+except in § 303.12(d)(11), service coordination means the activities carried out by
+a service coordinator to assist and enable a child eligible under this part and
+the child’s family to receive the rights,
+procedural safeguards, and services
+that are authorized to be provided
+under the State’s early intervention
+program.
+(2) Each child eligible under this part
+and the child’s family must be provided
+with one service coordinator who is responsible for—
+(i) Coordinating all services across
+agency lines; and
+(ii) Serving as the single point of contact in helping parents to obtain the
+services and assistance they need.
+(3) Service coordination is an active,
+ongoing process that involves—
+(i) Assisting parents of eligible children in gaining access to the early
+intervention services and other services identified in the individualized
+family service plan;
+(ii) Coordinating the provision of
+early intervention services and other
+services (such as medical services for
+other than diagnostic and evaluation
+purposes) that the child needs or is
+being provided;
+(iii) Facilitating the timely delivery
+of available services; and
+(iv) Continuously seeking the appropriate services and situations necessary to benefit the development of
+each child being served for the duration of the child’s eligibility.
+
+§ 303.23
+
+(b) Specific service coordination activities. Service coordination activities include—
+(1) Coordinating the performance of
+evaluations and assessments;
+(2) Facilitating and participating in
+the development, review, and evaluation of individualized family service
+plans;
+(3) Assisting families in identifying
+available service providers;
+(4) Coordinating and monitoring the
+delivery of available services;
+(5) Informing families of the availability of advocacy services;
+(6) Coordinating with medical and
+health providers; and
+(7) Facilitating the development of a
+transition plan to preschool services, if
+appropriate.
+(c) Employment and assignment of service coordinators. (1) Service coordinators may be employed or assigned in
+any way that is permitted under State
+law, so long as it is consistent with the
+requirements of this part.
+(2) A State’s policies and procedures
+for implementing the statewide system
+of early intervention services must be
+designed and implemented to ensure
+that service coordinators are able to effectively carry out on an interagency
+basis the functions and services listed
+under paragraphs (a) and (b) of this section.
+(d) Qualifications of service coordinators. Service coordinators must be persons who, consistent with § 303.344(g),
+have demonstrated knowledge and understanding about—
+(1) Infants and toddlers who are eligible under this part;
+(2) Part C of the Act and the regulations in this part; and
+(3) The nature and scope of services
+available under the State’s early intervention program, the system of payments for services in the State, and
+other pertinent information.
+(Authority: 20 U.S.C. 1432(4))
+NOTE 1: If States have existing service coordination systems, the States may use or
+adapt those systems, so long as they are consistent with the requirements of this part.
+NOTE 2: The legislative history of the 1991
+amendments to the Act indicates that the
+use of the term ‘‘service coordination’’ was
+not intended to affect the authority to seek
+reimbursement for services provided under
+Medicaid or any other legislation that makes
+
+185
+
+VerDate Aug<2,>2002
+
+15:03 Aug 14, 2002
+
+Jkt 197127
+
+PO 00000
+
+Frm 00185
+
+Fmt 8010
+
+Sfmt 8010
+
+Y:\SGML\197127T.XXX
+
+pfrm12
+
+PsN: 197127T
+
+§ 303.24
+
+34 CFR Ch. III (7–1–02 Edition)
+
+reference to ‘‘case management’’ services.
+See H.R. Rep. No. 198, 102d Cong., 1st Sess. 12
+(1991); S. Rep. No. 84, 102d Cong., 1st Sess. 20
+(1991).
+[58 FR 40959, July 30, 1993. Redesignated at 63
+FR 18294, Apr. 14, 1998]
+
+§ 303.24
+
+State.
+
+Except as provided in § 303.200(b)(3),
+State means each of the 50 States, the
+Commonwealth of Puerto Rico, the
+District of Columbia, and the jurisdictions of Guam, American Samoa, the
+Virgin Islands, the Commonwealth of
+the Northern Mariana Islands.
+(Authority: 20 U.S.C. 1401(27))
+[58 FR 40959, July 30, 1993. Redesignated and
+amended at 63 FR 18294, Apr. 14, 1998]
+
+§ 303.25
+
+EDGAR definitions that apply.
+
+The following terms used in this part
+are defined in 34 CFR 77.1:
+Applicant
+Award
+Contract
+Department
+EDGAR
+Fiscal year
+Grant
+Grantee
+Grant period
+Private
+Public
+Secretary
+(Authority: 20 U.S.C. 1431–1445)
+[58 FR 40959, July 30, 1993. Redesignated at 63
+FR 18294, Apr. 14, 1998]
+
+Subpart B—State Application for a
+Grant
+
+(b) If a State has on file with the Secretary a policy, procedure, or assurance that demonstrates that the State
+meets an application requirement, including any policy or procedure filed
+under this part before July 1, 1998, that
+meets such a requirement, the Secretary considers the State to have met
+that requirement for purposes of receiving a grant under this part.
+(c) An application that meets the requirements of this part remains in
+zeffect until the State submits to the
+Secretary modifications of that application.
+(d) The Secretary may require a
+State to modify its application under
+this part to the extent necessary to ensure the State’s compliance with this
+part if—
+(1) An amendment is made to the
+Act, or to a regulation under this part;
+(2) A new interpretation is made of
+the Act by a Federal court or the
+State’s highest court; or
+(3) An official finding of noncompliance with Federal law or regulations is
+made with respect to the State.
+(Authority: 20 U.S.C. 1434 and 1437)
+[63 FR 18294, Apr. 14, 1998, as amended at 64
+FR 12535, Mar. 12, 1999]
+
+§ 303.101 How
+the
+Secretary
+disapproves a State’s application or
+statement of assurances.
+The Secretary follows the procedures
+in 34 CFR 300.581 through 300.586 before
+disapproving a State’s application or
+statement of assurances submitted
+under this part.
+(Authority: 20 U.S.C. 1437)
+
+GENERAL REQUIREMENTS
+PUBLIC PARTICIPATION
+§ 303.100
+
+Conditions of assistance.
+
+(a) In order to receive funds under
+this part for any fiscal year, a State
+must have—
+(1) An approved application that contains the information required in this
+part, including—
+(i) The information required in
+§§ 303.140 through 303.148; and
+(ii) The information required in
+§§ 303.161 through 303.176; and
+(2) The statement of assurances required under §§ 303.120 through 303.128,
+on file with the Secretary.
+
+§ 303.110 General requirements and
+timelines for public participation.
+(a) Before submitting to the Secretary its application under this part,
+and before adopting a new or revised
+policy that is not in its current application, a State shall—
+(1) Publish the application or policy
+in a manner that will ensure circulation throughout the State for at least a
+60-day period, with an opportunity for
+comment on the application or policy
+for at least 30 days during that period;
+
+186
+
+VerDate Aug<2,>2002
+
+15:03 Aug 14, 2002
+
+Jkt 197127
+
+PO 00000
+
+Frm 00186
+
+Fmt 8010
+
+Sfmt 8010
+
+Y:\SGML\197127T.XXX
+
+pfrm12
+
+PsN: 197127T
+
+Off. of Spec. Educ. and Rehab. Services, Education
+(2) Hold public hearings on the application or policy during the 60-day period required in paragraph (a)(1) of this
+section; and
+(3) Provide adequate notice of the
+hearings required in paragraph (a)(2) of
+this section at least 30 days before the
+dates that the hearings are conducted.
+(b) A State may request the Secretary to waive compliance with the
+timelines in paragraph (a) of this section. The Secretary grants the request
+if the State demonstrates that—
+(1) There are circumstances that
+would warrant such an exception; and
+(2) The timelines that will be followed provide an adequate opportunity
+for public participation and comment.
+(Authority: 20 U.S.C. 1437(a)(3))
+
+§ 303.111 Notice of public hearings and
+opportunity to comment.
+The notice required in § 303.110(a)(3)
+must—
+(a) Be published in newspapers or announced in other media, or both, with
+coverage adequate to notify the general public, including individuals with
+disabilities and parents of infants and
+toddlers with disabilities, throughout
+the State about the hearings and opportunity to comment on the application or policy; and
+(b) Be in sufficient detail to inform
+the public about—
+(1) The purpose and scope of the
+State application or policy, and its relationship to part C of the Act;
+(2) The length of the comment period
+and the date, time, and location of
+each hearing; and
+(3) The procedures for providing oral
+comments or submitting written comments.
+(Authority: 20 U.S.C. 1437(a)(7))
+[58 FR 40959, July 30, 1993, as amended at 63
+FR 18294, Apr. 14, 1998]
+
+§ 303.112
+
+Public hearings.
+
+Each State shall hold public hearings
+in a sufficient number and at times and
+places that afford interested parties
+throughout the State a reasonable opportunity to participate.
+(Authority: 20 U.S.C. 1437(a)(7))
+
+§ 303.121
+
+§ 303.113 Reviewing public comments
+received.
+(a) Review of comments. Before adopting its application, and before the
+adoption of a new or revised policy not
+in the application, the lead agency
+shall—
+(1) Review and consider all public
+comments; and
+(2) Make any modifications it deems
+necessary in the application or policy.
+(b) Submission to the Secretary. In submitting the State’s application or policy to the Secretary, the lead agency
+shall include copies of news releases,
+advertisements, and announcements
+used to provide notice to the general
+public, including individuals with disabilities and parents of infants and toddlers with disabilities.
+(Authority: 20 U.S.C. 1437(a)(7))
+[58 FR 40959, July 30, 1993, as amended at 63
+FR 18294, Apr. 14, 1998]
+
+STATEMENT OF ASSURANCES
+§ 303.120 General.
+(a) A State’s statement of assurances
+must contain the information required
+in §§ 303.121 through 303.128.
+(b) Unless otherwise required by the
+Secretary, the statement is submitted
+only once, and remains in effect
+throughout the term of a State’s participation under this part.
+(c) A State may submit a revised
+statement of assurances if the statement is consistent with the requirements in §§ 303.121 through 303.128.
+(Authority: 20 U.S.C. 1437(b))
+
+§ 303.121 Reports and records.
+The statement must provide for—
+(a) Making reports in such form and
+containing such information as the
+Secretary may require; and
+(b) Keeping such records and affording such access to those records as the
+Secretary may find necessary to assure
+compliance with the requirements of
+this
+part,
+the
+correctness
+and
+verification of reports, and the proper
+disbursement of funds provided under
+this part.
+(Approved by the Office of Management and
+Budget under control number 1820–0550)
+(Authority: 20 U.S.C. 1437(b)(4))
+
+187
+
+VerDate Aug<2,>2002
+
+15:03 Aug 14, 2002
+
+Jkt 197127
+
+PO 00000
+
+Frm 00187
+
+Fmt 8010
+
+Sfmt 8010
+
+Y:\SGML\197127T.XXX
+
+pfrm12
+
+PsN: 197127T
+
+§ 303.122
+
+34 CFR Ch. III (7–1–02 Edition)
+
+§ 303.122 Control of funds and property.
+The statement must provide assurance satisfactory to the Secretary
+that—
+(a) The control of funds provided
+under this part, and title to property
+acquired with those funds, will be in a
+public agency for the uses and purposes
+provided in this part; and
+(b) A public agency will administer
+the funds and property.
+(Approved by the Office of Management and
+Budget under control number 1820–0550)
+(Authority: 20 U.S.C. 1437(b)(3))
+
+§ 303.123 Prohibition against commingling.
+The statement must include an assurance satisfactory to the Secretary
+that funds made available under this
+part will not be commingled with State
+funds.
+(Approved by the Office of Management and
+Budget under control number 1820–0550)
+(Authority: 20 U.S.C. 1437(b)(5)(A))
+NOTE: As used in this part, commingle
+means depositing or recording funds in a
+general account without the ability to identify each specific source of funds for any expenditure. Under that general definition, it
+is clear that commingling is prohibited.
+However, to the extent that the funds from
+each of a series of Federal, State, local, and
+private funding sources can be identified—
+with a clear audit trail for each source—it is
+appropriate for those funds to be consolidated for carrying out a common purpose. In
+fact, a State may find it essential to set out
+a funding plan that incorporates, and accounts for, all sources of funds that can be
+targeted on a given activity or function related to the State’s early intervention program.
+Thus, the assurance in this section is satisfied by the use of an accounting system that
+includes an ‘‘audit trail’’ of the expenditure
+of funds awarded under this part. Separate
+bank accounts are not required.
+
+§ 303.124 Prohibition
+planting.
+
+against
+
+sup-
+
+(a) The statement must include an
+assurance satisfactory to the Secretary
+that Federal funds made available
+under this part will be used to supplement the level of State and local funds
+expended for children eligible under
+this part and their families and in no
+
+case to supplant those State and local
+funds.
+(b) To meet the requirement in paragraph (a) of this section, the total
+amount of State and local funds budgeted for expenditures in the current fiscal year for early intervention services
+for children eligible under this part and
+their families must be at least equal to
+the total amount of State and local
+funds actually expended for early intervention services for these children and
+their families in the most recent preceding fiscal year for which the information is available. Allowance may be
+made for—
+(1) Decreases in the number of children who are eligible to receive early
+intervention services under this part;
+and
+(2) Unusually large amounts of funds
+expended for such long-term purposes
+as the acquisition of equipment and the
+construction of facilities.
+(Approved by the Office of Management and
+Budget under control number 1820–0550)
+(Authority: 20 U.S.C. 1437(b)(5)(B))
+[58 FR 40959, July 30, 1993, as amended at 63
+FR 18294, Apr. 14, 1998]
+
+§ 303.125
+
+Fiscal control.
+
+The statement must provide assurance satisfactory to the Secretary that
+such fiscal control and fund accounting
+procedures will be adopted as may be
+necessary to assure proper disbursement of, and accounting for, Federal
+funds paid under this part.
+(Approved by the Office of Management and
+Budget under control number 1820–0550)
+(Authority: 20 U.S.C. 1437(b)(6))
+
+§ 303.126
+
+Payor of last resort.
+
+The statement must include an assurance satisfactory to the Secretary
+that the State will comply with the
+provisions in § 303.527, including the requirements on—
+(a) Nonsubstitution of funds; and
+(b) Non-reduction of other benefits.
+(Approved by the Office of Management and
+Budget under control number 1820–0550)
+(Authority: 20 U.S.C. 1437(b)(2))
+
+188
+
+VerDate Aug<2,>2002
+
+15:03 Aug 14, 2002
+
+Jkt 197127
+
+PO 00000
+
+Frm 00188
+
+Fmt 8010
+
+Sfmt 8010
+
+Y:\SGML\197127T.XXX
+
+pfrm12
+
+PsN: 197127T
+
+Off. of Spec. Educ. and Rehab. Services, Education
+§ 303.127 Assurance regarding expenditure of funds.
+The statement must include an assurance satisfactory to the Secretary
+that the funds paid to the State under
+this part will be expended in accordance with the provisions of this part,
+including the requirements in § 303.3.
+(Approved by the Office of Management and
+Budget under control number 1820–0550)
+(Authority: 20 U.S.C. 1437(b)(1))
+
+§ 303.128 Traditionally
+groups.
+
+underserved
+
+The statement must include an assurance satisfactory to the Secretary
+that policies and practices have been
+adopted to ensure—
+(a) That traditionally underserved
+groups, including minority, low-income, and rural families, are meaningfully involved in the planning and implementation of all the requirements of
+this part; and
+(b) That these families have access to
+culturally competent services within
+their local geographical areas.
+
+§ 303.145
+
+§ 303.141 Information about the Council.
+Each application must include information demonstrating that the State
+has established a State Interagency Coordinating Council that meets the requirements of subpart G of this part.
+(Approved by the Office of Management and
+Budget under control number 1820–0550)
+(Authority: 20 U.S.C. 1437(a)(3))
+
+§ 303.142 Designation of lead agency.
+Each application must include a designation of the lead agency in the
+State that will be responsible for the
+administration of funds provided under
+this part.
+(Approved by the Office of Management and
+Budget under control number 1820–0550)
+(Authority: 20 U.S.C. 1437(a)(1))
+
+§ 303.143 Designation regarding financial responsibility.
+Each application must include a designation by the State of an individual
+or entity responsible for assigning financial responsibility among appropriate agencies.
+
+(Approved by the Office of Management and
+Budget under control number 1820–0550)
+
+(Approved by the Office of Management and
+Budget under control number 1820–0550)
+
+(Authority: 20 U.S.C. 1437(b)(7))
+
+(Authority: 20 U.S.C. 1437(a)(2))
+
+GENERAL REQUIREMENTS FOR A STATE
+APPLICATION
+§ 303.140
+
+General.
+
+A State’s application under this part
+must contain information and assurances demonstrating to the satisfaction of the Secretary that—
+(a) The statewide system of early
+intervention services required in this
+part is in effect; and
+(b) A State policy is in effect that ensures that appropriate early intervention services are available to all infants and toddlers with disabilities in
+the State and their families, including
+Indian infants and toddlers with disabilities and their families residing on
+a reservation geographically located in
+the State.
+(Authority: 20 U.S.C. 1434 and 1435(a)(2))
+[63 FR 18294, Apr. 14, 1998, as amended at 64
+FR 12535, Mar. 12, 1999]
+
+§ 303.144 Assurance regarding use of
+funds.
+Each application must include an assurance that funds received under this
+part will be used to assist the State to
+maintain and implement the statewide
+system required under subparts D
+through F of this part.
+(Approved by the Office of Management and
+Budget under control number 1820–0550)
+(Authority: 20 U.S.C. 1475, 1437(a)(3))
+[58 FR 40959, July 30, 1993, as amended at 63
+FR 18294, Apr. 14, 1998]
+
+§ 303.145 Description of use of funds.
+(a) General. Each application must include a description of how a State proposes to use its funds under this part
+for the fiscal year or years covered by
+the application. The description must
+be presented separately for the lead
+agency and the Council, and include
+the information required in paragraphs
+(b) through (e) of this section.
+
+189
+
+VerDate Aug<2,>2002
+
+15:03 Aug 14, 2002
+
+Jkt 197127
+
+PO 00000
+
+Frm 00189
+
+Fmt 8010
+
+Sfmt 8010
+
+Y:\SGML\197127T.XXX
+
+pfrm12
+
+PsN: 197127T
+
+§ 303.146
+
+34 CFR Ch. III (7–1–02 Edition)
+
+(b) Administrative positions. Each application must include—
+(1) A list of administrative positions,
+with salaries, and a description of the
+duties for each person whose salary is
+paid in whole or in part with funds
+awarded under this part; and
+(2) For each position, the percentage
+of salary paid with those funds.
+(c) Maintenance and implementation
+activities. Each application must include—
+(1) A description of the nature and
+scope of each major activity to be carried out under this part in maintaining
+and implementing the statewide system of early intervention services; and
+(2) The approximate amount of funds
+to be spent for each activity.
+(d) Direct services. (1) Each application must include a description of any
+direct services that the State expects
+to provide to eligible children and their
+families with funds under this part, including a description of any services
+provided to at-risk infants and toddlers
+as defined in § 303.16(b), and their families, consistent with §§ 303.521 and
+303.527.
+(2) The description must include information about each type of service to
+be provided, including—
+(i) A summary of the methods to be
+used to provide the service (e.g., contracts or other arrangements with
+specified public or private organizations); and
+(ii) The approximate amount of funds
+under this part to be used for the service.
+(e) At-risk infants and toddlers. For
+any State that does not provide direct
+services for at-risk infants and toddlers
+described in paragraph (d)(1) of this
+section, but chooses to use funds as described in § 303.3(e), each application
+must include a description of how
+those funds will be used.
+(f) Activities by other agencies. If other
+agencies are to receive funds under this
+part, the application must include—
+(1) The name of each agency expected
+to receive funds;
+(2) The approximate amount of funds
+each agency will receive; and
+
+(3) A summary of the purposes for
+which the funds will be used.
+(Approved by the Office of Management and
+Budget under control number 1820–0550)
+(Authority: 20 U.S.C. 1437(a)(3) and (a)(5))
+[58 FR 40959, July 30, 1993, as amended at 63
+FR 18294, Apr. 14, 1998; 64 FR 12535, Mar. 12,
+1999]
+
+§ 303.146 Information
+participation.
+
+about
+
+public
+
+Each application must include the information on public participation that
+is required in § 303.113(b).
+(Approved by the Office of Management and
+Budget under control number 1820–0550)
+(Authority: 20 U.S.C. 1437(a)(7))
+
+§ 303.147 Services
+areas.
+
+to
+
+all
+
+geographic
+
+Each application must include a description of the procedure used to ensure that resources are made available
+under this part for all geographic areas
+within the State.
+(Authority: 20 U.S.C. 1437(a)(6))
+[63 FR 18294, Apr. 14, 1998]
+
+§ 303.148 Transition to preschool programs.
+Each application must include a description of the policies and procedures
+to be used to ensure a smooth transition for children receiving early intervention services under this part to preschool or other appropriate services,
+including—
+(a) A description of how the families
+will be included in the transition plans;
+(b) A description of how the lead
+agency under this part will—
+(1) Notify the local educational agency for the area in which the child resides that the child will shortly reach
+the age of eligibility for preschool services under Part B of the Act, as determined in accordance with State law;
+(2)(i) In the case of a child who may
+be eligible for preschool services under
+Part B of the Act, with the approval of
+the family of the child, convene a conference among the lead agency, the
+
+190
+
+VerDate Aug<2,>2002
+
+15:03 Aug 14, 2002
+
+Jkt 197127
+
+PO 00000
+
+Frm 00190
+
+Fmt 8010
+
+Sfmt 8010
+
+Y:\SGML\197127T.XXX
+
+pfrm12
+
+PsN: 197127T
+
+Off. of Spec. Educ. and Rehab. Services, Education
+family, and the local educational agency at least 90 days, and at the discretion of the parties, up to 6 months, before the child is eligible for the preschool services, to discuss any services
+that the child may receive; or
+(ii) In the case of a child who may
+not be eligible for preschool services
+under Part B of the Act, with the approval of the family, make reasonable
+efforts to convene a conference among
+the lead agency, the family, and providers of other appropriate services for
+children who are not eligible for preschool services under Part B, to discuss
+the appropriate services that the child
+may receive;
+(3) Review the child’s program options for the period from the child’s
+third birthday through the remainder
+of the school year; and
+(4) Establish a transition plan; and
+(c) If the State educational agency,
+which is responsible for administering
+preschool programs under part B of the
+Act, is not the lead agency under this
+part, an interagency agreement between the two agencies to ensure coordination on transition matters.
+(Approved by the Office of Management and
+Budget under control number 1820–0550)
+(Authority: 20 U.S.C. 1437(a)(8))
+NOTE: Among the matters that should be
+considered in developing policies and procedures to ensure a smooth transition of children from one program to the other are the
+following:
+• The financial responsibilities of all appropriate agencies.
+• The responsibility for performing evaluations of children.
+• The development and implementation of
+an individualized education program (‘‘IEP’’)
+or an individualized family service plan
+(‘‘IFSP’’) for each child, consistent with the
+requirements of law (see § 303.344(h) and sections 612(a)(9) of the Act).
+• The coordination of communication between agencies and the child’s family.
+• The mechanisms to ensure the uninterrupted provision of appropriate services to
+the child.
+[58 FR 40959, July 30, 1993, as amended at 63
+FR 18294, Apr. 14, 1998]
+
+§ 303.164
+
+COMPONENTS OF A STATEWIDE SYSTEM—
+APPLICATION REQUIREMENTS
+§ 303.160 Minimum components of a
+statewide system.
+Each application must address the
+minimum components of a statewide
+system of coordinated, comprehensive,
+multidisciplinary, interagency programs providing appropriate early
+intervention services to all infants and
+toddlers with disabilities and their
+families, including Indian infants and
+toddlers with disabilities and their
+families residing on a reservation geographically located in the State. The
+minimum components of a statewide
+system are described in §§ 303.161
+through 303.176.
+(Approved by the Office of Management and
+Budget under control number 1820–0550)
+(Authority: 20 U.S.C. 1435(a), 1437(a)(9))
+[58 FR 40959, July 30, 1993, as amended at 63
+FR 18295, Apr. 14, 1998]
+
+§ 303.161 State definition of developmental delay.
+Each application must include the
+State’s definition of ‘‘developmental
+delay,’’ as described in § 303.300.
+(Approved by the Office of Management and
+Budget under control number 1820–0550)
+(Authority: 20 U.S.C. 1435(a)(1))
+
+§ 303.162
+
+Central directory.
+
+Each application must include information and assurances demonstrating
+to the satisfaction of the Secretary
+that the State has developed a central
+directory of information that meets
+the requirements in § 303.301.
+(Approved by the Office of Management and
+Budget under control number 1820–0550)
+(Authority: 20 U.S.C. 1435(a)(7))
+
+§ 303.163
+
+[Reserved]
+
+§ 303.164
+
+Public awareness program.
+
+Each application must include information and assurances demonstrating
+to the satisfaction of the Secretary
+that the State has established a public
+
+191
+
+VerDate Aug<2,>2002
+
+15:03 Aug 14, 2002
+
+Jkt 197127
+
+PO 00000
+
+Frm 00191
+
+Fmt 8010
+
+Sfmt 8010
+
+Y:\SGML\197127T.XXX
+
+pfrm12
+
+PsN: 197127T
+
+§ 303.165
+
+34 CFR Ch. III (7–1–02 Edition)
+
+awareness program that meets the requirements in § 303.320.
+(Approved by the Office of Management and
+Budget under control number 1820–0550)
+(Authority: 20 U.S.C. 1435(a)(6))
+
+§ 303.165 Comprehensive
+system.
+
+child
+
+find
+
+Each application must include—
+(a) The policies and procedures required in § 303.321(b);
+(b) Information demonstrating that
+the requirements on coordination in
+§ 303.321(c) are met;
+(c) The referral procedures required
+in § 303.321(d), and either—
+(1) A description of how the referral
+sources are informed about the procedures; or
+(2) A copy of any memorandum or
+other document used by the lead agency to transmit the procedures to the
+referral sources; and
+(d) The timelines in § 303.321(e).
+
+(1) To the maximum extent appropriate, early intervention services are
+provided in natural environments; and
+(2) The provision of early intervention services for any infant or toddler
+occurs in a setting other than a natural environment only if early intervention cannot be achieved satisfactorily for the infant or toddler in a natural environment.
+(Approved by the Office of Management and
+Budget under control number 1820–0550)
+(Authority: 20 U.S.C. 1435(a)(4), 1436(d))
+[58 FR 40959, July 30, 1993, as amended at 63
+FR 18295, Apr. 14, 1998]
+
+§ 303.168 Comprehensive system
+personnel development (CSPD).
+
+Each application must include information to show that the requirements
+in § 303.360(b) are met.
+(Approved by the Office of Management and
+Budget under control number 1820–0550)
+
+(Approved by the Office of Management and
+Budget under control number 1820–0550)
+
+(Authority: 20 U.S.C. 1435(a)(8))
+
+(Authority: 20 U.S.C. 1435(a)(5))
+
+§ 303.169
+
+§ 303.166 Evaluation, assessment, and
+nondiscriminatory procedures.
+Each application must include information to demonstrate that the requirements in §§ 303.322 and 303.323 are
+met.
+(Approved by the Office of Management and
+Budget under control number 1820–0550)
+(Authority: 20 U.S.C. 1435(a)(3); 1436(a)(1),
+(d)(2), and (d)(3))
+
+§ 303.167 Individualized family service
+plans.
+Each application must include—
+(a) An assurance that a current IFSP
+is in effect and implemented for each
+eligible child and the child’s family;
+(b) Information demonstrating that—
+(1) The State’s procedures for developing, reviewing, and evaluating IFSPs
+are consistent with the requirements
+in §§ 303.340, 303.342, 303.343 and 303.345;
+and
+(2) The content of IFSPs used in the
+State is consistent with the requirements in § 303.344; and
+(c) Policies and procedures to ensure
+that—
+
+of
+
+Personnel standards.
+
+(a) Each application must include
+policies and procedures that are consistent with the requirements in
+§ 303.361.
+(Approved by the Office of Management and
+Budget under control number 1820–0550)
+(Authority: 20 U.S.C. 1435(a)(9))
+
+§ 303.170
+
+Procedural safeguards.
+
+Each application must include procedural safeguards that—
+(a) Are consistent with §§ 303.400
+through 303.406, 303.419 through 303.425
+and 303.460; and
+(b) Incorporate either—
+(1) The due process procedures in 34
+CFR 300.506 through 300.512; or
+(2) The procedures that the State has
+developed to meet the requirements in
+§§ 303.419, 303.420(b) and 303.421 through
+303.425.
+(Approved by the Office of Management and
+Budget under control number 1820–0550)
+(Authority: 20 U.S.C. 1435(a)(13))
+[58 FR 40959, July 30, 1993, as amended at 63
+FR 18295, Apr. 14, 1998]
+
+192
+
+VerDate Aug<2,>2002
+
+15:03 Aug 14, 2002
+
+Jkt 197127
+
+PO 00000
+
+Frm 00192
+
+Fmt 8010
+
+Sfmt 8010
+
+Y:\SGML\197127T.XXX
+
+pfrm12
+
+PsN: 197127T
+
+Off. of Spec. Educ. and Rehab. Services, Education
+§ 303.171 Supervision and monitoring
+of programs.
+Each application must include information to show that the requirements
+in § 303.501 are met.
+(Approved by the Office of Management and
+Budget under control number 1820–0550)
+
+§ 303.180
+
+§ 303.175 Policy for contracting or otherwise arranging for services.
+Each application must include a policy that meets the requirements in
+§ 303.526.
+(Approved by the Office of Management and
+Budget under control number 1820–0550)
+(Authority: 20 U.S.C. 1435(a)(11))
+
+(Authority: 20. U.S.C. 1435(a)(10)(A))
+
+§ 303.172 Lead agency procedures for
+resolving complaints.
+Each application must include procedures that are consistent with the requirements in §§ 303.510 through 303.512.
+(Approved by the Office of Management and
+Budget under control number 1820–0550)
+
+§ 303.176 Data collection.
+Each application must include procedures that meet the requirements in
+§ 303.540.
+(Approved by the Office of Management and
+Budget under control number 1820–0550)
+(Authority: 20 U.S.C. 1435(a)(14))
+
+PARTICIPATION BY THE SECRETARY OF
+THE INTERIOR
+
+(Authority: 20 U.S.C. 1435(a)(10))
+
+§ 303.173 Policies and procedures related to financial matters.
+Each application must include—
+(a) Funding policies that meet the requirements in §§ 303.520 and 303.521;
+(b)
+Information
+about
+funding
+sources, as required in § 303.522;
+(c) Procedures to ensure the timely
+delivery of services, in accordance with
+§ 303.525; and
+(d) A procedure related to the timely
+reimbursement of funds under this
+part, in accordance with §§ 303.527(b)
+and 303.528.
+(Approved by the Office of Management and
+Budget under control number 1820–0550)
+(Authority: 20 U.S.C. 1435(a)(10) (D) and (E),
+1435(a)(12), 1440)
+
+§ 303.174 Interagency agreements; resolution of individual disputes.
+Each application must include—
+(a) A copy of each interagency agreement that has been developed under
+§ 303.523; and
+(b) Information to show that the requirements in § 303.524 are met.
+(Approved by the Office of Management and
+Budget under control number 1820–0550)
+(Authority: 20 U.S.C. 1435(a)(10) (E) and (F)
+
+§ 303.180 Payments to the Secretary of
+the Interior for Indian tribes and
+tribal organizations.
+(a) The Secretary makes payments to
+the Secretary of the Interior for the coordination of assistance in the provision of early intervention services by
+the States to infants and toddlers with
+disabilities and their families on reservations served by elementary and
+secondary schools for Indian children
+operated or funded by the Department
+of the Interior.
+(b)(1) The Secretary of the Interior
+shall distribute payments under this
+part to tribes or tribal organizations
+(as defined under section 4 of the Indian Self-Determination and Education
+Assistance Act), or combinations of
+those entities, in accordance with section 684(b) of the Act.
+(2) A tribe or tribal organization is
+eligible to receive a payment under
+this section if the tribe is on a reservation that is served by an elementary or
+secondary school operated or funded by
+the Bureau of Indian Affairs (‘‘BIA’’).
+(c)(1) Within 90 days after the end of
+each fiscal year the Secretary of the
+Interior shall provide the Secretary
+with a report on the payments distributed under this section.
+(2) The report must include—
+(i) The name of each tribe, tribal organization, or combination of those entities that received a payment for the
+fiscal year;
+(ii) The amount of each payment; and
+
+193
+
+VerDate Aug<2,>2002
+
+15:03 Aug 14, 2002
+
+Jkt 197127
+
+PO 00000
+
+Frm 00193
+
+Fmt 8010
+
+Sfmt 8010
+
+Y:\SGML\197127T.XXX
+
+pfrm12
+
+PsN: 197127T
+
+§ 303.200
+
+34 CFR Ch. III (7–1–02 Edition)
+
+(iii) The date of each payment.
+(Approved by the Office of Management and
+Budget under control number 1820–0550)
+(Authority: 20 U.S.C. 1443(b))
+
+Subpart C—Procedures for
+Making Grants to States
+§ 303.200 Formula
+tions.
+
+for
+
+State
+
+alloca-
+
+(a) For each fiscal year, from the aggregate amount of funds available
+under this part for distribution to the
+States, the Secretary allots to each
+State an amount that bears the same
+ratio to the aggregate amount as the
+number of infants and toddlers in the
+State bears to the number of infants
+and toddlers in all States.
+(b) For the purpose of allotting funds
+to the States under paragraph (a) of
+this section—
+(1) Aggregate amount means the
+amount available for distribution to
+the States after the Secretary determines the amount of payments to be
+made to the Secretary of the Interior
+under § 303.203 and to the jurisdictions
+under § 303.204;
+(2) Infants and toddlers means children from birth through age two in the
+general population, based on the most
+recent satisfactory data as determined
+by the Secretary; and
+(3) State means each of the 50 States,
+the District of Columbia, and the Commonwealth of Puerto Rico.
+(Authority: 20 U.S.C. 1443(c))
+
+§ 303.201 Distribution of allotments
+from non-participating States.
+If a State elects not to receive its allotment, the Secretary reallots those
+funds among the remaining States, in
+accordance with § 303.200(a).
+(Authority: 20 U.S.C. 1443(d))
+
+§ 303.202 Minimum grant that a State
+may receive.
+No State receives less than 0.5 percent of the aggregate amount available
+under § 303.200 or $500,000, whichever is
+greater.
+(Authority: 20 U.S.C. 1443(c)(2))
+
+§ 303.203 Payments to the Secretary of
+the Interior.
+The amount of the payment to the
+Secretary of the Interior under § 303.180
+for any fiscal year is 1.25 percent of the
+aggregate amount available to States
+after the Secretary determines the
+amount of payments to be made to the
+jurisdictions under § 303.204.
+(Authority: 20 U.S.C. 1443(b))
+
+§ 303.204 Payments
+tions.
+
+to
+
+the
+
+jurisdic-
+
+(a) From the sums appropriated to
+carry out this part for any fiscal year,
+the Secretary may reserve up to 1 percent for payments to the jurisdictions
+listed in § 303.2 in accordance with their
+respective needs.
+(b) The provisions of Pub. L. 95–134,
+permitting the consolidation of grants
+to the outlying areas, do not apply to
+funds provided under paragraph (a) of
+this section.
+(Authority: 20 U.S.C. 1443(a))
+[58 FR 40959, July 30, 1993, as amended at 63
+FR 18295, Apr. 14, 1998]
+
+Subpart D—Program and Service
+Components of a Statewide
+System of Early Intervention
+Services
+GENERAL
+§ 303.300 State eligibility criteria and
+procedures.
+Each statewide system of early intervention services must include the eligibility criteria and procedures, consistent with § 303.16, that will be used
+by the State in carrying out programs
+under this part.
+(a) The State shall define developmental delay by—
+(1) Describing, for each of the areas
+listed in § 303.16(a)(1), the procedures,
+including the use of informed clinical
+opinion, that will be used to measure a
+child’s development; and
+(2) Stating the levels of functioning
+or other criteria that constitute a developmental delay in each of those
+areas.
+(b) The State shall describe the criteria and procedures, including the use
+of informed clinical opinion, that will
+
+194
+
+VerDate Aug<2,>2002
+
+15:03 Aug 14, 2002
+
+Jkt 197127
+
+PO 00000
+
+Frm 00194
+
+Fmt 8010
+
+Sfmt 8010
+
+Y:\SGML\197127T.XXX
+
+pfrm12
+
+PsN: 197127T
+
+Off. of Spec. Educ. and Rehab. Services, Education
+be used to determine the existence of a
+condition that has a high probability of
+resulting in developmental delay under
+§ 303.16(a)(2).
+(c) If the State elects to include in its
+system children who are at risk under
+§ 303.16(b), the State shall describe the
+criteria and procedures, including the
+use of informed clinical opinion, that
+will be used to identify those children.
+
+(2) In places and a manner that ensure accessibility by persons with disabilities.
+(Approved by the Office of Management and
+Budget under control number 1820–0550)
+(Authority: 20 U.S.C. 1435(a)(7))
+NOTE: Examples of appropriate groups that
+provide assistance to eligible children and
+their families include parent support groups
+and advocate associations.
+
+(Approved by the Office of Management and
+Budget under control number 1820–0550)
+(Authority: 20 U.S.C. 1432(5), 1435(a)(1))
+NOTE: Under this section and § 303.322(c)(2),
+States are required to ensure that informed
+clinical opinion is used in determining a
+child’s eligibility under this part. Informed
+clinical opinion is especially important if
+there are no standardized measures, or if the
+standardized procedures are not appropriate
+for a given age or developmental area. If a
+given standardized procedure is considered to
+be appropriate, a State’s criteria could include percentiles or percentages of levels of
+functioning on standardized measures.
+
+§ 303.301
+
+Central directory.
+
+(a) Each system must include a central directory of information about—
+(1) Public and private early intervention services, resources, and experts
+available in the State;
+(2) Research and demonstration
+projects being conducted in the State;
+and
+(3) Professional and other groups
+that provide assistance to children eligible under this part and their families.
+(b) The information required in paragraph (a) of this section must be in sufficient detail to—
+(1) Ensure that the general public
+will be able to determine the nature
+and scope of the services and assistance
+available from each of the sources listed in the directory; and
+(2) Enable the parent of a child eligible under this part to contact, by telephone or letter, any of the sources listed in the directory.
+(c) The central directory must be—
+(1) Updated at least annually; and
+(2) Accessible to the general public.
+(d) To meet the requirements in paragraph (c)(2) of this section, the lead
+agency shall arrange for copies of the
+directory to be available—
+(1) In each geographic region of the
+State, including rural areas; and
+
+§ 303.320
+
+IDENTIFICATION AND EVALUATION
+§ 303.320
+
+Public awareness program.
+
+Each system must include a public
+awareness program that focuses on the
+early identification of children who are
+eligible to receive early intervention
+services under this part and includes
+the preparation and dissemination by
+the lead agency to all primary referral
+sources, especially hospitals and physicians, of materials for parents on the
+availability of early intervention services. The public awareness program
+must provide for informing the public
+about—
+(a) The State’s early intervention
+program;
+(b) The child find system, including—
+(1) The purpose and scope of the system;
+(2) How to make referrals; and
+(3) How to gain access to a comprehensive, multidisciplinary evaluation and other early intervention services; and
+(c) The central directory.
+(Approved by the Office of Management and
+Budget under control number 1820–0550)
+(Authority: 20 U.S.C. 1435(a)(6))
+NOTE 1: An effective public awareness program is one that does the following:
+1. Provides a continuous, ongoing effort
+that is in effect throughout the State, including rural areas;
+2. Provides for the involvement of, and
+communication with, major organizations
+throughout the State that have a direct interest in this part, including public agencies
+at the State and local level, private providers, professional associations, parent
+groups, advocate associations, and other organizations;
+3. Has coverage broad enough to reach the
+general public, including those who have disabilities; and
+4. Includes a variety of methods for informing the public about the provisions of this
+part.
+
+195
+
+VerDate Aug<2,>2002
+
+15:03 Aug 14, 2002
+
+Jkt 197127
+
+PO 00000
+
+Frm 00195
+
+Fmt 8010
+
+Sfmt 8010
+
+Y:\SGML\197127T.XXX
+
+pfrm12
+
+PsN: 197127T
+
+§ 303.321
+
+34 CFR Ch. III (7–1–02 Edition)
+
+NOTE 2: Examples of methods for informing
+the general public about the provisions of
+this part include: (1) Use of television, radio,
+and newspaper releases, (2) pamphlets and
+posters displayed in doctors’ offices, hospitals, and other appropriate locations, and
+(3) the use of a toll-free telephone service.
+[58 FR 40959, July 30, 1993, as amended at 63
+FR 18295, Apr. 14, 1998]
+
+§ 303.321 Comprehensive child find
+system.
+(a) General. (1) Each system must include a comprehensive child find system that is consistent with part B of
+the Act (see 34 CFR 300.128), and meets
+the requirements of paragraphs (b)
+through (e) of this section.
+(2) The lead agency, with the advice
+and assistance of the Council, shall be
+responsible for implementing the child
+find system.
+(b) Procedures. The child find system
+must include the policies and procedures that the State will follow to ensure that—
+(1) All infants and toddlers in the
+State who are eligible for services
+under this part are identified, located,
+and evaluated; and
+(2) An effective method is developed
+and implemented to determine which
+children are receiving needed early
+intervention services.
+(c) Coordination. (1) The lead agency,
+with the assistance of the Council,
+shall ensure that the child find system
+under this part is coordinated with all
+other major efforts to locate and identify children conducted by other State
+agencies responsible for administering
+the various education, health, and social service programs relevant to this
+part, tribes and tribal organizations
+that receive payments under this part,
+and other tribes and tribal organizations as appropriate, including efforts
+in the—
+(i) Program authorized under part B
+of the Act;
+(ii) Maternal and Child Health program under title V of the Social Security Act;
+(iii) Early Periodic Screening, Diagnosis and Treatment (EPSDT) program
+under title XIX of the Social Security
+Act;
+(iv) Developmental Disabilities Assistance and Bill of Rights Act;
+(v) Head Start Act; and
+
+(vi) Supplemental Security Income
+program under title XVI of the Social
+Security Act.
+(2) The lead agency, with the advice
+and assistance of the Council, shall
+take steps to ensure that—
+(i) There will not be unnecessary duplication of effort by the various agencies involved in the State’s child find
+system under this part; and
+(ii) The State will make use of the resources available through each public
+agency in the State to implement the
+child find system in an effective manner.
+(d) Referral procedures. (1) The child
+find system must include procedures
+for use by primary referral sources for
+referring a child to the appropriate
+public agency within the system for—
+(i) Evaluation and assessment, in accordance with §§ 303.322 and 303.323; or
+(ii) As appropriate, the provision of
+services, in accordance with § 303.342(a)
+or § 303.345.
+(2) The procedures required in paragraph (b)(1) of this section must—
+(i) Provide for an effective method of
+making referrals by primary referral
+sources;
+(ii) Ensure that referrals are made no
+more than two working days after a
+child has been identified; and
+(iii) Include procedures for determining the extent to which primary referral sources, especially hospitals and
+physicians, disseminate the information, as described in § 303.320, prepared
+by the lead agency on the availability
+of early intervention services to parents of infants and toddlers with disabilities.
+(3) As used in paragraph (d)(1) of this
+section, primary referral sources includes—
+(i) Hospitals, including prenatal and
+postnatal care facilities;
+(ii) Physicians;
+(iii) Parents;
+(iv) Day care programs;
+(v) Local educational agencies;
+(vi) Public health facilities;
+(vii) Other social service agencies;
+and
+(viii) Other health care providers.
+(e) Timelines for public agencies to act
+on referrals. (1) Once the public agency
+receives a referral, it shall appoint a
+service coordinator as soon as possible.
+
+196
+
+VerDate Aug<2,>2002
+
+15:03 Aug 14, 2002
+
+Jkt 197127
+
+PO 00000
+
+Frm 00196
+
+Fmt 8010
+
+Sfmt 8010
+
+Y:\SGML\197127T.XXX
+
+pfrm12
+
+PsN: 197127T
+
+Off. of Spec. Educ. and Rehab. Services, Education
+(2) Within 45 days after it receives a
+referral, the public agency shall—
+(i) Complete the evaluation and assessment activities in § 303.322; and
+(ii) Hold an IFSP meeting, in accordance with § 303.342.
+(Approved by the Office of Management and
+Budget under control number 1820–0550)
+(Authority:
+20
+U.S.C.
+1432(4)(E)(vii),
+1435(a)(5))
+NOTE: In developing the child find system
+under this part, States should consider (1)
+tracking systems based on high-risk conditions at birth, and (2) other activities that
+are being conducted by various agencies or
+organizations in the State.
+[58 FR 40959, July 30, 1993, as amended at 63
+FR 18295, Apr. 14, 1998]
+
+§ 303.322 Evaluation and assessment.
+(a) General. (1) Each system must include the performance of a timely,
+comprehensive, multidisciplinary evaluation of each child, birth through age
+two, referred for evaluation, and a family-directed identification of the needs
+of each child’s family to appropriately
+assist in the development of the child.
+(2) The lead agency shall be responsible for ensuring that the requirements of this section are implemented
+by all affected public agencies and
+service providers in the State.
+(b) Definitions of evaluation and assessment. As used in this part—
+(1) Evaluation means the procedures
+used by appropriate qualified personnel
+to determine a child’s initial and continuing eligibility under this part, consistent with the definition of ‘‘infants
+and toddlers with disabilities’’ in
+§ 303.16, including determining the status of the child in each of the developmental areas in paragraph (c)(3)(ii) of
+this section.
+(2) Assessment means the ongoing procedures used by appropriate qualified
+personnel throughout the period of a
+child’s eligibility under this part to
+identify—
+(i) The child’s unique strengths and
+needs and the services appropriate to
+meet those needs; and
+(ii) The resources, priorities, and concerns of the family and the supports
+and services necessary to enhance the
+family’s capacity to meet the developmental needs of their infant or toddler
+with a disability.
+
+§ 303.322
+
+(c) Evaluation and assessment of the
+child. The evaluation and assessment of
+each child must—
+(1) Be conducted by personnel trained
+to utilize appropriate methods and procedures;
+(2) Be based on informed clinical
+opinion; and
+(3) Include the following:
+(i) A review of pertinent records related to the child’s current health status and medical history.
+(ii) An evaluation of the child’s level
+of functioning in each of the following
+developmental areas:
+(A) Cognitive development.
+(B) Physical development, including
+vision and hearing.
+(C) Communication development.
+(D) Social or emotional development.
+(E) Adaptive development.
+(iii) An assessment of the unique
+needs of the child in terms of each of
+the developmental areas in paragraph
+(c)(3)(ii) of this section, including the
+identification of services appropriate
+to meet those needs.
+(d) Family assessment. (1) Family assessments under this part must be family-directed and designed to determine
+the resources, priorities, and concerns
+of the family and the identification of
+the supports and services necessary to
+enhance the family’s capacity to meet
+the developmental needs of the child.
+(2) Any assessment that is conducted
+must be voluntary on the part of the
+family.
+(3) If an assessment of the family is
+carried out, the assessment must—
+(i) Be conducted by personnel trained
+to utilize appropriate methods and procedures;
+(ii) Be based on information provided
+by the family through a personal interview; and
+(iii) Incorporate the family’s description of its resources, priorities, and
+concerns related to enhancing the
+child’s development.
+(e) Timelines. (1) Except as provided in
+paragraph (e)(2) of this section, the
+evaluation and initial assessment of
+each child (including the family assessment) must be completed within the 45day time period required in § 303.321(e).
+(2) The lead agency shall develop procedures to ensure that in the event of
+exceptional circumstances that make
+
+197
+
+VerDate Aug<2,>2002
+
+15:03 Aug 14, 2002
+
+Jkt 197127
+
+PO 00000
+
+Frm 00197
+
+Fmt 8010
+
+Sfmt 8010
+
+Y:\SGML\197127T.XXX
+
+pfrm12
+
+PsN: 197127T
+
+§ 303.323
+
+34 CFR Ch. III (7–1–02 Edition)
+
+it impossible to complete the evaluation and assessment within 45 days
+(e.g., if a child is ill), public agencies
+will—
+(i) Document those circumstances;
+and
+(ii) Develop and implement an interim IFSP, to the extent appropriate
+and consistent with § 303.345 (b)(1) and
+(b)(2).
+(Approved by the Office of Management and
+Budget under control number 1820–0550)
+(Authority: 20 U.S.C. 1435(a)(3); 1436 (a)(1),
+(a)(2), (d)(1), and (d)(2))
+[58 FR 40959, July 30, 1993, as amended at 63
+FR 18295, Apr. 14, 1998]
+
+§ 303.323 Nondiscriminatory
+procedures.
+Each lead agency shall adopt nondiscriminatory evaluation and assessment procedures. The procedures must
+provide that public agencies responsible for the evaluation and assessment
+of children and families under this part
+shall ensure, at a minimum, that—
+(a) Tests and other evaluation materials and procedures are administered
+in the native language of the parents
+or other mode of communication, unless it is clearly not feasible to do so;
+(b) Any assessment and evaluation
+procedures and materials that are used
+are selected and administered so as not
+to be racially or culturally discriminatory;
+(c) No single procedure is used as the
+sole criterion for determining a child’s
+eligibility under this part; and
+(d) Evaluations and assessments are
+conducted by qualified personnel.
+(Approved by the Office of Management and
+Budget under control number 1820–0550)
+(Authority: 20 U.S.C. 1435(a)(3); 1436 (a)(1),
+(d)(2), and (d)(3))
+
+INDIVIDUALIZED FAMILY SERVICE PLANS
+(IFSPS)
+§ 303.340 General.
+(a) Each system must include policies and procedures regarding individualized family service plans (IFSPs)
+that meet the requirements of this section and §§ 303.341 through 303.346.
+(b) As used in this part, individualized
+family service plan and IFSP mean a
+written plan for providing early inter-
+
+vention services to a child eligible
+under this part and the child’s family.
+The plan must—
+(1) Be developed in accordance with
+§§ 303.342 and 303.343;
+(2) Be based on the evaluation and assessment described in § 303.322; and
+(3) Include the matters specified in
+§ 303.344.
+(c) Lead agency responsibility. The
+lead agency shall ensure that an IFSP
+is developed and implemented for each
+eligible child, in accordance with the
+requirements of this part. If there is a
+dispute between agencies as to who has
+responsibility for developing or implementing an IFSP, the lead agency shall
+resolve the dispute or assign responsibility.
+(Approved by the Office of Management and
+Budget under control number 1820–0550)
+(Authority: 20 U.S.C. 1436)
+NOTE: In instances where an eligible child
+must have both an IFSP and an individualized service plan under another Federal program, it may be possible to develop a single
+consolidated document, provided that it (1)
+contains all of the required information in
+§ 303.344, and (2) is developed in accordance
+with the requirements of this part.
+
+§ 303.341
+
+[Reserved]
+
+§ 303.342 Procedures for IFSP development, review, and evaluation.
+(a) Meeting to develop initial IFSP—
+timelines. For a child who has been
+evaluated for the first time and determined to be eligible, a meeting to develop the initial IFSP must be conducted within the 45-day time period in
+§ 303.321(e).
+(b) Periodic review. (1) A review of the
+IFSP for a child and the child’s family
+must be conducted every six months,
+or more frequently if conditions warrant, or if the family requests such a
+review. The purpose of the periodic review is to determine—
+(i) The degree to which progress toward achieving the outcomes is being
+made; and
+(ii) Whether modification or revision
+of the outcomes or services is necessary.
+(2) The review may be carried out by
+a meeting or by another means that is
+acceptable to the parents and other
+participants.
+
+198
+
+VerDate Aug<2,>2002
+
+15:03 Aug 14, 2002
+
+Jkt 197127
+
+PO 00000
+
+Frm 00198
+
+Fmt 8010
+
+Sfmt 8010
+
+Y:\SGML\197127T.XXX
+
+pfrm12
+
+PsN: 197127T
+
+Off. of Spec. Educ. and Rehab. Services, Education
+(c) Annual meeting to evaluate the
+IFSP. A meeting must be conducted on
+at least an annual basis to evaluate the
+IFSP for a child and the child’s family,
+and, as appropriate, to revise its provisions. The results of any current evaluations conducted under § 303.322(c),
+and other information available from
+the ongoing assessment of the child
+and family, must be used in determining what services are needed and
+will be provided.
+(d) Accessibility and convenience of
+meetings. (1) IFSP meetings must be
+conducted—
+(i) In settings and at times that are
+convenient to families; and
+(ii) In the native language of the
+family or other mode of communication used by the family, unless it is
+clearly not feasible to do so.
+(2) Meeting arrangements must be
+made with, and written notice provided
+to, the family and other participants
+early enough before the meeting date
+to ensure that they will be able to attend.
+(e) Parental consent. The contents of
+the IFSP must be fully explained to
+the parents and informed written consent from the parents must be obtained
+prior to the provision of early intervention services described in the plan. If
+the parents do not provide consent
+with respect to a particular early
+intervention service or withdraw consent after first providing it, that service may not be provided. The early
+intervention services to which parental
+consent is obtained must be provided.
+(Approved by the Office of Management and
+Budget under control number 1820–0550)
+(Authority: 20 U.S.C. 1436)
+NOTE: The requirement for the annual
+evaluation incorporates the periodic review
+process. Therefore, it is necessary to have
+only one separate periodic review each year
+(i.e., six months after the initial and subsequent annual IFSP meetings), unless conditions warrant otherwise.
+Because the needs of infants and toddlers
+change so rapidly during the course of a
+year, certain evaluation procedures may
+need to be repeated before conducting the
+periodic reviews and annual evaluation
+meetings in paragraphs (b) and (c) of this
+section.
+
+§ 303.344
+
+§ 303.343 Participants in IFSP meetings and periodic reviews.
+(a) Initial and annual IFSP meetings.
+(1) Each initial meeting and each annual meeting to evaluate the IFSP
+must include the following participants:
+(i) The parent or parents of the child.
+(ii) Other family members, as requested by the parent, if feasible to do
+so;
+(iii) An advocate or person outside of
+the family, if the parent requests that
+the person participate.
+(iv) The service coordinator who has
+been working with the family since the
+initial referral of the child for evaluation, or who has been designated by the
+public agency to be responsible for implementation of the IFSP.
+(v) A person or persons directly involved in conducting the evaluations
+and assessments in § 303.322.
+(vi) As appropriate, persons who will
+be providing services to the child or
+family.
+(2) If a person listed in paragraph
+(a)(1)(v) of this section is unable to attend a meeting, arrangements must be
+made for the person’s involvement
+through other means, including—
+(i) Participating in a telephone conference call;
+(ii) Having a knowledgeable authorized representative attend the meeting;
+or
+(iii) Making pertinent records available at the meeting.
+(b) Periodic review. Each periodic review must provide for the participation
+of persons in paragraphs (a)(1)(i)
+through (a)(1)(iv) of this section. If conditions warrant, provisions must be
+made for the participation of other representatives identified in paragraph (a)
+of this section.
+(Approved by the Office of Management and
+Budget under control number 1820–0550)
+(Authority: 20 U.S.C. 1436(b))
+
+§ 303.344
+
+Content of an IFSP.
+
+(a) Information about the child’s status.
+(1) The IFSP must include a statement
+of the child’s present levels of physical
+development (including vision, hearing,
+
+199
+
+VerDate Aug<2,>2002
+
+15:03 Aug 14, 2002
+
+Jkt 197127
+
+PO 00000
+
+Frm 00199
+
+Fmt 8010
+
+Sfmt 8010
+
+Y:\SGML\197127T.XXX
+
+pfrm12
+
+PsN: 197127T
+
+§ 303.344
+
+34 CFR Ch. III (7–1–02 Edition)
+
+and health status), cognitive development, communication development, social or emotional development, and
+adaptive development.
+(2) The statement in paragraph (a)(1)
+of this section must be based on professionally acceptable objective criteria.
+(b) Family information. With the concurrence of the family, the IFS must
+include a statement of the family’s resources, priorities, and concerns related to enhancing the development of
+the child.
+(c) Outcomes. The IFSP must include
+a statement of the major outcomes expected to be achieved for the child and
+family, and the criteria, procedures,
+and timeliness used to determine—
+(1) The degree to which progress toward achieving the outcomes is being
+made; and
+(2) Whether modifications or revisions of the outcomes or services are
+necessary.
+(d) Early intervention services. (1) The
+IFSP must include a statement of the
+specific early intervention services
+necessary to meet the unique needs of
+the child and the family to achieve the
+outcomes identified in paragraph (c) of
+this section, including—
+(i) The frequency, intensity, and
+method of delivering the services;
+(ii) The natural environments, as described in § 303.12(b), and § 303.18 in
+which early intervention services will
+be provided, and a justification of the
+extent, if any, to which the services
+will not be providied in a natural environment;
+(iii) The location of the services; and
+(iv) The payment arrangements, if
+any.
+(2) As used in paragraph (d)(1)(i) of
+this section—
+(i) Frequency and intensity mean the
+number of days or sessions that a service will be provided, the length of time
+the service is provided during each session, and whether the service is provided on an individual or group basis;
+and
+(ii) Method means how a service is
+provided.
+(3) As used in paragraph (d)(1)(iii) of
+this section, location means the actual
+place or places where a service will be
+provided.
+
+(e) Other services. (1) To the extent
+appropriate, the IFSP must include—
+(i) Medical and other services that
+the child needs, but that are not required under this part; and
+(ii) The funding sources to be used in
+paying for those services or the steps
+that will be taken to secure those services through public or private sources.
+(2) The requirement in paragraph
+(e)(1) of this section does not apply to
+routine medical services (e.g., immunizations and ‘‘well-baby’’ care), unless a
+child needs those services and the services are not otherwise available or
+being provided.
+(f) Dates; duration of services. The
+IFSP must include—
+(1) The projected dates for initiation
+of the services in paragraph (d)(1) of
+this section as soon as possible after
+the IFSP meetings described in
+§ 303.342; and
+(2) The anticipated duration of those
+services.
+(g) Service coordinator. (1) The IFSP
+must include the name of the service
+coordinator from the profession most
+immediately relevant to the child’s or
+family’s needs (or who is otherwise
+qualified to carry out all applicable responsibilities under this part), who will
+be responsible for the implementation
+of the IFSP and coordination with
+other agencies and persons.
+(2) In meeting the requirements in
+paragraph (g)(1) of this section, the
+public agency may—
+(i) Assign the same service coordinator who was appointed at the time
+that the child was initially referred for
+evaluation to be responsible for implementing a child’s and family’s IFSP; or
+(ii) Appoint a new service coordinator.
+(3) As used in paragraph (g)(1) of this
+section, the term profession includes
+‘‘service coordination.’’
+(h) Transition from Part C services. (1)
+The IFSP must include the steps to be
+taken to support the transition of the
+child, in accordance with § 303.148, to—
+(i) Preschool services under Part B of
+the Act, to the extent that those services are appropriate; or
+(ii) Other services that may be available, if appropriate.
+(2) The steps required in paragraph
+(h)(1) of this section include—
+
+200
+
+VerDate Aug<2,>2002
+
+15:03 Aug 14, 2002
+
+Jkt 197127
+
+PO 00000
+
+Frm 00200
+
+Fmt 8010
+
+Sfmt 8010
+
+Y:\SGML\197127T.XXX
+
+pfrm12
+
+PsN: 197127T
+
+Off. of Spec. Educ. and Rehab. Services, Education
+(i) Discussions with, and training of,
+parents regarding future placements
+and other matters related to the child’s
+transition;
+(ii) Procedures to prepare the child
+for changes in service delivery, including steps to help the child adjust to,
+and function in, a new setting; and
+(iii) With parental consent, the transmission of information about the child
+to the local educational agency, to ensure continuity of services, including
+evaluation and assessment information
+required in § 303.322, and copies of
+IFSPs that have been developed and
+implemented
+in
+accordance
+with
+§§ 303.340 through 303.346.
+(Approved by the Office of Management and
+Budget under control number 1820–0550)
+(Authority: 20 U.S.C. 1436(d))
+NOTE 1: With respect to the requirements
+in paragraph (d) of this section, the appropriate location of services for some infants
+and toddlers might be a hospital setting—
+during the period in which they require extensive medical intervention. However, for
+these and other eligible children, early intervention services must be provided in natural
+environments (e.g., the home, child care centers, or other community settings) to the
+maximum extent appropriate to the needs of
+the child.
+NOTE 2: Throughout the process of developing and implementing IFSPs for an eligible child and the child’s family, it is important for agencies to recognize the variety of
+roles that family members play in enhancing
+the child’s development. It also is important
+that the degree to which the needs of the
+family are addressed in the IFSP process is
+determined in a collaborative manner with
+the full agreement and participation of the
+parents of the child. Parents retain the ultimate decision in determining whether they,
+their child, or other family members will accept or decline services under this part.
+NOTE 3: The early intervention services in
+paragraph (d) of this section are those services that a State is required to provide to a
+child in accordance with § 303.12.
+The ‘‘other services’’ in paragraph (e) of
+this section are services that a child or family needs, but that are neither required nor
+covered under this part. While listing the
+non-required services in the IFSP does not
+mean that those services must be provided,
+their identification can be helpful to both
+the child’s family and the service coordinator, for the following reasons: First, the
+IFSP would provide a comprehensive picture
+of the child’s total service needs (including
+the need for medical and health services, as
+well as early intervention services). Second,
+
+§ 303.345
+
+it is appropriate for the service coordinator
+to assist the family in securing the non-required services (e.g., by (1) determining if
+there is a public agency that could provide
+financial assistance, if needed, (2) assisting
+in the preparation of eligibility claims or insurance claims, if needed, and (3) assisting
+the family in seeking out and arranging for
+the child to receive the needed medicalhealth services).
+Thus, to the extent appropriate, it is important for a State’s procedures under this
+part to provide for ensuring that other needs
+of the child, and of the family related to enhancing the development of the child, such
+as medical and health needs, are considered
+and addressed, including determining (1) who
+will provide each service, and when, where,
+and how it will be provided, and (2) how the
+service will be paid for (e.g., through private
+insurance, an existing Federal-State funding
+source, such as Medicaid or EPSDT, or some
+other funding arrangement).
+NOTE 4: Although the IFSP must include
+information about each of the items in paragraphs (b) through (h) of this section, this
+does not mean that the IFSP must be a detailed, lengthy document. It might be a brief
+outline, with appropriate attachments that
+address each of the points in the paragraphs
+under this section. It is important for the
+IFSP itself to be clear about (a) what services are to be provided, (b) the actions that
+are to be taken by the service coordinator in
+initiating those services, and (c) what actions will be taken by the parents.
+[58 FR 40959, July 30, 1993, as amended at 63
+FR 18295, Apr. 14, 1998; 64 FR 12536, Mar. 12,
+1999]
+
+§ 303.345 Provision of services before
+evaluation and assessment are completed.
+Early intervention services for an eligible child and the child’s family may
+commence before the completion of the
+evaluation and assessment in § 303.322,
+if the following conditions are met:
+(a) Parental consent is obtained.
+(b) An interim IFSP is developed that
+includes—
+(1) The name of the service coordinator who will be responsible, consistent with § 303.344(g), for implementation of the interim IFSP and coordination with other agencies and persons; and
+(2) The early intervention services
+that have been determined to be needed
+immediately by the child and the
+child’s family.
+
+201
+
+VerDate Aug<2,>2002
+
+15:03 Aug 14, 2002
+
+Jkt 197127
+
+PO 00000
+
+Frm 00201
+
+Fmt 8010
+
+Sfmt 8010
+
+Y:\SGML\197127T.XXX
+
+pfrm12
+
+PsN: 197127T
+
+§ 303.346
+
+34 CFR Ch. III (7–1–02 Edition)
+
+(c) The evaluation and assessment
+are completed within the time period
+required in § 303.322(e).
+(Approved by the Office of Management and
+Budget under control number 1820–0550)
+(Authority: 20 U.S.C. 1436(c))
+NOTE: This section is intended to accomplish two specific purposes: (1) To facilitate
+the provision of services in the event that a
+child has obvious immediate needs that are
+identified, even at the time of referral (e.g.,
+a physician recommends that a child with
+cerebral palsy begin receiving physical therapy as soon as possible), and (2) to ensure
+that the requirements for the timely evaluation and assessment are not circumvented.
+
+§ 303.346 Responsibility and accountability.
+Each agency or person who has a direct role in the provision of early intervention services is responsible for making a good faith effort to assist each eligible child in achieving the outcomes
+in the child’s IFSP. However, part C of
+the Act does not require that any agency or person be held accountable if an
+eligible child does not achieve the
+growth projected in the child’s IFSP.
+(Approved by the Office of Management and
+Budget under control number 1820–0550)
+
+(i) Understanding the basic components of early intervention services
+available in the State;
+(ii) Meeting the interrelated social or
+emotional, health, developmental, and
+educational needs of eligible children
+under this part; and
+(iii) Assisting families in enhancing
+the development of their children, and
+in participating fully in the development and implementation of IFSPs.
+(c) A personnel development system
+under this part may include—
+(1) Implementing innovative strategies and activities for the recruitment
+and retention of early intervention
+service providers;
+(2) Promoting the preparation of
+early intervention providers who are
+fully and appropriately qualified to
+provide early intervention services
+under this part;
+(3) Training personnel to work in
+rural and inner-city areas; and
+(4) Training personnel to coordinate
+transition services for infants and toddlers with disabilities from an early
+intervention program under this part
+to a preschool program under part B of
+the Act or to other preschool or other
+appropriate services.
+
+(Authority: 20 U.S.C. 1436)
+(Approved by the Office of Management and
+Budget under control number 1820–0550)
+
+PERSONNEL TRAINING AND STANDARDS
+§ 303.360 Comprehensive system of
+personnel development.
+(a) Each system must include a comprehensive system of personnel development.
+(b) The personnel development system under this part must—
+(1) Be consistent with the comprehensive system of personnel development required under part B of the
+Act (34 CFR 300.380 through 300.387);
+(2) Provide for preservice and inservice training to be conducted on an
+interdisciplinary basis, to the extent
+appropriate;
+(3) Provide for the training of a variety of personnel needed to meet the requirements of this part, including public and private providers, primary referral sources, paraprofessionals, and
+persons who will serve as service coordinators; and
+(4) Ensure that the training provided
+relates specifically to—
+
+(Authority: 20 U.S.C. 1435(a)(8))
+[58 FR 40959, July 30, 1993, as amended at 63
+FR 18295, Apr. 14, 1998]
+
+§ 303.361
+
+Personnel standards.
+
+(a) As used in this part—
+(1) Appropriate professional requirements in the State means entry level requirements that—
+(i) Are based on the highest requirements in the State applicable to the
+profession or discipline in which a person is providing early intervention
+services; and
+(ii) Establish suitable qualifications
+for personnel providing early intervention services under this part to eligible
+children and their families who are
+served by State, local, and private
+agencies.
+(2) Highest requirements in the State
+applicable to a specific profession or discipline means the highest entry-level
+academic degree needed for any State
+
+202
+
+VerDate Aug<2,>2002
+
+15:03 Aug 14, 2002
+
+Jkt 197127
+
+PO 00000
+
+Frm 00202
+
+Fmt 8010
+
+Sfmt 8010
+
+Y:\SGML\197127T.XXX
+
+pfrm12
+
+PsN: 197127T
+
+Off. of Spec. Educ. and Rehab. Services, Education
+approved or recognized certification, licensing, registration, or other comparable requirements that apply to
+that profession or discipline.
+(3) Profession or discipline means a
+specific occupational category that—
+(i) Provides early intervention services to children eligible under this part
+and their families;
+(ii) Has been established or designated by the State; and
+(iii) Has a required scope of responsibility and degree of supervision.
+(4) State approved or recognized certification, licensing, registration, or other
+comparable requirements means the requirements that a State legislature either has enacted or has authorized a
+State agency to promulgate through
+rules to establish the entry-level standards for employment in a specific profession or discipline in that State.
+(b)(1) Each statewide system must
+have policies and procedures relating
+to the establishment and maintenance
+of standards to ensure that personnel
+necessary to carry out the purposes of
+this part are appropriately and adequately prepared and trained.
+(2) The policies and procedures required in paragraph (b)(1) of this section must provide for the establishment and maintenance of standards
+that are consistent with any State-approved or State-recognized certification, licensing, registration, or other
+comparable requirements that apply to
+the profession or discipline in which a
+person is providing early intervention
+services.
+(c) To the extent that a State’s
+standards for a profession or discipline,
+including standards for temporary or
+emergency certification, are not based
+on the highest requirements in the
+State applicable to a specific profession or discipline, the State’s application for assistance under this part
+must include the steps the State is
+taking, the procedures for notifying
+public agencies and personnel of those
+steps, and the timelines it has established for the retraining or hiring of
+personnel that meet appropriate professional requirements in the State.
+(d)(1) In meeting the requirements in
+paragraphs (b) and (c) of this section, a
+determination must be made about the
+status of personnel standards in the
+
+§ 303.361
+
+State. That determination must be
+based on current information that accurately describes, for each profession
+or discipline in which personnel are
+providing early intervention services,
+whether the applicable standards are
+consistent with the highest requirements in the State for that profession
+or discipline.
+(2) The information required in paragraph (d)(1) of this section must be on
+file in the lead agency, and available to
+the public.
+(e) In identifying the ‘‘highest requirements in the State’’ for purposes
+of this section, the requirements of all
+State statutes and the rules of all
+State agencies applicable to serving
+children eligible under this part and
+their families must be considered.
+(f) A State may allow paraprofessionals and assistants who are appropriately trained and supervised, in accordance with State law, regulations,
+or written policy, to assist in the provision of early intervention services to
+eligible children under this part.
+(g) In implementing this section, a
+State may adopt a policy that includes
+making ongoing good-faith efforts to
+recruit and hire appropriately and adequately trained personnel to provide
+early intervention services to eligible
+children, including, in a geographic
+area of the State where there is a
+shortage of personnel that meet these
+qualifications, the most qualified individuals available who are making satisfactory progress toward completing
+applicable course work necessary to
+meet the standards described in paragraph (b)(2) of this section, consistent
+with State law, within 3 years.
+(Approved by the Office of Management and
+Budget under control number 1820–0550)
+(Authority: 20 U.S.C. 1435(a)(9))
+NOTE: This section requires that a State
+use its own existing highest requirements to
+determine the standards appropriate to personnel who provide early intervention services under this part. The regulations do not
+require States to set any specified training
+standard, such as a master’s degree, for employment of personnel who provide services
+under this part.
+The regulations permit each State to determine the specific occupational categories
+required to provide early intervention services to children eligible under this part and
+their families, and to revise or expand these
+
+203
+
+VerDate Aug<2,>2002
+
+15:03 Aug 14, 2002
+
+Jkt 197127
+
+PO 00000
+
+Frm 00203
+
+Fmt 8010
+
+Sfmt 8010
+
+Y:\SGML\197127T.XXX
+
+pfrm12
+
+PsN: 197127T
+
+§ 303.400
+
+34 CFR Ch. III (7–1–02 Edition)
+
+categories as needed. The professions or disciplines need not be limited to traditional
+occupational categories.
+[58 FR 40959, July 30, 1993, as amended at 63
+FR 18295, Apr. 14, 1998]
+
+Subpart E—Procedural Safeguards
+GENERAL
+§ 303.400 General responsibility of lead
+agency for procedural safeguards.
+Each lead agency shall be responsible
+for—
+(a) Establishing or adopting procedural safeguards that meet the requirements of this subpart; and
+(b) Ensuring effective implementation of the safeguards by each public
+agency in the State that is involved in
+the provision of early intervention
+services under this part.
+
+(4) A list of personal characteristics
+or other information that would make
+it possible to identify the child with
+reasonable certainty.
+(Authority: 20 U.S.C. 1439)
+
+§ 303.402 Opportunity
+records.
+
+to
+
+examine
+
+In accordance with the confidentiality procedures in the regulations
+under part B of the Act (34 CFR 300.560
+through 300.576), the parents of a child
+eligible under this part must be afforded the opportunity to inspect and
+review records relating to evaluations
+and assessments, eligibility determinations, development and implementation of IFSPs, individual complaints
+dealing with the child, and any other
+area under this part involving records
+about the child and the child’s family.
+(Authority: 20 U.S.C. 1439(a)(4))
+
+(Authority: 20 U.S.C. 1439)
+
+§ 303.401 Definitions of consent, native
+language, and personally identifiable information.
+As used in this subpart—
+(a) Consent means that—
+(1) The parent has been fully informed of all information relevant to
+the activity for which consent is
+sought, in the parent’s native language
+or other mode of communication;
+(2) The parent understands and
+agrees in writing to the carrying out of
+the activity for which consent is
+sought, and the consent describes that
+activity and lists the records (if any)
+that will be released and to whom; and
+(3) The parent understands that the
+granting of consent is voluntary on the
+part of the parent and may be revoked
+at any time;
+(b) Native language, where used with
+reference to persons of limited English
+proficiency, means the language or
+mode of communication normally used
+by the parent of a child eligible under
+this part;
+(c) Personally identifiable means that
+information includes—
+(1) The name of the child, the child’s
+parent, or other family member;
+(2) The address of the child;
+(3) A personal identifier, such as the
+child’s or parent’s social security number; or
+
+§ 303.403
+
+Prior notice; native language.
+
+(a) General. Written prior notice must
+be given to the parents of a child eligible under this part a reasonable time
+before a public agency or service provider proposes, or refuses, to initiate or
+change the identification, evaluation,
+or placement of the child, or the provision of appropriate early intervention
+services to the child and the child’s
+family.
+(b) Content of notice. The notice must
+be in sufficient detail to inform the
+parents about—
+(1) The action that is being proposed
+or refused;
+(2) The reasons for taking the action;
+(3) All procedural safeguards that are
+available under §§ 303.401–303.460 of this
+part; and
+(4) The State complaint procedures
+under §§ 303.510–303.512, including a description of how to file a complaint and
+the timelines under those procedures.
+(c) Native language. (1) The notice
+must be—
+(i) Written in language understandable to the general public; and
+(ii) Provided in the native language
+of the parents, unless it is clearly not
+feasible to do so.
+(2) If the native language or other
+mode of communication of the parent
+is not a written language, the public
+
+204
+
+VerDate Aug<2,>2002
+
+15:03 Aug 14, 2002
+
+Jkt 197127
+
+PO 00000
+
+Frm 00204
+
+Fmt 8010
+
+Sfmt 8010
+
+Y:\SGML\197127T.XXX
+
+pfrm12
+
+PsN: 197127T
+
+Off. of Spec. Educ. and Rehab. Services, Education
+agency, or designated service provider,
+shall take steps to ensure that—
+(i) The notice is translated orally or
+by other means to the parent in the
+parent’s native language or other mode
+of communication;
+(ii) The parent understands the notice; and
+(iii) There is written evidence that
+the requirements of this paragraph
+have been met.
+(3) If a parent is deaf or blind, or has
+no written language, the mode of communication must be that normally
+used by the parent (such as sign language, braille, or oral communication).
+(Authority: 20 U.S.C. 1439(a)(6) and (7))
+[58 FR 40959, July 30, 1993, as amended at 64
+FR 12536, Mar. 12, 1999]
+
+§ 303.404
+
+Parent consent.
+
+(a) Written parental consent must be
+obtained before—
+(1) Conducting the initial evaluation
+and assessment of a child under
+§ 303.322; and
+(2) Initiating the provision of early
+intervention services (see § 303.342(e)).
+(b) If consent is not given, the public
+agency shall make reasonable efforts
+to ensure that the parent—
+(1) Is fully aware of the nature of the
+evaluation and assessment or the services that would be available; and
+(2) Understands that the child will
+not be able to receive the evaluation
+and assessment or services unless consent is given.
+(Authority: 20 U.S.C. 1439)
+NOTE 1: In addition to the consent requirements in this section, other consent requirements are included in (1) § 303.460(a), regarding the exchange of personally identifiable
+information among agencies, and (2) the confidentiality provisions in the regulations
+under part B of the Act (34 CFR 300.571) and
+34 CFR part 99 (Family Educational Rights
+and Privacy), both of which apply to this
+part.
+NOTE 2: Under § 300.504(b) of the part B regulations, a public agency may initiate procedures to challenge a parent’s refusal to consent to the initial evaluation of the parent’s
+child and, if successful, obtain the evaluation. This provision applies to eligible children under this part, since the part B evaluation requirement applies to all children with
+disabilities in a State, including infants and
+toddlers.
+
+§ 303.405
+ice.
+
+§ 303.406
+
+Parent right to decline serv-
+
+The parents of a child eligible under
+this part may determine whether they,
+their child, or other family members
+will accept or decline any early intervention service under this part in accordance with State law, and may decline such a service after first accepting it, without jeopardizing other early
+intervention services under this part.
+(Authority: 20 U.S.C. 1439(a)(3))
+
+§ 303.406
+
+Surrogate parents.
+
+(a) General. Each lead agency shall
+ensure that the rights of children eligible under this part are protected if—
+(1) No parent (as defined in § 303.18)
+can be identified;
+(2) The public agency, after reasonable efforts, cannot discover the whereabouts of a parent; or
+(3) The child is a ward of the State
+under the laws of that State.
+(b) Duty of lead agency and other public agencies. The duty of the lead agency, or other public agency under paragraph (a) of this section, includes the
+assignment of an individual to act as a
+surrogate for the parent. This must include a method for—
+(1) Determining whether a child
+needs a surrogate parent; and
+(2) Assigning a surrogate parent to
+the child.
+(c) Criteria for selecting surrogates. (1)
+The lead agency or other public agency
+may select a surrogate parent in any
+way permitted under State law.
+(2) Public agencies shall ensure that
+a person selected as a surrogate parent—
+(i) Has no interest that conflicts with
+the interests of the child he or she represents; and
+(ii) Has knowledge and skills that ensure adequate representation of the
+child.
+(d) Non-employee requirement; compensation. (1) A person assigned as a
+surrogate parent may not be—
+(i) An employee of any State agency;
+or
+(ii) A person or an employee of a person providing early intervention services to the child or to any family member of the child.
+
+205
+
+VerDate Aug<2,>2002
+
+15:03 Aug 14, 2002
+
+Jkt 197127
+
+PO 00000
+
+Frm 00205
+
+Fmt 8010
+
+Sfmt 8010
+
+Y:\SGML\197127T.XXX
+
+pfrm12
+
+PsN: 197127T
+
+§ 303.419
+
+34 CFR Ch. III (7–1–02 Edition)
+
+(2) A person who otherwise qualifies
+to be a surrogate parent under paragraph (d)(1) of this section is not an
+employee solely because he or she is
+paid by a public agency to serve as a
+surrogate parent.
+(e) Responsibilities. A surrogate parent
+may represent a child in all matters related to—
+(1) The evaluation and assessment of
+the child;
+(2) Development and implementation
+of the child’s IFSPs, including annual
+evaluations and periodic reviews;
+(3) The ongoing provision of early
+intervention services to the child; and
+(4) Any other rights established
+under this part.
+(Authority: 20 U.S.C. 1439(a)(5))
+[58 FR 40959, July 30, 1993, as amended at 63
+FR 18296, Apr. 14, 1998]
+
+MEDIATION AND DUE PROCESS PROCEDURES FOR PARENTS AND CHILDREN
+§ 303.419 Mediation.
+(a) General. Each State shall ensure
+that procedures are established and implemented to allow parties to disputes
+involving any matter described in
+§ 303.403(a) to resolve the disputes
+through a mediation process which, at
+a minimum, must be available whenever a hearing is requested under
+§ 303.420. The lead agency may either
+use the mediation system established
+under Part B of the Act or establish its
+own system.
+(b) Requirements. The procedures
+must meet the following requirements:
+(1) The procedures must ensure that
+the mediation process—
+(i) Is voluntary on the part of the
+parties;
+(ii) Is not used to deny or delay a parent’s right to a due process hearing
+under § 303.420, or to deny any other
+rights afforded under Part C of the Act;
+and
+(iii) Is conducted by a qualified and
+impartial mediator who is trained in
+effective mediation techniques.
+(2) The State shall maintain a list of
+individuals who are qualified mediators
+and knowledgeable in laws and regulations relating to the provision of special education and related services.
+(3) The State shall bear the cost of
+the mediation process, including the
+
+costs of meetings described in paragraph (c) of this section.
+(4) Each session in the mediation
+process must be scheduled in a timely
+manner and must be held in a location
+that is convenient to the parties to the
+dispute.
+(5) An agreement reached by the parties to the dispute in the mediation
+process must be set forth in a written
+mediation agreement.
+(6) Discussions that occur during the
+mediation process must be confidential
+and may not be used as evidence in any
+subsequent due process hearings or
+civil proceedings, and the parties to
+the mediation process may be required
+to sign a confidentiality pledge prior to
+the commencement of the process.
+(c) Meeting to encourage mediation. A
+State may establish procedures to require parents who elect not to use the
+mediation process to meet, at a time
+and location convenient to the parents,
+with a disinterested party—
+(1) Who is under contract with a parent training and information center or
+community parent resource center in
+the State established under sections
+682 or 683 of the Act, or an appropriate
+alternative dispute resolution entity;
+and
+(2) Who would explain the benefits of
+the mediation process and encourage
+the parents to use the process.
+(Authority: 20 U.S.C. 1415(e) and 1439(a)(8))
+[63 FR 18296, Apr. 14, 1998]
+
+§ 303.420
+
+Due process procedures.
+
+Each system must include written
+procedures including procedures for
+mediation as described in § 303.419, for
+the timely administrative resolution of
+individual child complaints by parents
+concerning any of the matters in
+§ 303.403(a). A State may meet this requirement by—
+(a) Adopting the mediation and due
+process procedures in 34 CFR 300.506
+through 300.512 and developing procedures that meet the requirements of
+§ 303.425; or
+(b) Developing procedures that—
+(1) Meet the requirements in § 303.419
+and §§ 303.421 through 303.425; and
+
+206
+
+VerDate Aug<2,>2002
+
+15:03 Aug 14, 2002
+
+Jkt 197127
+
+PO 00000
+
+Frm 00206
+
+Fmt 8010
+
+Sfmt 8010
+
+Y:\SGML\197127T.XXX
+
+pfrm12
+
+PsN: 197127T
+
+Off. of Spec. Educ. and Rehab. Services, Education
+(2) Provide parents a means of filing
+a complaint.
+(Approved by the Office of Management and
+Budget under control number 1820–0550)
+(Authority: 20 U.S.C. 1439(a)(1))
+NOTE 1: Sections 303.420 through 303.425 are
+concerned with the adoption of impartial
+procedures for resolving individual child
+complaints (i.e., complaints that generally
+affect only a single child or the child’s family). These procedures require the appointment of a decision-maker who is impartial,
+as defined in § 303.421(b), to resolve a dispute
+concerning any of the matters in § 303.403(a).
+The decision of the impartial decision-maker
+is binding unless it is reversed on appeal.
+A different type of administrative procedure is included in §§ 303.510 through 303.512
+of subpart F of this part. Under those procedures, the lead agency is responsible for (1)
+investigating any complaint that it receives
+(including individual child complaints and
+those that are systemic in nature), and (2)
+resolving the complaint if the agency determines that a violation has occurred.
+NOTE 2: It is important that the administrative procedures developed by a State be
+designed to result in speedy resolution of
+complaints. An infant’s or toddler’s development is so rapid that undue delay could be
+potentially harmful.
+[58 FR 40959, July 30, 1993, as amended at 63
+FR 18296, Apr. 14, 1998]
+
+§ 303.421 Appointment of an impartial
+person.
+(a) Qualifications and duties. An impartial person must be appointed to
+implement the complaint resolution
+process in this subpart. The person
+must—
+(1) Have knowledge about the provisions of this part and the needs of, and
+services available for, eligible children
+and their families; and
+(2) Perform the following duties:
+(i) Listen to the presentation of relevant viewpoints about the complaint,
+examine all information relevant to
+the issues, and seek to reach a timely
+resolution of the complaint.
+(ii) Provide a record of the proceedings, including a written decision.
+(b) Definition of impartial. (1) As used
+in this section, impartial means that
+the person appointed to implement the
+complaint resolution process—
+(i) Is not an employee of any agency
+or other entity involved in the provision of early intervention services or
+care of the child; and
+
+§ 303.423
+
+(ii) Does not have a personal or professional interest that would conflict
+with his or her objectivity in implementing the process.
+(2) A person who otherwise qualifies
+under paragraph (b)(1) of this section is
+not an employee of an agency solely
+because the person is paid by the agency to implement the complaint resolution process.
+(Approved by the Office of Management and
+Budget under control number 1820–0550)
+(Authority: 20 U.S.C. 1439(a)(1))
+
+§ 303.422 Parent rights in administrative proceedings.
+(a) General. Each lead agency shall
+ensure that the parents of children eligible under this part are afforded the
+rights in paragraph (b) of this section
+in any administrative proceedings carried out under § 303.420.
+(b) Rights. Any parent involved in an
+administrative proceeding has the
+right to—
+(1) Be accompanied and advised by
+counsel and by individuals with special
+knowledge or training with respect to
+early intervention services for children
+eligible under this part;
+(2) Present evidence and confront,
+cross-examine, and compel the attendance of witnesses;
+(3) Prohibit the introduction of any
+evidence at the proceeding that has not
+been disclosed to the parent at least
+five days before the proceeding;
+(4) Obtain a written or electronic verbatim transcription of the proceeding;
+and
+(5) Obtain written findings of fact
+and decisions.
+(Approved by the Office of Management and
+Budget under control number 1820–0550)
+(Authority: 20 U.S.C. 1439)
+
+§ 303.423 Convenience of proceedings;
+timelines.
+(a) Any proceeding for implementing
+the complaint resolution process in
+this subpart must be carried out at a
+time and place that is reasonably convenient to the parents.
+(b) Each lead agency shall ensure
+that, not later than 30 days after the
+receipt of a parent’s complaint, the impartial proceeding required under this
+
+207
+
+VerDate Aug<2,>2002
+
+15:03 Aug 14, 2002
+
+Jkt 197127
+
+PO 00000
+
+Frm 00207
+
+Fmt 8010
+
+Sfmt 8010
+
+Y:\SGML\197127T.XXX
+
+pfrm12
+
+PsN: 197127T
+
+§ 303.424
+
+34 CFR Ch. III (7–1–02 Edition)
+
+subpart is completed and a written decision mailed to each of the parties.
+(Approved by the Office of Management and
+Budget under control number 1820–0550)
+(Authority: 20 U.S.C. 1439(a)(1))
+NOTE: Under part B of the Act, States are
+allowed 45 days to conduct an impartial due
+process hearing (i.e., within 45 days after the
+receipt of a request for a hearing, a decision
+is reached and a copy of the decision is
+mailed to each of the parties). (See 34 CFR
+300.512.) Thus, if a State, in meeting the requirements of § 303.420, elects to adopt the
+due process procedures under part B, that
+State would also have 45 days for hearings.
+However, any State in that situation is encouraged (but not required) to accelerate the
+timeline for the due process hearing for children who are eligible under this part—from
+45 days to the 30-day timeline in this section.
+Because the needs of children in the birththrough-two-age range change so rapidly,
+quick resolution of complaints is important.
+
+§ 303.424 Civil action.
+Any party aggrieved by the findings
+and decision regarding an administrative complaint has the right to bring a
+civil action in State or Federal court
+under section 639(a)(1) of the Act.
+
+will follow in order to ensure the protection of any personally identifiable
+information collected, used, or maintained under this part, including the
+right of parents to written notice of
+and written consent to the exchange of
+this information among agencies consistent with Federal and State law.
+(b) These policies and procedures
+must meet the requirements in 34 CFR
+300.560 through 300.576, with the modifications specified in § 303.5(b).
+(Approved by the Office of Management and
+Budget under control number 1820–0550)
+(Authority: 20 U.S.C. 1439(a)(2), 1442)
+NOTE: With the modifications referred to in
+paragraph (b) of this section, the confidentiality requirements in the regulations implementing part B of the Act (34 CFR 300.560
+through 300.576) are to be used by public
+agencies to meet the confidentiality requirements under part C of the Act and this section (§ 303.460).
+The part B provisions incorporate by reference the regulations in 34 CFR part 99
+(Family Educational Rights and Privacy);
+therefore, those regulations also apply to
+this part.
+
+(Approved by the Office of Management and
+Budget under control number 1820–0550)
+
+Subpart F—State Administration
+GENERAL
+
+(Authority: 20 U.S.C. 1439(a)(1))
+[58 FR 40959, July 30, 1993, as amended at 63
+FR 18296, Apr. 14, 1998]
+
+§ 303.500 Lead agency
+or designation.
+
+§ 303.425 Status of a child during proceedings.
+(a) During the pendency of any proceeding involving a complaint under
+this subpart, unless the public agency
+and parents of a child otherwise agree,
+the child must continue to receive the
+appropriate early intervention services
+currently being provided.
+(b) If the complaint involves an application for initial services under this
+part, the child must receive those services that are not in dispute.
+
+Each system must include a single
+line of responsibility in a lead agency
+that—
+(a) Is established or designated by
+the Governor; and
+(b) Is responsible for the administration of the system, in accordance with
+the requirements of this part.
+
+(Approved by the Office of Management and
+Budget under control number 1820–0550)
+(Authority: 20 U.S.C. 1439(a)(7))
+
+CONFIDENTIALITY
+§ 303.460 Confidentiality of information.
+(a) Each State shall adopt or develop
+policies and procedures that the State
+
+establishment
+
+(Approved by the Office of Management and
+Budget under control number 1820–0550)
+(Authority: 20 U.S.C. 1435(a)(10))
+
+§ 303.501 Supervision and monitoring
+of programs.
+(a) General. Each lead agency is responsible for—
+(1) The general administration and
+supervision of programs and activities
+receiving assistance under this part;
+and
+(2) The monitoring of programs and
+activities used by the State to carry
+
+208
+
+VerDate Aug<2,>2002
+
+15:03 Aug 14, 2002
+
+Jkt 197127
+
+PO 00000
+
+Frm 00208
+
+Fmt 8010
+
+Sfmt 8010
+
+Y:\SGML\197127T.XXX
+
+pfrm12
+
+PsN: 197127T
+
+Off. of Spec. Educ. and Rehab. Services, Education
+out this part, whether or not these programs or activities are receiving assistance under this part, to ensure that
+the State complies with this part.
+(b) Methods of administering programs.
+In meeting the requirement in paragraph (a) of this section, the lead agency shall adopt and use proper methods
+of administering each program, including—
+(1) Monitoring agencies, institutions,
+and organizations used by the State to
+carry out this part;
+(2) Enforcing any obligations imposed
+on those agencies under part C of the
+Act and these regulations;
+(3) Providing technical assistance, if
+necessary, to those agencies, institutions, and organizations; and
+(4) Correcting deficiencies that are
+identified through monitoring.
+(Approved by the Office of Management and
+Budget under control number 1820–0550)
+(Authority: 20 U.S.C. 1435(a)(10)(A))
+
+LEAD AGENCY PROCEDURES FOR
+RESOLVING COMPLAINTS
+§ 303.510 Adopting
+dures.
+
+complaint
+
+proce-
+
+(a) General. Each lead agency shall
+adopt written procedures for—
+(1) Resolving any complaint, including a complaint filed by an organization or individual from another State,
+that any public agency or private service provider is violating a requirement
+of Part C of the Act or this Part by—
+(i) Providing for the filing of a complaint with the lead agency; and
+(ii) At the lead agency’s discretion,
+providing for the filing of a complaint
+with a public agency and the right to
+have the lead agency review the public
+agency’s decision on the complaint;
+and
+(2) Widely disseminating to parents
+and other interested individuals, including parent training centers, protection and advocacy agencies, independent living centers, and other appropriate entities, the State’s procedures under §§ 303.510–303.512.
+(b) Remedies for denial of appropriate
+services. In resolving a complaint in
+which it finds a failure to provide appropriate services, a lead agency, pursuant to its general supervisory au-
+
+§ 303.512
+
+thority under Part C of the Act, must
+address:
+(1) How to remediate the denial of
+those services, including, as appropriate, the awarding of monetary reimbursement or other corrective action
+appropriate to the needs of the child
+and the child’s family; and
+(2) Appropriate future provision of
+services for all infants and toddlers
+with disabilities and their families.
+(Authority: 20 U.S.C. 1435(a)(10))
+[64 FR 12536, Mar. 12, 1999]
+
+§ 303.511 An organization or individual
+may file a complaint.
+(a) General. An individual or organization may file a written signed complaint under § 303.510. The complaint
+must include—
+(1) A statement that the State has
+violated a requirement of part C of the
+Act or the regulations in this part; and
+(2) The facts on which the complaint
+is based.
+(b) Limitations. The alleged violation
+must have occurred not more than one
+year before the date that the complaint
+is received by the public agency unless
+a longer period is reasonable because—
+(1) The alleged violation continues
+for that child or other children; or
+(2) The complainant is requesting reimbursement or corrective action for a
+violation that occurred not more than
+three years before the date on which
+the complaint is received by the public
+agency.
+(Authority: 20 U.S.C. 1435(a)(10))
+[64 FR 12536, Mar. 12, 1999]
+
+§ 303.512 Minimum
+procedures.
+
+State
+
+complaint
+
+(a) Time limit, minimum procedures.
+Each lead agency shall include in its
+complaint procedures a time limit of 60
+calendar days after a complaint is filed
+under § 303.510(a) to—
+(1) Carry out an independent on-site
+investigation, if the lead agency determines that such an investigation is
+necessary;
+(2) Give the complainant the opportunity to submit additional information, either orally or in writing, about
+the allegations in the complaint;
+
+209
+
+VerDate Aug<2,>2002
+
+15:03 Aug 14, 2002
+
+Jkt 197127
+
+PO 00000
+
+Frm 00209
+
+Fmt 8010
+
+Sfmt 8010
+
+Y:\SGML\197127T.XXX
+
+pfrm12
+
+PsN: 197127T
+
+§ 303.520
+
+34 CFR Ch. III (7–1–02 Edition)
+
+(3) Review all relevant information
+and make an independent determination as to whether the public agency is
+violating a requirement of Part C of
+the Act or of this Part; and
+(4) Issue a written decision to the
+complainant that addresses each allegation in the complaint and contains—
+(i) Findings of fact and conclusions;
+and
+(ii) The reasons for the lead agency’s
+final decision.
+(b) Time extension; final decisions; implementation. The lead agency’s procedures described in paragraph (a) of this
+section also must—
+(1) Permit an extension of the time
+limit under paragraph (a) of this section only if exceptional circumstances
+exist with respect to a particular complaint; and
+(2) Include procedures for effective
+implementation of the lead agency’s
+final decision, if needed, including—
+(i) Technical assistance activities;
+(ii) Negotiations; and
+(iii) Corrective actions to achieve
+compliance.
+(c) Complaints filed under this section,
+and due process hearings under § 303.420.
+(1) If a written complaint is received
+that is also the subject of a due process
+hearing under § 303.420, or contains
+multiple issues, of which one or more
+are part of that hearing, the State
+must set aside any part of the complaint that is being addressed in the
+due process hearing until the conclusion of the hearing. However, any issue
+in the complaint that is not a part of
+the due process action must be resolved
+within the 60-calendar-day timeline
+using the complaint procedures described in paragraphs (a) and (b) of this
+section.
+(2) If an issue is raised in a complaint
+filed under this section that has previously been decided in a due process
+hearing involving the same parties—
+(i) The hearing decision is binding;
+and
+(ii) The lead agency must inform the
+complainant to that effect.
+(3) A complaint alleging a public
+agency’s or private service provider’s
+failure to implement a due process de-
+
+cision must be resolved by the lead
+agency.
+(Authority: 20 U.S.C. 1435(a)(10))
+[64 FR 12536, Mar. 12, 1999]
+
+POLICIES AND PROCEDURES RELATED TO
+FINANCIAL MATTERS
+§ 303.520 Policies related to payment
+for services.
+(a) General. Each lead agency is responsible for establishing State policies related to how services to children
+eligible under this part and their families will be paid for under the State’s
+early intervention program. The policies must—
+(1) Meet the requirements in paragraph (b) of this section; and
+(2) Be reflected in the interagency
+agreements required in § 303.523.
+(b) Specific funding policies. A State’s
+policies must—
+(1) Specify which functions and services will be provided at no cost to all
+parents;
+(2) Specify which functions or services, if any, will be subject to a system
+of payments, and include—
+(i) Information about the payment
+system and schedule of sliding fees
+that will be used; and
+(ii) The basis and amount of payments; and
+(3) Include an assurance that—
+(i) Fees will not be charged for the
+services that a child is otherwise entitled to receive at no cost to parents;
+and
+(ii) The inability of the parents of an
+eligible child to pay for services will
+not result in the denial of services to
+the child or the child’s family; and
+(4) Set out any fees that will be
+charged for early intervention services
+and the basis for those fees.
+(c) Procedures to ensure the timely provision of services. No later than the beginning of the fifth year of a State’s
+participation under this part, the State
+shall implement a mechanism to ensure that no services that a child is entitled to receive are delayed or denied
+because of disputes between agencies
+regarding financial or other responsibilities.
+
+210
+
+VerDate Aug<2,>2002
+
+15:03 Aug 14, 2002
+
+Jkt 197127
+
+PO 00000
+
+Frm 00210
+
+Fmt 8010
+
+Sfmt 8010
+
+Y:\SGML\197127T.XXX
+
+pfrm12
+
+PsN: 197127T
+
+Off. of Spec. Educ. and Rehab. Services, Education
+(d) Proceeds from public or private insurance. (1) Proceeds from public or private insurance are not treated as program income for purposes of 34 CFR
+80.25.
+(2) If a public agency spends reimbursements from Federal funds (e.g.,
+Medicaid) for services under this part,
+those funds are not considered State or
+local funds for purposes of the provisions contained in § 303.124.
+(Authority: 20 U.S.C. 1432(4)(B), 1435(a)(10))
+[58 FR 40959, July 30, 1993, as amended at 64
+FR 12536, Mar. 12, 1999]
+
+§ 303.521
+
+Fees.
+
+(a) General. A State may establish,
+consistent with § 303.12(a)(3)(iv), a system of payments for early intervention
+services, including a schedule of sliding
+fees.
+(b) Functions not subject to fees. The
+following are required functions that
+must be carried out at public expense
+by a State, and for which no fees may
+be charged to parents:
+(1) Implementing the child find requirements in § 303.321.
+(2) Evaluation and assessment, as included in § 303.322, and including the
+functions related to evaluation and assessment in § 303.12.
+(3) Service coordination, as included
+in §§ 303.22 and 303.344(g).
+(4) Administrative and coordinative
+activities related to—
+(i) The development, review, and
+evaluation of IFSPs in §§ 303.340
+through 303.346; and
+(ii) Implementation of the procedural
+safeguards in subpart E of this part and
+the other components of the statewide
+system of early intervention services
+in subparts D and F of this part.
+(c) States with mandates to serve children from birth. If a State has in effect
+a State law requiring the provision of a
+free appropriate public education to
+children with disabilities from birth,
+the State may not charge parents for
+any services (e.g., physical or occupational therapy) required under that law
+that are provided to children eligible
+under this part and their families.
+(Approved by the Office of Management and
+Budget under control number 1820–0550)
+(Authority: 20 U.S.C. 1432(4))
+
+§ 303.523
+
+§ 303.522 Identification and coordination of resources.
+(a) Each lead agency is responsible
+for—
+(1) The identification and coordination of all available resources for early
+intervention services within the State,
+including those from Federal, State,
+local, and private sources; and
+(2) Updating the information on the
+funding sources in paragraph (a)(1) of
+this section, if a legislative or policy
+change is made under any of those
+sources.
+(b) The Federal funding sources in
+paragraph (a)(1) of this section include—
+(1) Title V of the Social Security Act
+(relating to Maternal and Child
+Health);
+(2) Title XIX of the Social Security
+Act (relating to the general Medicaid
+Program, and EPSDT);
+(3) The Head Start Act;
+(4) Parts B and H of the Act;
+(5) The Developmental Disabilities
+Assistance and Bill of Rights Act (Pub.
+L. 94–103); and
+(6) Other Federal programs.
+(Approved by the Office of Management and
+Budget under control number 1820–0550)
+(Authority: 20 U.S.C. 1435(a)(10)(B))
+[58 FR 40959, July 30, 1993, as amended at 63
+FR 18296, Apr. 14, 1998]
+
+§ 303.523 Interagency agreements.
+(a) General. Each lead agency is responsible for entering into formal
+interagency agreements with other
+State-level agencies involved in the
+State’s early intervention program.
+Each agreement must meet the requirements in paragraphs (b) through
+(d) of this section.
+(b) Financial responsibility. Each
+agreement must define the financial
+responsibility, in accordance with
+§ 303.143, of the agency for paying for
+early intervention services (consistent
+with State law and the requirements of
+this part).
+(c) Procedures for resolving disputes. (1)
+Each agreement must include procedures for achieving a timely resolution
+of intra-agency and interagency disputes about payments for a given service, or disputes about other matters related to the State’s early intervention
+
+211
+
+VerDate Aug<2,>2002
+
+15:03 Aug 14, 2002
+
+Jkt 197127
+
+PO 00000
+
+Frm 00211
+
+Fmt 8010
+
+Sfmt 8010
+
+Y:\SGML\197127T.XXX
+
+pfrm12
+
+PsN: 197127T
+
+§ 303.524
+
+34 CFR Ch. III (7–1–02 Edition)
+
+program. Those procedures must include a mechanism for making a final
+determination that is binding upon the
+agencies involved.
+(2) The agreement with each agency
+must—
+(i) Permit the agency to resolve its
+own internal disputes (based on the
+agency’s procedures that are included
+in the agreement), so long as the agency acts in a timely manner; and
+(ii) Include the process that the lead
+agency will follow in achieving resolution of intra-agency disputes, if a given
+agency is unable to resolve its own internal disputes in a timely manner.
+(d) Additional components. Each agreement must include any additional components necessary to ensure effective
+cooperation and coordination among
+all agencies involved in the State’s
+early intervention program.
+(Approved by the Office of Management and
+Budget under control number 1820–0550)
+(Authority: 20 U.S.C. 1435(a)(10)(C) and
+(a)(10)(F))
+NOTE: A State may meet the requirement
+in paragraph (c)(1) of this section in any way
+permitted under State law, including (1) providing for a third party (e.g., an administrative law judge) to review a dispute and
+render a decision, (2) assignment of the responsibility by the Governor to the lead
+agency or Council, or (3) having the final decision made directly by the Governor.
+
+§ 303.524
+
+graph (b)(1)(i) of this section was inappropriately made—
+(i) The financial designee shall reassign the responsibility to the appropriate agency; and
+(ii) The lead agency shall make arrangements for reimbursement of any
+expenditures incurred by the agency
+originally assigned responsibility.
+(c) To the extent necessary to ensure
+compliance with its action in paragraph (b)(2) of this section, the lead
+agency shall—
+(1) Refer the dispute to the Council
+or the Governor; and
+(2) Implement the procedures to ensure the delivery of services in a timely manner in accordance with § 303.525.
+(Approved by the Office of Management and
+Budget under control number 1820–0550)
+(Authority:
+(a)(10)(E))
+
+20
+
+U.S.C.
+
+1435(a)(10)(C)
+
+§ 303.525 Delivery of
+timely manner.
+
+services
+
+and
+
+in
+
+a
+
+Each lead agency is responsible for
+the development of procedures to ensure that services are provided to eligible children and their families in a
+timely manner, pending the resolution
+of disputes among public agencies or
+service providers.
+(Approved by the Office of Management and
+Budget under control number 1820–0550)
+
+Resolution of disputes.
+
+(a) Each lead agency is responsible
+for resolving individual disputes, in accordance with the procedures in
+§ 303.523(c)(2)(ii).
+(b)(1) During a dispute, the individual
+or entity responsible for assigning financial responsibility among appropriate agencies under § 303.143 (‘‘financial designee’’) shall assign financial
+responsibility to—
+(i) An agency, subject to the provisions in paragraph (b)(2) of this section;
+or
+(ii) The lead agency, in accordance
+with the ‘‘payor of last resort’’ provisions in § 303.527.
+(2) If, during the lead agency’s resolution of the dispute, the financial designee determines that the assignment
+of financial responsibility under para-
+
+(Authority: 20 U.S.C. 1435(a)(10)(D))
+
+§ 303.526 Policy for contracting or otherwise arranging for services.
+Each system must include a policy
+pertaining to contracting or making
+other arrangements with public or private service providers to provide early
+intervention services. The policy must
+include—
+(a) A requirement that all early
+intervention services must meet State
+standards and be consistent with the
+provisions of this part;
+(b) The mechanisms that the lead
+agency will use in arranging for these
+services, including the process by
+which awards or other arrangements
+are made; and
+
+212
+
+VerDate Aug<2,>2002
+
+15:03 Aug 14, 2002
+
+Jkt 197127
+
+PO 00000
+
+Frm 00212
+
+Fmt 8010
+
+Sfmt 8010
+
+Y:\SGML\197127T.XXX
+
+pfrm12
+
+PsN: 197127T
+
+Off. of Spec. Educ. and Rehab. Services, Education
+(c) The basic requirements that must
+be met by any individual or organization seeking to provide these services
+for the lead agency.
+(Approved by the Office of Management and
+Budget under control number 1820–0550)
+(Authority: 20 U.S.C. 1435(a)(11))
+NOTE: In implementing the statewide system, States may elect to continue using
+agencies and individuals in both the public
+and private sectors that have previously
+been involved in providing early intervention services, so long as those agencies and
+individuals meet the requirements of this
+part.
+
+§ 303.527
+
+Payor of last resort.
+
+(a) Nonsubstitution of funds. Except as
+provided in paragraph (b)(1) of this section, funds under this part may not be
+used to satisfy a financial commitment
+for services that would otherwise have
+been paid for from another public or
+private source, including any medical
+program administered by the Secretary
+of Defense, but for the enactment of
+part C of the Act. Therefore, funds
+under this part may be used only for
+early intervention services that an eligible child needs but is not currently
+entitled to under any other Federal,
+State, local, or private source.
+(b) Interim payments—reimbursement.
+(1) If necessary to prevent a delay in
+the timely provision of services to an
+eligible child or the child’s family,
+funds under this part may be used to
+pay the provider of services, pending
+reimbursement from the agency or entity that has ultimate responsibility
+for the payment.
+(2) Payments under paragraph (b)(1)
+of this section may be made for—
+(i) Early intervention services, as described in § 303.12;
+(ii) Eligible health services (see
+§ 303.13); and
+(iii) Other functions and services authorized under this part, including
+child find and evaluation and assessment.
+(3) The provisions of paragraph (b)(1)
+of this section do not apply to medical
+services or ‘‘well-baby’’ health care
+(see § 303.13(c)(1)).
+(c) Non-reduction of benefits. Nothing
+in this part may be construed to permit a State to reduce medical or other
+assistance available or to alter eligi-
+
+§ 303.540
+
+bility under title V of the Social Security Act (SSA) (relating to maternal
+and child health) or title XIX of the
+SSA (relating to Medicaid for children
+eligible under this part) within the
+State.
+(Approved by the Office of Management and
+Budget under control number 1820–0550)
+(Authority: 20 U.S.C. 1440)
+NOTE: The Congress intended that the enactment of part C not be construed as a license to any agency (including the lead
+agency and other agencies in the State) to
+withdraw funding for services that currently
+are or would be made available to eligible
+children but for the existence of the program
+under this part. Thus, the Congress intended
+that other funding sources would continue,
+and that there would be greater coordination
+among agencies regarding the payment of
+costs.
+The Congress further clarified its intent
+concerning payments under Medicaid by including in section 411(k)(13) of the Medicare
+Catastrophic Coverage Act of 1988 (Pub. L.
+100–360) an amendment to title XIX of the
+Social Security Act. That amendment
+states, in effect, that nothing in this title
+shall be construed as prohibiting or restricting, or authorizing the Secretary of Health
+and Human Services to prohibit or restrict,
+payment under subsection (a) of section 1903
+of the Social Security Act for medical assistance for covered services furnished to an infant or toddler with a disability because
+those services are included in the child’s
+IFSP adopted pursuant to part C of the Act.
+[58 FR 40959, July 30, 1993, as amended at 63
+FR 18296, Apr. 14, 1998]
+
+§ 303.528
+
+Reimbursement procedure.
+
+Each system must include a procedure for securing the timely reimbursement of funds used under this part, in
+accordance with § 303.527(b).
+(Approved by the Office of Management and
+Budget under control number 1820–0550)
+(Authority: 20 U.S.C. 1435(a)(12))
+
+REPORTING REQUIREMENTS
+§ 303.540
+
+Data collection.
+
+(a) Each system must include the
+procedures that the State uses to compile data on the statewide system. The
+procedures must—
+(1) Include a process for—
+(i) Collecting data from various agencies and service providers in the State;
+
+213
+
+VerDate Aug<2,>2002
+
+15:03 Aug 14, 2002
+
+Jkt 197127
+
+PO 00000
+
+Frm 00213
+
+Fmt 8010
+
+Sfmt 8010
+
+Y:\SGML\197127T.XXX
+
+pfrm12
+
+PsN: 197127T
+
+§ 303.560
+
+34 CFR Ch. III (7–1–02 Edition)
+
+(ii) Making use of appropriate sampling methods, if sampling is permitted; and
+(iii) Describing the sampling methods
+used, if reporting to the Secretary; and
+(2) Provide for reporting data required under section 618 of the Act that
+relates to this part.
+(b) The information required in paragraph (a)(2) of this section must be provided at the time and in the manner
+specified by the Secretary.
+(Approved by the Office of Management and
+Budget under control number 1820–0550)
+(Authority: 20 U.S.C. 1435(a)(14))
+[58 FR 40959, July 30, 1993, as amended at 63
+FR 18296, Apr. 14, 1998]
+
+USE OF FUNDS FOR STATE
+ADMINISTRATION
+§ 303.560 Use of funds by the lead
+agency.
+A lead agency may use funds under
+this part that are reasonable and necessary for administering the State’s
+early intervention program for infants
+and toddlers with disabilities.
+(Authority: 20 U.S.C. 1433, 1435(a)(10))
+
+Subpart G—State Interagency
+Coordinating Council
+GENERAL
+§ 303.600 Establishment of Council.
+(a) A State that desires to receive financial assistance under this part shall
+establish a State Interagency Coordinating Council.
+(b) The Council must be appointed by
+the Governor. The Governor shall ensure that the membership of the Council reasonably represents the population of the State.
+(c) The Governor shall designate a
+member of the Council to serve as the
+chairperson of the Council or require
+the Council to do so. Any member of
+the Council who is a representative of
+the lead agency designated under
+§ 303.500 may not serve as the chairperson of the Council.
+(Approved by the Office of Management and
+Budget under control number 1820–0550)
+(Authority: 20 U.S.C. 1441(a))
+NOTE: To avoid a potential conflict of interest, it is recommended that parent rep-
+
+resentatives who are selected to serve on the
+Council not be employees of any agency involved in providing early intervention services.
+It is suggested that consideration be given
+to maintaining an appropriate balance between the urban and rural communities of
+the State.
+[58 FR 40959, July 30, 1993, as amended at 63
+FR 18296, Apr. 14, 1998]
+
+§ 303.601 Composition.
+(a) The Council must be composed as
+follows:
+(1)(i) At least 20 percent of the members must be parents, including minority parents, of infants or toddlers with
+disabilities or children with disabilities
+aged 12 or younger, with knowledge of,
+or experience with, programs for infants and toddlers with disabilities.
+(ii) At least one member must be a
+parent of an infant or toddler with a
+disability or a child with a disability
+aged six or younger.
+(2) At least 20 percent of the members
+must be public or private providers of
+early intervention services.
+(3) At least one member must be from
+the State legislature.
+(4) At least one member must be involved in personnel preparation.
+(5) At least one member must—
+(i) Be from each of the State agencies
+involved in the provisions of, or payment for, early intervention services to
+infants and toddlers with disabilities
+and their families; and
+(ii) Have sufficient authority to engage in policy planning and implementation on behalf of these agencies.
+(6) At least one member must—
+(i) Be from the State educational
+agency responsible for preschool services to children with disabilities; and
+(ii) Have sufficient authority to engage in policy planning and implementation on behalf of that agency.
+(7) At least one member must be from
+the agency responsible for the State
+governance of health insurance.
+(8) At least one member must be from
+a Head Start agency or program in the
+State.
+(9) At least one member must be from
+a State agency responsible for child
+care.
+(b) The Council may include other
+members selected by the Governor, including a representative from the BIA
+
+214
+
+VerDate Aug<2,>2002
+
+15:03 Aug 14, 2002
+
+Jkt 197127
+
+PO 00000
+
+Frm 00214
+
+Fmt 8010
+
+Sfmt 8010
+
+Y:\SGML\197127T.XXX
+
+pfrm12
+
+PsN: 197127T
+
+Off. of Spec. Educ. and Rehab. Services, Education
+or, where there is no school operated or
+funded by the BIA, from the Indian
+Health Service or the tribe or tribal
+council.
+(Approved by the Office of Management and
+Budget under control number 1820–0550)
+
+§ 303.650
+
+(c) Interpreters for persons who are
+deaf and other necessary services must
+be provided at Council meetings, both
+for Council members and participants.
+The Council may use funds under this
+part to pay for those services.
+
+(Authority: 20 U.S.C. 1441(b))
+
+(Approved by the Office of Management and
+Budget under control number 1820–0550)
+
+[58 FR 40959, July 30, 1993, as amended at 63
+FR 18296, Apr. 14, 1998]
+
+(Authority: 20 U.S.C. 1441 (c) and (d))
+
+§ 303.602
+
+Use of funds by the Council.
+
+(a) General. Subject to the approval
+of the Governor, the Council may use
+funds under this part—
+(1) To conduct hearings and forums;
+(2) To reimburse members of the
+Council for reasonable and necessary
+expenses for attending Council meetings and performing Council duties (including child care for parent representatives);
+(3) To pay compensation to a member
+of the Council if the member is not employed or must forfeit wages from
+other employment when performing official Council business;
+(4) To hire staff; and
+(5) To obtain the services of professional, technical, and clerical personnel, as may be necessary to carry
+out the performance of its functions
+under this part.
+(b) Compensation and expenses of
+Council members. Except as provided in
+paragraph (a) of this section, Council
+members shall serve without compensation from funds available under
+this part.
+(Approved by the Office of Management and
+Budget under control number 1820–0550)
+(Authority: 20 U.S.C. 1438, 1441 (c) and (d))
+[58 FR 40959, July 30, 1993, as amended at 63
+FR 18296, Apr. 14, 1998]
+
+§ 303.603
+
+Meetings.
+
+(a) The Council shall meet at least
+quarterly and in such places as it
+deems necessary.
+(b) The meetings must—
+(1) Be publicly announced sufficiently in advance of the dates they are
+to be held to ensure that all interested
+parties have an opportunity to attend;
+and
+(2) To the extent appropriate, be open
+and accessible to the general public.
+
+§ 303.604 Conflict of interest.
+No member of the Council may cast a
+vote on any matter that would provide
+direct financial benefit to that member
+or otherwise give the appearance of a
+conflict of interest.
+(Approved by the Office of Management and
+Budget under control number 1820–0550)
+(Authority: 20 U.S.C. 1441(f))
+
+FUNCTIONS OF THE COUNCIL
+§ 303.650 General.
+(a) Each Council shall—
+(1) Advise and assist the lead agency
+in the development and implementation of the policies that constitute the
+statewide system;
+(2) Assist the lead agency in achieving the full participation, coordination, and cooperation of all appropriate
+public agencies in the State;
+(3) Assist the lead agency in the effective implementation of the statewide system, by establishing a process
+that includes—
+(i) Seeking information from service
+providers, service coordinators, parents, and others about any Federal,
+State, or local policies that impede
+timely service delivery; and
+(ii) Taking steps to ensure that any
+policy problems identified under paragraph (a)(3)(i) of this section are resolved; and
+(4) To the extent appropriate, assist
+the lead agency in the resolution of
+disputes.
+(b) Each Council may advise and assist the lead agency and the State educational agency regarding the provision of appropriate services for children aged birth to five, inclusive.
+(c) Each Council may advise appropriate agencies in the State with respect to the integration of services for
+infants and toddlers with disabilities
+and at-risk infants and toddlers and
+
+215
+
+VerDate Aug<2,>2002
+
+15:03 Aug 14, 2002
+
+Jkt 197127
+
+PO 00000
+
+Frm 00215
+
+Fmt 8010
+
+Sfmt 8010
+
+Y:\SGML\197127T.XXX
+
+pfrm12
+
+PsN: 197127T
+
+§ 303.651
+
+34 CFR Ch. III (7–1–02 Edition)
+
+their families, regardless of whether
+at-risk infants and toddlers are eligible
+for early intervention services in the
+State.
+(Approved by the Office of Management and
+Budget under control number 1820–0550)
+(Authority: 20 U.S.C. 1441(e)(1)(A) and (e)(2))
+[58 FR 40959, July 30, 1993, as amended at 63
+FR 18296, Apr. 14, 1998]
+
+§ 303.651 Advising and assisting the
+lead agency in its administrative
+duties.
+Each Council shall advise and assist
+the lead agency in the—
+(a) Identification of sources of fiscal
+and other support for services for early
+intervention programs under this part;
+(b) Assignment of financial responsibility to the appropriate agency; and
+(c) Promotion of the interagency
+agreements under § 303.523.
+(Approved by the Office of Management and
+Budget under control number 1820–0550)
+(Authority: 20 U.S.C. 1441(e)(1)(A))
+
+§ 303.652
+
+Applications.
+
+Each Council shall advise and assist
+the lead agency in the preparation of
+applications under this part and
+amendments to those applications.
+(Approved by the Office of Management and
+Budget under control number 1820–0550)
+(Authority: 20 U.S.C. 1441(e)(1)(B))
+
+§ 303.653
+
+Transitional services.
+
+Each Council shall advise and assist
+the State educational agency regarding
+the transition of toddlers with disabilities to services provided under part B
+of the Act, to preschool and other appropriate services.
+(Approved by the Office of Management and
+Budget under control number 1820–0578)
+(Authority: 20 U.S.C. 1441(e)(1)(C))
+[58 FR 40959, July 30, 1993, as amended at 63
+FR 18296, Apr. 14, 1998]
+
+§ 303.654 Annual report to the Secretary.
+(a) Each Council shall—
+(1) Prepare an annual report to the
+Governor and to the Secretary on the
+status of early intervention programs
+operated within the State for children
+
+eligible under this part and their families; and
+(2) Submit the report to the Secretary by a date that the Secretary establishes.
+(b) Each annual report must contain
+the information required by the Secretary for the year for which the report
+is made.
+(Approved by the Office of Management and
+Budget under control number 1820–0550)
+(Authority: 20 U.S.C. 1441(e)(1)(D))
+
+PART 304—SPECIAL EDUCATION—
+PERSONNEL PREPARATION TO
+IMPROVE SERVICES AND RESULTS
+FOR CHILDREN WITH DISABILITIES
+Subpart A—General
+Sec.
+304.1 Purpose.
+304.2 What is the Special Education—Personnel Preparation to Improve Services
+and Results for Children with Disabilities Program?
+304.3 What definitions apply to this program?
+304.4 What regulations apply to this program?
+
+Subpart B—What Conditions Must Be Met
+By the Grantee?
+304.20 What are the requirements for directing grant funds?
+304.21 What are allowable costs?
+304.22 What are the requirements for grantees in disbursing scholarships?
+304.23 What assurances must be provided by
+a grantee that intends to provide scholarships?
+
+Subpart C—What Conditions Must Be Met
+By the Scholar?
+304.30 What are the requirements for scholars?
+304.31 What are the requirements for obtaining a deferral or exception to performance or repayment under an agreement?
+304.32 What are the consequences of a scholar’s failure to meet the terms and conditions of a scholarship agreement?
+AUTHORITY: 20 U.S.C. 1473, unless otherwise
+noted.
+SOURCE: 64 FR 69144, Dec. 9, 1999, unless
+otherwise noted.
+
+216
+
+VerDate Aug<2,>2002
+
+15:03 Aug 14, 2002
+
+Jkt 197127
+
+PO 00000
+
+Frm 00216
+
+Fmt 8010
+
+Sfmt 8010
+
+Y:\SGML\197127T.XXX
+
+pfrm12
+
+PsN: 197127T
+
+

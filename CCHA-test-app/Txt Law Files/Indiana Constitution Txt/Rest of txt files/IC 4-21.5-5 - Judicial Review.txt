@@ -1,0 +1,285 @@
+IC 4-21.5-5 Chapter 5. Judicial Review 
+IC 4-21.5-5-1 Exclusive means for judicial review; exceptions 
+Sec. 1. Except as provided in IC 22-9 and IC 22-9.5, this chapter establishes the exclusive means for judicial review of an agency action. However, a subpoena, discovery order, or protective order issued under this article may be contested only in an action for civil enforcement under IC 4-21.5-6-2. As added by P.L.18-1986, SEC.1. Amended by P.L.35-1987, SEC.17; P.L.14-1994, SEC.1. 
+
+IC 4-21.5-5-2 Petition; persons entitled to judicial review 
+Sec. 2. (a) Judicial review is initiated by filing a petition for review in the appropriate court. 
+(b) Only a person who qualifies under: 
+(1) 
+section 3 of this chapter concerning standing; 
+
+(2) 
+section 4 of this chapter concerning exhaustion of administrative remedies; 
+
+(3) 
+section 5 of this chapter concerning the time for filing a petition for review; 
+
+(4) 
+section 13 of this chapter concerning the time for filing the agency record for review; and 
+
+(5) 
+any other statute that sets conditions for the availability of 
+
+
+judicial review; is entitled to review of a final agency action. 
+(c) A person is entitled to judicial review of a nonfinal agency action only if the person establishes both of the following: 
+(1) 
+Immediate and irreparable harm. 
+
+(2) 
+No adequate remedy exists at law. (The failure of a person to comply with the procedural requirements of this article may not be the basis for a finding of an inadequate remedy at law.) 
+
+
+As added by P.L.18-1986, SEC.1. 
+
+IC 4-21.5-5-3 Standing 
+Sec. 3. (a) The following have standing to obtain judicial review of an agency action: 
+(1) 
+A person to whom the final agency action is specifically directed. 
+
+(2) 
+A person who was a party to the proceedings of the ultimate authority that led to the final agency action, including the agency whose order was under review in the proceeding. 
+
+(3) 
+A person eligible for standing under a law applicable to the final agency action. 
+
+(4) 
+A person otherwise aggrieved or adversely affected by the 
+
+
+final agency action. 
+(b) A person has standing under subsection (a)(4) only if: 
+(1) 
+the final agency action has prejudiced or is likely to prejudice the interests of the person; 
+
+(2) 
+the person: 
+
+(A) 
+was eligible for an initial notice of an order or proceeding under this article, was not notified of the order or proceeding in substantial compliance with this article, and did not have actual notice of the order or proceeding before the last date in the proceeding that the person could object or otherwise intervene to contest the agency action; or 
+
+(B) 
+was qualified to intervene to contest an agency action under IC 4-21.5-3-21(a), petitioned for intervention in the proceeding, and was denied party status; 
+
+
+
+(3) 
+the person's asserted interests are among those that the agency was required to consider when it engaged in the agency action challenged; and 
+
+(4) 
+a judgment in favor of the person would substantially eliminate or redress the prejudice to the person caused or likely to be caused by the final agency action. 
+
+
+As added by P.L.18-1986, SEC.1. Amended by P.L.35-1987, SEC.18; P.L.178-2002, SEC.1; P.L.219-2007, SEC.5; P.L.72-2014, SEC.6. 
+
+IC 4-21.5-5-4 Exhaustion of administrative remedies; waiver of right to review 
+Sec. 4. (a) A person may file a petition for judicial review under this chapter only after exhausting all administrative remedies available within the agency whose action is being challenged and within any other agency authorized to exercise administrative review. 
+(b) A person who: 
+(1) fails to timely object to an order or timely petition for review of an order within the period prescribed by this article; or 
+(2) is in default under this article; has waived the person's right to judicial review under this chapter. As added by P.L.18-1986, SEC.1. 
+
+IC 4-21.5-5-5 Time for filing 
+Sec. 5. Except as otherwise provided, a petition for review is timely only if it is filed within thirty (30) days after the date that notice of the agency action that is the subject of the petition for judicial review was served. As added by P.L.18-1986, SEC.1. 
+IC 4-21.5-5-6 Venue 
+Sec. 6. (a) Venue is in the judicial district where: 
+(1) 
+the petitioner resides or maintains a principal place of business; 
+
+(2) 
+the agency action is to be carried out or enforced; or 
+
+(3) 
+the principal office of the agency taking the agency action is located. 
+
+
+(b) 
+If more than one (1) person may be aggrieved by the agency action, only one (1) proceeding for review may be had, and the court in which a petition for review is first properly filed has jurisdiction. 
+
+(c) 
+The rules of procedure governing civil actions in the courts govern pleadings and requests under this chapter for a change of judge or change of venue to another judicial district described in subsection (a). 
+
+(d) 
+Each person who was a party to the proceeding before the agency is a party to the petition for review. 
+
+
+As added by P.L.18-1986, SEC.1. Amended by P.L.198-2001, SEC.3; P.L.219-2007, SEC.6. 
+
+IC 4-21.5-5-7 Petition; filing; contents 
+Sec. 7. (a) A petition for review must be filed with the clerk of the court. 
+(b) A petition for review must be verified and set forth the following: 
+(1) 
+The name and mailing address of the petitioner. 
+
+(2) 
+The name and mailing address of the agency whose action is at issue. 
+
+(3) 
+Identification of the agency action at issue, together with a copy, summary, or brief description of the agency action. 
+
+(4) 
+Identification of persons who were parties in any proceedings that led to the agency action. 
+
+(5) 
+Specific facts to demonstrate that the petitioner is entitled to obtain judicial review under section 2 of this chapter. 
+
+(6) 
+Specific facts to demonstrate that the petitioner has been prejudiced by one (1) or more of the grounds described in section 14 of this chapter. 
+
+(7) 
+A request for relief, specifying the type and extent of relief requested. 
+
+
+As added by P.L.18-1986, SEC.1. Amended by P.L.35-1987, SEC.19. 
+
+IC 4-21.5-5-8 Service; rules of procedure 
+Sec. 8. (a) A petitioner for judicial review shall serve a copy of the petition upon: 
+(1) 
+the ultimate authority issuing the order; 
+
+(2) 
+the ultimate authority for each other agency exercising administrative review of the order; 
+
+(3) 
+the attorney general; and 
+
+(4) 
+each party to the proceeding before an agency; 
+
+
+in the manner provided by the rules of procedure governing civil actions in the courts. If the ultimate authority consists of more than one (1) individual, service on the ultimate authority must be made to the secretary or chairperson of the ultimate authority. 
+(b) The petitioner shall use means provided by the rules of procedure governing civil actions in the courts to give notice of the petition for review to all other parties in any proceedings that led to the agency action. As added by P.L.18-1986, SEC.1. 
+
+IC 4-21.5-5-9 Stay of order pending court decision 
+Sec. 9. (a) If a petition for judicial review concerns a matter other than an assessment or determination of tax due or claimed to be due the state, and the law concerning the agency whose order is being reviewed does not preclude a stay of the order by the court, the person seeking the review may seek, by filing a verified petition, an order of the court staying the action of the agency pending decision by the court. The court may enter an order staying the agency order pending a final determination if: 
+(1) 
+the court finds that the petition for review and the petition for a stay order show a reasonable probability that the order or determination appealed from is invalid or illegal; and 
+
+(2) 
+a bond is filed that is conditioned upon the due prosecution of the proceeding for review and that the petitioner will pay all court costs and abide by the order of the agency if it is not set aside. The bond must be in the amount and with the surety approved by the court. However, the amount of the bond must be at least five hundred dollars ($500). 
+
+
+(b) If a petition for review concerns a revocation or suspension of a license and the law governing the agency permits a staying of the action of the agency by court order pending judicial review, any stay ordered under subsection (a) is effective during the period of the review and any appeal from the review and until the review is finally determined, unless otherwise ordered by the court granting the stay. If the stay is granted as provided in this section and the determination of the agency is approved on final determination, the revocation or suspension of the license immediately becomes effective. As added by P.L.18-1986, SEC.1. Amended by P.L.35-1987, SEC.20. 
+
+IC 4-21.5-5-10 Issues not raised before agency 
+Sec. 10. A person may obtain judicial review of an issue that was not raised before the agency, only to the extent that: 
+(1) 
+the issue concerns whether a person who was required to be notified by this article of the commencement of a proceeding was notified in substantial compliance with this article; or 
+
+(2) 
+the interests of justice would be served by judicial 
+
+
+resolution of an issue arising from a change in controlling law occurring after the agency action. 
+As added by P.L.18-1986, SEC.1. Amended by P.L.35-1987, SEC.21. 
+
+IC 4-21.5-5-11 Fact issues confined to record 
+Sec. 11. Judicial review of disputed issues of fact must be confined to the agency record for the agency action supplemented by additional evidence taken under section 12 of this chapter. The court may not try the cause de novo or substitute its judgment for that of the agency. As added by P.L.18-1986, SEC.1. 
+
+IC 4-21.5-5-12 Evidence; remand to agency for further factfinding 
+Sec. 12. (a) The court may receive evidence, in addition to that contained in the agency record for judicial review, only if it relates to the validity of the agency action at the time it was taken and is needed to decide disputed issues regarding one (1) or both of the following: 
+(1) Improper constitution as a decision-making body or grounds for disqualification of those taking the agency action. 
+(2) 
+Unlawfulness of procedure or of decision-making process. This subsection applies only if the additional evidence could not, by due diligence, have been discovered and raised in the administrative proceeding giving rise to a proceeding for judicial review. 
+
+(b) 
+The court may remand a matter to the agency before final disposition of a petition for review with directions that the agency conduct further factfinding or that the agency prepare an adequate record, if: 
+
+(1) 
+the agency failed to prepare or preserve an adequate record; 
+
+(2) 
+the agency improperly excluded or omitted evidence from the record; or 
+
+(3) 
+a relevant law changed after the agency action and the court determines that the new provision of law may control the outcome. 
+
+
+
+
+As added by P.L.18-1986, SEC.1. 
+
+IC 4-21.5-5-13 Transmittal of agency record; costs; corrections or additions 
+Sec. 13. (a) Within thirty (30) days after the filing of the petition, or within further time allowed by the court or by other law, the petitioner shall transmit to the court the original or a certified copy of the agency record for judicial review of the agency action, consisting of: 
+(1) 
+any agency documents expressing the agency action; 
+
+(2) 
+other documents identified by the agency as having been considered by it before its action and used as a basis for its 
+
+action; and 
+
+(3) 
+any other material described in this article as the agency record for the type of agency action at issue, subject to this section. 
+
+
+(b) 
+An extension of time in which to file the record shall be granted by the court for good cause shown. Inability to obtain the record from the responsible agency within the time permitted by this section is good cause. Failure to file the record within the time permitted by this subsection, including any extension period ordered by the court, is cause for dismissal of the petition for review by the court, on its own motion, or on petition of any party of record to the proceeding. 
+
+(c) 
+Upon a written request by the petitioner, the agency taking the action being reviewed shall prepare the agency record for the petitioner. If part of the record has been preserved without a transcript, the agency shall prepare a transcript for inclusion in the record transmitted to the court, except for portions that the parties to the judicial review proceeding stipulate to omit in accordance with subsection (e). 
+
+(d) 
+Notwithstanding IC 5-14-3-8, the agency shall charge the petitioner with the reasonable cost of preparing any necessary copies and transcripts for transmittal to the court, unless a person files with the court, under oath and in writing, the statement described by IC 33-37-3-2. 
+
+(e) 
+By stipulation of all parties to the review proceedings, the record may be shortened, summarized, or organized. 
+
+(f) 
+The court may tax the cost of preparing transcripts and copies for the record: 
+
+(1) 
+against a party to the judicial review proceeding who unreasonably refuses to stipulate to shorten, summarize, or organize the record; or 
+
+(2) 
+in accordance with the rules governing civil actions in the courts or other law. 
+
+
+
+
+(g) Additions to the record concerning evidence received under section 12 of this chapter must be made as ordered by the court. The court may require or permit subsequent corrections or additions to the record. As added by P.L.18-1986, SEC.1. Amended by P.L.11-1987, SEC.6; P.L.3-1989, SEC.24; P.L.98-2004, SEC.47. 
+
+IC 4-21.5-5-14 Burden of proof; standards of review 
+Sec. 14. (a) The burden of demonstrating the invalidity of agency action is on the party to the judicial review proceeding asserting invalidity. 
+(b) 
+The validity of agency action shall be determined in accordance with the standards of review provided in this section, as applied to the agency action at the time it was taken. 
+
+(c) 
+The court shall make findings of fact on each material issue on which the court's decision is based. 
+
+(d) 
+The court shall grant relief under section 15 of this chapter only if it determines that a person seeking judicial relief has been prejudiced by an agency action that is: 
+
+(1) 
+arbitrary, capricious, an abuse of discretion, or otherwise not in accordance with law; 
+
+(2) 
+contrary to constitutional right, power, privilege, or immunity; 
+
+(3) 
+in excess of statutory jurisdiction, authority, or limitations, or short of statutory right; 
+
+(4) 
+without observance of procedure required by law; or 
+
+(5) 
+unsupported by substantial evidence. 
+
+
+
+
+As added by P.L.18-1986, SEC.1. Amended by P.L.35-1987, SEC.22. 
+
+IC 4-21.5-5-15 Disposition 
+Sec. 15. If the court finds that a person has been prejudiced under section 14 of this chapter, the court may set aside an agency action and: 
+(1) 
+remand the case to the agency for further proceedings; or 
+
+(2) 
+compel agency action that has been unreasonably delayed or unlawfully withheld. 
+
+
+As added by P.L.18-1986, SEC.1. Amended by P.L.35-1987, SEC.23. 
+
+IC 4-21.5-5-16 Decisions on petitions; appeal 
+Sec. 16. Decisions on petitions for review of agency action are appealable in accordance with the rules governing civil appeals from the courts. As added by P.L.18-1986, SEC.1. 
+

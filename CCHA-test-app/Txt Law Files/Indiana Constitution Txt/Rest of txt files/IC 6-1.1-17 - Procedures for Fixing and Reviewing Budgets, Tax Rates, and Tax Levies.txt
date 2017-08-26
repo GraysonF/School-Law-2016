@@ -1,0 +1,836 @@
+IC 6-1.1-17 
+Chapter 17. Procedures for Fixing and Reviewing Budgets, Tax Rates, and Tax Levies 
+IC 6-1.1-17-0.5 Exclusion by county auditor of certain assessed value on tax duplicate; county auditor reduction of assessed value used to set tax rates; limitation on reduction; reduction may not be offered as evidence in appeal 
+Sec. 0.5. (a) For purposes of this section, "net assessed value" means assessed value after the application of deductions, exemptions, and abatements. 
+(b) 
+The county auditor may exclude and keep separate on the tax duplicate for taxes payable in a calendar year the net assessed value of tangible property that meets the following conditions: 
+
+(1) 
+The net assessed value of the property is at least nine percent (9%) of the net assessed value of all tangible property subject to taxation by a taxing district. 
+
+(2) 
+The property is or has been part of a bankruptcy estate that is subject to protection under the federal bankruptcy code. 
+
+(3) 
+The owner of the property has discontinued all business operations on the property. 
+
+(4) 
+There is a high probability that the taxpayer will not pay property taxes due on the property in the following year. 
+
+
+
+(c)
+ This section does not limit, restrict, or reduce in any way the property tax liability on the property. 
+
+(d) 
+For each taxing district located in the county, the county auditor may reduce for a calendar year the taxing district's net assessed value that is certified to the department of local government finance under section 1 of this chapter and used to set tax rates for the taxing district for taxes first due and payable in the immediately succeeding calendar year. The county auditor may reduce a taxing district's net assessed value under this subsection only to enable the taxing district to absorb the effects of reduced property tax collections in the immediately succeeding calendar year that are expected to result from any or a combination of the following: 
+
+(1) 
+Successful appeals of the assessed value of property located in the taxing district. 
+
+(2) 
+Deductions under IC 6-1.1-12-37 and IC 6-1.1-12-37.5 that result from the granting of applications for the standard deduction for the calendar year under IC 6-1.1-12-37 or IC 6-1.1-12-44 after the county auditor certifies net assessed value as described in this section. 
+
+(3) 
+Deductions that result from the granting of applications for deductions for the calendar year under IC 6-1.1-12-44 after the county auditor certifies net assessed value as described in this section. 
+
+(4) 
+Reassessments of real property under IC 6-1.1-4-11.5. 
+
+
+
+
+Not later than July 31 of each year, the county auditor shall send a certified statement, under the seal of the board of county commissioners, to the fiscal officer of each political subdivision of the county and to the department of local government finance. The certified statement must list any adjustments to the amount of the reduction under this subsection and the information submitted under section 1 of this chapter that are necessary. The county auditor shall keep separately on the tax duplicate the amount of any reductions made under this subsection. The maximum amount of the reduction authorized under this subsection is determined under subsection (e). 
+(e) 
+The amount of the reduction in a taxing district's net assessed value for a calendar year under subsection (d) may not exceed two percent (2%) of the net assessed value of tangible property subject to assessment in the taxing district in that calendar year. 
+
+(f) 
+The amount of a reduction under subsection (d) may not be offered in a proceeding before the: 
+
+(1) 
+county property tax assessment board of appeals; 
+
+(2) 
+Indiana board; or 
+
+
+
+
+(3) Indiana tax court; as evidence that a particular parcel has been improperly assessed. As added by P.L.291-2001, SEC.206. Amended by P.L.154-2006, SEC.41; P.L.144-2008, SEC.39; P.L.90-2009, SEC.2; P.L.182-2009(ss), SEC.113; P.L.137-2012, SEC.20; P.L.184-2016, SEC.3. 
+
+IC 6-1.1-17-0.7 Estimates of debt service, property tax rates, and revenue 
+Sec. 0.7. (a) Before May 1 of each year after 2017, the fiscal officer of each political subdivision shall provide the department of local government finance with an estimate of the total amount of the political subdivision's debt service obligations (as defined in IC 6-1.1-20.6-9.8) that will be due in the last six (6) months of the current year and in the ensuing year. 
+(b) 
+Before July 15 of each year after 2017, the department of local government finance shall provide the following to each political subdivision: 
+
+(1) 
+An estimate of the maximum property tax rate that may be imposed by the political subdivision for property taxes payable in the ensuing year for each cumulative fund or other fund for which a maximum property tax rate is established by law. 
+
+(2) 
+An estimate of the property tax rates that would be imposed by the political subdivision for property taxes payable in the ensuing year for debt service. 
+
+
+
+(c) 
+The department of local government finance shall before August 1 of each year after 2017 provide to each political subdivision an estimate of the maximum amount of net property tax revenue and miscellaneous revenue that the political subdivision will receive in the ensuing year if the political subdivision's property tax 
+
+
+rates are imposed at the maximum allowed under law and if the political subdivision imposes the maximum permissible ad valorem property tax levy allowed under law for the political subdivision. In making each of the estimates under this subsection, the department of local government finance shall consider the estimated amount of any credits that will be granted under IC 6-1.1-20.6 against property taxes imposed by the political subdivision. 
+As added by P.L.184-2016, SEC.4. 
+
+IC 6-1.1-17-1 County auditor certified statement; amendment of statement; submission of parcel level data 
+Sec. 1. (a) On or before August 1 of each year, the county auditor shall submit a certified statement of the assessed value for the ensuing year to the department of local government finance in the manner prescribed by the department. 
+(b) 
+The department of local government finance shall make the certified statement available on the department's computer gateway. 
+
+(c) 
+Subject to subsection (d), after the county auditor submits a certified statement under subsection (a) or an amended certified statement under this subsection with respect to a political subdivision and before the department of local government finance certifies its action with respect to the political subdivision under section 16(i) of this chapter, the county auditor may amend the information concerning assessed valuation included in the earlier certified statement. The county auditor shall submit a certified statement amended under this subsection to the department of local government finance in the manner prescribed by the department. 
+
+(d) 
+Except as provided in subsection (e), before the county auditor makes an amendment under subsection (c), the county auditor must provide an opportunity for public comment on the proposed amendment at a public hearing. The county auditor must give notice of the hearing under IC 5-3-1. If the county auditor makes the amendment as a result of information provided to the county auditor by an assessor, the county auditor shall give notice of the public hearing to the assessor. 
+
+(e) 
+The county auditor is not required to hold a public hearing under subsection (d) if: 
+
+(1) 
+the amendment under subsection (c) is proposed to correct a mathematical error made in the determination of the amount of assessed valuation included in the earlier certified statement; 
+
+(2) 
+the amendment under subsection (c) is proposed to add to the amount of assessed valuation included in the earlier certified statement assessed valuation of omitted property discovered after the county auditor sent the earlier certified statement; or 
+
+(3) 
+the county auditor determines that the amendment under subsection (c) will not result in an increase in the tax rate or tax 
+
+
+
+
+rates of the political subdivision. 
+(f) Beginning in 2018, each county auditor shall submit to the department of local government finance parcel level data of certified net assessed values as required by the department. A county auditor shall submit the parcel level data in the manner and format required by the department and according to a schedule determined by the department. (Formerly: Acts 1975, P.L.47, SEC.1.) As amended by P.L.37-1992, SEC.4; P.L.49-1996, SEC.1; P.L.50-1996, SEC.1; P.L.90-2002, SEC.147; P.L.154-2006, SEC.42; P.L.146-2008, SEC.146; P.L.1-2010, SEC.25; P.L.137-2012, SEC.21; P.L.112-2012, SEC.33; P.L.137-2012, SEC.22; P.L.184-2016, SEC.5. 
+
+IC 6-1.1-17-2 Budget estimates 
+Sec. 2. (a) When formulating an annual budget estimate, the proper officers of a political subdivision shall prepare an estimate of the amount of revenue which the political subdivision will receive from the state for and during the budget year for which the budget is being formulated. These estimated revenues shall be shown in the budget estimate and shall be taken into consideration in calculating the tax levy which is to be made for the ensuing calendar year. However, this section does not apply to funds to be received from the state or the federal government for: 
+(1) 
+township assistance; 
+
+(2) 
+unemployment relief; 
+
+(3) 
+old age pensions; or 
+
+(4) 
+other funds which may at any time be made available under "The Economic Security Act" or under any other federal act which provides for civil and public works projects. 
+
+
+(b) When formulating an annual budget estimate, the proper officers of a political subdivision shall prepare an estimate of the amount of revenue that the political subdivision will receive under a development agreement (as defined in IC 36-1-8-9.5) for and during the budget year for which the budget is being formulated. Revenue received under a development agreement may not be used to reduce the political subdivision's maximum levy under IC 6-1.1-18.5 but may be used at the discretion of the political subdivision to reduce the property tax levy of the political subdivision for a particular year. (Formerly: Acts 1975, P.L.47, SEC.1.) As amended by P.L.50-1996, SEC.2; P.L.73-2005, SEC.1; P.L.199-2005, SEC.12; P.L.1-2006, SEC.135. 
+IC 6-1.1-17-3 Formulation of local budgets, tax rates, and levies; public notice; availability on computer gateway; solid waste management districts; township trustee estimate of cost of township assistance 
+Sec. 3. (a) The proper officers of a political subdivision shall formulate its estimated budget and its proposed tax rate and tax levy on the form prescribed by the department of local government finance and approved by the state board of accounts. In formulating a political subdivision's estimated budget under this section, the proper officers of the political subdivision must consider the net property tax revenue that will be collected by the political subdivision during the ensuing year, after taking into account the estimate by the department of local government finance under IC 6-1.1-20.6-11.1 of the amount by which the political subdivision's distribution of property taxes will be reduced by credits under IC 6-1.1-20.6-9.5 in the ensuing year, and after taking into account the estimate by the department of local government finance under section 0.7 of this chapter of the maximum amount of net property tax revenue and miscellaneous revenue that the political subdivision will receive in the ensuing year. The political subdivision or appropriate fiscal body, if the political subdivision is subject to section 20 of this chapter, shall submit the following information to the department's computer gateway: 
+(1) 
+The estimated budget. 
+
+(2) 
+The estimated maximum permissible levy, as provided by the department under IC 6-1.1-18.5-24. 
+
+(3) 
+The current and proposed tax levies of each fund. 
+
+(4) 
+The amount by which the political subdivision's distribution of property taxes may be reduced by credits granted under IC 6-1.1-20.6, as estimated by the department of local government finance under IC 6-1.1-20.6-11. 
+
+(5) 
+The amounts of excessive levy appeals to be requested. 
+
+(6) 
+The time and place at which the political subdivision or appropriate fiscal body will hold a public hearing on the items described in subdivisions (1) through (5). 
+
+
+The political subdivision or appropriate fiscal body shall submit this information to the department's computer gateway at least ten (10) days before the public hearing required by this subsection in the manner prescribed by the department. The department shall make this information available to taxpayers, at least ten (10) days before the public hearing, through its computer gateway and provide a telephone number through which taxpayers may request mailed copies of a political subdivision's information under this subsection. The department's computer gateway must allow a taxpayer to search for the information under this subsection by the taxpayer's address. The department shall review only the submission to the department's computer gateway for compliance with this section. 
+(b) The board of directors of a solid waste management district established under IC 13-21 or IC 13-9.5-2 (before its repeal) may conduct the public hearing required under subsection (a): 
+(1) 
+in any county of the solid waste management district; and 
+
+(2) 
+in accordance with the annual notice of meetings published 
+
+
+under IC 13-21-5-2. 
+(c)
+ The trustee of each township in the county shall estimate the amount necessary to meet the cost of township assistance in the township for the ensuing calendar year. The township board shall adopt with the township budget a tax rate sufficient to meet the estimated cost of township assistance. The taxes collected as a result of the tax rate adopted under this subsection are credited to the township assistance fund. 
+
+(d) 
+A political subdivision for which any of the information under subsection (a) is not submitted to the department's computer gateway in the manner prescribed by the department shall have its most recent annual appropriations and annual tax levy continued for the ensuing budget year. 
+
+
+(e) If a political subdivision or appropriate fiscal body timely submits the information under subsection (a) but subsequently discovers the information contains an error, the political subdivision or appropriate fiscal body may submit amended information to the department's computer gateway. However, submission of amended information must occur at least ten (10) days before the public hearing held under subsection (a). (Formerly: Acts 1975, P.L.47, SEC.1.) As amended by Acts 1981, P.L.45, SEC.5; P.L.34-1994, SEC.1; P.L.33-1994, SEC.1; P.L.1-1996, SEC.41; P.L.51-1996, SEC.1; P.L.49-1996, SEC.2; P.L.2-1997, SEC.17; P.L.50-1996, SEC.3; P.L.90-2002, SEC.148; P.L.178-2002, SEC.23; P.L.256-2003, SEC.14; P.L.73-2005, SEC.2; P.L.234-2005, SEC.3; P.L.162-2006, SEC.3; P.L.219-2007, SEC.49; P.L.224-2007, SEC.5; P.L.3-2008, SEC.41; P.L.146-2008, SEC.147; P.L.87-2009, SEC.6; P.L.136-2009, SEC.6; P.L.182-2009(ss), SEC.114; P.L.137-2012, SEC.23; P.L.183-2014, SEC.20; P.L.184-2016, SEC.6. 
+
+IC 6-1.1-17-3.5 Repealed 
+(As added by P.L.146-2008, SEC.148. Amended by P.L.182-2009(ss), SEC.115; P.L.137-2012, SEC.24; P.L.257-2013, SEC.7. Repealed by P.L.184-2016, SEC.7.) 
+
+IC 6-1.1-17-3.6 County fiscal body review of levy limits and tax reductions from credits; meeting by county fiscal body; recommendations 
+Sec. 3.6. (a) At the first meeting of the county fiscal body in August, the county fiscal body shall review the following: 
+(1) 
+The estimated levy limits provided by the department of local government finance under IC 6-1.1-18.5-24. 
+
+(2) 
+The estimate provided by the department of local government finance under IC 6-1.1-20.6-11.1 of how each taxing unit's distribution of property taxes will be reduced by credits under IC 6-1.1-20.6. 
+
+
+(b) 
+The county fiscal body may request that representatives from the taxing units located within the county attend the meeting described in subsection (a). 
+
+(c) 
+The county fiscal body must allow a representative of a taxing unit that attends the meeting described in subsection (a) to comment on the taxing unit's proposed budgets, tax levies, and tax rates for the ensuing calendar year. 
+
+
+(d) After the county fiscal body has held the meeting required by this section, the county fiscal body may prepare and distribute a written recommendation for taxing units in the county. If the county fiscal body does not prepare a written recommendation, the minutes of the meeting held under this section shall be distributed by the county auditor to all taxing units in the county after the minutes have been approved by the county fiscal body. As added by P.L.184-2016, SEC.8. 
+
+IC 6-1.1-17-3.7 Repealed 
+(As added by P.L.257-2013, SEC.8. Amended by P.L.53-2014, SEC.72. Repealed by P.L.184-2016, SEC.9.) 
+
+IC 6-1.1-17-4 Repealed 
+(Repealed by Acts 1981, P.L.45, SEC.105.) 
+IC 6-1.1-17-5 Time for meetings to set local budget, rate, and levy; taxpayer objections; information to be filed with the county auditor by civil taxing units; presentation of information to county board of tax adjustment; carryover of appropriations if budget, rate, and levy not set 
+Sec. 5. (a) The officers of political subdivisions shall meet each year to fix the budget, tax rate, and tax levy of their respective subdivisions for the ensuing budget year as follows: 
+(1) 
+The board of school trustees of a school corporation that is located in a city having a population of more than one hundred thousand (100,000) but less than one hundred ten thousand (110,000), not later than: 
+
+(A) 
+the time required in section 5.6(b) of this chapter; or 
+
+(B) 
+November 1 if a resolution adopted under section 5.6(d) of this chapter is in effect. 
+
+
+
+(2) 
+The proper officers of all other political subdivisions that are not school corporations, not later than November 1. 
+
+(3) 
+The governing body of a school corporation (other than a school corporation described in subdivision (1)) that elects to adopt a budget under section 5.6 of this chapter for budget years beginning after June 30, 2011, not later than the time required under section 5.6(b) of this chapter for budget years beginning 
+
+after June 30, 2011. 
+
+(4) 
+The governing body of a school corporation that is not 
+
+
+described in subdivision (1) or (3), not later than November 1. Except in a consolidated city and county and in a second class city, the public hearing required by section 3 of this chapter must be completed at least ten (10) days before the proper officers of the political subdivision meet to fix the budget, tax rate, and tax levy. In a consolidated city and county and in a second class city, that public hearing, by any committee or by the entire fiscal body, may be held at any time after introduction of the budget. 
+(b) 
+Ten (10) or more taxpayers may object to a budget, tax rate, or tax levy of a political subdivision fixed under subsection (a) by filing an objection petition with the proper officers of the political subdivision not more than seven (7) days after the hearing. The objection petition must specifically identify the provisions of the budget, tax rate, and tax levy to which the taxpayers object. 
+
+(c) 
+If a petition is filed under subsection (b), the fiscal body of the political subdivision shall adopt with its budget a finding concerning the objections in the petition and any testimony presented at the adoption hearing. 
+
+(d) 
+This subsection does not apply to a school corporation. Each year at least two (2) days before the first meeting of the county board of tax adjustment held under IC 6-1.1-29-4, a political subdivision shall file with the county auditor: 
+
+(1) 
+a statement of the tax rate and levy fixed by the political subdivision for the ensuing budget year; 
+
+(2) 
+two (2) copies of the budget adopted by the political subdivision for the ensuing budget year; and 
+
+
+
+(3) 
+two (2) copies of any findings adopted under subsection (c). Each year the county auditor shall present these items to the county board of tax adjustment at the board's first meeting under IC 6-1.1-29-4. 
+
+(e) 
+In a consolidated city and county and in a second class city, the clerk of the fiscal body shall, notwithstanding subsection (d), file the adopted budget and tax ordinances with the county board of tax adjustment within two (2) days after the ordinances are signed by the executive, or within two (2) days after action is taken by the fiscal body to override a veto of the ordinances, whichever is later. 
+
+
+(f) If a fiscal body does not fix the budget, tax rate, and tax levy of the political subdivisions for the ensuing budget year as required under this section, the most recent annual appropriations and annual tax levy are continued for the ensuing budget year. (Formerly: Acts 1975, P.L.47, SEC.1.) As amended by Acts 1979, P.L.57, SEC.1; Acts 1980, P.L.8, SEC.53; Acts 1981, P.L.52, SEC.2; P.L.8-1987, SEC.11; P.L.8-1989, SEC.24; P.L.81-1989, SEC.1; P.L.44-1991, SEC.2; P.L.1-1992, SEC.15; P.L.35-1994, SEC.1; P.L.34-1994, SEC.2; P.L.1-1996, SEC.42; P.L.49-1996, SEC.3; P.L.50-1996, SEC.4; P.L.96-2000, SEC.1; P.L.178-2001, SEC.1; 
+P.L.177-2002, SEC.6; P.L.170-2002, SEC.19; P.L.178-2002, SEC.24; P.L.1-2003, SEC.23; P.L.169-2006, SEC.8; P.L.219-2007, SEC.50; P.L.224-2007, SEC.6; P.L.3-2008, SEC.42; P.L.146-2008, SEC.149; P.L.182-2009(ss), SEC.116; P.L.111-2010, SEC.1; P.L.119-2012, SEC.30. 
+
+IC 6-1.1-17-5.1 Repealed 
+(As added by P.L.50-1996, SEC.5. Amended by P.L.2-1997, SEC.18. Repealed by P.L.96-2000, SEC.8.) 
+
+IC 6-1.1-17-5.6 School corporation resolutions to adopt fiscal year budgets 
+Sec. 5.6. (a) Each school corporation may elect to adopt a budget under this section that applies from July 1 of the year through June 30 of the following year. In the initial budget adopted by a school corporation under this section, the first six (6) months of that initial budget must be consistent with the last six (6) months of the budget adopted by the school corporation for the calendar year in which the school corporation elects by resolution to begin adopting budgets that correspond to the state fiscal year. A corporation shall submit a copy of the resolution to the department of local government finance and the department of education not more than thirty (30) days after the date the governing body adopts the resolution. 
+(b) 
+Before April 1 of each year, the officers of the school corporation shall meet to fix the budget for the school corporation for the ensuing budget year, with notice given by the same officers. However, if a resolution adopted under subsection (d) is in effect, the officers shall meet to fix the budget for the ensuing budget year before November 1. 
+
+(c) 
+Each year, at least two (2) days before the first meeting of the county board of tax adjustment held under IC 6-1.1-29-4, the school corporation shall file with the county auditor: 
+
+(1) 
+a statement of the tax rate and tax levy fixed by the school corporation for the ensuing budget year; 
+
+(2) 
+two (2) copies of the budget adopted by the school corporation for the ensuing budget year; and 
+
+(3) 
+any written notification from the department of local government finance under section 16(l) of this chapter that specifies a proposed revision, reduction, or increase in the budget adopted by the school corporation for the ensuing budget year. 
+
+
+
+
+Each year the county auditor shall present these items to the county board of tax adjustment at the board's first meeting under IC 6-1.1-29-4. 
+(d) The governing body of the school corporation may adopt a resolution to cease using a school year budget year and return to using a calendar year budget year. A resolution adopted under this subsection must be adopted after January 1 and before July 1. The school corporation's initial calendar year budget year following the adoption of a resolution under this subsection begins on January 1 of the year following the year the resolution is adopted. The first six (6) months of the initial calendar year budget for the school corporation must be consistent with the last six (6) months of the final school year budget fixed by the department of local government finance before the adoption of a resolution under this subsection. 
+(e) A resolution adopted under subsection (d) may be rescinded by a subsequent resolution adopted by the governing body. If the governing body of the school corporation rescinds a resolution adopted under subsection (d) and returns to a school year budget year, the school corporation's initial school year budget year begins on July 1 following the adoption of the rescinding resolution and ends on June 30 of the following year. The first six (6) months of the initial school year budget for the school corporation must be consistent with the last six (6) months of the last calendar year budget fixed by the department of local government finance before the adoption of a rescinding resolution under this subsection. As added by P.L.178-2001, SEC.2. Amended by P.L.90-2002, SEC.149; P.L.177-2002, SEC.7; P.L.219-2007, SEC.51; P.L.224-2007, SEC.7; P.L.3-2008, SEC.43; P.L.146-2008, SEC.150; P.L.182-2009(ss), SEC.117; P.L.111-2010, SEC.2; P.L.119-2012, SEC.31; P.L.111-2014, SEC.26; P.L.233-2015, SEC.16; P.L.184-2016, SEC.10. 
+
+IC 6-1.1-17-6 Review by county board; revision 
+Sec. 6. (a) The county board of tax adjustment shall review the budget, tax rate, and tax levy of each political subdivision filed with the county auditor under section 5 or 5.6 of this chapter. The board shall revise or reduce, but not increase, any budget, tax rate, or tax levy in order: 
+(1) 
+to limit the tax rate to the maximum amount permitted under IC 6-1.1-18; and 
+
+(2) 
+to limit the budget to the amount of revenue to be available in the ensuing budget year for the political subdivision. 
+
+
+(b) 
+The county board of tax adjustment shall make a revision or reduction in a political subdivision's budget only with respect to the total amounts budgeted for each office or department within each of the major budget classifications prescribed by the state board of accounts. 
+
+(c) 
+When the county board of tax adjustment makes a revision or reduction in a budget, tax rate, or tax levy, it shall file with the county auditor a written order which indicates the action taken. If the board reduces the budget, it shall also indicate the reason for the reduction in the order. The chairman of the county board shall sign the order. 
+
+
+(Formerly: Acts 1975, P.L.47, SEC.1.) As amended by P.L.50-1996, SEC.6; P.L.178-2001, SEC.3; P.L.224-2007, SEC.8; P.L.146-2008, SEC.151. 
+
+IC 6-1.1-17-7 Multiple county political subdivision; filing budget, tax levy, and tax rate; jurisdiction 
+Sec. 7. If the boundaries of a political subdivision cross one (1) or more county lines, the budget, tax levy, and tax rate fixed by the political subdivision shall be filed with the county auditor of each affected county in the manner prescribed in section 5 or 5.6 of this chapter. The board of tax adjustment of the county which contains the largest portion of the value of property taxable by the political subdivision, as determined from the abstracts of taxable values last filed with the auditor of state, has jurisdiction over the budget, tax rate, and tax levy to the same extent as if the property taxable by the political subdivision were wholly within the county. The secretary of the county board of tax adjustment shall notify the county auditor of each affected county of the action of the board. Appeals from actions of the county board of tax adjustment may be initiated in any affected county. (Formerly: Acts 1975, P.L.47, SEC.1.) As amended by P.L.50-1996, SEC.7; P.L.178-2001, SEC.4; P.L.224-2007, SEC.9; P.L.146-2008, SEC.152. 
+
+IC 6-1.1-17-8 Maximum aggregate tax rate; inadequacy; recommendations 
+Sec. 8. (a) If the county board of tax adjustment determines that the maximum aggregate tax rate permitted within a political subdivision under IC 6-1.1-18 is inadequate, the county board shall, subject to the limitations prescribed in IC 20-45-4 (before January 1, 2009), file its written recommendations in duplicate with the county auditor. The board shall include with its recommendations: 
+(1) 
+an analysis of the aggregate tax rate within the political subdivision; 
+
+(2) 
+a recommended breakdown of the aggregate tax rate among the political subdivisions whose tax rates compose the aggregate tax rate within the political subdivision; and 
+
+(3) 
+any other information that the county board considers relevant to the matter. 
+
+
+(b) The county auditor shall forward one (1) copy of the county board's recommendations to the department of local government finance and shall retain the other copy in the county auditor's office. The department of local government finance shall, in the manner prescribed in section 16 of this chapter, review the budgets by fund, tax rates, and tax levies of the political subdivisions described in subsection (a)(2). (Formerly: Acts 1975, P.L.47, SEC.1.) As amended by P.L.90-2002, 
+SEC.150; P.L.228-2005, SEC.19; P.L.2-2006, SEC.37; P.L.224-2007, SEC.10; P.L.146-2008, SEC.153. 
+
+IC 6-1.1-17-8.5 Review by department if assessed value reduced; appeal 
+Sec. 8.5. (a) If a county auditor reduces a taxing unit's net assessed valuation under section 0.5(d) of this chapter, the department of local government finance shall, in the manner prescribed in section 16 of this chapter, review the budget, tax rate, and tax levy of the taxing unit. 
+(b) The county auditor may appeal to the department of local government finance to reduce a taxing unit's net assessed valuation by an amount that exceeds the limits set forth in section 0.5(e) of this chapter. The department of local government finance: 
+(1) 
+may require the county auditor to submit supporting information with the county auditor's appeal; 
+
+(2) 
+shall consider the appeal at the time of the review required by subsection (a); and 
+
+(3) 
+may approve, modify and approve, or reject the amount of the reduction sought in the appeal. 
+
+
+As added by P.L.154-2006, SEC.43. Amended by P.L.137-2012, SEC.25. 
+
+IC 6-1.1-17-9 Deadline for completion of duties by county board of tax adjustment; county auditor action if county board fails to act 
+Sec. 9. (a) The county board of tax adjustment shall complete the duties assigned to it under this chapter on or before November 2 of each year, except that in a consolidated city and county and in a county containing a second class city, the duties of this board need not be completed until December 1 of each year. 
+(b) 
+If the county board of tax adjustment fails to complete the duties assigned to it within the time prescribed in this section or to reduce aggregate tax rates so that they do not exceed the maximum rates permitted under IC 6-1.1-18, the county auditor shall calculate and fix the tax rate within each political subdivision of the county so that the maximum rate permitted under IC 6-1.1-18 is not exceeded. 
+
+(c) 
+When the county auditor calculates and fixes tax rates, the county auditor shall send a certificate notice of those rates to each political subdivision of the county. The county auditor shall send these notices within five (5) days after: 
+
+(1) publication of the notice required by section 12 of this chapter; or 
+
+(2) 
+the tax rates are calculated and fixed by the county auditor; whichever applies. 
+
+(d) 
+When the county auditor calculates and fixes tax rates, that action shall be treated as if it were the action of the county board of tax adjustment. 
+
+
+(Formerly: Acts 1975, P.L.47, SEC.1.) As amended by Acts 1981, P.L.52, SEC.3; P.L.44-1991, SEC.3; P.L.224-2007, SEC.11; P.L.146-2008, SEC.154; P.L.182-2009(ss), SEC.118. 
+
+IC 6-1.1-17-10 Maximum aggregate tax rate; exceeding; procedure 
+Sec. 10. When the aggregate tax rate within a political subdivision, as approved or modified by the county board of tax adjustment (before January 1, 2009), exceeds the maximum aggregate tax rate prescribed in IC 6-1.1-18-3(a), the county auditor shall certify the budgets, tax rates, and tax levies of the political subdivisions whose tax rates compose the aggregate tax rate within the political subdivision, as approved or modified by the county board, to the department of local government finance for final review. For purposes of this section, the maximum aggregate tax rate limit exceptions provided in IC 6-1.1-18-3(b) do not apply. (Formerly: Acts 1975, P.L.47, SEC.1.) As amended by P.L.90-2002, SEC.151; P.L.224-2007, SEC.12; P.L.146-2008, SEC.155. 
+
+IC 6-1.1-17-11 Final budget, tax rate, and tax levy; appeal and review 
+Sec. 11. A budget, tax rate, or tax levy of a political subdivision, as approved or modified by the county board of tax adjustment, is final unless: 
+(1) 
+action is taken by the county auditor in the manner provided under section 9 of this chapter; 
+
+(2) 
+the action of the county board is subject to review by the department of local government finance under section 8 or 10 of this chapter; or 
+
+(3) 
+an appeal to the department of local government finance is initiated with respect to the budget, tax rate, or tax levy. 
+
+
+(Formerly: Acts 1975, P.L.47, SEC.1.) As amended by P.L.50-1996, SEC.8; P.L.90-2002, SEC.152; P.L.224-2007, SEC.13; P.L.146-2008, SEC.156. 
+IC 6-1.1-17-12 County auditor notice to taxpayers of modification of budgets, rates, and levies by county board of tax adjustment; notice of appeal opportunity 
+Sec. 12. If the budgets, tax rates, or tax levies are modified by the county board of tax adjustment or county auditor, the county auditor shall within fifteen (15) days of the modification prepare a notice of the tax rates to be charged on each one hundred dollars ($100) of assessed valuation for the various funds in each taxing district. The notice shall also inform the taxpayers of the manner in which they may initiate an appeal of the modification by the county board or county auditor. The county auditor shall post the notice at the county courthouse and publish it in two (2) newspapers which represent different political parties and which have a general circulation in the county. 
+(Formerly: Acts 1975, P.L.47, SEC.1.) As amended by Acts 1981, P.L.52, SEC.4; P.L.224-2007, SEC.14; P.L.146-2008, SEC.157; P.L.182-2009(ss), SEC.119. 
+IC 6-1.1-17-13 Appeal by taxpayers of modification of budgets, rates, and levies by county board of tax adjustment; action on the appeal required by the department of local government finance 
+Sec. 13. (a) Ten (10) or more taxpayers or one (1) taxpayer that owns property that represents at least ten percent (10%) of the taxable assessed valuation in the political subdivision may initiate an appeal from the county board of tax adjustment's or county auditor's modification of a political subdivision's budget, tax rate, or tax levy by filing a statement of their objections with the county auditor. The statement must be filed not later than ten (10) days after the publication of the notice required by section 12 of this chapter. The statement shall specifically identify the provisions of the budget, tax rate, or tax levy to which the taxpayers object. The county auditor shall forward the statement, with the budget, to the department of local government finance. 
+(b) The department of local government finance shall: 
+(1) 
+subject to subsection (c), give notice to the first ten (10) taxpayers whose names appear on the petition, or to the taxpayer that owns property that represents at least ten percent (10%) of the taxable assessed valuation in the political subdivision in the case of an appeal initiated by that taxpayer, of the date, time, and location of the hearing on the objection statement filed under subsection (a); 
+
+(2) 
+conduct a hearing on the objection; and 
+
+(3) 
+after the hearing: 
+
+(A) 
+consider the testimony and evidence submitted at the hearing; and 
+
+(B) 
+mail the department's: 
+
+(i) written determination; and 
+
+(ii) 
+written statement of findings; to the first ten (10) taxpayers whose names appear on the petition, or to the taxpayer that owns property that represents at least ten percent (10%) of the taxable assessed valuation in the political subdivision in the case of an appeal initiated by that taxpayer. 
+
+
+
+
+The department of local government finance may hold the hearing in conjunction with the hearing required under IC 6-1.1-17-16. 
+(c) The department of local government finance shall provide written notice to: 
+(1) 
+the first ten (10) taxpayers whose names appear on the petition; or 
+
+(2) 
+the taxpayer that owns property that represents at least ten percent (10%) of the taxable assessed valuation in the political subdivision, in the case of an appeal initiated by that taxpayer; 
+
+
+at least five (5) days before the date of the hearing. 
+(Formerly: Acts 1975, P.L.47, SEC.1.) As amended by P.L.90-2002, SEC.153; P.L.178-2002, SEC.25; P.L.1-2003, SEC.24; P.L.228-2005, SEC.20; P.L.182-2009(ss), SEC.120. 
+IC 6-1.1-17-14 County auditor mustappeal tothe department oflocal government finance if the township assistance rate is reduced below the necessary rate 
+Sec. 14. The county auditor shall initiate an appeal to the department of local government finance if the county fiscal body or the county board of tax adjustment reduces a township assistance tax rate below the rate necessary to meet the estimated cost of township assistance. (Formerly: Acts 1975, P.L.47, SEC.1.) As amended by P.L.90-2002, SEC.154; P.L.73-2005, SEC.3; P.L.234-2005, SEC.4; P.L.224-2007, SEC.15; P.L.146-2008, SEC.158; P.L.182-2009(ss), SEC.121. 
+IC 6-1.1-17-15 Appeal by political subdivision to department of local government finance for increase in modified rate or levy; approval of appeal required by local legislative body 
+Sec. 15. A political subdivision may appeal to the department of local government finance for an increase in its tax rate or tax levy as modified by the county board of tax adjustment or the county auditor. To initiate the appeal, the political subdivision must file a statement with the department of local government finance not later than ten (10) days after publication of the notice required by section 12 of this chapter. The legislative body of the political subdivision must authorize the filing of the statement by adopting a resolution. The resolution must be attached to the statement of objections, and the statement must be signed by the following officers: 
+(1) 
+In the case of counties, by the board of county commissioners and by the president of the county council. 
+
+(2) 
+In the case of all other political subdivisions, by the highest executive officer and by the presiding officer of the legislative body. 
+
+
+(Formerly: Acts 1975, P.L.47, SEC.1.) As amended by P.L.41-1993, SEC.18; P.L.90-2002, SEC.155; P.L.224-2007, SEC.16; P.L.146-2008, SEC.159; P.L.182-2009(ss), SEC.122. 
+IC 6-1.1-17-16 Version a 
+Department of local government finance revision, reduction, or 
+increase of a political subdivision's budget by fund, rate, or levy; 
+public hearing requests; limitations on levy for lease payments; 
+
+
+judicial review of department action 
+Note: This version of section effective until 7-1-2016. See also following version of this section, effective 7-1-2016. 
+Sec. 16. (a) Subject to the limitations and requirements prescribed in this section, the department of local government finance may revise, reduce, or increase a political subdivision's budget by fund, tax rate, or tax levy which the department reviews under section 8 or 10 of this chapter. 
+(b) 
+Subject to the limitations and requirements prescribed in this section, the department of local government finance may review, revise, reduce, or increase the budget by fund, tax rate, or tax levy of any of the political subdivisions whose tax rates compose the aggregate tax rate within a political subdivision whose budget, tax rate, or tax levy is the subject of an appeal initiated under this chapter. 
+
+(c) 
+Except as provided in section 16.1 of this chapter, the department of local government finance is not required to hold a public hearing before the department of local government finance reviews, revises, reduces, or increases a political subdivision's budget by fund, tax rate, or tax levy under this section. 
+
+(d) 
+Except as provided in subsection (i), IC 20-46, or IC 6-1.1-18.5, the department of local government finance may not increase a political subdivision's budget by fund, tax rate, or tax levy to an amount which exceeds the amount originally fixed by the political subdivision. However, if the department of local government finance determines that IC 5-3-1-2.3(b) (before its expiration) applies to the tax rate, tax levy, or budget of the political subdivision, the maximum amount by which the department may increase the tax rate, tax levy, or budget is the amount originally fixed by the political subdivision, and not the amount that was incorrectly published or omitted in the notice described in IC 5-3-1-2.3(b) (before its expiration). The department of local government finance shall give the political subdivision notification electronically in the manner prescribed by the department of local government finance specifying any revision, reduction, or increase the department proposes in a political subdivision's tax levy or tax rate. The political subdivision has ten (10) calendar days from the date the political subdivision receives the notice to provide a response electronically in the manner prescribed by the department of local government finance. The response may include budget reductions, reallocation of levies, a revision in the amount of miscellaneous revenues, and further review of any other item about which, in the view of the political subdivision, the department is in error. The department of local government finance shall consider the adjustments as specified in the political subdivision's response if the response is provided as required by this subsection and shall deliver a final decision to the political subdivision. 
+
+
+(e) The department of local government finance may not approve a levy for lease payments by a city, town, county, library, or school corporation if the lease payments are payable to a building corporation for use by the building corporation for debt service on bonds and if: 
+(1) 
+no bonds of the building corporation are outstanding; or 
+
+(2) 
+the building corporation has enough legally available funds on hand to redeem all outstanding bonds payable from the particular lease rental levy requested. 
+
+
+(f) 
+The department of local government finance shall certify its action to: 
+
+(1) 
+the county auditor; 
+
+(2) 
+the political subdivision if the department acts pursuant to an appeal initiated by the political subdivision; 
+
+(3) 
+the taxpayer that initiated an appeal under section 13 of this chapter, or, if the appeal was initiated by multiple taxpayers, the first ten (10) taxpayers whose names appear on the statement filed to initiate the appeal; and 
+
+(4) 
+a taxpayer that owns property that represents at least ten percent (10%) of the taxable assessed valuation in the political subdivision. 
+
+
+
+(g) 
+The following may petition for judicial review of the final determination of the department of local government finance under subsection (f): 
+
+(1) 
+If the department acts under an appeal initiated by a political subdivision, the political subdivision. 
+
+(2) 
+If the department: 
+
+(A) 
+acts under an appeal initiated by one (1) or more taxpayers under section 13 of this chapter; or 
+
+(B) 
+fails to act on the appeal before the department certifies 
+
+
+
+
+
+
+its action under subsection (f); a taxpayer who signed the statement filed to initiate the appeal. 
+(3) 
+If the department acts under an appeal initiated by the county auditor under section 14 of this chapter, the county auditor. 
+
+(4) 
+A taxpayer that owns property that represents at least ten percent (10%) of the taxable assessed valuation in the political subdivision. 
+
+
+The petition must be filed in the tax court not more than forty-five 
+(45) 
+days after the department certifies its action under subsection (f). 
+
+(h) 
+The department of local government finance is expressly directed to complete the duties assigned to it under this section not later than February 15 of each year for taxes to be collected during that year. 
+
+(i) 
+Subject to the provisions of all applicable statutes, and notwithstanding IC 6-1.1-18-1, the department of local government finance shall, unless the department finds extenuating circumstances, increase a political subdivision's tax levy to an amount that exceeds 
+
+
+the amount originally advertised or adopted by the political subdivision if: 
+(1) 
+the increase is requested in writing by the officers of the political subdivision; 
+
+(2) 
+the requested increase is published on the department's advertising Internet web site and (before January 1, 2015) is published by the political subdivision according to a notice provided by the department; and 
+
+(3) 
+notice is given to the county fiscal body of the error and the 
+
+
+department's correction. If the department increases a levy beyond what was advertised or adopted under this subsection, it shall, unless the department finds extenuating circumstances, reduce the certified levy affected below the maximum allowable levy by the lesser of five percent (5%) of the difference between the advertised or adopted levy and the increased levy, or one hundred thousand dollars ($100,000). 
+(j) The department of local government finance shall annually review the budget by fund of each school corporation not later than April 1. The department of local government finance shall give the school corporation written notification specifying any revision, reduction, or increase the department proposes in the school corporation's budget by fund. A public hearing is not required in connection with this review of the budget. (Formerly: Acts 1975, P.L.47, SEC.1.) As amended by P.L.73-1983, SEC.7; P.L.35-1990, SEC.7; P.L.35-1994, SEC.2; P.L.85-1995, SEC.3; P.L.86-1995, SEC.5; P.L.49-1996, SEC.4; P.L.50-1996, SEC.9; P.L.90-2002, SEC.156; P.L.256-2003, SEC.15; P.L.228-2005, SEC.21; P.L.2-2006, SEC.38; P.L.154-2006, SEC.44; P.L.169-2006, SEC.9; P.L.1-2007, SEC.42; P.L.146-2008, SEC.160; P.L.182-2009(ss), SEC.123; P.L.137-2012, SEC.26; P.L.218-2013, SEC.2; P.L.183-2014, SEC.21; P.L.149-2016, SEC.23. 
+IC 6-1.1-17-16 Version b Department of local government finance certification of tax rates, tax levies, and budgets; public hearing requests; deadline for completion; limitations on levy for lease payments; judicial review of department action 
+Note: This version of section effective 7-1-2016. See also preceding version of this section, effective until 7-1-2016. 
+Sec. 16. (a) The department of local government finance shall certify the tax rates and tax levies for all funds of political subdivisions subject to the department of local government finance's review. 
+(b) 
+For a fund of a political subdivision subject to levy limits under IC 6-1.1-18.5-3, the department of local government finance shall calculate and certify the allowable budget of the fund if the political subdivision adopts a tax levy that exceeds the estimated maximum levy limits as provided by the department of local 
+
+government finance under IC 6-1.1-18.5-24. 
+
+(c) 
+For a fund of a political subdivision subject to levy limits under IC 6-1.1-18.5-3 and for which the political subdivision adopts a tax levy that is not more than the levy limits under IC 6-1.1-18.5-3, the department of local government finance shall review the fund to ensure the adopted budget is fundable based on the unit's adopted tax levy and estimates of available revenues. If the adopted budget is fundable, the department of local government finance shall use the adopted budget as the approved appropriation for the fund for the budget year. As needed, the political subdivision may complete the additional appropriation process through IC 6-1.1-18-5 for these funds during the budget year. 
+
+(d) 
+For a fund of the political subdivision subject to levy limits under IC 6-1.1-18.5-3 and for which the political subdivision adopts a tax levy that is not more than the levy limits under IC 6-1.1-18.5-3, if the department of local government finance has determined the adopted budget is not fundable based on the unit's adopted tax levy and estimates of available revenues, the department of local government finance shall calculate and certify the allowable budget that is fundable based on the adopted tax levy and the department's estimates of available revenues. 
+
+(e)
+ For all other funds of a political subdivision not described in subsections (b), (c), and (d), the department of local government finance shall certify a budget for the fund. 
+
+(f) 
+Except as provided in section 16.1 of this chapter, the department of local government finance is not required to hold a public hearing before the department of local government finance reviews, revises, reduces, or increases a political subdivision's budget by fund, tax rate, or tax levy under this section. 
+
+(g) 
+Except as provided in subsection (l), IC 20-46, or IC 6-1.1-18.5, the department of local government finance may not increase a political subdivision's budget by fund, tax rate, or tax levy to an amount which exceeds the amount originally fixed by the political subdivision. However, if the department of local government finance determines that IC 5-3-1-2.3(b) (before its expiration) applies to the tax rate, tax levy, or budget of the political subdivision, the maximum amount by which the department may increase the tax rate, tax levy, or budget is the amount originally fixed by the political subdivision, and not the amount that was incorrectly published or omitted in the notice described in IC 5-3-1-2.3(b) (before its expiration). The department of local government finance shall give the political subdivision notification electronically in the manner prescribed by the department of local government finance specifying any revision, reduction, or increase the department proposes in a political subdivision's tax levy or tax rate. The political subdivision has ten (10) calendar days from the date the political subdivision receives the notice to provide a response electronically in the manner prescribed by the department 
+
+of local government finance. The response may include budget reductions, reallocation of levies, a revision in the amount of miscellaneous revenues, and further review of any other item about which, in the view of the political subdivision, the department is in error. The department of local government finance shall consider the adjustments as specified in the political subdivision's response if the response is provided as required by this subsection and shall deliver a final decision to the political subdivision. 
+
+(h) 
+The department of local government finance may not approve a levy for lease payments by a city, town, county, library, or school corporation if the lease payments are payable to a building corporation for use by the building corporation for debt service on bonds and if: 
+
+(1) 
+no bonds of the building corporation are outstanding; or 
+
+(2) 
+the building corporation has enough legally available funds on hand to redeem all outstanding bonds payable from the particular lease rental levy requested. 
+
+
+
+(i) 
+The department of local government finance shall certify its action to: 
+
+(1) 
+the county auditor; 
+
+(2) 
+the political subdivision if the department acts pursuant to an appeal initiated by the political subdivision; 
+
+(3) 
+the taxpayer that initiated an appeal under section 13 of this chapter, or, if the appeal was initiated by multiple taxpayers, the first ten (10) taxpayers whose names appear on the statement filed to initiate the appeal; and 
+
+(4) 
+a taxpayer that owns property that represents at least ten percent (10%) of the taxable assessed valuation in the political subdivision. 
+
+
+
+(j) 
+The following may petition for judicial review of the final determination of the department of local government finance under subsection (i): 
+
+(1) 
+If the department acts under an appeal initiated by a political subdivision, the political subdivision. 
+
+(2) 
+If the department: 
+
+(A) 
+acts under an appeal initiated by one (1) or more taxpayers under section 13 of this chapter; or 
+
+(B) 
+fails to act on the appeal before the department certifies 
+
+
+
+
+
+
+its action under subsection (i); a taxpayer who signed the statement filed to initiate the appeal. 
+(3) 
+If the department acts under an appeal initiated by the county auditor under section 14 of this chapter, the county auditor. 
+
+(4) 
+A taxpayer that owns property that represents at least ten percent (10%) of the taxable assessed valuation in the political subdivision. 
+
+
+The petition must be filed in the tax court not more than forty-five 
+(45) 
+days after the department certifies its action under subsection 
+
+(i). 
+
+(k) 
+The department of local government finance is expressly directed to complete the duties assigned to it under this section as follows: 
+
+(1) 
+For each budget year before 2019, not later than February 15 of that budget year. 
+
+(2) 
+For each budget year after 2018, not later than December 31 of the year preceding that budget year, unless a taxing unit in a county is issuing debt after December 1 in the year preceding the budget year or intends to file a shortfall appeal under IC 6-1.1-18.5-16. 
+
+(3) 
+For each budget year after 2018, not later than January 15 of the budget year if a taxing unit in a county is issuing debt after December 1 in the year preceding the budget year or intends to file a shortfall appeal under IC 6-1.1-18.5-16. 
+
+
+
+(l) 
+Subject to the provisions of all applicable statutes, and notwithstanding IC 6-1.1-18-1, the department of local government finance shall, unless the department finds extenuating circumstances, increase a political subdivision's tax levy to an amount that exceeds the amount originally advertised or adopted by the political subdivision if: 
+
+(1) 
+the increase is requested in writing by the officers of the political subdivision; 
+
+(2) 
+the requested increase is published on the department's advertising Internet web site and (before January 1, 2015) is published by the political subdivision according to a notice provided by the department; and 
+
+(3) 
+notice is given to the county fiscal body of the department's 
+
+
+
+
+correction. If the department increases a levy beyond what was advertised or adopted under this subsection, it shall, unless the department finds extenuating circumstances, reduce the certified levy affected below the maximum allowable levy by the lesser of five percent (5%) of the difference between the advertised or adopted levy and the increased levy, or one hundred thousand dollars ($100,000). (Formerly: Acts 1975, P.L.47, SEC.1.) As amended by P.L.73-1983, SEC.7; P.L.35-1990, SEC.7; P.L.35-1994, SEC.2; P.L.85-1995, SEC.3; P.L.86-1995, SEC.5; P.L.49-1996, SEC.4; P.L.50-1996, SEC.9; P.L.90-2002, SEC.156; P.L.256-2003, SEC.15; P.L.228-2005, SEC.21; P.L.2-2006, SEC.38; P.L.154-2006, SEC.44; P.L.169-2006, SEC.9; P.L.1-2007, SEC.42; P.L.146-2008, SEC.160; P.L.182-2009(ss), SEC.123; P.L.137-2012, SEC.26; P.L.218-2013, SEC.2; P.L.183-2014, SEC.21; P.L.149-2016, SEC.23; P.L.184-2016, SEC.11. 
+
+IC 6-1.1-17-16.1 Political subdivision budget, tax rates, levies; public hearing request 
+Sec. 16.1. (a) If a taxpayer of a political subdivision requests a public hearing in the manner required by subsection (b) before the department of local government finance reviews, revises, reduces, or increases a political subdivision's budget by fund, tax rate, or tax levy under section 16 of this chapter, the department of local government finance shall hold the hearing in the county in which the political subdivision is located. 
+(b) 
+A taxpayer may request a public hearing by filing a written request with the county auditor or directly with the department of local government finance in either a paper or electronic format. A county auditor shall forward any requests received under this section to the department of local government finance within two (2) business days of receipt. The department of local government finance is not required to hold a public hearing under this section unless it receives the taxpayer's request before November 3. 
+
+(c) 
+The department of local government finance may consider the budgets by fund, tax rates, and tax levies of several political subdivisions at the same public hearing. 
+
+
+(d) At least five (5) days before the date fixed for a public hearing, the department of local government finance shall give notice of the time and place of the hearing and of the budgets by fund, levies, and tax rates to be considered at the hearing. The department of local government finance shall publish the notice in two (2) newspapers of general circulation published in the county. However, if only one (1) newspaper of general circulation is published in the county, the department of local government finance shall publish the notice in that newspaper. As added by P.L.218-2013, SEC.3. 
+
+IC 6-1.1-17-16.2 Version a No approval of budget or supplemental appropriations due to noncompliance 
+Note: This version of section amended by P.L.184-2015, SEC.8, effective 7-1-2015. See also following version of this section amended by P.L.245-2015, SEC.12, effective 1-1-2016. 
+Sec. 16.2. (a) The department of local government finance may not approve the budget of a taxing unit or a supplemental appropriation for a taxing unit until the taxing unit files an annual report under IC 5-11-1-4 or IC 5-11-13 for the preceding calendar year, unless the taxing unit did not exist as of March 1 of the calendar year preceding the ensuing calendar year by two (2) years. This section applies to a taxing unit that is the successor to another taxing unit or the result of a consolidation or merger of more than one (1) taxing unit, if an annual report under IC 5-11-1-4 or IC 5-11-13 has not been filed for each predecessor taxing unit. 
+(b) After June 30, 2016, the department of local government finance may not approve the budget of a taxing unit or a supplemental appropriation for a taxing unit if the department of local government finance receives information from the state board of accounts that the political subdivision has not corrected a violation under IC 5-11-1-27(i)(1) or IC 5-11-1-27(i)(2) within the period set forth in IC 5-11-1-27(i). 
+As added by P.L.172-2011, SEC.33. Amended by P.L.184-2015, SEC.8. 
+
+IC 6-1.1-17-16.2 Version b Certain reports required before approval of budgets and supplemental appropriations 
+Note: This version of section amended by P.L.245-2015, SEC.12, effective 1-1-2016. See also preceding version of this section amended by P.L.184-2015, SEC.8, effective 7-1-2015. 
+Sec. 16.2. The department of local government finance may not approve the budget of a taxing unit or a supplemental appropriation for a taxing unit until the taxing unit files an annual report under IC 5-11-1-4 or IC 5-11-13 for the preceding calendar year, unless the taxing unit did not exist as of the assessment date of the calendar year preceding the ensuing calendar year by two (2) years. This section applies to a taxing unit that is the successor to another taxing unit or the result of a consolidation or merger of more than one (1) taxing unit, if an annual report under IC 5-11-1-4 or IC 5-11-13 has not been filed for each predecessor taxing unit. As added by P.L.172-2011, SEC.33. Amended by P.L.245-2015, SEC.12. 
+
+IC 6-1.1-17-16.5 Cumulative building or sinking fund proposal; action by department of local government finance 
+Sec. 16.5. This section applies in each case in which the department of local government finance has the power to approve or disapprove the tax levy for a cumulative building or sinking fund proposed to be established by a political subdivision. The department may: 
+(1) 
+approve the tax levy; 
+
+(2) 
+disapprove the tax levy; or 
+
+(3) 
+modify the tax levy by approving it at any amount less than the tax levy proposed to be established. 
+
+
+As added by Acts 1981, P.L.11, SEC.23. Amended by P.L.90-2002, SEC.157. 
+
+IC 6-1.1-17-16.7 Proposals to establish cumulative funds or sinking funds; submission to department of local government finance 
+Sec. 16.7. (a) A political subdivision that in any year adopts a proposal to establish a cumulative fund or sinking fund under any of the following provisions must submit the proposal to the department of local government finance before August 2 of that year, for years before 2018, and before May 1 of that year, for years after 2017: 
+IC 3-11-6 
+IC 8-10-5 
+IC 8-16-3 
+IC 8-16-3.1 
+IC 8-22-3 
+IC 14-27-6 
+IC 14-33-21 
+IC 16-22-5 
+IC 16-22-8 
+IC 36-8-14 
+IC 36-9-4 
+IC 36-9-14 
+IC 36-9-14.5 
+IC 36-9-15 
+IC 36-9-15.5 
+IC 36-9-16 
+IC 36-9-17 
+IC 36-9-26 
+IC 36-9-27 
+IC 36-10-3 
+IC 36-10-4 
+IC 36-10-7.5 
+(b) If a proposal described in subsection (a) is not submitted to the department of local government finance before August 2 of a year, for years before 2018, and before May 1 of a year, for years after 2017, the political subdivision may not levy a tax for the cumulative fund or sinking fund in the ensuing year. As added by P.L.41-1993, SEC.17. Amended by P.L.2-1995, SEC.23; P.L.1-1995, SEC.45; P.L.90-2002, SEC.158; P.L.184-2016, SEC.12. 
+
+IC 6-1.1-17-17 Increase in tax rate and levy by department of local government finance 
+Sec. 17. Subject to the limitations contained in IC 6-1.1-18.5 and IC 20-46, the department of local government finance may at any time increase the tax rate and tax levy of a political subdivision for the following reasons: 
+(1) 
+To pay the principal or interest upon a funding, refunding, or judgment funding obligation of a political subdivision. 
+
+(2) 
+To pay the interest or principal upon an outstanding obligation of the political subdivision. 
+
+(3) 
+To pay a judgment rendered against the political subdivision. 
+
+(4) 
+To pay lease rentals that have become an obligation of the political subdivision under IC 20-47-2 or IC 20-47-3. 
+
+
+(Formerly: Acts 1975, P.L.47, SEC.1.) As amended by P.L.73-1983, SEC.8; P.L.90-2002, SEC.159; P.L.2-2006, SEC.39; P.L.146-2008, 
+SEC.161. 
+
+IC 6-1.1-17-18 Repealed 
+(Formerly: Acts 1975, P.L.47, SEC.1. As amended by P.L.2-1992, SEC.59; P.L.36-1994, SEC.1; P.L.55-1997, SEC.1. Repealed by P.L.273-1999, SEC.66.) 
+
+IC 6-1.1-17-19 Conflicting provisions 
+Sec. 19. If there is a conflict between the provisions of this chapter and the provisions of IC 6-1.1-18.5 or IC 20-46, the provisions of IC 6-1.1-18.5 and IC 20-46 control with respect to the adoption of, review of, and limitations on budgets, tax rates, and tax levies. (Formerly: Acts 1975, P.L.47, SEC.1.) As amended by P.L.73-1983, SEC.9; P.L.2-2006, SEC.40; P.L.146-2008, SEC.162. 
+IC 6-1.1-17-20 Review of proposed budget and levy of taxing unit (other than public libraries) without an elected governing body by city, town, or county fiscal body 
+Sec. 20. (a) This section applies to each governing body of a taxing unit that is not comprised of a majority of officials who are elected to serve on the governing body. For purposes of this section, an individual who qualifies to be appointed to a governing body or serves on a governing body because of the individual's status as an elected official of another taxing unit shall be treated as an official who was not elected to serve on the governing body. 
+(b) As used in this section, "taxing unit" has the meaning set forth in IC 6-1.1-1-21, except that the term does not include a public library or an entity whose tax levies are subject to review and modification by a city-county legislative body under IC 36-3-6-9. 
+(c) If: 
+(1) 
+the assessed valuation of a taxing unit is entirely contained within a city or town; or 
+
+(2) 
+the assessed valuation of a taxing unit is not entirely contained within a city or town but: 
+
+(A) 
+the taxing unit was originally established by the city or town; or 
+
+(B) 
+the majority of the individuals serving on the governing 
+
+
+
+
+body of the taxing unit are appointed by the city or town; the governing body shall submit its proposed budget and property tax levy to the city or town fiscal body. The proposed budget and levy shall be submitted to the city or town fiscal body in the manner prescribed by the department of local government finance before September 2 of a year. 
+(d) If subsection (c) does not apply, the governing body of the taxing unit shall submit its proposed budget and property tax levy to the county fiscal body in the county where the taxing unit has the most assessed valuation. The proposed budget and levy shall be submitted to the county fiscal body in the manner prescribed by the department of local government finance before September 2 of a year. 
+(e) 
+The fiscal body of the city, town, or county (whichever applies) shall review each budget and proposed tax levy and adopt a final budget and tax levy for the taxing unit. The fiscal body may reduce or modify but not increase the proposed budget or tax levy. 
+
+(f) 
+If a taxing unit fails to file the information required in subsection (c) or (d), whichever applies, with the appropriate fiscal body by the time prescribed by this section, the most recent annual appropriations and annual tax levy of that taxing unit are continued for the ensuing budget year. 
+
+
+(g) If the appropriate fiscal body fails to complete the requirements of subsection (e) before the adoption deadline in section 5 of this chapter for any taxing unit subject to this section, the most recent annual appropriations and annual tax levy of the city, town, or county, whichever applies, are continued for the ensuing budget year. As added by P.L.25-1995, SEC.26. Amended by P.L.1-2004, SEC.19 and P.L.23-2004, SEC.20; P.L.199-2005, SEC.13; P.L.227-2005, SEC.5; P.L.1-2006, SEC.136; P.L.146-2008, SEC.163; P.L.182-2009(ss), SEC.124; P.L.113-2010, SEC.29; P.L.137-2012, SEC.27; P.L.257-2013, SEC.9. 
+
+IC 6-1.1-17-20.3 Review of proposed budget and levy of public libraries without an elected governing body by city, town, or county fiscal body 
+Sec. 20.3. (a) This section applies only to the governing body of a public library that: 
+(1) 
+is not comprised of a majority of officials who are elected to serve on the governing body; and 
+
+(2) 
+has a percentage increase in the proposed budget for the taxing unit for the ensuing calendar year that is more than the result of: 
+
+
+(A) the assessed value growth quotient determined under IC 6-1.1-18.5-2 for the ensuing calendar year; minus 
+(B) 
+one (1). For purposes of this section, an individual who qualifies to be appointed to a governing body or serves on a governing body because of the individual's status as an elected official of another taxing unit shall be treated as an official who was not elected to serve on the governing body. 
+
+(b) 
+This section does not apply to an entity whose tax levies are subject to review and modification by a city-county legislative body under IC 36-3-6-9. 
+
+
+(c) If: 
+(1) 
+the assessed valuation of a public library is entirely contained within a city or town; or 
+
+(2) 
+the assessed valuation of a public library is not entirely contained within a city or town but the public library was originally established by the city or town; 
+
+
+the governing body shall submit its proposed budget and property tax levy to the city or town fiscal body in the manner prescribed by the department of local government finance before September 2 of a year. However, the governing body shall submit its proposed budget and property tax levy to the county fiscal body in the manner provided in subsection (d), rather than to the city or town fiscal body, if more than fifty percent (50%) of the parcels of real property within the jurisdiction of the public library are located outside the city or town. 
+(d) 
+If subsection (c) does not apply, the governing body of the public library shall submit its proposed budget and property tax levy to the county fiscal body in the county where the public library has the most assessed valuation. The proposed budget and levy shall be submitted to the county fiscal body in the manner prescribed by the department of local government finance before September 2 of a year. 
+
+(e) 
+The fiscal body of the city, town, or county (whichever applies) shall review each budget and proposed tax levy and adopt a final budget and tax levy for the public library. The fiscal body may reduce or modify but not increase the proposed budget or tax levy. 
+
+(f) 
+If a public library fails to file the information required in subsection (c) or (d), whichever applies, with the appropriate fiscal body by the time prescribed by this section, the most recent annual appropriations and annual tax levy of that public library are continued for the ensuing budget year. 
+
+
+(g) If the appropriate fiscal body fails to complete the requirements of subsection (e) before the adoption deadline in section 5 of this chapter for any public library subject to this section, the most recent annual appropriations and annual tax levy of the city, town, or county, whichever applies, are continued for the ensuing budget year. As added by P.L.137-2012, SEC.28. 
+
+IC 6-1.1-17-20.5 Circumstances underwhichataxing unit's proposedbonds orlease must be reviewed by the city, town, or county fiscal body 
+Sec. 20.5. (a) This section applies to the governing body of a taxing unit unless a majority of the governing body is comprised of officials who are elected to serve on the governing body. For purposes of this section, an individual who qualifies to be appointed to a governing body or serves on a governing body because of the individual's status as an elected official of another taxing unit shall be treated as an official who was not elected to serve on the governing body. 
+(b) As used in this section, "taxing unit" has the meaning set forth in IC 6-1.1-1-21, except that the term does not include: 
+(1) 
+a school corporation; or 
+
+(2) 
+an entity whose tax levies are subject to review and modification by a city-county legislative body under IC 36-3-6-9. 
+
+
+(c) If: 
+(1) 
+the assessed valuation of a taxing unit is entirely contained within a city or town; or 
+
+(2) 
+the assessed valuation of a taxing unit is not entirely contained within a city or town but the taxing unit was originally established by the city or town; 
+
+
+the governing body of the taxing unit may not issue bonds or enter into a lease payable in whole or in part from property taxes unless it obtains the approval of the city or town fiscal body. 
+(d) However, in the case of a public library that is subject to this section and is described in subsection (c), the public library may not issue bonds or enter into a lease payable in whole or in part from property taxes unless it obtains the approval of the county fiscal body, rather than the city or town fiscal body, if more than fifty percent (50%) of the parcels of real property within the jurisdiction of the public library are located outside the city or town. The requirement that the public library must obtain the approval of the county fiscal body (rather than the city or town fiscal body) if more than fifty percent (50%) of the parcels of real property within the jurisdiction of the public library are located outside the city or town does not apply to the issuance of bonds or the execution of a lease: 
+(1) 
+for which a decision or preliminary determination was made under IC 6-1.1-20 before December 31, 2010; or 
+
+(2) 
+that is approved by the city or town fiscal body or the county fiscal body before December 31, 2010. 
+
+
+(e) This subsection applies to a taxing unit not described in subsection (c) or (d). The governing body of the taxing unit may not issue bonds or enter into a lease payable in whole or in part from property taxes unless it obtains the approval of the county fiscal body in the county where the taxing unit has the most net assessed valuation. As added by P.L.146-2008, SEC.164. Amended by P.L.182-2009(ss), SEC.125; P.L.113-2010, SEC.30. 
+
+IC 6-1.1-17-21 Powers and duties of city controller in consolidated city 
+Sec. 21. Notwithstanding any other law, in a county having a consolidated city, the city controller of the consolidated city has all the powers and shall perform all the duties assigned to county auditors under this chapter related to the fixing and reviewing of budgets, tax rates, and tax levies. 
+As added by P.L.227-2005, SEC.6. 
+
+IC 6-1.1-17-22 Operating balance in debt service fund 
+Sec. 22. (a) In determining the amount of the levy for a debt service fund for a budget year, the maximum amount allowed for an operating balance in the debt service fund is the sum of the maximum allowable operating balance for each debt included in the debt service fund. The maximum allowable operating balance for an individual debt shall be calculated as follows: 
+(1) 
+For debt originally incurred after June 30, 2014, the lesser of: 
+
+(A) 
+fifteen percent (15%) of the budget estimate for the debt for the year after the budget year; or 
+
+(B) 
+the debt payment to be made in the first six (6) months of the year after the budget year. 
+
+
+
+(2) 
+For debt originally incurred before July 1, 2014, the lesser of: 
+
+(A) 
+fifty percent (50%) of the budget estimate for the debt for the year after the budget year; or 
+
+(B) 
+the debt payment to be made in the first six (6) months 
+
+
+
+
+of the year after the budget year. If debt is refinanced, the date the refinanced debt was originally incurred, and not the date that the refinancing is closed, is the date to be used for purposes of this subsection. 
+(b) For purposes of IC 6-1.1-20.6-9.5, the property taxes allowed for an operating balance in the debt service fund under this section may not be construed as an increase in a political subdivision's property tax levy to make up for a reduction in property tax collections resulting from the application of credits under IC 6-1.1-20.6. As added by P.L.120-2014, SEC.2. Amended by P.L.148-2015, SEC.16. 
+

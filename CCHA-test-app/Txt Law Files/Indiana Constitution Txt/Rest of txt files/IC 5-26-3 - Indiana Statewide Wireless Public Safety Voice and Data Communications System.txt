@@ -1,0 +1,88 @@
+IC 5-26-3 
+Chapter 3. Indiana Statewide Wireless Public Safety Voice and Data Communications System 
+IC 5-26-3-1 Contract for establishment of system 
+Sec. 1. (a) The commission may contract for the establishment of a statewide wireless public safety voice and data communications system. 
+(b) The system must: 
+(1) 
+be efficient; 
+
+(2) 
+provide modern two (2) way voice or data communication to user agencies without a duplication of efforts; and 
+
+(3) 
+allow user agencies with compatible equipment to communicate with one another, resulting in the efficient handling of emergencies and cooperation between agencies. 
+
+
+As added by P.L.117-1999, SEC.1. 
+
+IC 5-26-3-2 User's agreement 
+Sec. 2. If a public safety agency or other entity decides to use the system, the agency or other entity must enter into a user's agreement with the commission. As added by P.L.117-1999, SEC.1. 
+
+IC 5-26-3-3 Supervision of system; use of facilities 
+Sec. 3. (a) The commission is responsible for the supervision of the statewide wireless public safety voice and data communications systems as follows: 
+(1) 
+Maintenance of the main wide area transmitter sites and interconnection links of the system. 
+
+(2) 
+Management of the system's Federal Communications Commission licensing. 
+
+(3) 
+Frequency planning for the system. 
+
+(4) 
+Management of the system. 
+
+
+(b) The Indiana statewide wireless public safety voice and data communications system may use the facilities of commercial mobile radio service providers (as defined in 47 USC 332). If the commission chooses to contract with one or more commercial mobile radio service providers to provide the system, the commission may delegate the responsibilities in subsection (a) to the commercial mobile radio service providers. As added by P.L.117-1999, SEC.1. 
+IC 5-26-3-4 Criteria for determining who may use system 
+Sec. 4. The commission shall develop criteria for determining 
+ whether a public safety agency or other entity may use the system. The commission may not prohibit a public safety agency from using the public safety agency's own public safety voice and data communications system. 
+As added by P.L.117-1999, SEC.1. 
+
+IC 5-26-3-5 Approval for public safety agencies to join system 
+Sec. 5. (a) Except as provided in subsection (b), a public safety agency or other entity may join the system with the approval of the commission. 
+(b) A state public safety agency may join the system if the agency is approved by the state agency public safety committee under IC 5-26-6 and the commission. As added by P.L.117-1999, SEC.1. Amended by P.L.2-2003, SEC.33. 
+
+IC 5-26-3-6 Powers of commission 
+Sec. 6. (a) In addition to the powers enumerated in IC 5-26-2-5, the commission has the following powers related to the system: 
+(1) 
+Ensuring that federal and state communications requirements are followed. 
+
+(2) 
+Providing system planning, including mutual aid planning and compatibility planning with other public safety agency communications systems. 
+
+(3) 
+Creating a standard user agreement. 
+
+(4) 
+Providing assistance to local public safety agencies in making equipment purchases. 
+
+(5) 
+Assessing charges for using the system. 
+
+(6) 
+Entering into and performing use and occupancy agreements concerning the system under IC 4-13.5. 
+
+(7) 
+Exercising any power necessary to carry out this chapter. 
+
+
+(b) The Indiana statewide wireless public safety voice and data communications system may use the facilities of commercial mobile radio service providers (as defined in 47 USC 332). If the commission chooses to contract with one or more commercial mobile radio service providers to provide the system, the commission may delegate the responsibilities in subsection (a) to the commercial mobile radio service providers. As added by P.L.117-1999, SEC.1. Amended by P.L.123-2002, SEC.11. 
+
+IC 5-26-3-7 Subcommittees 
+Sec. 7. The following subcommittees are created: 
+(1) 
+A user's subcommittee. 
+
+(2) 
+A technical subcommittee. 
+
+(3) 
+A finance subcommittee. 
+
+
+ 
+(4) Any other subcommittee as determined by the commission. 
+As added by P.L.117-1999, SEC.1. 
+ 
+

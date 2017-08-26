@@ -1,0 +1,42 @@
+ARTICLE 22. INTERNAL REVENUE CODE SECTION 415 
+Rule 1. General Provisions 
+35 IAC 22-1-1 Purpose 
+Authority: IC 5-10.5-4-2 
+Affected: IC 2-3.5-3-3; IC 5-10-5.5-2.5; IC 33-38-7-16; IC 33-38-8-20; IC 33-39-7-22; IC 36-8-8-2.5 
+Sec. 1. (a) The purpose of this rule is to comply with Internal Revenue Code Section 415. 
+(b) This rule applies to all pension and retirement funds administered by INPRS. (Board of Trustees of the Indiana Public Retirement System; 35 IAC 22-1-1; adopted Mar 6, 2015: 20150318-IR-035150060ONA) 
+
+35 IAC 22-1-2 Procedure 
+Authority: IC 5-10.5-4-2 
+Affected: IC 2-3.5-3-3; IC 5-10-5.5-2.5; IC 33-38-7-16; IC 33-38-8-20; IC 33-39-7-22; IC 36-8-8-2.5 
+Sec. 2. (a) Notwithstanding any other provisions to the contrary, the member contributions paid to and retirement benefits paid from the plan shall be limited to such extent as may be necessary to conform to the requirements of Section 415 of the Internal Revenue Code for a qualified governmental pension plan. For purposes of these limitations, the limitation year shall be the fiscal year. Except as otherwise provided within this section, as permitted by Treasury Regulation Section 1.415(a)-1(d), the limitations of Section 415 of the Internal Revenue Code are incorporated by reference. 
+(b) For purposes of applying Section 415(c) of the Internal Revenue Code and for no other purpose, the definition of compensation where applicable will be compensation actually paid or made available during a limitation year, except as noted in subdivisions (1) and (2) and as permitted by Treasury Regulation Section 1.415(c)-2, or successor regulation; provided, however, that member contributions picked up under Section 414(h) of the Internal Revenue Code shall not be treated as compensation as follows: 
+(1) Compensation will be defined as wages within the meaning of Section 3401(a) of the Internal Revenue Code and all other payments of compensation to an employee by an employer for which the employer is required to furnish the employee a written statement under Sections 6041(d), 6051(a)(3), and 6052 of the Internal Revenue Code and will be determined without regard to any rules under Section 3401(a) of the Internal Revenue Code that limit the remuneration included in wages based on the nature or location of the employment or the services performed (such as the exception for agricultural labor in Section 3401(a)(2) of the Internal Revenue Code). 
+(A) 
+However, for limitation years beginning after December 31, 1997, compensation will also include amounts that would otherwise be included in compensation but for an election under Section 125(a), 402(e)(3), 402(h)(1)(B), 402(k),or457(b)oftheInternalRevenueCode.Forlimitation yearsbeginningafter December 31,2000,compensation shall also include any elective amounts that are not includible in the gross income of the member by reason of Section 132(f)(4) of the Internal Revenue Code. 
+
+(B) 
+For limitation years beginning on and after July 1, 2009, compensation for the limitation year shall also include compensation paid by the later of two and one-half (2 1/2) months after a member's severance from employment or the end of the limitation year that includes the date of the member's severance from employment if: 
+
+(i) 
+the payment is regular compensation for services during the member's regular working hours, or compensation for services outside the member's regular working hours (such as overtime or shift differential), commissions, bonuses, or other similar payments, and, absent a severance from employment, the payments would have been paid to the member while the member continued in employment with the employer; 
+
+(ii) 
+the payment is for unused accrued bona fide sick, vacation, or other leave that the member would have been able to use if employment had continued. However, compensation under subsection (b)(1)(B) this clause which is received from the employer in contemplation of the member's retirement, including severance pay, termination pay, retirement bonus, or commutation of unused sick leave or personal leave, shall be limited to no more than two thousand dollars ($2,000); or 
+
+
+
+
+(iii)thepaymentsarepursuanttoa nonqualified unfunded deferred compensation plan,butonlyifthepayments would have been paid to the member at the same time if the member had continued employment with the 
+Indiana Administrative Code Page 1 
+INTERNAL REVENUE CODE SECTION 415 
+
+employer and only to the extent that the payment is includible in the member's gross income. Payments not described in this clause are not considered compensation if paid after severance from employment, even if they are paid within two and one-half (2 1/2) months following severance from employment, except for payments totheindividual whodoesnotcurrentlyperformservicesfor theemployer byreason ofqualifiedmilitaryservice (within the meaning of Section 414(u)(1) of the Internal Revenue Code) to the extent these payments do not exceed the amounts the individual would have received if the individual had continued to perform services for the employer rather than entering qualified military service. An employee who is in qualified military service (within the meaning of Section 414(u)(1) of the Internal Revenue Code) shall be treated as receiving compensation from the employer during such period of qualified military service equal to the compensation the employee would have received during such period if the employee were not in qualified military service, determined based on the rate of pay the employee would have received from the employer but for the absence during theperiod ofqualifiedmilitaryservice,or,ifthecompensation theemployeewould havereceived during such period was not reasonably certain, the employee's average compensation from the employer during the twelve (12) month period immediately preceding the qualified military service (or, if shorter, the period of employment immediately preceding the qualified military service). 
+(C) Back pay, within the meaning of Treasury Regulation Section 1.415(c)-2(g)(8), shall be treated as compensation for the limitation year to which the back pay relates to the extent the back pay represents wages and compensation that would otherwise be included under this definition. 
+(2) For limitation years beginning on or after July 1, 2009, a member's compensation for purposes of this subsection shall not exceed the annual limit under Section 401(a)(17) of the Internal Revenue Code. 
+(Board of Trustees of the Indiana Public Retirement System; 35 IAC 22-1-2; adopted Mar 6, 2015: 20150318-IR-035150060ONA) 
+* 
+Indiana Administrative Code Page 2 
+
+
+

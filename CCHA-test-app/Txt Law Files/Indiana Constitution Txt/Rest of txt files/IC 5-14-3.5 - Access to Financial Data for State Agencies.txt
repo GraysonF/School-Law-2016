@@ -1,0 +1,102 @@
+IC 5-14-3.5 Chapter 3.5. Access to Financial Data for State Agencies 
+IC 5-14-3.5-1 "State agency" 
+Sec. 1. (a) As used in this chapter, "state agency" means an authority, a board, a branch, a commission, a committee, a department, a division, or another instrumentality of government, including the administrative branch of state government, the legislative branch of state government, and the judicial branch of state government. 
+(b) The term does not include a state educational institution. 
+As added by P.L.172-2011, SEC.15. 
+
+IC 5-14-3.5-2 Data on Indiana transparency web site 
+Sec. 2. (a) The auditor of state, working with the office of technology established by IC 4-13.1-2-1, or another organization that is part of a state educational institution, and the office of management and budget established by IC 4-3-22-3, shall post on the Indiana transparency Internet web site the following data: 
+(1) 
+A listing of state expenditures and fund balances, including expenditures for contracts, grants, and leases. 
+
+(2) 
+A listing of state owned real and personal property that has 
+
+
+a value of more than twenty thousand dollars ($20,000). The web site must be electronically searchable by the public and must be intuitive to users of the web site. 
+(b) The data base must include for each state agency: 
+(1) 
+the amount, date, payer, and payee of expenditures; 
+
+(2) 
+a listing of state expenditures by: 
+
+(A) 
+personal services; 
+
+(B) 
+other operating expenses; or 
+
+
+
+(C) 
+total operating expenses; to reflect how the funds were appropriated in the state budget act; 
+
+(3) 
+a listing of state fund balances; and 
+
+(4) 
+a listing of property owned by the state. 
+
+
+(c) The data base must include for each state educational institution a listing of the annual salaries for employees of the state educational institution. As added by P.L.172-2011, SEC.15. Amended by P.L.177-2013, SEC.1. 
+
+IC 5-14-3.5-3 Graphic representations of data 
+Sec. 3. The auditor of state may enhance and organize the presentation of the information through the use of graphic representations. 
+ 
+As added by P.L.172-2011, SEC.15. 
+
+IC 5-14-3.5-4 Public access not allowed to certain data 
+Sec. 4. (a) The auditor of state may not allow public access under this section to: 
+(1) 
+a payee's address; 
+
+(2) 
+personal information that is protected under state or federal law or rule; or 
+
+(3) 
+information that is protected as a trade secret under state or federal law or by rule. 
+
+
+(b) The auditor of state may make information protected under subsection (a) available in an aggregate format only. As added by P.L.172-2011, SEC.15. 
+
+IC 5-14-3.5-5 Immunity from civil liability 
+Sec. 5. The state and state officers, officials, and employees are immune from any civil liability for posting confidential information under section 4 of this chapter if the information was posted in reliance on a determination made by a state agency about the confidentiality of information relating to the agency's expenditures or fund balances. As added by P.L.172-2011, SEC.15. 
+
+IC 5-14-3.5-6 State agencies providing required data to auditor of state 
+Sec. 6. To the extent any information required to be in the data base is collected or maintained by a state agency or state educational institution, the state agency or state educational institution shall provide that information to the auditor of state for inclusion in the data base. As added by P.L.172-2011, SEC.15. Amended by P.L.177-2013, SEC.2. 
+
+IC 5-14-3.5-7 Prohibition against charging fee for access 
+Sec. 7. The auditor of state may not charge a fee for access to the data base. As added by P.L.172-2011, SEC.15. 
+
+IC 5-14-3.5-8 Cooperation by state agencies 
+Sec. 8. Except as provided in section 9 of this chapter, a state agency shall cooperate with and provide information to the auditor of state as necessary to implement and administer this chapter. As added by P.L.172-2011, SEC.15. 
+ 
+
+IC 5-14-3.5-9 State agencies not required to record information or expend resources for computer programming 
+Sec. 9. This chapter does not require a state agency to record information or expend resources for the purpose of computer programming to make information reportable under this chapter. As added by P.L.172-2011, SEC.15. 
+
+IC 5-14-3.5-10 Links to other web sites 
+Sec. 10. The office of technology established by IC 4-13.1-2-1 shall work with the auditor of state to include a link on the Internet web site established under this chapter to the Internet web site of each Internet web site operated by: 
+(1) 
+the state; or 
+
+(2) 
+a state agency. 
+
+
+As added by P.L.172-2011, SEC.15. 
+
+IC 5-14-3.5-11 Links on state agency web sites to Indiana transparency web site 
+Sec. 11. Each state agency shall include a link on the agency's Internet web site to the Internet web site established under this chapter. As added by P.L.172-2011, SEC.15. 
+
+IC 5-14-3.5-12 Completing design and posting information 
+Sec. 12. The auditor of state and the office of technology shall initially complete the design of the Internet web site and establish and post the information required under this chapter for all state agencies. As added by P.L.172-2011, SEC.15. 
+
+IC 5-14-3.5-13 Repealed 
+(As added by P.L.172-2011, SEC.15. Repealed by P.L.121-2016, SEC.11.) 
+
+IC 5-14-3.5-14 Submitting of forms in an electronic format 
+Sec. 14. In order to comply with this chapter, the auditor may require that forms required to be submitted under this chapter be submitted in an electronic format. As added by P.L.172-2011, SEC.15. 
+ 
+

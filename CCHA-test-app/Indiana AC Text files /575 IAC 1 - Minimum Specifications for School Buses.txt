@@ -1,0 +1,3104 @@
+TITLE 575 STATE SCHOOL BUS COMMITTEE 
+ARTICLE 1. MINIMUM SPECIFICATIONS FOR SCHOOL BUSES 
+Rule 1. General Provisions 
+575 IAC 1-1-1 Applicability of specifications; definitions 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27-2-8 
+Sec. 1. (a) The definitions in this section apply throughout this article. 
+(b) 
+"Multifunction school activity bus" or "MFSAB" means a bus of any type for use in transporting children on trips other than those between home and school. MFSABs may not be used for picking up and dropping off of regular education children during service between home and school and are thus not required to be equipped with functional traffic control devices. MFSABs may be used for picking up and dropping off special education, homeless, and foster children during service between home and school as long as they are not picked up in a location that would require the use of traffic control devices. MFSABs are required to meet all: 
+
+(1) 
+requirements in the school bus crashworthiness standards; 
+
+(2) 
+other requirements in the school bus crash avoidance safety standards; and 
+
+
+
+(3) 
+post crash school bus standards. All MFSABs must meet all federal and Indiana state construction and inspection standards of a school bus with the exception of functional traffic control devices. 
+
+(c) 
+"School bus" means any motor vehicle, other than a special purpose bus as defined in IC 20-27-2-8, designed and constructed for the accommodation of more than ten (10) passengers that is used for the transportation of Indiana school children. The term includes either the chassis or the body, or both the chassis and the body. 
+
+(d) 
+"School children" means children enrolled in private schools in grades kindergarten through 12 and all children enrolled in public school corporations. 
+
+(e) 
+"Type A school bus" means a conversion or body constructed upon a van-type or cutaway front-section vehicle with a left side driver's door, designed for carrying more than ten (10) persons. The term includes the following two (2) classifications: 
+
+(1) 
+Type A-1, with a gross vehicle weight rating of ten thousand (10,000) pounds and under. 
+
+(2) 
+Type A-2, with a gross vehicle weight rating over ten thousand (10,000) pounds. 
+
+
+
+(f) 
+"Type B school bus" means a conversion or body constructed and installed upon a van-type or cutaway front-section vehicle chassis or stripped chassis with a vehicle weight rating of more than ten thousand (10,000) pounds and designed for carrying more than ten (10) persons. Part of the engine is beneath or behind, or both, the windshield and beside the driver's seat. The entrance door is behind the front wheels. 
+
+(g) 
+"Type C school bus" means a body installed upon a flat back cowl chassis with a gross vehicle weight rating of more than ten thousand (10,000) pounds and designed for carrying more than ten (10) persons. All of the engine is in front of the windshield. The entrance door is behind the front wheels. 
+
+(h) 
+"Type D school bus" means a body installed upon a chassis with the engine mounted in the front, midship, or rear with a gross vehicle weight rating of more than ten thousand (10,000) pounds and designed for carrying more than ten (10) persons. The engine may be: 
+
+(1) 
+behind the windshield and beside the driver's seat; 
+
+(2) 
+at the rear of the bus; 
+
+(3) 
+behind the rear wheels; or 
+
+
+
+(4) 
+midship between the front and rear axles. The entrance door is ahead of the front wheels. 
+
+(i) 
+"Vehicles for transporting children with disabilities" means vehicles designed and constructed to meet the requirements for the appropriate size school buses with specialized equipment as prescribed under 575 IAC 1-5.5. (State School Bus Committee; Sec I; filed Feb 10, 1978, 3:31 p.m.: Rules and Regs. 1979, p. 323; filed Apr 14, 1981, 11:30 a.m.: 4 IR 778, eff Jul 1, 1981; filed 
+
+
+Jun 20, 1988, 8:50 a.m.: 11 IR 3819; filed Mar 19, 2001, 11:32 a.m.: 24 IR 2467; readopted filed Oct 10, 2001, 3:37 p.m.: 25 IR 938; errata filed Jun 27, 2005, 1:45 p.m.: 28 IR 3583; readopted filed Jun 19, 2007, 10:10 a.m.: 20070704-IR-575070225RFA; readopted filed Nov 12, 2013, 11:21 a.m.: 20131211-IR-575130420RFA; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR­575130244FRA) 
+
+575 IAC 1-1-2 Purchasing specifications (Repealed) 
+Sec. 2. (Repealed by State School Bus Committee; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-1-3 Information for bid proposals; checklist (Repealed) 
+Sec. 3. (Repealed by State School Bus Committee; filed Jun 20, 1988, 8:50 am: 11 IR 3898) 
+
+575 IAC 1-1-4 Written certification of compliance 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27-9 
+
+Sec. 4. (a) Body and chassis manufacturers must annually certify to the state school bus committee that all school bus bodies and chassis supplied to Indiana schools comply with the provisions of 575 IAC 1. Manufacturers must submit the certification required under this section on or before February 1. 
+(b) No school bus may be placed in service or remain in service in Indiana if it does not meet the minimum specifications of this article. (State School Bus Committee; 575 IAC 1-1-4; filed Jun 20, 1988, 8:50 a.m.: 11 IR 3825; readopted filed Oct 10, 2001, 3:37 p.m.: 25 IR 938; readopted filed Jun 19, 2007, 10:10 a.m.: 20070704-IR-575070225RFA; readopted filed Nov 12, 2013, 11:21 a.m.: 20131211-IR-575130420RFA; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-1-4.5 Labeling requirements (Repealed) 
+Sec. 4.5. (Repealed by State School Bus Committee; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-1-4.6 Display of United States flag 
+Authority: IC 20-27-3-4; IC 20-27-3-6 
+Affected: IC 20-27 
+
+Sec. 4.6. (a) A school bus may display the United States flag. 
+(b) 
+The flag must: 
+
+(1) 
+be a decal only; 
+
+(2) 
+not contain any words, lettering, slogans, or symbols; 
+
+(3) 
+be nonreflective; 
+
+(4) 
+be a maximum of three (3) inches high with proportional length; 
+
+(5) 
+have straight horizontal stripes with the union facing the front of the school bus; 
+
+(6) 
+be located on both sides of the school bus beneath the first passenger window and centered vertically in the belt line between the rub rails; 
+
+(7) 
+be the same size on each side; and 
+
+(8) 
+not obscure the governing body name, bus number, other identifiers, or equipment in the belt line. 
+
+
+(State School Bus Committee; 575 IAC 1-1-4.6; filed May 19, 2003, 8:40 a.m.: 26 IR 3341; readopted filed Jun 19, 2007, 10:10 a.m.: 20070704-IR-575070225RFA; readopted filed Nov 12, 2013, 11:21 a.m.: 20131211-IR-575130420RFA) 
+
+575 IAC 1-1-5 Applicability of minimum specifications 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27-9 
+
+Sec. 5. (a) The minimum specifications outlined in this title apply to all school buses that are: 
+(1) 
+owned; 
+
+(2) 
+operated; 
+
+(3) 
+leased; or 
+
+
+(4) 
+otherwise used; by school corporations, private schools, or authorized agencies to transport children under IC 20-27. 
+
+(b) 
+The revisions of February 26, 1981, apply to all school buses that were ordered for purchase or placed in production for use in Indiana before June 30, 1988. 
+
+(c) 
+The revisions of March 31, 1988, apply to all school buses that were ordered for purchase and initially placed in service on or after July 1, 1988. 
+
+(d) 
+The revisions of August 14, 2014, apply to all school buses that were ordered for purchase and initially placed in service on or after January 1, 2015. 
+
+
+(e) Optional equipment must be operational at all times. (State School Bus Committee; 575 IAC 1-1-5; filed Jun 20, 1988, 
+8:50 a.m.: 11 IR 3825; readopted filed Oct 10, 2001, 3:37 p.m.: 25 IR 938; filed Dec 2, 2001, 12:22 p.m.: 25 IR 1150, eff Jul 1, 2002; errata filed Jun 27, 2005, 1:45 p.m.: 28 IR 3583; readopted filed Jun 19, 2007, 10:10 a.m.: 20070704-IR-575070225RFA; readopted filed Nov 12, 2013, 11:21 a.m.: 20131211-IR-575130420RFA; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR­575130244FRA; errata filed Mar 18, 2015, 9:24 a.m.: 20150401-IR-575150073ACA) 
+
+575 IAC 1-1-6 Deviation from minimum specifications 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27-9 
+
+Sec. 6. Any deviation from the standards set forth in this title must be approved by the department of education. If the department denies a request to place additional equipment on the bus, an appeal may be made to the state school bus committee. 
+(State School Bus Committee; 575 IAC 1-1-6; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+Rule 2. Type I Vehicles 
+575 IAC 1-2-1 Air cleaner (Repealed) 
+Sec. 1. (Repealed by State School Bus Committee; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+575 IAC 1-2-2 Axles (Repealed) 
+575 IAC 1-2-3 Brakes (Repealed) 575 IAC 1-2-4 Front bumper (Repealed) 
+
+Sec. 4. (Repealed by State School Bus Committee; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-2-5 Clutch (Repealed) 
+Sec. 5. (Repealed by State School Bus Committee; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-2-6 Color of chassis (Repealed) 
+
+575 IAC 1-2-7 Drive shaft (Repealed) 
+Sec. 7. (Repealed by State School Bus Committee; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-2-8 Electrical system (Repealed) 
+
+575 IAC 1-2-9 Exhaust system (Repealed) 
+
+575 IAC 1-2-10 Front fender (Repealed) 
+Sec. 10. (Repealed by State School Bus Committee; filed Jun 20, 1988, 8:50 am: 11 IR 3898) 
+575 IAC 1-2-11 Frame (Repealed) 
+Sec. 11. (Repealed by State School Bus Committee; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+575 IAC 1-2-12 Fuel system (Repealed) 
+Sec. 12. (Repealed by State School Bus Committee; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+575 IAC 1-2-13 Governor (Repealed) 575 IAC 1-2-14 Horn (Repealed) 
+
+Sec. 14. (Repealed by State School Bus Committee; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-2-15 Heating system water lines (Repealed) 
+Sec. 15. (Repealed by State School Bus Committee; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-2-16 Oil filter (Repealed) 
+
+575 IAC 1-2-17 Openings (Repealed) 
+Sec. 17. (Repealed by State School Bus Committee; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-2-18 Overall length (Repealed) 
+
+575 IAC 1-2-19 Passenger load (Repealed) 
+
+575 IAC 1-2-20 Power (Repealed) 
+Sec. 20. (Repealed by State School Bus Committee; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+575 IAC 1-2-21 Shock absorbers (Repealed) 
+Sec. 21. (Repealed by State School Bus Committee; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+575 IAC 1-2-22 Springs (Repealed) 
+575 IAC 1-2-23 Steering gear (Repealed) 575 IAC 1-2-24 Tires and rims (Repealed) 
+
+Sec. 24. (Repealed by State School Bus Committee; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-2-25 Transmission (Repealed) 
+Sec. 25. (Repealed by State School Bus Committee; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-2-26 Undercoating (Repealed) 
+
+575 IAC 1-2-27 Written certification of chassis compliance (Repealed) 
+Sec. 27. (Repealed by State School Bus Committee; filed Jun 20, 1988, 8:50 am: 11 IR 3898) 
+
+575 IAC 1-2-28 Aisle (Repealed) 
+
+575 IAC 1-2-29 Axe (Repealed) 
+
+575 IAC 1-2-30 Battery (Repealed) 
+Sec. 30. (Repealed by State School Bus Committee; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+575 IAC 1-2-31 Book rack (Repealed) 
+Sec. 31. (Repealed by State School Bus Committee; filed Jun 20, 1988, 8:50 am: 11 IR 3898) 
+575 IAC 1-2-32 Rear bumper (Repealed) 
+575 IAC 1-2-33 Capacity (Repealed) 575 IAC 1-2-34 Tire chains (Repealed) 
+
+Sec. 34. (Repealed by State School Bus Committee; filed Jun 20, 1988, 8:50 am: 11 IR 3898) 
+
+575 IAC 1-2-35 Color of body (Repealed) 
+Sec. 35. (Repealed by State School Bus Committee; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-2-36 Construction (Repealed) 
+
+575 IAC 1-2-37 Defroster (Repealed) 
+Sec. 37. (Repealed by State School Bus Committee; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-2-38 Doors (Repealed) 
+
+575 IAC 1-2-39 Fire extinguisher (Repealed) 
+
+575 IAC 1-2-40 First aid kit (Repealed) 
+Sec. 40. (Repealed by State School Bus Committee; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+575 IAC 1-2-41 Floor (Repealed) 
+Sec. 41. (Repealed by State School Bus Committee; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+575 IAC 1-2-42 Heaters (Repealed) 
+575 IAC 1-2-43 Identification and lettering (Repealed) 575 IAC 1-2-44 Inside height (Repealed) 
+
+Sec. 44. (Repealed by State School Bus Committee; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-2-45 Insulation (Repealed) 
+Sec. 45. (Repealed by State School Bus Committee; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-2-46 Interior (Repealed) 
+
+575 IAC 1-2-47 Lamps and signals (Repealed) 
+Sec. 47. (Repealed by State School Bus Committee; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-2-48 Metal treatment (Repealed) 
+
+575 IAC 1-2-49 Mirrors (Repealed) 
+
+575 IAC 1-2-50 Mounting (Repealed) 
+Sec. 50. (Repealed by State School Bus Committee; filed Jun 20, 1988, 8:50 am: 11 IR 3898) 
+575 IAC 1-2-51 Overall length (Repealed) 
+Sec. 51. (Repealed by State School Bus Committee; filed Jun 20, 1988, 8:50 am: 11 IR 3898) 
+575 IAC 1-2-52 Width (Repealed) 
+575 IAC 1-2-53 Posts (Repealed) 575 IAC 1-2-54 Rub rails (Repealed) 
+
+Sec. 54. (Repealed by State School Bus Committee; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-2-55 Sanders (Repealed) 
+Sec. 55. (Repealed by State School Bus Committee; filed Jun 20, 1988, 8:50 am: 11 IR 3898) 
+
+575 IAC 1-2-56 Seat and seat belt for driver (Repealed) 
+
+575 IAC 1-2-57 Seats (Repealed) 
+Sec. 57. (Repealed by State School Bus Committee; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-2-58 Steps (Repealed) 
+
+575 IAC 1-2-59 Stirrup steps (Repealed) 
+
+575 IAC 1-2-60 Storage compartment (Repealed) 
+Sec. 60. (Repealed by State School Bus Committee; filed Jun 20, 1988, 8:50 am: 11 IR 3898) 
+575 IAC 1-2-61 Sun shield (Repealed) 
+Sec. 61. (Repealed by State School Bus Committee; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+575 IAC 1-2-62 Tailpipe (Repealed) 
+575 IAC 1-2-63 Undercoating (Repealed) 575 IAC 1-2-64 Ventilation (Repealed) 
+
+Sec. 64. (Repealed by State School Bus Committee; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-2-65 Wheel housing (Repealed) 
+Sec. 65. (Repealed by State School Bus Committee; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-2-66 Windshield and windows (Repealed) 
+
+575 IAC 1-2-67 Windshield washers (Repealed) 
+Sec. 67. (Repealed by State School Bus Committee; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-2-68 Windshield wipers (Repealed) 
+
+575 IAC 1-2-69 Wiring (Repealed) 
+
+575 IAC 1-2-70 Written certification of body compliance (Repealed) 
+Sec. 70. (Repealed by State School Bus Committee; filed Jun 20, 1988, 8:50 am: 11 IR 3898) 
+Rule 2.5. Type B School Bus (Repealed) 
+(Repealed by State School Bus Committee; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+Rule 3. Type II Vehicles 
+575 IAC 1-3-1 Engine intake air cleaner (Repealed) 
+
+575 IAC 1-3-2 Axles (Repealed) 575 IAC 1-3-3 Brakes (Repealed) 
+
+Sec. 3. (Repealed by State School Bus Committee; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-3-4 Front bumper (Repealed) 
+Sec. 4. (Repealed by State School Bus Committee; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-3-5 Clutch (Repealed) 
+
+575 IAC 1-3-6 Color of chassis (Repealed) 
+Sec. 6. (Repealed by State School Bus Committee; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-3-7 Drive shaft (Repealed) 
+
+575 IAC 1-3-8 Electrical system (Repealed) 
+
+575 IAC 1-3-9 Exhaust system (Repealed) 
+Sec. 9. (Repealed by State School Bus Committee; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+575 IAC 1-3-10 Front fenders (Repealed) 
+Sec. 10. (Repealed by State School Bus Committee; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+575 IAC 1-3-11 Frame (Repealed) 
+575 IAC 1-3-12 Fuel system (Repealed) 575 IAC 1-3-13 Governor (Repealed) 
+
+Sec. 13. (Repealed by State School Bus Committee; filed Jun 20, 1988, 8:50 am: 11 IR 3898) 
+
+575 IAC 1-3-14 Horn (Repealed) 
+Sec. 14. (Repealed by State School Bus Committee; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-3-15 Heating system water lines (Repealed) 
+
+575 IAC 1-3-16 Oil filter (Repealed) 
+Sec. 16. (Repealed by State School Bus Committee; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-3-17 Openings (Repealed) 
+
+575 IAC 1-3-18 Length (Repealed) 
+
+575 IAC 1-3-19 Passenger load (Repealed) 
+Sec. 19. (Repealed by State School Bus Committee; filed Jun 20, 1988, 8:50 am: 11 IR 3898) 
+575 IAC 1-3-20 Power (Repealed) 
+Sec. 20. (Repealed by State School Bus Committee; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+575 IAC 1-3-21 Shock absorbers (Repealed) 
+575 IAC 1-3-22 Springs (Repealed) 575 IAC 1-3-23 Steering gear (Repealed) 
+
+Sec. 23. (Repealed by State School Bus Committee; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-3-24 Tires and rims (Repealed) 
+Sec. 24. (Repealed by State School Bus Committee; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-3-25 Transmission (Repealed) 
+
+575 IAC 1-3-26 Undercoating (Repealed) 
+Sec. 26. (Repealed by State School Bus Committee; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-3-27 Written certification of chassis compliance (Repealed) 
+
+575 IAC 1-3-28 Aisle (Repealed) 
+
+575 IAC 1-3-29 Axe (Repealed) 
+Sec. 29. (Repealed by State School Bus Committee; filed Jun 20, 1988, 8:50 am: 11 IR 3898) 
+575 IAC 1-3-30 Battery (Repealed) 
+Sec. 30. (Repealed by State School Bus Committee; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+575 IAC 1-3-31 Book rack (Repealed) 
+575 IAC 1-3-32 Rear bumper (Repealed) 575 IAC 1-3-33 Capacity (Repealed) 
+
+Sec. 33. (Repealed by State School Bus Committee; filed Jun 20, 1988, 8:50 am: 11 IR 3898) 
+
+575 IAC 1-3-34 Tire chains (Repealed) 
+Sec. 34. (Repealed by State School Bus Committee; filed Jun 20, 1988, 8:50 am: 11 IR 3898) 
+
+575 IAC 1-3-35 Color of body (Repealed) 
+
+575 IAC 1-3-36 Construction (Repealed) 
+Sec. 36. (Repealed by State School Bus Committee; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-3-37 Defroster (Repealed) 
+
+575 IAC 1-3-38 Doors (Repealed) 
+
+575 IAC 1-3-39 Fire extinguisher (Repealed) 
+Sec. 39. (Repealed by State School Bus Committee; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+575 IAC 1-3-40 First aid kit (Repealed) 
+Sec. 40. (Repealed by State School Bus Committee; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+575 IAC 1-3-41 Floor (Repealed) 
+575 IAC 1-3-42 Heaters (Repealed) 575 IAC 1-3-43 Identification and lettering (Repealed) 
+
+Sec. 43. (Repealed by State School Bus Committee; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-3-44 Inside height (Repealed) 
+Sec. 44. (Repealed by State School Bus Committee; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-3-45 Insulation (Repealed) 
+
+575 IAC 1-3-46 Interior (Repealed) 
+Sec. 46. (Repealed by State School Bus Committee; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-3-47 Lamps and signals (Repealed) 
+
+575 IAC 1-3-48 Metal treatment (Repealed) 
+
+575 IAC 1-3-49 Mirrors (Repealed) 
+Sec. 49. (Repealed by State School Bus Committee; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+575 IAC 1-3-50 Mounting (Repealed) 
+Sec. 50. (Repealed by State School Bus Committee; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+575 IAC 1-3-51 Overall length (Repealed) 
+Sec. 51. (Repealed by State School Bus Committee; filed Jun 20, 1988, 8:50 am: 11 IR 3898) 
+575 IAC 1-3-52 Overall width (Repealed) 575 IAC 1-3-53 Posts (Repealed) 
+
+Sec. 53. (Repealed by State School Bus Committee; filed Jun 20, 1988, 8:50 am: 11 IR 3898) 
+
+575 IAC 1-3-54 Rub rails (Repealed) 
+Sec. 54. (Repealed by State School Bus Committee; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-3-55 Sanders (Repealed) 
+
+575 IAC 1-3-56 Seat and seat belt for driver (Repealed) 
+Sec. 56. (Repealed by State School Bus Committee; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-3-57 Seats (Repealed) 
+
+575 IAC 1-3-58 Steps (Repealed) 
+
+575 IAC 1-3-59 Stirrup steps (Repealed) 
+Sec. 59. (Repealed by State School Bus Committee; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+575 IAC 1-3-60 Storage compartments (Repealed) 
+Sec. 60. (Repealed by State School Bus Committee; filed Jun 20, 1988, 8:50 am: 11 IR 3898) 
+575 IAC 1-3-61 Sun shield (Repealed) 
+575 IAC 1-3-62 Tail pipe (Repealed) 575 IAC 1-3-63 Undercoating (Repealed) 
+
+Sec. 63. (Repealed by State School Bus Committee; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-3-64 Ventilation (Repealed) 
+Sec. 64. (Repealed by State School Bus Committee; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-3-65 Wheel housing (Repealed) 
+
+575 IAC 1-3-66 Windshield and windows (Repealed) 
+Sec. 66. (Repealed by State School Bus Committee; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-3-67 Windshield washers (Repealed) 
+
+575 IAC 1-3-68 Windshield wipers (Repealed) 
+
+575 IAC 1-3-69 Wiring (Repealed) 
+Sec. 69. (Repealed by State School Bus Committee; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-3-70 Written certification of body compliance (Repealed) 
+Sec. 70. (Repealed by State School Bus Committee; filed Jun 20, 1988, 8:50 am: 11 IR 3898) 
+Rule 4. Transit Vehicles 
+575 IAC 1-4-1 Engine intake air cleaner (Repealed) 
+
+575 IAC 1-4-2 Axles (Repealed) 575 IAC 1-4-3 Brakes (Repealed) 
+
+Sec. 3. (Repealed by State School Bus Committee; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-4-4 Front bumper (Repealed) 
+Sec. 4. (Repealed by State School Bus Committee; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-4-5 Clutch (Repealed) 
+
+575 IAC 1-4-6 Color of chassis (Repealed) 
+Sec. 6. (Repealed by State School Bus Committee; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-4-7 Drive shaft (Repealed) 
+
+575 IAC 1-4-8 Electrical system (Repealed) 
+
+575 IAC 1-4-9 Exhaust system (Repealed) 
+Sec. 9. (Repealed by State School Bus Committee; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+575 IAC 1-4-10 Front fenders (Repealed) 
+Sec. 10. (Repealed by State School Bus Committee; filed Jun 20, 1988, 8:50 am: 11 IR 3898) 
+575 IAC 1-4-11 Frame (Repealed) 
+575 IAC 1-4-12 Fuel system (Repealed) 575 IAC 1-4-13 Governors (Repealed) 
+
+Sec. 13. (Repealed by State School Bus Committee; filed Jun 20, 1988, 8:50 am: 11 IR 3898) 
+
+575 IAC 1-4-14 Horn (Repealed) 
+Sec. 14. (Repealed by State School Bus Committee; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-4-15 Heating system water lines (Repealed) 
+
+575 IAC 1-4-16 Oil filter (Repealed) 
+Sec. 16. (Repealed by State School Bus Committee; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-4-17 Openings (Repealed) 
+
+575 IAC 1-4-18 Length (Repealed) 
+
+575 IAC 1-4-19 Passenger load (Repealed) 
+Sec. 19. (Repealed by State School Bus Committee; filed Jun 20, 1988, 8:50 am: 11 IR 3898) 
+575 IAC 1-4-20 Power (Repealed) 
+Sec. 20. (Repealed by State School Bus Committee; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+575 IAC 1-4-21 Shock absorbers (Repealed) 
+575 IAC 1-4-22 Springs (Repealed) 575 IAC 1-4-23 Steering gear (Repealed) 
+
+Sec. 23. (Repealed by State School Bus Committee; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-4-24 Tires and rims (Repealed) 
+Sec. 24. (Repealed by State School Bus Committee; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-4-25 Transmission (Repealed) 
+
+575 IAC 1-4-26 Undercoating (Repealed) 
+Sec. 26. (Repealed by State School Bus Committee; filed Jun 20, 1988, 8:50 am: 11 IR 3898) 
+
+575 IAC 1-4-27 Written certification of chassis compliance (Repealed) 
+
+575 IAC 1-4-28 Aisle (Repealed) 
+
+575 IAC 1-4-29 Axe (Repealed) 
+Sec. 29. (Repealed by State School Bus Committee; filed Jun 20, 1988, 8:50 am: 11 IR 3898) 
+575 IAC 1-4-30 Battery (Repealed) 
+Sec. 30. (Repealed by State School Bus Committee; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+575 IAC 1-4-31 Book racks (Repealed) 
+Sec. 31. (Repealed by State School Bus Committee; filed Jun 20, 1988, 8:50 am: 11 IR 3898) 
+575 IAC 1-4-32 Rear bumper (Repealed) 575 IAC 1-4-33 Capacity (Repealed) 
+
+Sec. 33. (Repealed by State School Bus Committee; filed Jun 20, 1988, 8:50 am: 11 IR 3898) 
+
+575 IAC 1-4-34 Tire chains (Repealed) 
+Sec. 34. (Repealed by State School Bus Committee; filed Jun 20, 1988, 8:50 am: 11 IR 3898) 
+
+575 IAC 1-4-35 Color of body (Repealed) 
+
+575 IAC 1-4-36 Construction (Repealed) 
+Sec. 36. (Repealed by State School Bus Committee; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-4-37 Defroster (Repealed) 
+
+575 IAC 1-4-38 Doors (Repealed) 
+
+575 IAC 1-4-39 Fire extinguisher (Repealed) 
+Sec. 39. (Repealed by State School Bus Committee; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+575 IAC 1-4-40 First aid kit (Repealed) 
+Sec. 40. (Repealed by State School Bus Committee; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+575 IAC 1-4-41 Floor (Repealed) 
+575 IAC 1-4-42 Heaters (Repealed) 575 IAC 1-4-43 Identification and lettering (Repealed) 
+
+Sec. 43. (Repealed by State School Bus Committee; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-4-44 Inside height (Repealed) 
+Sec. 44. (Repealed by State School Bus Committee; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-4-45 Insulation (Repealed) 
+
+575 IAC 1-4-46 Interior (Repealed) 
+Sec. 46. (Repealed by State School Bus Committee; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-4-47 Lamps and signals (Repealed) 
+
+575 IAC 1-4-48 Metal treatment (Repealed) 
+
+575 IAC 1-4-49 Mirrors (Repealed) 
+Sec. 49. (Repealed by State School Bus Committee; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+575 IAC 1-4-50 Mounting (Repealed) 
+Sec. 50. (Repealed by State School Bus Committee; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+575 IAC 1-4-51 Overall length (Repealed) 
+Sec. 51. (Repealed by State School Bus Committee; filed Jun 20, 1988, 8:50 am: 11 IR 3898) 
+575 IAC 1-4-52 Width (Repealed) 575 IAC 1-4-53 Posts (Repealed) 
+
+Sec. 53. (Repealed by State School Bus Committee; filed Jun 20, 1988, 8:50 am: 11 IR 3898) 
+
+575 IAC 1-4-54 Rub rails (Repealed) 
+Sec. 54. (Repealed by State School Bus Committee; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-4-55 Sanders (Repealed) 
+
+575 IAC 1-4-56 Seat and seat belt for driver (Repealed) 
+Sec. 56. (Repealed by State School Bus Committee; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-4-57 Seats (Repealed) 
+
+575 IAC 1-4-58 Steps (Repealed) 
+
+575 IAC 1-4-59 Stirrup steps (Repealed) 
+Sec. 59. (Repealed by State School Bus Committee; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+575 IAC 1-4-60 Storage compartment (Repealed) 
+Sec. 60. (Repealed by State School Bus Committee; filed Jun 20, 1988, 8:50 am: 11 IR 3898) 
+575 IAC 1-4-61 Sun shield (Repealed) 
+575 IAC 1-4-62 Tail pipe (Repealed) 575 IAC 1-4-63 Undercoating (Repealed) 
+
+Sec. 63. (Repealed by State School Bus Committee; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-4-64 Ventilation (Repealed) 
+Sec. 64. (Repealed by State School Bus Committee; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-4-65 Wheel housing (Repealed) 
+
+575 IAC 1-4-66 Windshield and windows (Repealed) 
+Sec. 66. (Repealed by State School Bus Committee; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-4-67 Windshield washers (Repealed) 
+
+575 IAC 1-4-68 Windshield wipers (Repealed) 
+
+575 IAC 1-4-69 Wiring (Repealed) 
+Sec. 69. (Repealed by State School Bus Committee; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-4-70 Written certification of body compliance (Repealed) 
+Sec. 70. (Repealed by State School Bus Committee; filed Jun 20, 1988, 8:50 am: 11 IR 3898) 
+
+Rule 5. Vehicles for Transporting the Handicapped Ordered for Purchase and Initially Placed in Service on or after July 1, 1988 (Repealed) 
+(Repealed by State School Bus Committee; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+Rule 5.5. Vehicles for Transporting Children with Disabilities Ordered for Purchase and Initially Placed in Service on or after July 1, 1990 
+
+575 IAC 1-5.5-1 General requirements 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27; IC 20-35 
+
+Sec. 1. (a) A bus constructed and designed for transporting children with disabilities must complywith the standards outlined in 575 IAC 1-9. Modifications to some of the standards are necessary to accommodate the special equipment necessary to transport students with disabilities. 
+(b) 
+Any school bus used to transport a child confined to a wheelchair or other device that prohibits the use of the regular passenger service door must be equipped with a power lift. If a special unloading device is needed for unusual circumstances, a waiver from the school bus committee is required. 
+
+(c) 
+A bus transporting more than two (2) wheelchair-confined students must have at least a one hundred forty (140) amp alternator. 
+
+(d) 
+All special needs children must be properly and appropriately restrained for safe transportation. Special needs children means children defined under IC 20-35. 
+
+(e) 
+Federal Motor Vehicle Safety Standards referred to in this rule are found at 49 CFR Ch. V (10-1-89 Edition), Part 571, and are herein incorporated and made a part of this rule by reference. Copies of these federal standards are on file with the department of education or may be obtained from the U.S. Government Printing Office, Washington, D.C. (State School Bus Committee; 575 IAC 1-5.5-1; filed May 24, 1990, 4:20 p.m.: 13 IR 1855; readopted filed Oct 10, 2001, 3:37 p.m.: 25 IR 938; errata filed Jun 27, 2005, 1:45 p.m.: 28 IR 3583; readopted filed Jun 19, 2007, 10:10 a.m.: 20070704-IR-575070225RFA; errata filed Jul 6, 2007, 10:04 a.m.: 20070725-IR-575070225ACA; readopted filed Nov 12, 2013, 11:21 a.m.: 20131211-IR­575130420RFA; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+
+
+575 IAC 1-5.5-2 Aisles 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27 
+
+Sec. 2. The aisle leading from the wheelchair area to all emergency doors must be at least thirty (30) inches wide. (State School Bus Committee; 575 IAC 1-5.5-2; filed May 24, 1990, 4:20 p.m.: 13 IR 1855; readopted filed Oct 10, 2001, 3:37 p.m.: 25 IR 938; readopted filed Jun 19, 2007, 10:10 a.m.: 20070704-IR-575070225RFA; errata filed Jul 6, 2007, 10:04 a.m.: 20070725­IR-575070225ACA; readopted filed Nov 12, 2013, 11:21 a.m.: 20131211-IR-575130420RFA) 
+
+575 IAC 1-5.5-3 Wheelchairs 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27 
+
+Sec. 3. (a) A student who can reasonably be moved from the student's wheelchair, stroller, or special seating device must be transferred during transportation to and from school to: 
+(1) 
+an original equipment manufacturer forward facing vehicle seat equipped with dynamically tested occupant restraints; or 
+
+(2) 
+a child seat that complies with the requirements of Federal Motor Vehicle Safety Standard (FMVSS) 213. 
+
+(b) 
+A wheelchair must be adequately secured during transportation. An occupied wheelchair must face forward. 
+
+
+(c)Occupiedthree-wheeled,cart-typeunitsandother stroller-typedevicesmaynotbetransportedin aschoolbusunlessthere is crash test evidence to demonstrate that the unit can be secured under impact loading conditions using a four-point strap-type tiedown. 
+(d)Manufacturersofthethree-wheeled,cart-typeunitsandother stroller-typedevicesmustverifythattheunitcan besecured under impact loading conditions. 
+(e) 
+A wheelchair or stroller-type unit designed and approved by the manufacturer for use during transportation must be used according to the manufacturer's instructions. 
+
+(f) 
+The distance between the rearmost extremities of the wheelchair (measured at floor line) when the wheelchair is in any position and the outside rear of the bus body (not including the rear bumper), measured at the floor line must be at least the following: 
+
+
+(1) Six (6) inches on Type A and Type B buses. 
+(2) Eight (8) inches on Type C and Type D buses. (State School Bus Committee; 575 IAC 1-5.5-3; filed May 24, 1990, 4:20 p.m.: 13 IR 1855; filed May 21, 1992, 5:00 p.m.: 15 IR 2220; filed Mar 9, 2000, 7:45 a.m.: 23 IR 1649; readopted filed Aug 18, 2006, 10:12 a.m.: 20060830-IR-575060138RFA; readopted filed Jun 19, 2007, 10:10 a.m.: 20070704-IR-575070225RFA; errata filed Jul 6, 2007, 10:04 a.m.: 20070725-IR­575070225ACA; readopted filed Nov 12, 2013, 11:21 a.m.: 20131211-IR-575130420RFA; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-5.5-4 Wheelchair and occupant restraint systems 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27 
+Sec. 4. (a) A strap-type wheelchair securement system must be provided that meets the following requirements: 
+(1) 
+Anchors to the floor of the bus at four (4) or more places. 
+
+(2) 
+Attaches to the wheelchair at a minimum of two (2) front and two (2) rear securement points. 
+
+(3) 
+Complies with Society of Automotive Engineers Recommended Practice J-2249. 
+
+(4) 
+A wheelchair that weighs two hundred (200) pounds or greater, transported on a school bus, ten thousand (10,000) pounds or less in gross vehicle weight, must be secured with more than two (2) rear tiedown straps. 
+
+(5) 
+A wheelchair that weighs two hundred fifty (250) pounds or greater, transported on a school bus exceeding ten thousand (10,000) pounds in gross vehicle weight, must be secured with more than two (2) rear tiedown straps. 
+
+
+(b) An occupant restraint system must be provided for each wheelchair occupant that complies with Society of Automotive Engineers Recommended Practice J-2249 such that it meets the following requirements: 
+(1) 
+Includes upper and lower torso restraints. 
+
+(2) 
+Has been tested at thirty (30) miles per hour and twenty (20) G frontal impact conditions which have been verified by the manufacturer of the occupant restraint system. 
+
+(3) 
+If the occupant restraining devices are incorporated in the wheelchair restraining devices, the load imposed on the anchorage system is the sum of the loads specified for the wheelchair restraint devices and the occupant restraint system. 
+
+(4) 
+Has a lap belt attached to the wheelchair or tiedown system at an angle of forty-five (45) degrees or greater to the horizontal. 
+
+(5) 
+Has a shoulder belt attached to the tiedown strap at or below the hip point of the occupant, or has a shoulder belt attached to the lap belt. 
+
+(6) 
+Has the upper end of the shoulder belt attached to the vehicle at or above the height of the occupant's shoulder. 
+
+(7) 
+Does not transfer occupant forces to the wheelchair. 
+
+(c) 
+Static load tests must be as follows: 
+
+(1) 
+Conducted with appropriate size washers and steel plating or with actual tiedown/restraint washers and backing plates on the underside of sheet metal floors to adequately distribute the applied loads. 
+
+(2) 
+Verified by the school bus manufacturer or other engineering test facility. 
+
+
+(State School Bus Committee; 575 IAC 1-5.5-4; filed May 24, 1990, 4:20 p.m.: 13 IR 1856; errata, 13 IR 2005; filed May 21, 1992, 
+5:00 p.m.: 15 IR 2221; filed Mar 9, 2000, 7:45 a.m.: 23 IR 1649; readopted filed Aug 18, 2006, 10:12 a.m.: 20060830-IR­575060138RFA; readopted filed Jun 19, 2007, 10:10 a.m.: 20070704-IR-575070225RFA; errata filed Jul 6, 2007, 10:04 a.m.: 20070725-IR-575070225ACA; readopted filed Nov 12, 2013, 11:21 a.m.: 20131211-IR-575130420RFA) 
+
+575 IAC 1-5.5-5 Power lift 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27 
+
+Sec. 5. (a) The lifting mechanism must: 
+(1) 
+be able to lift a minimum load of eight hundred (800) pounds; 
+
+(2) 
+have a battery that, when the bus engine is off, will sustain the electrical demand of the lift through four (4) complete full-load cycles and then restart the bus engine; 
+
+(3) 
+be located on the right side of the bus body; 
+
+(4) 
+have manual controls in the event of a power failure; 
+
+(5) 
+not permit the platform to fall if the power fails while the lift is in operation; 
+
+(6) 
+have controls that enable the operator to activate the lift while standing on the platform; 
+
+(7) 
+have a circuit breaker or fuse connecting the lift motor to the power source; and 
+
+(8) 
+have limit switches or bypass valves to prevent excess pressure from building in the hydraulic system when the platform is upright or extended. 
+
+(b) 
+The power lift must: 
+
+(1) 
+have a clear horizontal opening and platform large enough to accommodate a thirty (30) inch wide wheelchair on the bus; 
+
+(2) 
+be confined within the perimeter of the bus body when not in use; 
+
+(3) 
+mechanically lock when the lift is in the upright position by means other than a support or lug on the door; 
+
+(4) 
+move smoothly and rest solidly on the ground; 
+
+(5) 
+have sides at least one and one-half (1½) inches high on the platform; 
+
+(6) 
+be designed to prevent the operator from being entangled in the lift during raising and lowering of the platform; 
+
+(7) 
+have a skid-resistant platform surface; 
+
+(8) 
+have a self-adjusting, skid-resistant inclined plate on the outer edge to facilitate movement from the ground to the platform; 
+
+(9) 
+have a plate or panel on the outer edge to prevent a wheelchair from rolling off when the platform is raised; and 
+
+(10) 
+have padding on the crossbar on the top of the lift, if the lift is equipped with a crossbar. 
+
+
+(c) The power lift may have a handrail. (State School Bus Committee; 575 IAC 1-5.5-5; filed May 24, 1990, 4:20 p.m.: 13 IR 1857; filed May 21, 1992, 5:00 p.m.: 15 IR 2221; readopted filed Oct 10, 2001, 3:37 p.m.: 25 IR 938; readopted filed Jun 19, 2007, 10:10 a.m.: 20070704-IR-575070225RFA; errata filed Jul 6, 2007, 10:04 a.m.: 20070725-IR-575070225ACA; readopted filed Nov 12, 2013, 11:21 a.m.: 20131211-IR-575130420RFA) 
+
+575 IAC 1-5.5-6 Regular service entrance door 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27 
+
+Sec. 6. (a) There must be three (3) riser steps approximately equal in height in the entrance well of Type C and Type D buses. The first step must not be less than ten (10) inches or more than sixteen (16) inches from the ground based on standard chassis specifications. 
+(b) An additional fold-out lower step may be provided to make the lowest step not more than six (6) inches from the ground. 
+(c) A bus constructed for transportation of children with disabilities must have grab handles located on each side of the regular service door. (State School Bus Committee; 575 IAC 1-5.5-6; filed May 24, 1990, 4:20 p.m.: 13 IR 1857; readopted filed Oct 10, 2001, 3:37 p.m.: 25 IR 938; readopted filed Jun 19, 2007, 10:10 a.m.: 20070704-IR-575070225RFA; errata filed Jul 6, 2007, 10:04 a.m.: 20070725-IR-575070225ACA; readopted filed Nov 12, 2013, 11:21 a.m.: 20131211-IR-575130420RFA; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-5.5-7 Special light 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27 
+
+Sec. 7. In addition to the light attached to the lift and dome lights, a bus must have two (2) lights mounted over the special service entrance door that are operable from the door area and illuminate the special service entrance door area. (State School Bus Committee; 575 IAC 1-5.5-7; filed May 24, 1990, 4:20 p.m.: 13 IR 1857; readopted filed Oct 10, 2001, 3:37 p.m.: 25 IR 938; readopted filed Jun 19, 2007, 10:10 a.m.: 20070704-IR-575070225RFA; errata filed Jul 6, 2007, 10:04 a.m.: 20070725-IR­575070225ACA; readopted filed Nov 12, 2013, 11:21 a.m.: 20131211-IR-575130420RFA; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-5.5-8 Special service entrance 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27 
+
+Sec. 8. (a) Bus bodies may have a special service entrance to accommodate a wheelchair lift. The special service entrance must meet the following specifications: 
+(1) 
+The entrance opening must be on the right side of the bus. 
+
+(2) 
+The entrance must be located so the doors, when open, do not obstruct the right front regular service door. 
+
+(3) 
+If the entrance extends below the floor of the body skirt, reinforcements must be installed at the front and back of the floor opening to support the floor and give the same strength as other floor openings. 
+
+(4) 
+A drip molding must be located above the opening that diverts water from the entrance. 
+
+(5) 
+The entrance must be wide enough to accommodate a mechanical lift, lift accessories, and the lift platform. 
+
+(6) 
+Entrance door posts and headers must be reinforced. 
+
+
+(b) The entrance must have interior padding at least three (3) inches wide and one (1) inch thick covering the full width of the top of each door opening. (State School Bus Committee; 575 IAC 1-5.5-8; filed May 24, 1990, 4:20 p.m.: 13 IR 1857; readopted filed Oct 10, 2001, 3:37 p.m.: 25 IR 938; readopted filed Jun 19, 2007, 10:10 a.m.: 20070704-IR-575070225RFA; errata filed Jul 6, 2007, 10:04 a.m.: 20070725-IR-575070225ACA; readopted filed Nov 12, 2013, 11:21 a.m.: 20131211-IR­575130420RFA; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-5.5-9 Special service entrance door 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27 
+
+Sec. 9. (a) The special service entrance door or doors must meet the following specifications: 
+(1) 
+All doors must open outward. 
+
+(2) 
+The door or doors must have an opening wide enough to permit proper operation of a lift meeting the requirements of section 8 of this rule. 
+
+(3) 
+The door must have fastening devices to hold it open. 
+
+(4) 
+The doors must be weather sealed. 
+
+(5) 
+Buses with two (2) doors must have a flange on the forward door that overlaps the edge of the rear door when closed. 
+
+(6) 
+Power doors may be used, but the design must provide for manual operation from inside the bus. 
+
+(7) 
+The door materials, colors, lettering, and other exterior features must correspond with or match adjacent sections of the bus body, except for rub rails. 
+
+(8) 
+The door materials, panels, and structural strength must be equivalent to the regular service and emergency doors. 
+
+(9) 
+The door must have a switch that prevents the power lift from operating when the platform door is closed. 
+
+(b) 
+If manually operated dual doors are used, the following specifications must be met: 
+
+(1) 
+The rear door must have at least a one-point fastening device that fastens to the header. 
+
+(2) 
+The forward mounted door must have at least three (3) fastening devices that fasten to the: 
+
+(A) 
+header; 
+
+(B) 
+floor line of the body; and 
+
+(C) 
+rear door. 
+
+
+
+(3) 
+The fastening devices must provide maximum safety when the doors are closed. 
+
+(4) 
+The door and hinge mechanisms must be constructed to withstand the same use as a regular service door. 
+
+(c) 
+The doors must have windows that are set in rubber. 
+
+
+(d) There must be a device in the driver's compartment that activates a red, flashing visible signal when the ignition is on and the special service door is not securely closed. (State School Bus Committee; 575 IAC 1-5.5-9; filed May 24, 1990, 4:20 p.m.: 13 IR 1858; readopted filed Oct 10, 2001, 3:37 p.m.: 25 IR 938; readopted filed Jun 19, 2007, 10:10 a.m.: 20070704-IR­575070225RFA; errata filed Jul 6, 2007, 10:04 a.m.: 20070725-IR-575070225ACA; readopted filed Nov 12, 2013, 11:21 a.m.: 20131211-IR-575130420RFA; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-5.5-10 Panels 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27 
+
+Sec. 10. A bus with wheelchair spaces located in the front portion of the bus must have padded protection panels behind the driver's platform and in back of the front step well. (State School Bus Committee; 575 IAC 1-5.5-10; filed May 24, 1990, 4:20 p.m.: 13 IR 1858; readopted filed Oct 10, 2001, 3:37 p.m.: 25 IR 938; readopted filed Jun 19, 2007, 10:10 a.m.: 20070704-IR­575070225RFA; errata filed Jul 6, 2007, 10:04 a.m.: 20070725-IR-575070225ACA; readopted filed Nov 12, 2013, 11:21 a.m.: 20131211-IR-575130420RFA; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-5.5-11 Special requirements 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27 
+
+Sec. 11. (a) Any passenger seat that has a child safety seat or restraint system attached to it must: 
+(1) 
+have a reinforced frame; and 
+
+(2) 
+meet the requirements of FMVSS 208, 209, and 210. 
+
+
+(b) 
+The seat behind a seat that has a child restraint system that is secured using a portable seat mount (for example, cam wrap belt used for a safety vest, Star seat, ProTech seat) must be kept empty or occupied by a child who is also in a child safety restraint system. 
+
+(c) 
+All child safety seats or restraint systems used in a school bus must be secured to a bus seat in a manner prescribed and approved by the manufacturer and must meet safety specifications as follows: 
+
+(1) 
+A child below the grade of kindergarten must be transported in a child safety restraint system that meets all applicable Federal Motor Vehicle Safety Standards beginning January 1, 2018. 
+
+(2) 
+For any child below the grade of kindergarten, the use of a lap belt alone is not appropriate. 
+
+(d) 
+Lap boards attached to wheelchairs or to adaptive equipment shall be removed and secured separately during transport. 
+
+
+
+(e) 
+All respiratory related equipment, such as oxygen, aspirators, and ventilators, must be securely mounted or fastened to a wheelchair, bus seat, bus floor, or to the bus wall below the window line during transit. 
+
+(f) 
+Tanks of compressed oxygen transported in a school bus may be no larger than twenty-two (22) cubic feet. 
+
+(g) 
+Any liquid oxygen container transported in a school bus may be no larger than thirty-eight (38) cubic feet. 
+
+
+
+(h) 
+Oxygen tanks must have valves and regulators that are protected against breakage. Tanks must be secured to avoid exposure to intense heat, flames, sparks, or friction. 
+
+(i) 
+A bus transporting any oxygen container must display a warning statement formatted in block-style letters not less than two (2) inches and not more than four (4) inches in height and in a color that contrasts with the color of its background that reads "OXYGEN IN USE". The statement may be formatted in decal, paint, or magnetic material and be located: 
+
+(1) 
+in the service door entrance on the face of the riser; 
+
+(2) 
+on the underneath side of a wheelchair platform; and 
+
+(3) 
+on the ceiling above the window section of a passenger's seating position. 
+
+
+
+
+(State School Bus Committee; 575 IAC 1-5.5-11; filed May 24, 1990, 4:20 p.m.: 13 IR 1859; filed May 21, 1992, 5:00 p.m.: 15 IR 2222; readopted filed Oct 10, 2001, 3:37 p.m.: 25 IR 938; readopted filed Jun 19, 2007, 10:10 a.m.: 20070704-IR­575070225RFA; errata filed Jul 6, 2007, 10:04 a.m.: 20070725-IR-575070225ACA; readopted filed Nov 12, 2013, 11:21 a.m.: 20131211-IR-575130420RFA; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA; errata filed Sep 18, 2014, 10:40 a.m.: 20141015-IR-575140377ACA) 
+
+575 IAC 1-5.5-12 Applicability of rule (Repealed) 
+Sec. 12. (Repealed by State School Bus Committee; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+Rule 6. Optional Equipment (Repealed) 
+(Repealed by State School Bus Committee; filed Jun 20, 1988, 8:50 am: 11 IR 3898) 
+Rule 7. Optional Equipment (Repealed) 
+(Repealed by State School Bus Committee; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+Rule 8. School Bus Driver Physical Performance Standards and Measurements 
+
+575 IAC 1-8-1 Exiting the bus 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27-9 
+
+Sec. 1. (a) Driver shall demonstrate the ability to exit the bus from a seat belted position in the driver's seat and exiting from the rearmost emergency door. 
+(b) The measurement is pass/fail. (State School Bus Committee; 575 IAC 1-8-1; filed Dec 2, 2001, 12:22 p.m.: 25 IR 1149; readopted filed May 27, 2008, 11:59 a.m.: 20080625-IR-575080235RFA; readopted filed Nov 12, 2013, 11:21 a.m.: 20131211-IR­575130420RFA) 
+
+575 IAC 1-8-2 Quick reaction time between accelerator and service brake 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27-9 
+
+Sec. 2. (a) Driver shall demonstrate quick reaction time between accelerator and service brake. 
+(b) In a seat belted position, driver shall with the right foot, alternately depress the accelerator and service brake ten (10) times in ten (10) seconds or less. (State School Bus Committee; 575 IAC 1-8-2; filed Dec 2, 2001, 12:22 p.m.: 25 IR 1149; readopted filed May 27, 2008, 11:59 a.m.: 20080625-IR-575080235RFA; readopted filed Nov 12, 2013, 11:21 a.m.: 20131211-IR­575130420RFA) 
+
+575 IAC 1-8-3 Climbing and descending bus service door steps 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27-9 
+
+Sec. 3. (a) Driver shall demonstrate the ability to climb and descend the bus service door steps in a forward facing position two (2) times without stopping. 
+(b) The measurement is pass/fail. (State School Bus Committee; 575 IAC 1-8-3; filed Dec 2, 2001, 12:22 p.m.: 25 IR 1149; readopted filed May 27, 2008, 11:59 a.m.: 20080625-IR-575080235RFA; readopted filed Nov 12, 2013, 11:21 a.m.: 20131211-IR­575130420RFA) 
+
+575 IAC 1-8-4 Opening and closing bus service door 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27-9 
+
+Sec. 4. (a) Driver shall demonstrate the ability to open and close the bus service door two (2) times without stopping from a seat belted position. 
+(b) The measurement is pass/fail. (State School Bus Committee; 575 IAC 1-8-4; filed Dec 2, 2001, 12:22 p.m.: 25 IR 1149; readopted filed May 27, 2008, 11:59 a.m.: 20080625-IR-575080235RFA; readopted filed Nov 12, 2013, 11:21 a.m.: 20131211-IR­575130420RFA) 
+
+575 IAC 1-8-5 Operating hand controls or steering wheel 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27-9 
+
+Sec. 5. (a) Driver shall demonstrate the ability to operate one (1) hand control on each side of the steering wheel while the bus is in a safe forward motion. 
+(b) The measurement is pass/fail. (State School Bus Committee; 575 IAC 1-8-5; filed Dec 2, 2001, 12:22 p.m.: 25 IR 1150; readopted filed May 27, 2008, 11:59 a.m.: 20080625-IR-575080235RFA; readopted filed Nov 12, 2013, 11:21 a.m.: 20131211-IR­575130420RFA) 
+
+575 IAC 1-8-6 School bus driver physical performance standards and measurements; applicability 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27-9 
+
+Sec. 6. The performance standards and measurements outlined in this rule apply to drivers who receive a state school bus committee standard certificate after the effective date of the rule. (State School Bus Committee; 575 IAC 1-8-6; filed Dec 2, 2001, 
+12:22 p.m.: 25 IR 1150; readopted filed May 27, 2008, 11:59 a.m.: 20080625-IR-575080235RFA; readopted filed Nov 12, 2013, 
+11:21 a.m.: 20131211-IR-575130420RFA) 
+Rule 9. Type A, Type B, Type C, and Type D School Buses 
+
+575 IAC 1-9-1 Air conditioning 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27-9 
+
+Sec. 1. (a) Air conditioning may be installed per the manufacturer's standards. 
+(b) Any air conditioning equipment mounted in the interior over an emergency door of the bus must have padding that is at least three (3) inches wide and one (1) inch thick, covering all equipment edges extending into the interior passenger compartment. (State School Bus Committee; 575 IAC 1-9-1; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-9-2 Aisle 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27-9 
+
+Sec. 2. The width of the center aisle must be at least twelve (12) inches. (State School Bus Committee; 575 IAC 1-9-2; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-9-3 Axe 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27-9 
+
+Sec. 3. An axe is not allowed on a school bus, special purpose bus, or MFSAB. (State School Bus Committee; 575 IAC 1-9-3; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-9-4 Axles 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27-9 
+
+Sec. 4. The front and rear axle and suspension systems must have a gross axle weight rating (GAWR) at ground commensurate with the respective front and rear weight loads of the bus loaded to the rated passenger capacity. (State School Bus Committee; 575 IAC 1-9-4; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-9-5 Backup warning alarm 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27-9 
+
+Sec. 5. An automatic audible alarm: 
+(1) may be installed behind the rear axle; and 
+(2)mustcomplywith theSocietyofAutomotiveEngineers'Back-upAlarmStandards(SAE994b)thatspecify97plus/minus 4dBA for vehicles with rubber tires. 
+(State School Bus Committee; 575 IAC 1-9-5; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-9-6 Battery 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27-9 
+
+Sec. 6. (a) The body manufacturer must securely attach the battery on a slide-out tray in a closed, vented, and accessible compartment of the body skirt in accordance with SBMI Design Objectives Booklet, January 1985. 
+(b) 
+A battery box and slide-out tray is optional on a Type A bus. 
+
+(c) 
+An all-electric bus will have batteries mounted per manufacturer's standard. 
+
+
+(d) A battery disconnect switch may be used. (State School Bus Committee; 575 IAC 1-9-6; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-9-7 Belt cutter 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27-9 
+
+Sec. 7. (a) All buses must be equipped with a seat belt cutter. 
+(b) 
+The seat belt cutter must have a full-width handgrip, designed with a protective blade to minimize risk to the operator or others during use. 
+
+(c) 
+The seat belt cutter must be located and secured in the driver's compartment, within the driver's reach at all times while the driver is seated in the driver's seat. 
+
+(d) The seat belt cutter may not be located in the first-aid kit. 
+
+(e) 
+If a seat belt cutter is located in a compartment, the compartment must be labeled with the words "Seat Belt Cutter" or similar description. 
+
+(f) 
+On a bus equipped with a lift, a seat belt cutter must be placed as near as possible to the lift location in such manner as to be nonaccessible to children. (State School Bus Committee; 575 IAC 1-9-7; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR­575130244FRA) 
+
+
+
+575 IAC 1-9-8 Book rack 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27-9 
+
+Sec. 8. An overhead parcel rack is allowed on MFSABs only. (State School Bus Committee; 575 IAC 1-9-8; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-9-9 Brakes 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27-9 
+
+Sec. 9. (a) Brake lining areas may be protected by adequate dust covers. 
+(b) Air-brake systems must have a heated air dryer. (State School Bus Committee; 575 IAC 1-9-9; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-9-10 Bumper, front 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27-9 
+
+Sec. 10. (a) The front bumper must extend to the outer edges of the fenders at the bumper top line and be made of pressed steel channel that is at least three-sixteenths (3/16) inch thick. 
+(b) Type A bus front bumpers must meet manufacturer standards. (State School Bus Committee; 575 IAC 1-9-10; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-9-11 Bumper, rear 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27-9 
+Sec. 11. (a) The rear bumper must be made of pressed steel channel that is at least three-sixteenths (3/16) inch thick and eight (8) inches high. 
+(b) 
+The bumper must wrap around the back corners of the bus. It must extend twelve (12) inches forward measured from the rear-most point of the body and must extend at least one (1) inch beyond the rear-most part of the body surface when measured from the ground. 
+
+(c) 
+The way in which the bumper is attached must prevent the hitching of rides. The bumper must detach easily from the chassis frame. 
+
+(d) The bumper must be braced to withstand rear or side impact. 
+
+(e) 
+A trailer hitch is not permitted. (State School Bus Committee; 575 IAC 1-9-11; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+
+
+575 IAC 1-9-12 Cameras, exterior backup 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27-9 
+Sec. 12. (a) An exterior camera to view the back of the bus may be used. 
+(b) The camera must be activated only when the bus transmission is placed in reverse. 
+(c) 
+The monitor to view the backup camera video must be integrated into the interior rearview mirror without increasing the height or width of the mirror. 
+
+(d) 
+A maximum of two (2) cameras mounted in such a manner as to not interfere with any doors, windows, lights, or reflective material may be used to view the back of the bus. 
+
+(e) 
+Recording equipment must be mounted in such a manner as to not interfere with the movement of the driver or passengers or full access to any emergency equipment. (State School Bus Committee; 575 IAC 1-9-12; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+
+
+575 IAC 1-9-13 Cameras, interior 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27-9 
+Sec. 13. (a) Cameras may be mounted in the front, side, back, or midship of the bus with the following restrictions: 
+(1) 
+A camera that is mounted midship may not be mounted in the head impact zone and may hang down not more than four 
+
+(4) 
+inches from the inside of the bus roof. 
+
+(2) 
+A camera that is mounted in front of a front bulkhead that has an emergency equipment access door must not impede full access to the emergency equipment. 
+
+(3) 
+A camera that is mounted on the windshield or dash must not interfere with the driver's view out of the windshield when the driver is seated in a normal driving position. 
+
+(b) 
+Corners and sharp edges must be rounded or covered with a protective material. 
+
+
+(c) Recording equipment must be mounted in such a manner as to not interfere with the movement of the driver or passengers, or full access to any emergency equipment. (State School Bus Committee; 575 IAC 1-9-13; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-9-14 Cameras, stop arm 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27-9 
+Sec. 14. (a) Camera images taken by a stop-arm camera: 
+(1) 
+may be photo, micro-photo or electronic; and 
+
+(2) 
+must be discernible in any lighting condition without use of visible flash. 
+
+(b) 
+Cameras may be mounted as follows: 
+
+(1) 
+On the right or left or both sides of the bus. 
+
+(2) 
+Inside or outside the bus or both, with the following restrictions: 
+
+(A) 
+Outside cameras may not extend over six (6) inches out from the side of the bus. 
+
+(B) 
+Inside camera must be attached to the windshield or dash in such a manner as to not interfere with the driver's view out of the windshield when the driver is seated in a normal driving position. 
+
+
+
+(c) 
+A camera must be mounted in a manner that allows it to capture the following: 
+
+(1) 
+The image of the "STOP" sign when deployed and the red lights when flashing. 
+
+(2) 
+The image of the rear license plate of an illegally passing vehicle. 
+
+(3) 
+The image of up to two (2) lanes immediately to the left or right or both sides of the bus. 
+
+(d) 
+A camera must not be driver activated or operate in a manner that distracts the driver. 
+
+(e) 
+A camera must not obstruct the driver's direct line of sight in any direction. 
+
+
+(f) Recording equipment must be mounted so as to not interfere with the movement of the driver or passengers, or full access to any emergency equipment. (State School Bus Committee; 575 IAC 1-9-14; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR­575130244FRA) 
+
+575 IAC 1-9-15 Child alert notification systems 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27-9 
+Sec. 15. (a) A child alert notification system is required on every bus manufactured after January 1, 2015. 
+(b) 
+The device must not affect or interfere with any other existing operating or electrical component (for example, turn signals, brake lights, stop signal arm). 
+
+(c) 
+The device must: 
+
+(1) 
+permit the driver complete control of the ignition switch; and 
+
+(2) 
+not interfere with engine operation or shutdown. 
+
+
+
+(d) 
+When the ignition switch is in the ON or ACCESSORY positions, the device must be in standby mode and silent. The device may have an indicator light within normal view of the driver indicating the device is operational and in standby mode. 
+
+(e) The indicator light must be labeled and identified. 
+
+(f) 
+When the ignition is turned OFF, a timer must be automatically set. The amount of delay may not exceed two (2) minutes and may be programmable up to the maximum limit. The device may emit a reminder tone or signal during the delay period. 
+
+(g) 
+When the time delay expires and the driver has not activated the reset switch or turned the ignition to the ON or ACCESSORY position, the device must activate the horn. The horn must sound intermittently and continuously until the reset switch is pressed or electrical power is restored with the ignition switch. 
+
+(h) The reset switch must be a push-button type and not require a key. An override (bypass) capability is prohibited. 
+
+(i) 
+The reset switch must be mounted on the interior rear of the bus behind the rearmost seat or wheelchair location. (State School Bus Committee; 575 IAC 1-9-15; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA; errata filed Sep 18, 2014, 
+
+
+10:40 a.m.: 20141015-IR-575140377ACA) 
+
+575 IAC 1-9-16 Color and lettering 
+Authority: IC 20-27-3-5 
+Affected: IC 20-27-9 
+Sec. 16. (a) Special purpose buses and MFSABs are exempt from the requirements in this section. 
+(b) 
+The chassis must be black. The hood, cowl, and fenders must be National School Bus Yellow. The top of the hood may be painted a low-luster National School Bus Yellow to minimize glare factor. 
+
+(c) 
+The grill and air intake vent may be black, National School Bus Yellow, or chrome plated. 
+
+(d) 
+Wheel rims may be gray or black. 
+
+
+
+(e) 
+The only permissible applications on the front bumper are a yellow bus number, black, abrasive, nonskid tape, or black reflective tape. 
+
+(f) 
+Only the logo and emblems of the school bus manufacturer may be placed on the rear bumper. The bumper: 
+
+(1) 
+must be black; and 
+
+
+
+(2) 
+may have black reflective tape. Chrome bumpers are prohibited. 
+
+(g) The school bus body must be painted National School Bus Yellow. 
+
+(h) 
+The trim, all the lamp hoods, and an area around the lens of each alternately flashing signal lamp, extending outward approximately three (3) inches, must be painted black. 
+
+(i) 
+The roof of the bus may be painted white not to extend below the drip rails on the sides of the body, except that the front and rear roof caps must remain National School Bus Yellow. 
+
+(j) 
+Window pilasters (vertical headers) may be black. 
+
+(k) 
+A rear air foil may be used. The air foil: 
+
+(1) 
+may not obscure marker or warning or strobe lights; 
+
+(2) 
+must be adjustable; and 
+
+(3) 
+must be National School Bus Yellow in color. 
+
+(l) 
+All exterior lettering and the emergency door arrow must be black with paint or vinyl. 
+
+
+
+(m) 
+All buses must have the words "School Bus" printed in block letters at least eight (8) inches high between the warning signal lamps on the outside of the bus body. 
+
+(n) 
+The name of the school district must be placed on each side of the bus with four (4) to six (6) inch high black letters. The number may be placed on the side, the front, or the back of the vehicle. If the number is placed on the side of the bus, it must conform to the specifications for lettering in subsection (p). A number placed on the front or back bumpers must be yellow. 
+
+(o) 
+The school corporation name, as assigned by the department of education office of school transportation, must be placed on the rear emergency door midway between the top and bottom of the door of all buses with a body build date of January 1, 2016, or after. The characters must be at least two (2) inches high and may be on two (2) consecutive lines. On Type D school buses, the school corporation name must appear in a corresponding location on the engine access cover. 
+
+(p) 
+All lettering must be black and must conform to Series "B" of the standard alphabets for highway signs. 
+
+(q) 
+The name and title of the driver or owner, or both: 
+
+(1) 
+may appear on the exterior of the bus in black in lettering that is not more than two (2) inches high; and 
+
+(2) 
+must be placed on the right side of the bus, behind the service door and midway between the window line and the floor line. 
+
+(r) 
+The bus number may appear on the exterior of the roof in black lettering that is not more than three (3) feet high and three 
+
+
+
+(3) 
+inches wide. 
+
+(s) 
+No other lettering is authorized. 
+
+(t) 
+Exterior mirror backs and bracket supports must be black or stainless steel. 
+
+(u) 
+All rub rails must be black. 
+
+
+
+(v) 
+A vinyl wrap may be used on a special purpose bus provided that mandated signage and lettering adhere to the requirements of this section and no windows are covered. (State School Bus Committee; 575 IAC 1-9-16; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA; filed Jul 24, 2015, 3:55 p.m.: 20150819-IR-575140350FRA) 
+
+
+
+575 IAC 1-9-17 Communication system 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27-9 
+
+Sec. 17. A one-way or two-way radio communication system may be installed in the bus. Its controls must be accessible to the driver. The system must be designed and installed to prevent injuries to the driver and passengers in the event of sudden stops. 
+(State School Bus Committee; 575 IAC 1-9-17; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-9-18 Construction 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27-9 
+
+Sec. 18. (a) The bus body must be constructed to withstand an intrusion force equal to: 
+(1) the curb weight of the vehicle; or 
+(2) 
+twenty thousand (20,000) pounds; whichever is less. Each vehicle must be capable of meeting this requirement when tested in accordance with the procedures set forth in subsection (b). The complete body structure, or a representative seven-body section mockup with seats installed, must be load tested at a location twenty-four (24) inches, plus or minus two (2) inches, above the floor line with a maximum ten (10) inch diameter cylinder, forty-eight (48) inches long, mounted in a horizontal plane. 
+
+(b) 
+The cylinder must be placed as close as practical to the midpoint of the tested structure, spanning two (2) internal vertical structuralmembers.Thecylinder mustbestaticallyloadedtotherequiredforceofcurbweightor twentythousand(20,000)pounds, whichever is less, in a horizontal plane with the load applied from the exterior toward the interior of the test structure. When the minimum load has been applied, the penetration of the loading cylinder into the passenger compartment must not exceed ten (10) inches from its original point of contact. There may be no separation of lapped panels or construction joints. Punctures, tears, or breaks in the external panels are acceptable but are not permitted on any adjacent interior panel. Body companies must certify compliance with this intrusion requirement and include test results, as requested. 
+
+(c) 
+The body construction must be reasonably dustproof and watertight. 
+
+(d) 
+The bus body must be securely attached to the chassis. (State School Bus Committee; 575 IAC 1-9-18; filed Aug 15, 2014, 
+
+
+
+
+10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-9-19 Crossing control arm 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27-9 
+
+Sec. 19. (a) School buses may be equipped with a crossing control arm mounted on the right side of the front bumper. When opened, this arm must extend in a line parallel to the body side and aligned with the right front wheel. 
+(b) 
+All components of the crossing control arm and all connections must be weatherproofed. 
+
+(c) 
+The crossing control arm must: 
+
+(1) 
+incorporate system connectors (electrical, vacuum, or air) at the gate; and 
+
+(2) 
+be easily removable to allow for towing of the bus. 
+
+(d) 
+The crossing control arm must be: 
+
+(1) 
+constructed of noncorrodible or nonferrous material; or 
+
+(2) 
+treated in accordance with the body sheet metal specification. 
+
+
+(e) There must be no sharp edges or projections that could cause injury or be a hazard to students. The end of the arm must be rounded. 
+(f) The crossing control arm must extend a minimum of seventy (70) inches (measured from the bumper at the arm assembly attachment point) when in the extended position. 
+(g) The crossing control arm must not extend past the end of the bumper when in the stowed position. 
+(h) 
+The crossing control arm must extend simultaneously with the stop signal arm or arms, activated by stop signal arm controls. 
+
+(i) An automatic recycling interrupt switch may be installed for temporarily disabling the crossing control arm. 
+
+(j) 
+The assembly must include a device attached to the bumper near the end of the arm to automatically retain the arm while in the stowed position. That device must not interfere with normal operations of the crossing control arm. 
+
+(k) 
+The crossing control arm may have an override switch that disallows the use of the crossing arm when the emergency brake is engaged. (State School Bus Committee; 575 IAC 1-9-19; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+
+
+575 IAC 1-9-20 Criminal trespass decal 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27-9 
+
+Sec. 20. A decal warning about criminal trespass on a school bus may be allowed on the face of a step riser. The message must be one (1) line not to exceed the width of the riser in block style letters not less than two (2) inches and not more than four 
+(4) inches in height and of a color that contrasts with its background. (State School Bus Committee; 575 IAC 1-9-20; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-9-21 Defroster 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27-9 
+
+Sec. 21. (a) Each bus must have a windshield defroster and defogging system that conforms to applicable SAE standards. The system must keep the windshield, the side window to the left of the driver, and the glass entrance doors clear of fog, frost, and snow. It must be capable of heating outside ambient air. The system may use heat directly from an approved heater or auxiliary heater or heaters. 
+(b) Auxiliary fans may be used to recirculate the air but are not considered to be part of the defrosting system. Auxiliary fans must: 
+(1) 
+be placed in an accessible location; 
+
+(2) 
+be at least six (6) inches in diameter each; 
+
+(3) 
+have a protective cage, which must cover the fan blades; and 
+
+(4) 
+be controlled separately from the defroster system. 
+
+
+(State School Bus Committee; 575 IAC 1-9-21; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-9-22 Doors 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27-9 
+
+Sec. 22. (a) The doors of any bus manufactured after January 1, 2015, must be a: 
+(1) 
+split-type door that opens outward; or 
+
+(2) 
+sedan-type door. 
+
+(b) 
+As follows, the passenger service door must: 
+
+(1) 
+Be power or manually operated by the driver and must open easily but must not open accidentally. The controls for an air, vacuum, or electric powered service door must be located close to the driver's seat. A hand lever on a service door must be designed to prevent hand injuries. 
+
+(2) 
+Be located on the side opposite the driver and within the driver's direct view. 
+
+(3) 
+Except sedan-type doors, for doors on a Type A bus, have a minimum horizontal opening of twenty-four (24) inches and a minimum vertical opening of fifty-four (54) inches. 
+
+(4) 
+Except sedan-type doors, for doors on Type B, Type C, and Type D buses, have a minimum horizontal opening of twenty-four (24) inches and a minimum vertical opening of sixty-eight (68) inches. 
+
+(5) 
+Have a single glass panel for each door or lower and upper panels in each door, all made of safety glass. The bottom of the lower glass panel must not be more than thirty-five (35) inches from the ground when the bus is unloaded. The tops of the upper glass panels must not be more than six (6) inches from the top of the door. 
+
+(6) 
+Have flexible material covering the vertical closing edges of each door. 
+
+(7) 
+Have interior padding at least three (3) inches wide and one (1) inch thick, covering the full width of the top of each door opening. 
+
+(c) 
+There may be a driver's service door to the left of the driver's seat. 
+
+(d) 
+As follows, the emergency door must: 
+
+(1) 
+Be located in the center of the back of the bus or in the back half of the driver's side of the bus. 
+
+(2) 
+If located on the left side of a Type D bus, have an emergency push-out window at the rear of the bus that is at least sixteen (16) inches by fifty-four (54) inches. 
+
+(3) 
+On a Type A bus, have a minimum horizontal opening of twenty-four (24) inches and a minimum vertical opening of forty-seven (47) inches, measured from the floor. 
+
+(4) 
+On a Type B, Type C, or Type D bus, have a minimum horizontal opening of twenty-four (24) inches and a minimum vertical opening of forty-eight (48) inches, measured from the floor. 
+
+(5) 
+Have the words "EMERGENCY DOOR" or "EMERGENCY EXIT" spelled in block-letters that are at least two (2) inches high, placed above the emergency door on both the interior and exterior of the bus. 
+
+(6) 
+If hinged, the door must be operable from the inside and outside of the bus and be equipped with a fastening device that releases quickly but not accidentally. The device that that opens the emergency door from the outside must be designed to prohibit the hitching of rides. Each door must have a label on it that explains how to operate the door. Operation of the emergency door must not be controlled from the driver's seat. 
+
+(7) 
+Be equipped with a slide-bar, cam-operated lock that has a minimum stroke of one (1) inch. All emergency door locks must have an electric plunger-type switch that is connected to a buzzer in the driver's compartment. The switch must be enclosed to prevent deactivation, and wires leading from the switch must be concealed in the bus body. Any movement of the slide-bar must immediately activate the switch and the buzzer. The emergency door lock must have an interior handle that extends approximately to the center of the emergency door. The lock may be released only by lifting the handle. 
+
+(8) 
+Be hinged on the right side if the door is located in the back of the bus or be hinged on the front side if located on the driver's side of the bus. 
+
+(9) 
+Have no steps leading to the emergency door. 
+
+(10) 
+Contain at least four hundred (400) square inches of safety glass in the upper portion and three hundred fifty (350) square inches in the lower portion. 
+
+(11) 
+Have an audible signal that alerts the driver when the emergency door is open. 
+
+(12) 
+Have interior padding, at least three (3) inches wide and one (1) inch thick, covering the full width of the top of the door opening. 
+
+
+(e) 
+If using a flip seat, when the seat is upright, there must be at least twelve (12) inches between the forwardmost portion of the rear door opening and the back of the seat in front of the flip-up seat. 
+
+(f) 
+Passageway to the service and rear emergency doors must not be obstructed by any object, except as allowed in subsection (e). 
+
+(g) Bulkhead doors must have a hold open device. 
+
+(h) 
+An anti-vandalism security device installed on the emergency doors must prevent the ignition system of the bus from activating if the emergency door is locked or inoperable from either the inside or the outside of the bus and must audibly alert the driver and prevent the engine from shutting off if the door lock is closed after the engine has started. 
+
+(i) 
+An anti-vandalism security device installed on the service door must be manufacturer designed and approved by the state school bus committee so that the door can be locked from only the outside. The device may be manually operated, or electrically 
+
+
+operated ifthedevicecan bemanuallyoperatedin theeventofapower failure. (State School Bus Committee; 575 IAC 1-9-22; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-9-23 Drive shaft 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27-9 
+
+Sec. 23. Each individual section of the drive shaft must be protected by metal guards that are located approximately at the midpoint of each section of shaft. (State School Bus Committee; 575 IAC 1-9-23; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR­575130244FRA) 
+
+575 IAC 1-9-24 Electrical system 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27-9 
+
+Sec. 24. (a) For Type A school buses, the alternator and rectifier must have a minimum output capacity of one hundred forty 
+(140) amperes. 
+(b)For TypeBschoolbuses,thealternator andrectifier musthaveaminimumoutputcapacityoftwohundred(200)amperes. A single belt drive is permissible. 
+(c) 
+For Type C school buses, the alternator with a rectifier must have a minimum output capacity of two hundred (200) amperes. The alternator must: 
+
+(1) 
+have a minimum charging rate of forty (40) amperes at the manufacturer's recommended engine idling speed; 
+
+(2) 
+be ventilated; 
+
+(3) 
+be voltage controlled; and 
+
+
+
+(4) 
+have a dual belt drive, or an approved equivalent. The voltage regulator must be compatible with the alternator. 
+
+(d) 
+For Type D school buses, the alternator with a rectifier must have a minimum output capacity of two hundred (200) amperes. The alternator must: 
+
+(1) 
+have a minimum charging rate of forty (40) amperes at the manufacturer's recommended engine idling speed (twelve 
+
+(12) 
+volt system); 
+
+(2) 
+be ventilated; and 
+
+
+
+(3) 
+be voltage controlled. The dual belt drive or an approved equivalent must be used with the alternator. The voltage regulator must be compatible with the alternator. 
+
+(e) Tor Type A school buses, batteries installed must be per manufacturer standard. 
+
+(f) 
+For Type B, Type C, and Type D school buses, each battery must be conventional (lead-antimony) or maintenance-free sealed (lead-calcium). Each battery system must be twelve (12) volt and have a minimum rating of 1100 CCA (cold cranking amperes) at zero (0) degrees Fahrenheit. If the battery is mounted outside of the engine compartment, it may be temporarily mounted to the chassis. One-piece battery cables of sufficient length to service batteries when mounted in a battery box must be used. 
+
+(g) Subsections (a) through (f) do not apply to buses without alternators. 
+
+(h) 
+All electrical standards must be in accordance with the most current and appropriate Society of Automotive Engineers standard. 
+
+(i) 
+The chassis may have the following instruments and gauges: 
+
+(1) 
+Speedometer. 
+
+(2) 
+Odometer that will indicate accrued mileage, calibrated in tenths of miles. 
+
+(3) 
+Voltmeter or ammeter. 
+
+(4) 
+Oil pressure gauge. 
+
+(5) 
+Water temperature gauge. 
+
+(6) 
+Fuel gauge. 
+
+(7) 
+Upper beam headlamp indicator. 
+
+(8) 
+Brake warning light. 
+
+(9) 
+Diesel exhaust fluid gauge. 
+
+
+
+(j) 
+All instruments must be easily accessible for maintenance and repair. The following instruments must be installed in rear-engine units: 
+
+(1) 
+Voltmeter or ammeter. 
+
+(2) 
+Oil pressure gauge. 
+
+(3) 
+Water temperature gauge. 
+
+
+
+(4) 
+Safety (kill) switch. The rear-engine starter switch must not be activated when the transmission is engaged. The instrument panel must have lamps of sufficient candlepower to illuminate all instruments and gauges. 
+
+(k) 
+All wiring must conform to the current standards of the Society of Automotive Engineers and to the manufacturer's standards. The chassis manufacturer must install a terminal strip or plug either on the body side of the cowl or in an accessible location in the engine compartment of a bus without a cowl that contains the following body connection terminals: 
+
+(1) 
+Main one hundred (100) amp body circuit. 
+
+(2) 
+Head, parking, tail, and instrument panel lamps. 
+
+(3) 
+Stop lamps. 
+
+(4) 
+Starter (open circuit). 
+
+(5) 
+Ignition (open circuit). 
+
+(6) 
+Horn. 
+
+(7) 
+Self-canceling turn signal switch. 
+
+(8) 
+Hazard warning switch. 
+
+(9) 
+Backup lamps. 
+
+(10) 
+Instrument panel lights that are rheostat-controlled by head lamp switch. 
+
+(l) 
+The ignition switch must be located either on the: 
+
+(1) 
+right side of the steering column; or 
+
+(2) 
+instrument panel to the right of the steering column. 
+
+
+
+(m) 
+An electrical or mechanical tachometer/tachograph may be used. (State School Bus Committee; 575 IAC 1-9-24; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+
+
+575 IAC 1-9-25 Emergency blanket 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27-9 
+
+Sec. 25. An emergency blanket is permissible. The finished size must be a minimum of thirty (30) inches by ninety-six (96) inches with hand holds (loops or openings) on each side. The blanket must be: 
+(1) 
+stowed in a labeled container and secured in the driver's area; and 
+
+(2) 
+constructed of fire-resistant material that meets Federal Aviation Administration specification 14 CFR 25.853. 
+
+
+(State School Bus Committee; 575 IAC 1-9-25; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-9-26 Emergency equipment; bodily fluid spill kits and materials 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27-9 
+
+Sec. 26. (a) School buses may carry a dustproof and detachable bodily fluid spill kit that is commercially produced. The kit must not have sharp protrusions and must be securely mounted on the inside of the bus, in an accessible location, in the driver's compartment. Minimum contents of the kit should include the following items, as recommended by the state department of health: 
+(1) 
+Gloves (rubber or plastic). 
+
+(2) 
+Bleach or appropriate disinfectant (dry, chlorine absorbent). 
+
+(3) 
+Leakproof bags. 
+
+(4) 
+Soap. 
+
+(5) 
+Paper towels. 
+
+
+(b) School buses may also carry bodily fluid spill kits that have been produced by school corporations. The kit must meet the same requirements and contain the same materials as described in subsection (a). (State School Bus Committee; 575 IAC 1-9-26; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-9-27 Emergency equipment; fire extinguisher 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27-9 
+Sec. 27. (a) Each bus must have at least one (1) dry-chemical fire extinguisher that is equipped with a pressure gauge and has a five (5) pound capacity. 
+(b) 
+The extinguisher must be: 
+
+(1) 
+mounted in an appropriate extinguisher bracket; and 
+
+
+(2) accessible to the driver. The fire extinguisher may be mounted in a bulkhead or storage compartment in accordance with section 28 of this rule. 
+(c) 
+The fire extinguisher must display an Underwriter's Laboratories, Inc. rating of not less than 2A 10-B-C. 
+
+(d) 
+Each fire extinguisher must have a flexible hose. (State School Bus Committee; 575 IAC 1-9-27; filed Aug 15, 2014, 
+
+
+10:20 a.m.: 20140910-IR-575130244FRA; errata filed Oct 26, 2015, 3:28 p.m.: 20151111-IR-575150374ACA) 
+
+575 IAC 1-9-28 Emergency equipment; first-aid kit 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27-9 
+Sec. 28. (a) Each school bus must carry a dustproof, detachable first-aid kit that: 
+(1) 
+does not have sharp protrusions; 
+
+(2) 
+can accommodate at least ten (10) units; and 
+
+(3) 
+does not require tools to open. 
+
+
+(b) The kit must be mounted in plain view, or in a bulkhead or storage compartment, on the inside of the bus and in a location that is accessible to the driver. If the first-aid kit is located in the bulkhead, it must be secured and the cover of the bulkhead or storage compartment must be clearly labeled "Emergency Equipment". 
+(c) 
+All first-aid kits are subject to inspection by the Indiana state police. 
+
+(d) 
+Contents must be replaced in accordance with the first-aid kit manufacturer's suggestions. 
+
+
+(e) A ten (10) unit kit minimum must contain the items listed as follows:  
+Item  No. Per Pkg.  
+ADH STRIP 1X516J8X  1  
+BOX #1-002 ADH STRIP 16/BX  1  
+ADH STRIP 1×3 PLASTIC BULK  16  
+SCISSOR BULK  1  
+TRIANGULAR BANDAGE 1/BAG  2  
+GAUZE PAD 3×3 BULK  6  
+
+GAUZE STRETCH 2×5 N/S BULK  4  
+EYE PAD STERILE BULK  3  
+TAPE ADH 1×5 BULK  1  
+LABEL INSTRUCTION  1  
+
+(State School Bus Committee; 575 IAC 1-9-28; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-9-29 Emergency equipment; triangles 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27-9 
+Sec. 29. (a) Each school bus must contain at least three (3) reflective triangle road warning devices. 
+(b) The triangles must be located in an accessible location in the driver's compartment. (State School Bus Committee; 575 IAC 1-9-29; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-9-30 Engine compartment fire extinguisher 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27-9 
+Sec. 30. (a) School buses may be equipped with an engine compartment fire extinguisher that has been approved by Underwriter's Laboratories, Inc. 
+(b) 
+An engine compartment fire extinguisher's cylinder must: 
+
+(1) 
+be placed in the driver's compartment; 
+
+(2) 
+be installed so that the lines from the cylinder pass through the firewall of the bus to each side of the engine; 
+
+(3) 
+have a gauge that indicates pounds per square inch; and 
+
+(4) 
+include a pull cable that: 
+
+(A) 
+can be controlled from the driver's control panel; 
+
+(B) 
+is connected to the discharge valve; and 
+
+(C) 
+is identified clearly with the words "Pull for engine fire only". 
+
+
+
+
+(c) A discharge head must be placed on the end of each line of the fire extinguisher's cylinder. (State School Bus Committee; 575 IAC 1-9-30; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-9-31 Engine heater 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27-9 
+Sec. 31. An engine heater may be used. (State School Bus Committee; 575 IAC 1-9-31; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-9-32 Exhaust system 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27-9 
+Sec. 32. (a) The exhaust pipe, muffler, and tailpipe must be outside the bus body and attached to the chassis per the manufacturer's standards. The tailpipe must be constructed of seamless or electrically welded tubing that is at least 16-gauge steel or its equivalent. 
+(b) The size of the tailpipe as received from the manufacturer may not be altered. 
+(c) 
+The furthest point of the tailpipe may be flush with, or must not extend more than one (1) inch beyond, the perimeter of the body for side-exit pipe or the bumper for rear-exit pipe. The exhaust system must be designed such that exhaust gas will not be trapped under the body of the bus. 
+
+(d) 
+A one (1) piece bellows-type pipe that extends from the manifold to the muffler may be used in the exhaust system. (State School Bus Committee; 575 IAC 1-9-32; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+
+
+575 IAC 1-9-33 Floor 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27-9 
+
+Sec. 33. (a) The floor must be made of commercial quality 14-gauge galvanized steel or other material with equivalent strength. 
+(b) 
+Plywood must be used on top of a steel floor. The plywood must be a minimum of one-half (1/2) inch thick and must equal or exceed properties of exterior-type plywood C-D Grade as specified in standards issued by the U.S. Department of Commerce. The floor must be level, except in the wheel housing, the toe-board, the driver's compartment, and the fill-pipe cover areas. 
+
+(c) 
+The floor under the seats, including on top of the wheel housings, in the driver's compartment, and on the toe-board, must have fire-resistant covering that has a minimum thickness of one-eighth (1/8) of an inch. 
+
+(d) 
+The floor covering in the aisle, including the platform area, must be fire-resistant, rubber or equivalent, nonskid, wear-resistant, and ribbed with a minimum thickness of three-sixteenths (3/16) of an inch measured from the tops of the ribs. Floor covering must meet federal specifications. 
+
+(e) 
+The floor covering must be water-resistant and permanently bonded to the floor with a waterproof adhesive. All seams must be sealed with waterproof sealer. 
+
+(f) 
+The floor of each school bus, MFSAB, or special purpose bus must be marked with a yellow or white, two (2) to four (4) inch wide insert, located behind the driver's seat and perpendicular to the longitudinal axis of the bus. A sign at the front of the bus must indicate that occupancy forward of the insert is prohibited. (State School Bus Committee; 575 IAC 1-9-33; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+
+
+575 IAC 1-9-34 Frame 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27-9 
+
+Sec. 34. (a) Frame side members must be constructed in one (1) piece and placed between front and rear spring hangers. Only thebodyor chassismanufacturer maydesign,furnish,and install framesidemember extensions. Nosidemember maybeextended unless the installer warrants the extension to be free of defects. Extensions of frame length are permissible only when the extension does not extend the wheel base. 
+(b) 
+No holes in the flanges of the frame side rails, other than those provided for in the original chassis frame, are permitted. No one, other than the chassis or body manufacturer, may weld the side rails or anything to the side rails. 
+
+(c) All frame repairs must be verified in writing to meet or exceed federal and Indiana state minimum standards. 
+
+(d) 
+A trailer hitch is not permitted on school and special purpose buses. (State School Bus Committee; 575 IAC 1-9-34; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+
+
+575 IAC 1-9-35 Fuel system 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27-9 
+
+Sec. 35. (a) A diesel engine must have a heated fuel/water separator. The fuel/water separator may have a sight bowl or a warning indicator on the instrument panel. 
+(b) 
+The following fuels may be used: 
+
+(1) 
+Diesel or biodiesel. 
+
+(2) 
+Liquefied petroleum (LP). 
+
+(3) 
+Compressed natural gas (CNG). 
+
+(4) 
+Gasoline and a combination of dual fuels. 
+
+
+(c) 
+Guidelines for the installation and use of LP, CNG, and dual fuel systems as provided from the office of school transportation in the department of education must be followed. 
+
+(d) 
+One (1) or two (2) inspection plates must be used to make the fuel system connections accessible. The plates must be mounted flush with the floor and may be covered with floor covering. Plates are not required on Type A school buses. 
+
+(e) 
+Type A school buses are not required to meet the standard in subsection (a). (State School Bus Committee; 575 IAC 1-9­35; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+
+
+575 IAC 1-9-36 Global positioning systems 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27-9 
+
+Sec. 36. (a) A global positioning system (GPS) may be used. 
+(b) 
+View screens must be mounted in such manner as to not interfere with the driver's view in any direction when the driver is seated in a normal driving position. 
+
+(c) View screens must not be active when the bus is in motion. 
+
+(d) 
+Verbal turn-by-turn instructions from a bus-mounted system may be used while the bus is in motion only if the directions are audible within the driver's compartment but not through the AM/FM radio speakers. 
+
+(e) 
+Recording equipment must be mounted so as to not interfere with the movement of the driver or passengers, or full access to any emergency equipment. (State School Bus Committee; 575 IAC 1-9-36; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR­575130244FRA) 
+
+
+
+575 IAC 1-9-37 Governor 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27-9 
+
+Sec. 37. A governor may be used per the manufacturer's standards. (State School Bus Committee; 575 IAC 1-9-37; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-9-38 Heaters 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27-9 
+
+Sec. 38. (a) The heating system must be capable of maintaining an inside temperature of forty (40) degrees Fahrenheit. Hot water heaters must conform to the School Bus Manufacturers' Association Standard Code for Testing and Rating Automotive Bus Hot Water and Ventilating Equipment (SBMTC-001). 
+(b) 
+All exposed rubber or plastic hose in the interior of the bus must be shielded to prevent harm to the driver and passengers. 
+
+(c) 
+There must be a temperature regulating device that is accessible to the bus driver. 
+
+(d) 
+Each hot water system must include an accessible shutoff valve installed in the pressure and return lines. 
+
+(e) 
+Heater motors, cores, and fans must be accessible for service. Access panels may be provided if necessary. 
+
+
+(f) Portable heaters are prohibited. (State School Bus Committee; 575 IAC 1-9-38; filed Aug 15, 2014, 10:20 a.m.: 20140910­IR-575130244FRA) 
+
+575 IAC 1-9-39 Heating system water lines 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27-9 
+
+Sec. 39. The chassis engine must have plugged openings for the purpose of supplying hot water for the bus heating system. The engine must be capable of supplying coolant at a temperature of at least one hundred seventy (170) degrees Fahrenheit at the engine coolant thermostat opening. The coolant flow rate must be fifty (50) pounds per minute at the return end of thirty (30) feet of one (1) inch inside diameter automotive hot water heater hose. (See SBMTC-001, Standard Code for Testing and Rating Automotive Bus Hot Water Heating and Ventilating Equipment.) (State School Bus Committee; 575 IAC 1-9-39; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-9-40 Horn 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27-9 
+
+Sec. 40. (a) Each bus must have an electric horn that meets manufacturer's standards. 
+(b) An air horn may be used if the horn is installed under the hood or body of the school bus. (State School Bus Committee; 575 IAC 1-9-40; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-9-41 Inside height 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27-9 
+
+Sec. 41. Measured from the front vertical bow to the rear vertical bow at any point on the longitudinal center line: 
+(1) 
+the inside of a Type A school bus body must be at least sixty-two (62) inches high; and 
+
+(2) 
+the inside of Type B, Type C, and Type D school bus bodies must be at least seventy-two (72) inches high. 
+
+
+(State School Bus Committee; 575 IAC 1-9-41; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-9-42 Insulation 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27-9 
+
+Sec. 42. All ceiling and walls must be insulated with materials to minimize sound and vibrations. At least one (1) inch thick thermal insulation must be installed between panels to prevent settling to a minimum R-value of 5.5. All materials must be fire-resistant material and approved by the Underwriter's Laboratories, Inc. (State School Bus Committee; 575 IAC 1-9-42; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-9-43 Interior 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27-9 
+
+Sec. 43. (a) All ceiling and walls must include inner lining. If the joints in the ceiling overlap, each rear panel must overlap each forward panel. Exposed edges must be beaded, hemmed, or flanged to eliminate sharp edges. 
+(b) 
+All dangerous protrusions must be eliminated from the interior of the bus. 
+
+(c) 
+The noise level in the bus must not exceed ninety (90) decibels when measured in accordance with FMCSR 393.94. 
+
+(d) 
+Seat assignment designators and the driver's name are allowed as long as the viewable area does not exceed fifty-four 
+
+
+(54) square inches. (State School Bus Committee; 575 IAC 1-9-43; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-9-44 Interior storage, rear MFSAB only 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27-9 
+
+Sec. 44. A storage container for student items (primarily extracurricular activity equipment) may be located inside the passenger compartment. The storage container must: 
+(1) 
+be: 
+
+(A) 
+located behind the rear most passenger seat; 
+
+(B) 
+fastened to the floor; and 
+
+(C) 
+not blocking any emergency exit; and 
+
+
+
+(2) 
+have a cover with a positive fastening device. 
+
+
+(State School Bus Committee; 575 IAC 1-9-44; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-9-45 Internal and external speakers 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27-9 
+
+Sec. 45. (a) Internal and external speakers that are used for communication may be installed in the bus with the permission of the local governing body. 
+(b) 
+Internal speakers must: 
+
+(1) 
+be designed and installed to prevent injury; and 
+
+
+(2) 
+have no sharp corners or protrusions. Locations of the first speaker must be located behind the first body section. 
+
+(c) 
+External speakers must not extend beyond the bus body and must not obstruct visibility of the flashing warning lights, the clearance lights, and any identification lights or lettering. (State School Bus Committee; 575 IAC 1-9-45; filed Aug 15, 2014, 
+
+
+10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-9-46 Lamps and signals; front 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27-9 
+
+Sec. 46. (a) The front of the bus must have two (2) amber turn signals that meet FMVSS 108. 
+(b) 
+One (1) or two (2) fog lamps are permitted. Fog lamps must: 
+
+(1) 
+be permanently mounted on the front bumper; 
+
+(2) 
+measuring from the center of each lamp, be twelve (12) to thirty (30) inches above the ground when measured from the center of each lamp; 
+
+(3) 
+if two (2) lamps are used, each be placed not more than fifteen (15) inches from the center of the front bumper; 
+
+(4) 
+adjust vertically and horizontally; 
+
+(5) 
+adequately illuminate the area in front of the bus; 
+
+(6) 
+including all wiring, meet the Society of Automotive Engineers standards for "Electric Head Lamps for Motor Vehicles" or "Sealed Beam Lamp Units for Motor Vehicles"; and 
+
+(7) 
+be controlled by an independent switch and powered by an independent fuse or breaker, or both. 
+
+
+(c) A driver may use a system to indicate whether the bus lights are working correctly as long as the system does not monitor only the electrical currents and whether the current is traveling to a lamp. The system must be accessible from the driver's seat. 
+(State School Bus Committee; 575 IAC 1-9-46; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA; errata filed Sep 18, 2014, 10:40 a.m.: 20141015-IR-575140377ACA) 
+
+575 IAC 1-9-47 Lamps and signals; miscellaneous 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27-9 
+
+Sec. 47. (a) Each bus must have the following: 
+(1) 
+An ignition-activated body cut-off switch. 
+
+(2) 
+Identification and side marker lamps. 
+
+
+(b) 
+Three (3) clearance lights with at least one (1) two-candlepower bulb each must be mounted in the center of the front and the back of the bus at the highest points and in a horizontal plane with other clearance lights. 
+
+(c) 
+Each bus must be equipped with amber side-mounted turn signal lamps to be mounted as follows: 
+
+(1) 
+The turn signal lamp on the left side must be mounted rearward of the stop signal arm. 
+
+(2) 
+The turn signal lamp on the right side must be mounted rearward of the entrance door. 
+
+
+
+(d) 
+Interior lamps must illuminate the aisle and the step-well. (State School Bus Committee; 575 IAC 1-9-47; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+
+
+575 IAC 1-9-48 Lamps and signals; overhead warning system 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27-9 
+
+Sec. 48. (a) Buses must be equipped with an alternately flashing signaling system that alerts other highway users that the bus is stopped, or about to stop, to take on or let off students. 
+(b) 
+The signaling system on each bus ordered and initially placed in service on or after July 1, 1988, must meet the following specifications: 
+
+(1) 
+Be equipped with a flashing signaling system that includes the following equipment: 
+
+(A) 
+Two (2) red warning lights seven (7) inches in diameter (or if a shape other than round, a minimum of thirty-eight 
+
+(38) 
+square inches of illuminated area) located at the front and the rear of the bus and automatically energized. 
+
+(B) 
+One (1) amber lamp mounted beside each of the four (4) red signal lamps. The amber lamps must be: 
+
+(i) 
+closer than the red lamps to the longitudinal center line of the bus; and 
+
+(ii) 
+manually energized and deenergized when the service door is opened. 
+
+
+
+
+
+(2) 
+Allow the driver to visibly or audibly, or both, verify that the signaling system has been activated. 
+
+(3) 
+Have warning and signal lamps installed as follows: 
+
+(A) 
+Each signal lamp's axis must be mounted substantially parallel to the longitudinal axis of the bus. 
+
+(B) 
+The front and back signal lamps must be spaced at least sixty (60) inches apart. 
+
+(C) 
+The front signal lamps must be mounted above the windshield and horizontally on the same center line. 
+
+(D) 
+The back lamps must be horizontally mounted on the same center line so that the lower edges of the lenses are not lower than the top line of the side windows. 
+
+(E) 
+An individual's view of the front and back signal lamps must not be obstructed by any part of the bus from five 
+
+(5) 
+degrees above to ten (10) degrees to the left of the center line of the bus. 
+
+(F) 
+Visors or hoods may be used. 
+
+(G) 
+Each lamp must be mounted with its aiming plane vertical and normal to the axis of the bus. 
+
+(H) 
+All flasher units for alternately flashing red and amber signal lamps in the signaling system must be enclosed in an accessible location. 
+
+
+
+(4) 
+Decals or lettering must identify the signaling system's master control switch. Activation of the system's switch and the door control switch must activate both the alternately flashing lamps and the stop arm signal in the following manner: 
+
+(A) 
+Depressing the master switch must activate the amber indicator lights and the amber warning lights while the service door is closed. 
+
+(B) 
+When the service door is opened and the master switch has been pressed, the: 
+
+(i) 
+amber indicator lights and the amber warning lights must turn off; 
+
+(ii) 
+red indicator lights and the red warning lights must flash; and 
+
+
+(iii) stop arm signal must be activated, with its lamps turning on. 
+
+(C) 
+Opening the service door without activating the master switch must not cause the light to flash. 
+
+(D) 
+When the service door is opened and the master switch is depressed, the red indicator lights, the red warning lamps, and the stop arm signal must be activated. 
+
+
+
+
+(E)Headlightsmayflash alternatelyfromleft toright onlyduring simultaneous activation ofred warning flashersand stop signal. Headlamps must return to normal operation after deactivation of red warning flashers and stop arm signal. 
+
+(c) 
+Light pairs must be of the same type bulb. (State School Bus Committee; 575 IAC 1-9-48; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+
+
+575 IAC 1-9-49 Lamps and signals; rear 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27-9 
+Sec. 49. (a) Each bus must have four (4) combination red brake tail lamps. Two (2) combination lamps with a minimum diameter of seven (7) inches (or if a shape other than round, a minimum of thirty-eight (38) square inches of illuminated area) must be mounted on the rear of the bus, next to the turn signals. Two (2) combination lamps with a minimum diameter of four (4) inches (or if a shape other than round, a minimum of twelve (12) square inches of illuminated area) must be placed on the rear of the body between the belt line and the floor line. 
+(b) Each bus must have two (2) tail and brake lamps, each with a diameter of three and three-fourths (3 3/4) inches and two 
+(2) 
+tail and brake lamps, each with a diameter of seven (7) inches (or if a shape other than round, a minimum of thirty-eight (38) square inches of illuminated area), that emit a red light that is visible for five hundred (500) feet during normal weather conditions. Tail lamps must be mounted on the bus at least forty (40) inches from the center of the lamp to the ground. The tail lamps must be: 
+
+(1) 
+placed below the window line; and 
+
+(2) 
+spaced at least five (5) feet apart. 
+
+
+
+(c) 
+Brake lamps must have at least the intensity of the Class A turn signal lamps as established by the Society of Automotive Engineers (SAE). Stop lamps must emit a steady light when illuminated. Buses with bodies supplied by chassis manufacturer may have manufacturer's standard stop and tail lamps. 
+
+(d) Each bus must have two (2) backup lights. 
+
+(e) 
+The rear of the bus must have seven (7) inch Class A amber turn signals (or if a shape other than round, a minimum of thirty-eight (38) square inches of illuminated area) that meet SAE standards. The front and rear turn signals must be mounted as high as practical and placed as wide apart as practical but not less than three (3) feet. The rear turn signal lamps' centerline must be at least eight (8) inches below the rear windows. Conversion vehicle lamps must be at least twenty-one (21) square inches in lens area. These signals must be independent units and have a four-way hazard warning switch that causes simultaneous flashing of the turn signal lamps when they are needed as a hazard warning. 
+
+
+(f) Backup lights maycomeon when rear door isopened. (State School Bus Committee; 575 IAC 1-9-49; filed Aug 15, 2014, 
+10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-9-50 Lamps and signals; reflectors 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27-9 
+Sec. 50. (a) Reflectors are required on each bus in the following places and must meet the following specifications: 
+(1) 
+Two (2) red reflectors on the back of the bus. 
+
+(2) 
+Two (2) amber reflectors on the front half of each side. 
+
+(3) 
+Two (2) red reflectors on the back half of each side. 
+
+
+(b) Reflectors must be mounted fifteen (15) to sixty (60) inches above the ground. (State School Bus Committee; 575 IAC 1-9-50; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-9-51 Lamps and signals; stop arm 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27-9 
+Sec. 51. (a) Each bus must have a stop signal device to indicate that the bus is stopped. The device must meet the following specifications: 
+(1) 
+The stop signal device must be a flat octagon-shaped device, approximately eighteen (18) inches wide and eighteen (18) inches long, exclusive of the mounting brackets, and meet Society of Automotive Engineers (SAE) specifications J-1133. 
+
+(2) 
+Both sides of the device must be a bright red with a one-half (1/2) inch white border. The word "STOP" must be printed on both sides in white block-letters at least six (6) inches high. The sign, including the letters, must be reflective and must not lose more than twenty percent (20%) of its reflectivity when wet. 
+
+(3) 
+The stop signal device must contain double-faced, alternately flashing four (4) inch-high red lamps, with one (1) lamp placed near the top and one (1) lamp placed near the bottom of the device. 
+
+(4) 
+The device must be mounted outside and immediately below the driver's window. 
+
+(5) 
+The stop signal device must have a driver-controlled mechanism, either mechanical, vacuum, electrical, or air, that will hold the device in an extended or retracted position to prevent whipping in the wind. The driver must be able to operate the mechanism while remaining in the normal driving position. Diesel engines without a chassis-installed vacuum or air source must use an electric stop signal device. 
+
+(6) 
+A wind guard may be installed to prevent the stop signal device from whipping in the wind. 
+
+(7) 
+An activated stop signal device must extend to ninety (90) degrees perpendicular to the bus, plus or minus five (5) degrees. 
+
+
+(b) A red strobe light meeting SAE standards may be installed in the stop signal device. (State School Bus Committee; 575 IAC 1-9-51; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-9-52 Lamps and signals; strobe 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27-9 
+Sec. 52. (a) A white strobe light meeting SAE standards may be installed. 
+(b) 
+A strobe light must be mounted on top of the center of the bus, between the rear wheels and the rear of the bus. 
+
+(c) 
+A strobe light must be controlled by a switch that is independent of the ignition system. 
+
+
+(d) The candlepower must be at least eight hundred (800) on a horizontal plane and at least twenty percent (20%) of horizontal light measured at plus or minus seven and one-half (7 1/2) degrees at the vertical plane. The intensity of light visible to the human eye must be measured in accordance with the Blondell-Rae equation for intensity. (State School Bus Committee; 575 IAC 1-9-52; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-9-53 Length 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27-9 
+
+Sec. 53. The length of the bus may not exceed forty-two (42) feet. (State School Bus Committee; 575 IAC 1-9-53; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-9-54 Metal treatment 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27-9 
+
+Sec. 54. (a) All metal used in the construction of the bus body must be either prime commercial quality galvanized steel or aluminum, except for the following: 
+(1) 
+Door handles. 
+
+(2) 
+Grab handles. 
+
+(3) 
+Stanchions. 
+
+(4) 
+Interior decorate parts. 
+
+(5) 
+Other plated parts. 
+
+(b) 
+All metal parts that will be painted must be prepared as follows: 
+
+(1) 
+Chemically cleaned. 
+
+(2) 
+Etched. 
+
+(3) 
+Zinc-phosphate-coated. 
+
+
+(4) 
+Zinc-chromed or epoxy-primed. Particular attention must be given to lapped surfaces, welded connections of structural members, cut edges, punched or drilled hole areas in sheet metal, closed or box sections, unvented or undrained areas, and surfaces subjected to abrasion during vehicle operation. 
+
+(c) 
+Materials used in the construction of the bus body must not lose more than ten percent (10%) of its weight after a one thousand (1,000) hour salt spray test as provided for in the latest revision of ASTM Designation: B117 "Standard Method of Salt Spray (Fog) Testing". (State School Bus Committee; 575 IAC 1-9-54; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR­575130244FRA) 
+
+
+
+575 IAC 1-9-55 Mirrors 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27-9 
+
+Sec. 55. (a) The interior clear-view mirror of a Type A bus must: 
+(1) 
+be made of safety glass; 
+
+(2) 
+be at least six (6) inches by sixteen (16) inches overall; 
+
+(3) 
+afford a good view of passengers; and 
+
+(4) 
+have rounded corners and protected edges. 
+
+(b) 
+The interior clear-view mirror of a Type B, Type C, or Type D bus must: 
+
+(1) 
+be made of safety glass; 
+
+(2) 
+be at least six (6) inches by thirty (30) inches overall; 
+
+(3) 
+afford a good view of passengers; and 
+
+(4) 
+have rounded corners and protected edges. 
+
+(c) 
+Each school bus must be equipped with exterior mirrors meeting the requirements of FMVSS No. 111, Rearview Mirrors. 
+
+
+The right-side rearview mirror must not be obscured by any portion of the windshield that is not cleared with wipers. Mirrors must be easily adjustable, but must be rigidly braced, so as to reduce vibration. 
+(d) 
+Heated external mirrors may be used. 
+
+(e) 
+Remote controlled external rearview mirrors may be used. 
+
+(f) 
+Exterior mirror backs and bracket supports must be black or stainless steel. 
+
+
+(g) Wide angle rear window lenses may be placed on the bus. (State School Bus Committee; 575 IAC 1-9-55; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-9-56 Noise suppression switch 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27-9 
+
+Sec. 56. (a) All school buses manufactured after January 1, 2006, must be equipped with an on/off type switch designed to disable interior noise-producing accessories, such as: 
+(1) 
+windshield and window defroster fans; 
+
+(2) 
+driver and passenger heater fans; 
+
+(3) 
+circulation fans; 
+
+(4) 
+powered roof ventilators; 
+
+(5) 
+air conditioning systems; and 
+
+
+(6) 
+radios, not including two-way radio systems or radio speakers. Identification must be provided on or adjacent to the switch in order to clearly state its purpose and distinguish it from other controls. The switch must be accessible to the driver when in a seated position. 
+
+(b) 
+For Type A buses with cutaway front section chassis and with bodies manufactured by a company other than the manufacturer of the chassis, the original equipment accessories, except radios (two-way, AM/FM, satellite, or other auditory type devices), provided by the chassis manufacturer are exempt from the requirements of this section. (State School Bus Committee; 575 IAC 1-9-56; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+
+
+575 IAC 1-9-57 Openings 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27-9 
+
+Sec. 57. All openings in the floorboard and firewall between the chassis and passenger compartment, such as the openings for the gearshift lever and the auxiliary brake lever, must be sealed. (State School Bus Committee; 575 IAC 1-9-57; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-9-58 Radio frequency identification, magnetic card readers 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27-9 
+
+Sec. 58. (a) A view screen of a radio frequency identification (RFID) system must be mounted in such manner as to not interfere with the driver's view in any direction when the driver is seated in a normal driving position. 
+(b) 
+A view screen must not be active when the bus is in motion. 
+
+(c) 
+Visual card reader scan confirmation is allowed only when the bus is not in motion. 
+
+(d) 
+Sound-based card reader scan confirmation is allowed only: 
+
+(1) 
+when the bus is not in motion; 
+
+(2) 
+when the stop arm has been deployed; and 
+
+(3) 
+through the reader or view screen speaker. 
+
+
+(e) Recording equipment must be mounted so as to not interfere with the movement of the driver or passengers, or full access to any emergency equipment. (State School Bus Committee; 575 IAC 1-9-58; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR­575130244FRA) 
+
+575 IAC 1-9-59 Radios, tape decks, CD players, and MP3 players 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27-9 
+
+Sec. 59. (a) Radios, tape decks, CD players, and MP3 players may be installed with the permission of the local governing body. 
+(b) Each system must be designed and installed in such a way as to prevent injuries to the driver and the passengers in the event of a sudden stop. (State School Bus Committee; 575 IAC 1-9-59; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR­575130244FRA) 
+
+575 IAC 1-9-60 Railroad crossing sticker 
+Authority: IC 20-27-3-5 
+Affected: IC 20-27-2-10; IC 20-27-9 
+
+Sec. 60. (a) School buses that have a body build date of July 1, 2016, or after, special purpose buses, as defined in IC 20-27-2­10, and MFSABs must have a decal on the rear bumper stating "Vehicle Stops at Railroad Crossings". 
+(b) 
+The decal must be in a color that contrasts with the color of the bumper. 
+
+(c) 
+Maximum decal size must not exceed one hundred fifty (150) square inches. 
+
+(d) 
+Company name, logo, or other commercial advertisement on the decal is prohibited. 
+
+
+(e) The decal may contain symbols or pictures of standard railroad signage (crossbucks). (State School Bus Committee; 575 IAC 1-9-60; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA; filed Jul 24, 2015, 3:55 p.m.: 20150819-IR­575140350FRA; errata filed Aug 25, 2015, 9:25 a.m.: 20150909-IR-575150287ACA) 
+
+575 IAC 1-9-61 Reflective material 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27-9 
+
+Sec. 61. (a) Reflective material must be: 
+(1) 
+applied to the body of a school bus to make it more visible; 
+
+(2) 
+of a color to match National School Bus Yellow, Federal Standard No. 595a, for a special purpose bus or white per FMVSS 108 for a MFSAB; and 
+
+(3) 
+at least one (1) inch wide on the rear of the bus, and at least two (2) inches wide on the sides of the bus, but not more than six (6) inches wide. 
+
+(b) 
+The reflective material must be placed only on the following areas of the school bus: 
+
+(1) 
+The front or rear, or both, of the school bus, between the warning lamps. 
+
+(2) 
+Each side belt line, seat line, or floor line or all three (3). 
+
+(3) 
+The rear of the bus outlining the emergency door. 
+
+(4) 
+Across the rear of the bus directly over the rear bumper. 
+
+(c) 
+Lettering must be: 
+
+(1) 
+black; 
+
+(2) 
+nonreflective; and 
+
+(3) 
+in conformance with size and style requirements specified in section 16 of this rule. 
+
+
+(State School Bus Committee; 575 IAC 1-9-61; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA; errata filed Mar 18, 2015, 9:24 a.m.: 20150401-IR-575150073ACA) 
+
+575 IAC 1-9-62 Rub rails 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27-9 
+
+Sec. 62. (a) Type A buses must have two (2) rub rails on each side of the body placed per manufacturer's standard. 
+(b) Type B, Type C, and Type D buses must have four (4) rub rails on each side of the body that must be able to resist impact and body crushing. The rub rails must extend the length of the body. The rails do not have to extend to the wheel housings or door access areas. Press-in or snap-on rub rails do not satisfy the requirements of this section. 
+(c) 
+The rails for Type B, Type C, and Type D buses must be placed in the following locations: 
+
+(1) 
+The window line rub rail must extend from the windshield post on the driver's side and from the service door post on the right side to the rear corner radius. 
+
+(2) 
+The seat line rub rail must: 
+
+(A) 
+extend from the windshield post on the driver's side and from the service door post on the right side; and 
+
+(B) 
+wrap around the rear corner radius. 
+
+
+
+(3) 
+The floor line rub rail must extend from the windshield post on the driver's side and from the service door post on the right side to the rear corner radius. 
+
+(4) 
+The skirt line rub rail must extend from the windshield post on the driver's side and from the service door post on the right side to the rear corner radius. 
+
+(d) 
+All rub rails must be: 
+
+(1) 
+at least four (4) inches wide; 
+
+(2) 
+made of at least 16-gauge steel; and 
+
+(3) 
+corrugated or ribbed. 
+
+
+(State School Bus Committee; 575 IAC 1-9-62; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-9-63 Safety detection sensor; outside 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27-9 
+
+Sec. 63. (a) A safety detection system may be used. 
+(b) 
+The safety detection system must be designed to: 
+
+(1) 
+warn drivers of children within areas considered most dangerous around a school bus; and 
+
+(2) 
+monitor and warn school bus drivers of moving objects during loading and unloading sequences by: 
+
+(A) 
+operating when the school bus is at a complete stop; 
+
+(B) 
+being activated by the extension of the stop arm; and 
+
+(C) 
+remaining active by the extension of the stop arm and deactivated when the school bus resumes motion. 
+
+
+
+(c) 
+The safety detection system must contain an audible and visible alarm. 
+
+(d) 
+The audible alarm must be volume adjustable to compensate for background noise variations. 
+
+(e) 
+The visible alarm must be capable of illumination during day and night lighting conditions. 
+
+(f) 
+The safety detection system must be operated automatically. 
+
+(g) 
+The safety detection system must be FCC approved. (State School Bus Committee; 575 IAC 1-9-63; filed Aug 15, 2014, 
+
+
+10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-9-64 Sanders 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27-9 
+Sec. 64. Sanders may be used. (State School Bus Committee; 575 IAC 1-9-64; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR­575130244FRA) 
+
+575 IAC 1-9-65 Seat and seat belt for driver 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27-9 
+Sec. 65. (a) Type A buses must have a driver's seat and a driver's seat belt that that meet the manufacturer's standards. 
+(b) 
+Type B, Type C, and Type D buses must have a locking retractor seat belt provided for the driver. The belt must be booted to keep the buckle and button latch off the floor and within easy reach of the driver. The way in which the belt is anchored or guided at the seat frame must prevent the driver from sliding sideways under the belt. 
+
+(c) 
+There must be at least eleven (11) inches between the steering wheel and the back of the driver's seat. The driver's seat must be securely attached to the floor and have at least a four (4) inch fore-and-aft adjustment. The vertical seat adjustment must be at least three (3) inches. 
+
+(d) Seat belt extensions may be used. 
+
+(e) 
+A slip cover for the seat may be used provided the slip cover meets color and flammability standards. (State School Bus Committee; 575 IAC 1-9-65; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+
+
+575 IAC 1-9-66 Seats 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27-9 
+Sec. 66. (a) Jump seats or portable seats are prohibited. 
+(b) 
+Type A and Type B buses must have a distance of at least six (6) inches between the rearmost portion of the seat backs of the rear row of seats and the outside rear of the bus body (not including the rear bumper), measured at the floor line. 
+
+(c) 
+Type C and Type D buses must have a distance between the rearmost portion of the seat backs of the rear row of seats and the outside rear of the bus body (not including the rear bumper), measured at the floor line, of at least eight (8) inches. 
+
+(d) 
+School bus design capacities must be in accordance with 49 CFR, Part 571.3, Definitions, and FMVSS No. 222, School Bus Passenger Seating and Crash Protection. 
+
+(e) 
+All seats must: 
+
+(1) 
+have a minimum cushion depth of fifteen (15) inches; 
+
+(2) 
+have a seat back height of twenty-four (24) inches above the seating reference point; and 
+
+(3) 
+comply with all other requirements of FMVSS No. 222. 
+
+
+
+(f) 
+Each seat leg must be secured to the floor by a minimum of two (2) bolts, washers, and nuts. Flange-head nuts may be used in lieu of nuts and washers. All seat frames attached to the seat rail must be fastened with two (2) or more bolts, washers, and nuts, or flange-head nuts. Seats may be track-mounted in conformance with FMVSS No. 222. 
+
+(g) 
+If track seating is installed, the manufacturer must supply minimum and maximum seat spacing dimensions (applicable to the bus) that comply with FMVSS No. 222. This information must be on a label permanently affixed to the bus. 
+
+(h) All school buses (including Type A) must be equipped with restraining barriers that conform to FMVSS No. 222. 
+
+(i) 
+A flip-up seat may be installed at any side emergency door. If provided, the flip-up seat must conform to FMVSS No. 222 and aisle clearance requirements of FMVSS No. 217, Bus Emergency Exits and Window Retention and Release and must meet the following conditions: 
+
+(1) The flip-up seat must be free of sharp projections on the underside of the seat bottom. 
+(2)Theundersideoftheflip-upseatbottomsmust bepadded or contoured toreducethepossibilityofclothingbeingsnagged. 
+(3) 
+Flip-up seats must be constructed to prevent passenger limbs from becoming entrapped between the seat back and the seat cushion when the seat is in the upright position. 
+
+(4) 
+The seat cushion must be designed to rise to a vertical position automatically when it is not occupied. 
+
+
+
+(j) 
+Each seat, seat back cushion, and crash barrier must be covered with a material that has a minimum forty-two (42) ounce finished weight, fifty-four (54) inch width, and a finished vinyl coating of 1.06 broken twill or its equivalent in: 
+
+(1) 
+tensile strength; 
+
+(2) 
+tear strength; 
+
+(3) 
+seam strength; 
+
+(4) 
+adhesion strength; 
+
+(5) 
+resistance to abrasion and cold; and 
+
+
+
+(6) 
+flex separation. All seat-covering material must be free of holes or tears. 
+
+(k) 
+The seats must provide for at least a twenty-four (24) inch knee space, measured from the seat cushion level at the midpoint of the transverse line of the seat. (State School Bus Committee; 575 IAC 1-9-66; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+
+
+575 IAC 1-9-67 Shock absorbers 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27-9 
+
+Sec. 67. Each bus must have front and rear double-acting shock absorbers that are compatible with the manufacturer's rated axle capacity. If the bus is using an air suspension, there is no requirement for shocks. (State School Bus Committee; 575 IAC 1-9­67; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-9-68 Speed control device 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27-9 
+
+Sec. 68. A combination speed control/engine governor that controls road speed may be used. (State School Bus Committee; 575 IAC 1-9-68; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-9-69 Springs 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27-9 
+
+Sec. 69. The capacity of springs or suspension assemblies must be commensurate with the chassis manufacturer's gross vehicle weight rating. (State School Bus Committee; 575 IAC 1-9-69; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR­575130244FRA) 
+
+575 IAC 1-9-70 Steps 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27-9 
+
+Sec. 70. (a) On all buses, the first step at the entrance door must be not less than ten (10) inches and not more than sixteen 
+(16) 
+inches from the ground when measured from the top surface of the step to the ground, based on standard chassis specifications. An auxiliary step may be provided to compensate for the increase in ground-to-first-step clearance. The auxiliary step is not required to be enclosed. 
+
+(b) 
+Step risers must not exceed a height of ten (10) inches except when plywood is used on a steel floor or step. The riser height may be increased by the thickness of the plywood. 
+
+(c) 
+Steps must be enclosed to prevent accumulation of ice and snow. 
+
+(d) 
+Steps must not protrude beyond the side body line. 
+
+(e) 
+At least thirty (30) inch long grab handles must be placed in an unobstructed location inside the doorway. 
+
+
+
+(f) 
+All steps, including the floor line platform area, must be covered with an elastomer floor covering, or equivalent, having a minimum overall thickness of three-sixteenths (3/16) of an inch. 
+
+(g) The step covering must be permanently bonded to a durable backing material that is resistant to corrosion. 
+
+(h) 
+Steps, including the floor line platform area, must have a one and one-half (1 1/2) inch nosing that contrasts in color by at least seventy percent (70%) measured in accordance with the contrasting color specification in 36 CFR, Part 1192, ADA, Accessibility Guidelines for Transportation Vehicles. 
+
+(i) 
+Step treads must have the following characteristics: 
+
+(1) 
+Step tread material abrasion resistance weight loss must not exceed four-tenths of one percent (0.40%), as tested under ASTM D-4060, Standard Test Method for Abrasion Resistance of Organic Coatings by the Taber Abraser, (CS-17 Wheel, 1,000 gram, 1,000 cycle). 
+
+(2) 
+Step treads must not break, crack, or check after ozone exposure (seven (7) days at fifty (50) phm at forty (40) degrees Celsius) and Weatherometer exposure (ASTM D-750, Standard Test Method for Rubber Deterioration in Carbon-Arc Weathering Apparatus, seven (7) days). 
+
+(3) 
+Step treads must have a calculated burn rate of one-hundredth (0.01) or less using the test methods, procedures, and formulas listed in FMVSS No. 302, Flammability of Interior Materials. 
+
+
+
+
+(State School Bus Committee; 575 IAC 1-9-70; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-9-71 Steering gear 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27-9 
+Sec. 71. Nothing may be attached to the steering wheel. (State School Bus Committee; 575 IAC 1-9-71; filed Aug 15, 2014, 
+10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-9-72 Storage compartment 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27-9 
+Sec. 72. Buses may be equipped with exterior undercarriage storage compartments. (State School Bus Committee; 575 IAC 1-9-72; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-9-73 Sun shield 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27-9 
+Sec. 73. (a) Type A buses must have a sun shield that meets manufacturer's standards. 
+(b) Type B, Type C, and Type D buses must have an interior adjustable transparent sun shield at least six (6) inches by thirty 
+(30) 
+inches, with a finished edge installed in a position that is convenient for the driver. 
+
+(c) 
+Type B, Type C, and Type D buses may have an interior adjustable transparent sun shield separate from subsection (b) that is convenient for use for the driver's side window. (State School Bus Committee; 575 IAC 1-9-73; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+
+
+575 IAC 1-9-74 Temporary bus or route identification placard frame 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27-9 
+
+Sec. 74. (a) The frame must only be located on the passenger side of the school bus underneath the first window to the rear of the service door. The frame and placard must be National School Bus Yellow with black numbers conforming to the appropriate administrative rule on lettering and identification. The placard frame must not exceed the following: 
+(1) 
+A height of four (4) inches. 
+
+(2) 
+A width of nine (9) inches. 
+
+(3) 
+A depth of three-eighths (3/8) inch. 
+
+
+(b) Companies may use magnetic signs displaying the words "TEMPORARY SCHOOL TRANSPORTATION" in the place of standard lettering when a bus is on loan to an entity involved in school transportation activities. (State School Bus Committee; 575 IAC 1-9-74; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-9-75 Tire chains 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27-9 
+
+Sec. 75. Automatic or manual tire chains may be used. (State School Bus Committee; 575 IAC 1-9-75; filed Aug 15, 2014, 
+10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-9-76 Tires and rims 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27-9 
+
+Sec. 76. (a) The tires must be of equal size, construction, and ply rating and have rims of equal size per axle. All tires must conform to the GAWR. 
+(b) 
+Regrooved or retread tires on front or single rear wheels are prohibited. 
+
+(c) 
+The bus distributor's or manufacturer's recommendation on tire and rim size must be followed. 
+
+(d) 
+Single rear wheels for Type B, Type C, or Type D buses are prohibited. 
+
+(e) 
+Radial, mud, and snow tires may be used. 
+
+(f) 
+A spare tire may be used but may not be mounted inside the passenger compartment. 
+
+
+(g) Tire overspray guards, such as mud flaps and overspray systems, may be used. (State School Bus Committee; 575 IAC 1-9-76; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-9-77 Transmissions 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27-9 
+
+Sec. 77. (a) The transmission may be automatic or manual with the exception of an all-electric bus per manufacturer standard. 
+(b) The gearshift must not interfere with the operation of the service door. (State School Bus Committee; 575 IAC 1-9-77; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA; errata filed Sep 18, 2014, 10:40 a.m.: 20141015-IR­575140377ACA) 
+
+575 IAC 1-9-78 Trash container 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27-9 
+
+Sec. 78. (a) Buses may be equipped with a maximum of two (2) trash containers. 
+(b) 
+The containers must be polyethylene or equivalent material. 
+
+(c) 
+The containers must be not greater than a fourteen (14) quart capacity. 
+
+
+(d) 
+The containers must be secured by a holding device designed to prevent movement and allow for easy removal and replacement. 
+
+(e) 
+The containers must be installed in the driver's area or behind the rearmost seats, or both, so as to not obstruct entry or egress of the passenger service door or aisle. 
+
+(f) 
+A trash container is not allowed behind the rearmost seats of a rear engine transit or at the back of wheelchair-equipped bus. (State School Bus Committee; 575 IAC 1-9-78; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+
+
+575 IAC 1-9-79 Undercoating 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27-9 
+
+Sec. 79. (a) The entire underside of the bus body, including floor sections, cross member, and below floor-line side panels, mustbecoatedwith undercoatingmaterialfor which thematerialmanufacturer hasissuedtothebusbodymanufacturer anotarized certification to the bus body manufacturer that materials meet or exceed all performance requirements of SAE J1959. 
+(b) The undercoating material must: 
+(1)beappliedwithsuitableairlessor conventionalsprayequipmenttotheundercoatingmaterialmanufacturerrecommended film thickness; and 
+(2) show no evidence of voids in the cured film. 
+(c) The undercoating material must not cover any exhaust components of the chassis. (State School Bus Committee; 575 IAC 1-9-79; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-9-80 Ventilation 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27-9 
+
+Sec.80.(a) Thebusbodymust havea controlled ventilating system that maintainstheproper quantityofair withoutopening the windows except in extremely warm weather. 
+(b) 
+A static nonclosable exhaust ventilator may be installed in the low pressure area of the roof. 
+
+(c) 
+A vent incorporated into an emergency roof hatch is allowable. 
+
+(d) 
+An adjustable roof ventilator may be installed if it is hinged and has a handle to provide an emergency exit. 
+
+
+(e) Glow-in-the-dark reflective tape, or equivalent, may be used around the interior emergency exits only. Tape must not exceed one (1) inch in width. (State School Bus Committee; 575 IAC 1-9-80; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR­575130244FRA) 
+
+575 IAC 1-9-81 Wheel housing 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27-9 
+Sec. 81. (a) The opening in the side of the body must be large enough to: 
+(1) 
+service the tire; and 
+
+(2) 
+provide clearance for tire chains. 
+
+(b) 
+Wheel housings must be attached to the floor sheets in a manner that prevents water and dust from entering the body. 
+
+
+(c) The inside height of the wheel housing above the floor may not exceed twelve (12) inches above the top of the floor covering. (State School Bus Committee; 575 IAC 1-9-81; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-9-82 Width 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27-9 
+Sec. 82. The overall width of the bus body must not exceed one hundred two (102) inches, excluding accessories. (State School Bus Committee; 575 IAC 1-9-82; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-9-83 Windshield and windows 
+Authority: IC 20-27-3-4 
+Affected: IC 9-19-19-4; IC 20-27-9 
+Sec. 83. (a) Other than emergency exits designated to comply with FMVSS No. 217, Bus Emergency Exits and Window Retention and Release, each side window, with the exception of the last window on each side, which may be fixed, must provide an unobstructed opening of at least nine (9) inches high (but not more than thirteen (13) inches high) and at least twenty-two (22) inches wide, obtained by lowering the window. One (1) window on each side of the bus may be less than twenty-two (22) inches wide. 
+(b) 
+Emergency windows must not be placed immediately adjacent to any side emergency door. Equal spacing of the emergency window exits, to the extent practical, must be maintained. 
+
+(c) 
+Vertically hinged emergency windows must be hinged on the forward side of the window to prevent whipping in the case of an accidental release while the bus is in motion, with the latch mechanism located on the opposite side, midway on the window. 
+
+(d) Windshields must comply with federal, state, and local regulations. 
+
+(e) 
+With the exception of Type A buses, windshields must have a horizontal gradient band starting from slightly above the line of the driver's vision and gradually decreasing in light transmission to twenty percent (20%) or less at the top of the windshield. 
+
+(f) 
+Tinted glazing or frost-free glazing, or both, may be installed in all doors or windows, but must comply with IC 9-19-19­4(c). No person may drive any motor vehicle that has a: 
+
+(1) 
+windshield; 
+
+(2) 
+side wing; or 
+
+
+
+(3) 
+side window; that is part of a front door and is tinted to the extent, or manufactured in such a way, that the occupants of the vehicle cannot be easily identified through that window. 
+
+
+Table 1  
+Buses with Rear Emergency Doors (All Front Engine Buses)  
+
+Available Combinations by Capacity  Manufacturer's Equipped Capacity  Must Have  And Must Also Have  
+Roof Hatch  Left Side Emergency Exit Windows  Right Side Emergency Exit Windows  Left Side Emergency Exit Door  
+1 – 45  1 – 45  1  1  1  0  
+46 – 77  46 – 77  2  2  2  0  
+46 – 77  2  1  1  1  
+78 – 93  78 – 93  2  3  3  0  
+78 – 93  2  2  2  1  
+
+Table 2  
+Buses with Rear Push-Out Window and Left Side Emergency Door (All Rear-Engine Buses)  
+Available Combinations by Capacity  Manufacturer's Equipped Capacity  Must Have  And Must Also Have  
+Roof Hatch  Left Side Emergency Exit Windows  Right Side Emergency Exit Windows  Right Side Emergency Exit Door  
+1 – 45  1 – 45  1  1  1  0  
+46 – 89  46 – 89  2  2  2  0  
+46 – 89  2  1  1  1  
+90 – 105  90 – 105  2  3  3  0  
+90 – 105  2  2  2  1  
+
+(State School Bus Committee; 575 IAC 1-9-83; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-9-84 Windshield washers 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27-9 
+
+Sec. 84. Windshield washers must be standard equipment on each bus. (State School Bus Committee; 575 IAC 1-9-84; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-9-85 Windshield wipers 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27-9 
+
+Sec. 85. (a) The bus must be equipped with two (2) speed air or electric windshield wipers that are powered by one (1) or more motors. 
+(b) Heated windshield wipers may be used. 
+(c) Intermittent wiper controls are allowed. (State School Bus Committee; 575 IAC 1-9-85; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-9-86 Wireless internet connection system 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27-9 
+
+Sec. 86. (a) Wireless internet connection systems may be installed with the permission of the local governing body. 
+(b) Each system must be designed and installed in such a way as to prevent injuries to the driver and the passengers in the event of a sudden stop. 
+(c) 
+The following must not access this system at any time when the bus is in operation or children are on the bus: 
+
+(1) 
+Bus driver. 
+
+(2) 
+Bus attendant. 
+
+(3) 
+School district personnel. 
+
+(4) 
+Chaperone or chaperones supervising children. 
+
+
+(State School Bus Committee; 575 IAC 1-9-86; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+
+575 IAC 1-9-87 Wiring 
+Authority: IC 20-27-3-4 
+Affected: IC 20-27-9 
+
+Sec. 87. (a) All wiring must conform to the current standards of the Society of Automotive Engineers. 
+(b) Each body circuit must be coded by number, letter, or color. 
+(c) All wires within the body must be insulated in such a manner as to protect the wires from external damage and minimize the danger of short-circuiting. Whenever wires pass through bus body members, an insert must provide additional protection. Wires, not enclosed within the bodyshell, must be fastened securely at intervals of not more than twenty-four (24) inches. All joints must be soldered or joined by connectors. (State School Bus Committee; 575 IAC 1-9-87; filed Aug 15, 2014, 10:20 a.m.: 20140910-IR-575130244FRA) 
+Rule 10. Safety Belt Instruction and Bus Evacuation Drills 
+
+575 IAC 1-10-1 Safety belt instruction 
+Authority: IC 20-27-3-6.5 
+Affected: IC 9-19-10-2; IC 20-27-8 
+
+Sec. 1. (a) A school bus driver operating a school bus that is equipped with safety belts meeting the standards set forth in IC9-19-10-2, notincludingthedriver'ssafetybelt, shall at least oncea semester provideinstruction tothepassengerson theschool bus on the proper fastening of the safety belt. 
+(b) 
+The instruction shall include the following: 
+
+(1) 
+Proper position of the safety belt when fastened. 
+
+(2) 
+How tight the safety belt should be when fastened. 
+
+(3) 
+Improper safety belt placement. 
+
+(4) 
+Requirements for use of safety belts. 
+
+(5) 
+Consequences of failure to use or improperly using safety belts. 
+
+
+(c) 
+Documentation of the completed training for each bus shall be reported to the designated school corporation or private school representative. 
+
+(d) 
+Documentation of the completed training for each district or private school shall be reported to the department of education by June 30 of each year. (State School Bus Committee; 575 IAC 1-10-1; filed Aug 15, 2014, 10:06 a.m.: 20140910-IR­575130541FRA) 
+
+
+
+575 IAC 1-10-2 Bus evacuation drills 
+Authority: IC 20-27-3-6.5 
+Affected: IC 20-27-8 
+
+Sec. 2. (a) A school bus driver operating a school bus shall at least once a semester conduct a school bus passenger evacuation drill. 
+(b) 
+All school bus passenger evacuation drills shall meet the following minimum standards: 
+
+(1) 
+Be completed in two (2) minutes or less. 
+
+(2) 
+Be conducted within forty-five (45) school days of the beginning date of each semester. 
+
+(3) 
+Use only emergency exit doors or service door for the passenger evacuation drill. 
+
+(4) 
+Driver must be present at all passenger evacuation drills. 
+
+
+(c) 
+At the completion of each school year, the bus passenger evacuation drills for each school corporation or private school shall have included the following: 
+
+(1) 
+The use of all emergency exit doors and service door. 
+
+(2) 
+One (1) drill with the school bus driver not directing the passenger evacuation drill. 
+
+(3) 
+Each student receiving appropriate instruction for the passenger evacuation drill. 
+
+
+
+(d) 
+Documentation of the bus passenger evacuation drill shall be reported to the designated school corporation or private school representative. 
+
+(e) 
+Documentation of the bus passenger evacuation drill for each school corporation or private school shall be reported to the department of education by June 30 of each year. 
+
+(f) 
+Any student exempted from physical participation in a passenger evacuation drill shall have documentation on file at the school. (State School Bus Committee; 575 IAC 1-10-2; filed Aug 15, 2014, 10:06 a.m.: 20140910-IR-575130541FRA) 
+
+
+* 
+
+

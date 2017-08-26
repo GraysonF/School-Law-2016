@@ -1,0 +1,292 @@
+IC 16-39-2 
+Chapter 2. Release of Mental Health Records to Patient and Authorized Persons 
+IC 16-39-2-1 Application of chapter 
+Sec. 1. This chapter applies only to mental health records. 
+As added by P.L.2-1993, SEC.22. 
+
+IC 16-39-2-2 Maintenance of records by provider; contents; dominion; time limits 
+Sec. 2. A record for each patient receiving mental health services shall be maintained by the provider. The mental health record must contain the information that the division of mental health and addiction, the division of disability and rehabilitative services, or the state department requires by rule. The provider is: 
+(1) 
+the owner of the mental health record; 
+
+(2) 
+responsible for the record's safekeeping; and 
+
+
+(3) entitled to retain possession of the record. The information contained in the mental health record belongs to the patient involved as well as to the provider. The provider shall maintain the original mental health record or a microfilm of the mental health record for at least seven (7) years. As added by P.L.2-1993, SEC.22. Amended by P.L.40-1994, SEC.67; P.L.4-1997, SEC.4; P.L.215-2001, SEC.84; P.L.141-2006, SEC.90. 
+
+IC 16-39-2-3 Confidentiality 
+Sec. 3. A patient's mental health record is confidential and shall be disclosed only with the consent of the patient unless otherwise provided in the following: 
+(1) 
+This chapter. 
+
+(2) 
+IC 16-39-3. 
+
+(3) 
+IC 16-39-4. 
+
+(4) 
+IC 16-39-5-3. 
+
+
+As added by P.L.2-1993, SEC.22. 
+
+IC 16-39-2-4 Patient access; restrictions; appeal 
+Sec. 4. A patient is entitled to inspect and copy the patient's own mental health record. However, if the provider that is responsible for the patient's mental health records determines for good medical cause, upon the advice of a physician, that the information requested under this section is detrimental to the physical or mental health of the patient, or is likely to cause the patient to harm the patient or another person, the provider may withhold the information from the patient. If the provider is a state institution or agency, the patient may appeal the provider's refusal to permit the patient to inspect and copy the patient's own record under IC 4-21.5. 
+As added by P.L.2-1993, SEC.22. 
+
+IC 16-39-2-5 Access topatient's designeeorlegal representative; writtenrequest 
+Sec. 5. (a) This section applies to private and public treating providers. 
+(b) 
+Upon a patient’s written request and reasonable notice, a patient's mental health record shall be made available for inspection and copying by the provider at any time to an individual or organization designated by the patient or to the patient's legal representative. 
+
+(c) 
+A patient’s written request for the release of the patient’s mental health record under this section must include the following: 
+
+(1) 
+The name of the patient. 
+
+(2) 
+The name of the person requested to release the patient’s mental health record. 
+
+(3) 
+The name of the person, provider, or organization to whom the patient’s mental health record is to be released. 
+
+(4) 
+The purpose of the release. 
+
+(5) 
+A description of the information to be released from the mental health record. 
+
+(6) 
+The signature of the patient. 
+
+(7) 
+The date the request is signed. 
+
+(8) 
+A statement that the patient's consent to release of mental health records is subject to revocation at any time, except to the extent that action has been taken in reliance on the patient's consent. 
+
+(9) 
+The date, event, or condition on which the patient's consent to release of mental health records will expire if not previously revoked. 
+
+
+
+(d) 
+Unless otherwise specified in a written request under this section, a request for release of records is valid for one hundred eighty (180) days after the date the request is made. 
+
+(e) 
+A request for release of records under this section may be revoked by the patient at any time, except to the extent that action has been taken in reliance on the consent. 
+
+(f) 
+Mental health records requested by the patient to be released under this section may be released by the provider receiving the request, regardless of whether the patient is still receiving services from the provider. 
+
+
+As added by P.L.2-1993, SEC.22. Amended by P.L.4-1997, SEC.5. 
+
+IC 16-39-2-6 Disclosure without patient's consent; interpretation of records; immunities 
+Sec. 6. (a) Without the consent of the patient, the patient's mental health record may only be disclosed as follows: 
+(1) 
+To individuals who meet the following conditions: 
+
+(A) 
+Are employed by: 
+
+(i)
+ the provider at the same facility or agency; 
+
+(ii) 
+a managed care provider (as defined in IC 12-7-2-127); or 
+
+
+(iii) a health care provider or mental health care provider, if the mental health records are needed to provide health care or mental health services to the patient. 
+
+(B) 
+Are involved in the planning, provision, and monitoring of services. 
+
+
+
+(2) 
+To the extent necessary to obtain payment for services rendered or other benefits to which the patient may be entitled, as provided in IC 16-39-5-3. 
+
+(3) 
+To the patient's court appointed counsel and to the Indiana protection and advocacy services commission. 
+
+(4) 
+For research conducted in accordance with IC 16-39-5-3 and the rules of the division of mental health and addiction, the rules of the division of disability and rehabilitative services, or the rules of the provider. 
+
+(5) 
+To the division of mental health and addiction for the purpose of data collection, research, and monitoring managed care providers (as defined in IC 12-7-2-127) who are operating under a contract with the division of mental health and addiction. 
+
+(6) 
+To the extent necessary to make reports or give testimony required by the statutes pertaining to admissions, transfers, discharges, and guardianship proceedings. 
+
+(7) 
+To a law enforcement agency if any of the following conditions are met: 
+
+(A) 
+A patient escapes from a facility to which the patient is committed under IC 12-26. 
+
+(B) 
+The superintendent of the facility determines that failure to provide the information may result in bodily harm to the patient or another individual. 
+
+(C) 
+A patient commits or threatens to commit a crime on facility premises or against facility personnel. 
+
+(D) 
+A patient is in the custody of a law enforcement officer or agency for any reason and: 
+
+(i) 
+the information to be released is limited to medications currently prescribed for the patient or to the patient's history of adverse medication reactions; and 
+
+(ii) 
+the provider determines that the release of the medication information will assist in protecting the health, safety, or welfare of the patient. 
+
+
+
+
+
+
+Mental health records released under this clause must be maintained in confidence by the law enforcement agency receiving them. 
+(8) 
+To a coroner or medical examiner, in the performance of the individual's duties. 
+
+(9) 
+To a school in which the patient is enrolled if the superintendent of the facility determines that the information will assist the school in meeting educational needs of the patient. 
+
+(10) 
+To the extent necessary to satisfy reporting requirements under the following statutes: 
+
+(A) 
+IC 12-10-3-10. 
+
+(B) 
+IC 12-24-17-5. 
+
+(C) 
+IC 16-41-2-3. 
+
+(D) 
+IC 31-25-3-2. 
+
+(E) 
+IC 31-33-5-4. 
+
+(F) 
+IC 34-30-16-2. 
+
+(G) 
+IC 35-46-1-13. 
+
+
+
+(11) 
+To the extent necessary to satisfy release of information requirements under the following statutes: 
+
+(A) 
+IC 12-24-11-2. 
+
+(B) 
+IC 12-24-12-3, IC 12-24-12-4, and IC 12-24-12-6. 
+
+(C) 
+IC 12-26-11. 
+
+
+
+(12) 
+To another health care provider in a health care emergency. 
+
+(13) 
+For legitimate business purposes as described in IC 16-39-5-3. 
+
+(14)
+ Under a court order under IC 16-39-3. 
+
+(15) 
+With respect to records from a mental health or developmental disability facility, to the United States Secret Service if the following conditions are met: 
+
+(A) 
+The request does not apply to alcohol or drug abuse records described in 42 U.S.C. 290dd-2 unless authorized by a court order under 42 U.S.C. 290dd-2(b)(2)(c). 
+
+(B) 
+The request relates to the United States Secret Service's protective responsibility and investigative authority under 18 
+
+
+
+
+U.S.C. 3056, 18 U.S.C. 871, or 18 U.S.C. 879. 
+(C) 
+The request specifies an individual patient. 
+
+(D) 
+The director or superintendent of the facility determines that disclosure of the mental health record may be necessary to protect a person under the protection of the United States Secret Service from serious bodily injury or death. 
+
+(E) 
+The United States Secret Service agrees to only use the mental health record information for investigative purposes and not disclose the information publicly. 
+
+(F) 
+The mental health record information disclosed to the United States Secret Service includes only: 
+
+(i)
+ the patient's name, age, and address; 
+
+(ii) 
+the date of the patient's admission to or discharge from the facility; and 
+
+
+
+
+(iii) any information that indicates whether or not the patient has a history of violence or presents a danger to the person under protection. 
+(16) To the statewide waiver ombudsman established under IC 12-11-13, in the performance of the ombudsman's duties. 
+(b) After information is disclosed under subsection (a)(15) and if the patient is evaluated to be dangerous, the records shall be interpreted in consultation with a licensed mental health professional on the staff of the United States Secret Service. 
+(c) A person who discloses information under subsection (a)(7) or (a)(15) in good faith is immune from civil and criminal liability. As added by P.L.2-1993, SEC.22. Amended by P.L.23-1993, SEC.77; P.L.40-1994, SEC.68; P.L.6-1995, SEC.37; P.L.149-1996, SEC.1; P.L.1-1997, SEC.95; P.L.4-1997, SEC.6; P.L.111-1997, SEC.8; P.L.253-1997(ss), SEC.20; P.L.1-1998, SEC.120; P.L.1-1999, SEC.46; P.L.272-1999, SEC.53; P.L.215-2001, SEC.85; P.L.141-2006, SEC.91; P.L.145-2006, SEC.141; P.L.1-2007, SEC.136; P.L.134-2013, SEC.1; P.L.233-2015, SEC.28. 
+
+IC 16-39-2-7 Discovery or admissibility without patient's consent 
+Sec. 7. Except as provided in section 8 of this chapter, the mental health record is not discoverable or admissible in any legal proceeding without the consent of the patient. As added by P.L.2-1993, SEC.22. 
+
+IC 16-39-2-8 Court orderedreleaseofmental healthrecords; provider provision of records 
+Sec. 8. (a) The court may order the release of the patient's mental health record without the patient's consent upon the showing of good cause following a hearing under IC 16-39-3 or in a proceeding under IC 31-30 through IC 31-40 following a hearing held under the Indiana Rules of Trial Procedure. 
+(b) A provider shall, upon the request of a court that has committed a patient under IC 12-26-7, IC 12-26-8, IC 35-36-2-4, or IC 35-36-3, release to the court any information from the patient's mental health record that is required by the Federal Bureau of Investigation for transmission to NICS (as defined in IC 35-47-2.5-2.5) in accordance with IC 33-24-6-3. As added by P.L.2-1993, SEC.22. Amended by P.L.1-1997, SEC.96; P.L.131-2014, SEC.7. 
+
+IC 16-39-2-9 Exercise of patient's rights by others; equal access to records; fees 
+Sec. 9. (a) For the purposes of this chapter, the following persons are entitled to exercise the patient's rights on the patient's behalf: 
+(1) 
+If the patient is a minor, the parent, guardian, or other court appointed representative of the patient. 
+
+(2) 
+If the provider determines that the patient is incapable of 
+
+
+giving or withholding consent, the patient's guardian, a court appointed representative of the patient, a person possessing a health care power of attorney for the patient, or the patient's health care representative. 
+(b) A custodial parent and a noncustodial parent of a child have equal access to the child’s mental health records unless: 
+(1) 
+a court has issued an order that limits the noncustodial parent’s access to the child’s mental health records; and 
+
+(2) 
+the provider has received a copy of the court order or has 
+
+
+actual knowledge of the court order. If the provider incurs an additional expense by allowing a parent equal access to a child’s mental health records, the provider may require the parent requesting the equal access to pay a fee under IC 16-39-9 to cover the cost of the additional expense. 
+As added by P.L.2-1993, SEC.22. Amended by P.L.4-1997, SEC.7. 
+
+IC 16-39-2-10 Decedents' records; consent to release 
+Sec. 10. For the purposes of this chapter, consent to the release of a deceased patient's record may be given by the personal representative of the patient's estate. If there is no appointment of a personal representative, consent may be given by: 
+(1) 
+the patient's spouse; or 
+
+(2) 
+if there is no spouse, any responsible member of the patient's family, including a parent, guardian, or custodian of the deceased patient’s minor child. 
+
+
+As added by P.L.2-1993, SEC.22. Amended by P.L.4-1997, SEC.8. 
+
+IC 16-39-2-11 Copying fees 
+Sec. 11. IC 16-39-9 governs the fees that may be charged for making and providing copies of records under this chapter. 
+As added by P.L.2-1993, SEC.22. Amended by P.L.102-1994, SEC.3. 
+
+IC 16-39-2-12 Application to other mental health records laws 
+Sec. 12. This chapter does not prohibit the application to mental health records of any law concerning health records that is not addressed by this chapter. 
+As added by P.L.4-1997, SEC.9. 
+

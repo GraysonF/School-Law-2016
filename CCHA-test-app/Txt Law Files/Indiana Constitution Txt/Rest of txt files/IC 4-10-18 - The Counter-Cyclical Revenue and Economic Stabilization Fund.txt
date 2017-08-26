@@ -1,0 +1,325 @@
+IC 4-10-18 
+Chapter 18. The Counter-Cyclical Revenue and Economic Stabilization Fund 
+IC 4-10-18-1 Definitions 
+Sec. 1. As used in this chapter: 
+"Adjusted personal income" for a particular reporting period means the adjusted state personal income for that reporting period as determined under section 3(b) of this chapter. 
+"Annual growth rate" for a particular reporting period means the percentage change in adjusted personal income for the particular reporting period as determined under section 3(c) of this chapter. 
+"Budget director" refers to the director of the budget agency established under IC 4-12-1. 
+"Bureau" means the Bureau of Economic Analysis of the United States Department of Commerce or its successor agency. 
+"Costs" means the cost of construction, equipment, land, property rights (including leasehold interests), easements, franchises, leases, financing charges, interest costs during and for a reasonable period after construction, architectural, engineering, legal, and other consulting or advisory services, plans, specifications, surveys, cost estimates, and other costs or expenses necessary or incident to the acquisition, development, construction, financing, and operating of an economic growth initiative. 
+"Current calendar year" means a calendar year during which a transfer to or from the fund is initially determined under sections 4 and 5 of this chapter. 
+"Current reporting period" means the most recent reporting period for which the following information is published by the bureau: 
+(1) The implicit price deflator for the gross domestic product. 
+(2) State personal income. 
+"Economic growth initiative" means: 
+
+(1) 
+the construction, extension, or completion of sewerlines, waterlines, streets, sidewalks, bridges, roads, highways, public ways, and any other infrastructure improvements; 
+
+(2) 
+the leasing or purchase of land and any site improvements to land; 
+
+(3) 
+the construction, leasing, or purchase of buildings or other structures; 
+
+(4) 
+the rehabilitation, renovation, or enlargement of buildings or other structures; 
+
+(5) 
+the leasing or purchase of machinery, equipment, or furnishings; or 
+
+(6) 
+the training or retraining of employees whose jobs will be created or retained as a result of the initiative. 
+
+
+"Fund" means the counter-cyclical revenue and economic stabilization fund established under this chapter. 
+"General fund revenue" means all general purpose tax revenue and other unrestricted general purpose revenue of the state, including federal revenue sharing monies, credited to the state general fund and from which appropriations may be made. 
+"Implicit price deflator for the gross domestic product" means the implicit price deflator for the gross domestic product, or its closest equivalent, which is available from the bureau. 
+"Political subdivision" has the meaning set forth in IC 36-1-2-13. 
+"Qualified economic growth initiative" means an economic growth initiative that is: 
+(1) 
+proposed by or on behalf of a political subdivision to promote economic growth, including the creation or retention of jobs or the infrastructure necessary to create or retain jobs; 
+
+(2) 
+supported by a financing plan by or on behalf of the political subdivision in an amount at least equal to the proposed amount of the grant under section 15 of this chapter; and 
+
+
+(3) estimated to cost not less than twelve million five hundred thousand dollars ($12,500,000). "Reporting period" refers to a period of twelve (12) consecutive months. "State personal income" means state personal income as that term is defined by the bureau. 
+"Total state general fund revenue" for a particular state fiscal year means the amount of that revenue for the particular state fiscal year as finally determined by the auditor of state. 
+"Transfer payments" means current personal transfer receipts as that term is defined by the bureau. As added by Acts 1982, P.L.22, SEC.1. Amended by P.L.28-1993, SEC.1; P.L.146-2008, SEC.8; P.L.205-2013, SEC.56. 
+
+IC 4-10-18-2 Establishment; administration by state treasurer 
+Sec. 2. (a) A counter-cyclical revenue and economic stabilization fund is established to assist in stabilizing revenue during periods of economic recession. 
+(b) The treasurer of state shall administer the fund. Amounts in the fund may be combined by the treasurer with other amounts in the state treasury for the purposes of cash management. The earnings from the investment of the fund accrue to the fund. The fund shall be accounted for separately from other state funds. The money in the fund at the end of a state fiscal year does not revert to the state general fund. As added by Acts 1982, P.L.22, SEC.1. 
+
+IC 4-10-18-3 Determination of adjusted personal income and annual growth rate 
+Sec. 3. (a) Each year, the budget director shall determine the adjusted personal income and the annual growth rate for Indiana using the current reporting period. 
+(b) The budget director shall determine the adjusted personal 
+income for the current reporting period in the following manner: STEP ONE: Calculate the average implicit price deflator for the gross domestic product for the current reporting period by totaling the implicit price deflator for the gross domestic product for each quarter of the current reporting period and dividing that total by four (4). STEP TWO: Calculate the remainder of the total state personal income for the current reporting period minus any transfer payments made in Indiana for the current reporting period. STEP THREE: Calculate the quotient of the result of STEP TWO divided by the result of STEP ONE. STEP FOUR: Calculate the product of one hundred (100) multiplied by the result of STEP THREE. This product is the adjusted personal income for the current reporting period. 
+(c) The annual growth rate for a particular reporting period equals the quotient of: 
+(1) 
+the remainder of: 
+
+(A) 
+the adjusted personal income for the particular reporting period; minus 
+
+(B) 
+the adjusted personal income for the twelve (12) month period immediately preceding the current reporting period; divided by 
+
+
+
+(2) 
+the adjusted personal income for the twelve (12) month 
+
+
+period immediately preceding the current reporting period. The annual growth rate shall be expressed as a percentage and shall be rounded to the nearest one-tenth of one percent (0.1%). 
+(d) If the bureau changes the base year on which it calculates the implicit price deflator for the gross domestic product, the budget director shall adjust the implicit price deflator for the gross domestic product used in making the calculation in subsection (b) to compensate for that change in the base year. As added by Acts 1982, P.L.22, SEC.1. Amended by P.L.205-2013, SEC.57. 
+
+IC 4-10-18-4 Annual appropriation to and from general fund; determination of amount 
+Sec. 4. (a) If the annual growth rate for the current reporting period exceeds two percent (2%), there is appropriated to the fund from the state general fund, for the state fiscal year beginning in the current calendar year, an amount equal to the product of: 
+(1) 
+the total state general fund revenues for the state fiscal year ending in the current calendar year; multiplied by 
+
+(2) 
+the remainder of: 
+
+(A) 
+the annual growth rate for the current reporting period; 
+
+minus 
+
+(B) 
+two percent (2%). 
+
+
+
+
+(b) If the annual growth rate for the current reporting period is less than a negative two percent (-2%), there is appropriated from the fund to the state general fund, for the state fiscal year beginning in the current calendar year, an amount equal to the amount determined in STEP TWO of the following formula: 
+STEP ONE: Determine the product of: 
+(A) the total state general fund revenues for the state fiscal year ending in the current calendar year; multiplied by 
+(B) negative one (-1). 
+STEP TWO: Determine the product of: 
+
+(A) 
+the STEP ONE result; multiplied by 
+
+(B) 
+the remainder of: 
+
+
+(i) the annual growth rate for the current reporting period; minus 
+(ii) negative two percent (-2%). As added by Acts 1982, P.L.22, SEC.1. Amended by P.L.205-2013, SEC.58. 
+
+IC 4-10-18-5 Annual appropriation to and from general fund; certification of amount; transfer of funds 
+Sec. 5. (a) As soon as the auditor of state makes a final determination of the amount of total state general fund revenues for a particular state fiscal year, the auditor of state shall certify that amount to the budget director. 
+(b) 
+As soon as possible after receiving the certification from the auditor of state under subsection (a), the budget director shall determine the amount, if any, that is appropriated into or out of the fund under section 4 of this chapter. If an appropriation is made into the fund under section 4 of this chapter, the budget director shall immediately certify that amount to the treasurer of state. If an appropriation is made out of the fund under section 4 of this chapter, the budget director shall certify to the treasurer of state an amount equal to the part of the appropriation, if any, by which the general fund general operating budget, for the state fiscal year for which the appropriation is made, exceeds the budget director's estimate of the total general fund revenues for that same state fiscal year. The budget director shall make the certification or certifications of money to be transferred out of the fund at the time or times that the budget director determines the general fund general operating budget would exceed the total estimated state general fund revenues. 
+
+(c) 
+Immediately upon receiving a certification from the budget director under subsection (b), the auditor of state and treasurer of state shall make the appropriate transfer into or out of the fund. 
+
+(d) 
+Any amount, which is appropriated out of the fund under section 4 of this chapter, but which has not been transferred out of 
+
+
+the fund under this section at the end of the state fiscal year for which the appropriation is made, shall revert to the fund. 
+As added by Acts 1982, P.L.22, SEC.1. Amended by P.L.215-2016, SEC.68. 
+
+IC 4-10-18-6 Budget reports; statements of actual or estimated transfers 
+Sec. 6. (a) In each budget report prepared in a current calendar year under IC 4-12-1-9, the state budget agency shall include a statement of the actual or estimated transfers made into or out of the fund under this chapter for each state fiscal year included in the report. 
+(b) In each budget report prepared under IC 4-12-1-12(a) or (c), the state budget agency shall include a final estimate of the transfers that were estimated under subsection (a). As added by Acts 1982, P.L.22, SEC.1. 
+
+IC 4-10-18-7 Transfers; adjustment 
+Sec. 7. If: 
+(1) 
+the bureau revises the state personal income figure it has previously reported for the twelve (12) month period preceding the current reporting period; and 
+
+(2) 
+the revision is made after the transfer for the state fiscal year that begins in the current calendar year has initially been determined under section 5 of this chapter; 
+
+
+then the budget director shall adjust the transfer to reflect any increase or decrease in the growth rate used in initially determining that transfer. However, the total adjustments made under this section may not increase or decrease the initially determined transfer by an amount which exceeds one percent (1%) of the total general fund revenue used in determining the transfer. In addition, the last report of state personal income that the bureau makes before April 30 of the calendar year immediately following the current calendar year determines the final adjustment that may be made under this section with respect to that transfer. 
+As added by Acts 1982, P.L.22, SEC.1. Amended by P.L.205-2013, SEC.59. 
+
+IC 4-10-18-8 Excess funds; appropriations to state general fund 
+Sec. 8. (a) Except as provided in subsection (b), if the balance, at the end of a state fiscal year, in the fund exceeds seven percent (7%) of the total state general fund revenues for that state fiscal year, the excess is appropriated from the fund to the state general fund. The auditor of state and the treasurer of state shall transfer the amount so appropriated from the fund to the state general fund during the immediately following state fiscal year. 
+(b) If an appropriation is made out of the fund under section 4 of this chapter for a state fiscal year during which a transfer is to be made from the fund to the state general fund, the amount of the appropriation made under subsection (a) shall be reduced by the amount of the appropriation made under section 4 of this chapter. However, the amount of the appropriation made under subsection (a) may not be reduced to less than zero (0). As added by Acts 1982, P.L.22, SEC.1. Amended by P.L.146-2008, SEC.9. 
+
+IC 4-10-18-9 General fund revenues; shortfall; appropriation 
+Sec. 9. If the total state general fund revenues for a state fiscal year, in which a transfer into the fund is made, are less than the level estimated in the budget report prepared in accord with IC 4-12-1-12(a) or (c) and the shortfall cannot be attributed to a statutory change in the tax rate, the tax base, the fee schedules, or the revenue sources from which the general fund revenue estimate was made, there is appropriated from the fund to the state general fund an amount that may not exceed the lesser of the following two (2) amounts: 
+(1) 
+the amount that was transferred into the fund during that state fiscal year; or 
+
+(2) 
+the amount necessary to balance the general fund general operating budget for that state fiscal year. 
+
+
+As added by Acts 1982, P.L.22, SEC.1. 
+
+IC 4-10-18-10 Loan of money from fund; application; terms; repayment; eligible entities 
+Sec. 10. (a) The state board of finance may lend money from the fund to entities listed in subsections (e) through (k) for the purposes specified in those subsections. 
+(b) 
+An entity must apply for the loan before May 1, 1989, in a form approved by the state board of finance. As part of the application, the entity shall submit a plan for its use of the loan proceeds and for the repayment of the loan. Within sixty (60) days after receipt of each application, the board shall meet to consider the application and to review its accuracy and completeness and to determine the need for the loan. The board shall authorize a loan to an entity that makes an application if the board approves its accuracy and completeness and determines that there is a need for the loan and an adequate method of repayment. 
+
+(c) 
+The state board of finance shall determine the terms of each loan, which must include the following: 
+
+(1) 
+The duration of the loan, which must not exceed twelve (12) years. 
+
+(2) 
+The repayment schedule of the loan, which must provide 
+
+that no payments are due during the first two (2) years of the loan. 
+
+(3) 
+A variable rate of interest to be determined by the board and adjusted annually. The interest rate must be the greater of: 
+
+(A) 
+five percent (5%); or 
+
+(B) 
+two-thirds (2/3) of the interest rate for fifty-two (52) week United States Treasury bills on the anniversary date of the loan, but not to exceed ten percent (10%). 
+
+
+
+(4) 
+The amount of the loan or loans, which may not exceed the maximum amounts established for the entity by this section. 
+
+(5) 
+Any other conditions specified by the board. 
+
+
+
+(d) 
+An entity may borrow money under this section by adoption of an ordinance or a resolution and, as set forth in IC 5-1-14, may use any source of revenue to repay a loan under this section. This section constitutes complete authority for the entity to borrow from the fund. If an entity described in subsection (i) fails to make any repayments of a loan, the amount payable shall be withheld by the auditor of state from any other money payable to the consolidated city. If any other entity described in this section fails to make any repayments of a loan, the amount payable shall be withheld by the auditor of state from any other money payable to the entity. The amount withheld shall be transferred to the fund to the credit of the entity. 
+
+(e) 
+A loan under this section may be made to a city located in a county having a population of more than twenty-five thousand (25,000) but less than twenty-five thousand eight hundred (25,800) for the city's waterworks facility. The amount of the loan may not exceed one million six hundred thousand dollars ($1,600,000). 
+
+(f) 
+A loan under this section may be made to a city the territory of which is included in part within the Lake Michigan corridor (as defined in IC 14-13-3-2, before its repeal) for a marina development project. As a part of its application under subsection (b), the city must include the following: 
+
+(1) 
+Written approval by the Lake Michigan marina development commission of the project to be funded by the loan proceeds. 
+
+(2) 
+A written determination by the commission of the amount needed by the city, for the project and of the amount of the maximum loan amount under this subsection that should be lent to the city. 
+
+
+
+
+The maximum amount of loans available for all cities that are eligible for a loan under this subsection is eight million six hundred thousand dollars ($8,600,000). 
+(g) 
+A loan under this section may be made to a county having a population of more than one hundred seventy-five thousand (175,000) but less than one hundred eighty-five thousand (185,000) for use by the airport authority in the county for the construction of runways. The amount of the loan may not exceed seven million dollars ($7,000,000). The county may lend the proceeds of its loan to an airport authority for the public purpose of fostering economic 
+
+growth in the county. 
+
+(h) 
+A loan under this section may be made to a city having a population of more than sixty thousand (60,000) but less than sixty-five thousand (65,000)for the construction of parking facilities. The amount of the loan may not exceed three million dollars ($3,000,000). 
+
+(i) 
+A loan or loans under this section may be made to a consolidated city, a local public improvement bond bank, or any board, authority, or commission of the consolidated city to fund economic development projects under IC 36-7-15.2-5 or to refund obligations issued to fund economic development projects. The amount of the loan may not exceed thirty million dollars ($30,000,000). 
+
+(j) 
+A loan under this section may be made to a county having a population of more than thirteen thousand (13,000) but less than fourteen thousand (14,000) for extension of airport runways. The amount of the loan may not exceed three hundred thousand dollars ($300,000). 
+
+(k) 
+A loan under this section may be made to Covington Community School Corporation to refund the amount due on a tax anticipation warrant loan. The amount of the loan may not exceed two million seven hundred thousand dollars ($2,700,000), to be paid back from any source of money that is legally available to the school corporation. Notwithstanding subsection (b), the school corporation must apply for the loan before June 30, 2010. Notwithstanding subsection (c), repayment of the loan shall be made in equal installments over five (5) years with the first installment due not more than six (6) months after the date loan proceeds are received by the school corporation. 
+
+(l) 
+IC 6-1.1-20 does not apply to a loan made by an entity under this section. 
+
+
+(m) As used in this section, "entity" means a governmental entity authorized to obtain a loan under subsections (e) through (k). As added by P.L.380-1987(ss), SEC.2. Amended by P.L.5-1988, SEC.22; P.L.22-1988, SEC.2; P.L.12-1992, SEC.13; P.L.1-1995, SEC.33; P.L.170-2002, SEC.10; P.L.182-2009(ss), SEC.53; P.L.197-2011, SEC.3; P.L.119-2012, SEC.8. 
+
+IC 4-10-18-11 Limitations on loans 
+Sec. 11. (a) A loan under section 10 of this chapter from the fund is payable only from the amount of money remaining in the fund after the appropriations required by this chapter have been made. 
+(b) 
+This section and section 10 of this chapter do not create an obligation of: 
+
+(1) the state; or 
+
+(2) 
+the fund; to honor any loan applications to the extent that the total amount of 
+
+
+loans approved by the state board of finance exceeds the amount of money available for loans at the time loans are paid. 
+As added by P.L.380-1987(ss), SEC.3. 
+
+IC 4-10-18-12 Appropriation to underground petroleum storage tank excess liability trust fund 
+Sec. 12. If the amount of money in the underground petroleum storage tank excess liability trust fund established by IC 13-23-7-1 reaches zero (0), ten million dollars ($10,000,000) shall be transferred to the underground petroleum storage tank excess liability trust fund from the fund if the: 
+(1) underground petroleum storage tank financial assurance board recommends that the appropriation should be made; and 
+(2) budget committee approves the appropriation. As added by P.L.13-1990, SEC.2. Amended by P.L.1-1996, SEC.24; P.L.113-2014, SEC.3. 
+
+IC 4-10-18-13 Repealed 
+(As added by P.L.28-1993, SEC.2. Repealed by P.L.93-2013, SEC.1.) 
+
+IC 4-10-18-14 Investment of proceeds; reversion 
+Sec. 14. (a) The treasurer of state shall invest the money in the economic growth initiatives account not currently needed to further the purposes of the account in the same manner as other public funds may be invested. Income from these investments shall be deposited in the fund, but not the account, and any losses from the investments shall be charged against the fund, but not the account. 
+(b) 
+Expenses of managing the economic growth initiatives account shall be paid from money in the account. 
+
+(c) 
+Money in the economic growth initiatives account does not revert to the fund or the state general fund at the end of a state fiscal year. However, if the account is abolished, money in the account shall be deposited in the fund. 
+
+(d) 
+If no grant agreement for a qualified economic growth initiative for a government building that is to be occupied by an agency of the federal government has been executed and delivered under section 16 of this chapter before March 1, 1994: 
+
+(1) 
+the money in the account reverts to the fund on March 1, 1994; and 
+
+(2) 
+the auditor of state shall abolish the account on March 1, 1994. 
+
+
+
+
+As added by P.L.28-1993, SEC.3. 
+IC 4-10-18-15 Use of proceeds 
+
+Sec. 15. (a) Money in the economic growth initiatives account may be used only for grants to or for the benefit of political subdivisions for costs of qualified economic growth initiatives. 
+(b) Making grants for qualified economic growth initiatives under this chapter will serve a public purpose by creating and retaining jobs and promoting economic growthand development within Indiana and will serve essential governmental functions and public activities within Indiana. As added by P.L.28-1993, SEC.4. 
+
+IC 4-10-18-16 Grants 
+Sec. 16. (a) Grants to or on behalf of political subdivisions for qualified economic growth initiatives shall be made by the Indiana economic development corporation established by IC 5-28-3-1. 
+(b) 
+Each grant shall be made under a grant agreement by and between: 
+
+(1) 
+the Indiana economic development corporation; and 
+
+(2) 
+the political subdivision proposing the economic growth initiative or the person (as defined in IC 36-1-2-12) acting on behalf of the political subdivision. 
+
+
+(c) Each grant agreement shall describe in detail: 
+(1) 
+the qualified economic growth initiative; 
+
+(2) 
+the financing plan by the political subdivision proposing the economic growth initiative or by the person acting on behalf of the political subdivision; and 
+
+(3) 
+the estimated cost of the economic growth initiative and all sources of money for the initiative. 
+
+
+
+(d) 
+The Indiana economic development corporation may not execute and deliver a grant agreement under this section, and no money may be disbursed from the economic growth initiatives account, until the grant agreement has been: 
+
+(1) 
+reviewed by the budget committee established by IC 4-12-1-3; and 
+
+(2) 
+approved by the budget agency established by IC 4-12-1-3. 
+
+
+
+(e) 
+In addition to the requirements of subsection (d), no money may be disbursed for a grant from the economic growth initiatives account without an appropriation made by the general assembly for that purpose, unless the grant is for a qualified economic growth initiative for a government building that is to be occupied by an agency of the federal government. 
+
+
+(f) Not more than twenty-five percent (25%) of any grant may be used for training or retraining employees whose jobs will be created or retained as a result of the economic growth initiative. As added by P.L.28-1993, SEC.5. Amended by P.L.4-2005, SEC.6. 
+ 
+

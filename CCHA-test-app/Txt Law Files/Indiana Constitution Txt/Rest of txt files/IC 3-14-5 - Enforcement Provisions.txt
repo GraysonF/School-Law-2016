@@ -1,0 +1,152 @@
+IC 3-14-5 Chapter 5. Enforcement Provisions 
+IC 3-14-5-1 Affidavit against illegal voter 
+Sec. 1. (a) This section applies during an election whenever a voter makes an affidavit before the inspector in a precinct that a person who has voted is an illegal voter in the precinct. This section does not apply to an affidavit executed by an individual who: 
+(1) 
+is subject to the requirements set forth in IC 3-7-33-4.5; 
+
+(2) 
+is challenged solely as a result of the individual’s inability or refusal to comply with IC 3-7-33-4.5; and 
+
+(3) 
+subsequently complies with IC 3-7-33-4.5 before the close of the polls on election day. 
+
+
+(b) Immediately after the close of the polls the inspector shall deliver the affidavit to the county election board for delivery by the prosecuting attorney for the county to the grand jury under section 2 of this chapter. The prosecuting attorney for the county shall: 
+(1) 
+proceed as if the affidavit had been made before the prosecuting attorney; and 
+
+(2) 
+ensure that the grand jury notifies the NVRA official under section 2 of this chapter if a violation of NVRA appears to have occurred. 
+
+
+As added by P.L.5-1986, SEC.10. Amended by P.L.12-1995, SEC.90; P.L.2-1996, SEC.207; P.L.3-1997, SEC.407; P.L.230-2005, SEC.66. 
+
+IC 3-14-5-2 Affidavits; packaging, sealing, endorsing, and delivery to grand jury; inquiry by grand jury 
+Sec. 2. (a) Each precinct election board shall, at the close of the polls, place all affidavits prescribed by this title for use on election day to determine the eligibility of a precinct election officer (or a person who wishes to cast a ballot) in a strong paper bag or envelope and securely seal it. Each member shall endorse that member's name on the back of the bag or envelope. 
+(b) The inspector and judge of the opposite political party shall deliver the sealed bag or envelope to the county election board. The county election board shall do the following: 
+(1) 
+Remove the affidavits from the bag or envelope. 
+
+(2) 
+Mail a copy of each affidavit to the secretary of state. 
+
+(3) 
+Replace the affidavits within the bag or envelope. 
+
+(4) 
+Reseal the bag or envelope with the endorsement of the name of each county election board member on the back of the bag or envelope. 
+
+(5) 
+Carefully preserve the resealed bag or envelope and deliver it, with the county election board's seal unbroken, to the foreman of the grand jury when next in session. 
+
+
+(c) The grand jury shall inquire into the truth or falsity of the affidavits, and the court having jurisdiction over the grand jury shall specially charge the jury as to its duties under this section. 
+(d) The grand jury shall file a report of the result of its inquiry with: 
+(1) 
+the court; and 
+
+(2) 
+the NVRA official if a violation of NVRA appears to have occurred. 
+
+
+As added by P.L.5-1986, SEC.10. Amended by P.L.12-1995, SEC.91; P.L.2-1996, SEC.208; P.L.3-1997, SEC.408; P.L.230-2005, SEC.67. 
+
+IC 3-14-5-3 Duty to report violations to prosecuting attorney and violator; presentation to grand jury 
+Sec. 3. (a) This section does not apply to a violation of NVRA or IC 3-7. 
+(b) The commission and each county election board shall report a violation of this title as a felony or misdemeanor to the appropriate prosecuting attorney and the alleged violator. 
+(c) The commission and boards may have the report transmitted and presented to the grand jury of the county in which the violation was committed at its first session after making the report and at subsequent sessions that may be required. The commission and boards shall furnish the grand jury any evidence at their command necessary in the investigation and prosecution of the violation. As added by P.L.5-1986, SEC.10. Amended by P.L.12-1995, SEC.92; P.L.2-1996, SEC.209; P.L.81-2005, SEC.31. 
+
+IC 3-14-5-4 Prosecution of violators 
+Sec. 4. In addition to the duties prescribed by IC 33-39, the prosecuting attorney of each circuit shall prosecute each resident of the circuit who the prosecutor believes has violated IC 3-14-1-7, IC 3-14-1-10, IC 3-14-1-13, IC 3-14-1-14, or IC 3-14-1-14.5 in any circuit of the state. As added by P.L.5-1986, SEC.10. Amended by P.L.3-1995, SEC.137; P.L.3-1997, SEC.409; P.L.98-2004, SEC.45. 
+
+IC 3-14-5-5 Indictment or information; allegations 
+Sec. 5. When an election offense is committed, an indictment or information for the offense is sufficient if it alleges that the election was authorized by law without stating the names of the officers holding the election, the candidates voted for, or the offices filled at the election. As added by P.L.5-1986, SEC.10. 
+IC 3-14-5-6 Criminal prosecutions; self-incrimination defense not available to witness 
+
+Sec. 6. In a criminal prosecution for violation of IC 3-14-1-7, IC 3-14-1-10, IC 3-14-1-13, IC 3-14-1-14, or IC 3-14-1-14.5, a witness, except the person who is accused and on trial, may not be excused from answering a question or producing a book, paper, or other thing on the ground that the witness' answer or the thing to be produced may tend to incriminate the witness or render the witness liable to a penalty. However, the witness' answer or the thing produced by the witness may not be used in a proceeding against the witness, except in a prosecution for perjury in so testifying. As added by P.L.5-1986, SEC.10. Amended by P.L.3-1995, SEC.138; P.L.3-1997, SEC.410. 
+
+IC 3-14-5-7 Informants; immunity 
+Sec. 7. If a person who has given or received money or other property to or from another person for the purpose of influencing any voter's vote at an election informs upon and testifies against the person receiving or giving the money in a criminal prosecution, the person informing and testifying may not be prosecuted in connection with the transaction. As added by P.L.5-1986, SEC.10. 
+IC 3-14-5-8 Employment sanctions for a person convicted of a vote fraud felony or class A misdemeanor; remedies if conviction is reversed, vacated, or set aside; injunctions; civil penalties 
+Sec. 8. (a) As used in this section, "governmental entity" refers to any of the following: 
+(1) 
+A city. 
+
+(2) 
+A town. 
+
+(3) 
+An agency of a governmental entity referred to in any of subdivisions (1) through (2). 
+
+
+(b) 
+As used in this section, "date of conviction" refers to the date when: 
+
+(1) 
+in a jury trial, a jury publicly announces a verdict against a person for a felony or Class A misdemeanor; 
+
+(2) 
+in a bench trial, the court publicly announces a verdict against a person for a felony or Class A misdemeanor; or 
+
+(3) 
+in a guilty plea hearing, a person pleads guilty or nolo contendere to a felony or Class A misdemeanor. 
+
+
+
+(c) 
+A person who is convicted under IC 3-14-2 of a felony or Class A misdemeanor that relates to an election for an office for a governmental entity shall not: 
+
+(1) 
+continue employment with; 
+
+(2) 
+obtain future employment with; 
+
+(3) 
+contract with; or 
+
+(4) 
+be a subcontractor under a contract with; 
+
+
+
+
+any governmental entity for twenty (20) years after the date of conviction. 
+(d) 
+For twenty (20) years after the person's date of conviction, a governmental entity may not: 
+
+(1) 
+employ; 
+
+(2) 
+offer employment to; 
+
+(3) 
+contract with; or 
+
+
+
+(4) 
+maintain a contractual relationship when a subcontractor is; a person who is convicted under IC 3-14-2 of a felony or Class A misdemeanor that relates to an election for an office for any governmental entity. 
+
+(e) If: 
+(1) 
+a person was employed by a governmental entity; 
+
+(2) 
+the person was convicted under IC 3-14-2 of a felony or Class A misdemeanor relating to an election for an office for a governmental entity; 
+
+(3) 
+the person's employment with the governmental entity was discontinued under subsection (c) or (d); and 
+
+
+
+(4) 
+the person's conviction is reversed, vacated, or set aside; the governmental entity shall reemploy the person in the same position the person held before the person's conviction or in another position equivalent in benefits, pay, and working conditions to the position the person held before the person's conviction, and the person is entitled to receive any salary or other remuneration that the person would have received if the person's employment had not been discontinued under subsection (c) or (d). 
+
+(f) 
+The attorney general may petition a court with jurisdiction for an injunction against a person who violates subsection (c) or a governmental entity that violates subsection (d). 
+
+
+(g) The attorney general may petition a court with jurisdiction to impose a civil penalty of not more than one thousand dollars ($1,000) on a person who violates subsection (c). As added by P.L.164-2006, SEC.134. Amended by P.L.109-2015, SEC.2; P.L.233-2015, SEC.3. 
+

@@ -1,0 +1,1225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="12121" systemVersion="16E195" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="Ywj-4l-NgA">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="12089"/>
+        <capability name="Alignment constraints with different attributes" minToolsVersion="5.1"/>
+        <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--Favorites-->
+        <scene sceneID="dHe-D2-Mce">
+            <objects>
+                <viewController title="Favorites" automaticallyAdjustsScrollViewInsets="NO" id="y7y-PU-EcC" customClass="FavoritesVC" customModule="CCHA_test_app" customModuleProvider="target" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="qoJ-3p-AIe"/>
+                        <viewControllerLayoutGuide type="bottom" id="GJ5-nu-HwU"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="RRM-1C-0M4">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <tableView clipsSubviews="YES" contentMode="scaleToFill" ambiguous="YES" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="60" sectionHeaderHeight="28" sectionFooterHeight="28" translatesAutoresizingMaskIntoConstraints="NO" id="Gj6-zl-WcB">
+                                <rect key="frame" x="0.0" y="64" width="600" height="536"/>
+                                <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <prototypes>
+                                    <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="cell" id="Nai-97-xSP">
+                                        <rect key="frame" x="0.0" y="28" width="600" height="60"/>
+                                        <autoresizingMask key="autoresizingMask"/>
+                                        <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="Nai-97-xSP" id="HN0-PB-rmO">
+                                            <rect key="frame" x="0.0" y="0.0" width="600" height="59.5"/>
+                                            <autoresizingMask key="autoresizingMask"/>
+                                        </tableViewCellContentView>
+                                    </tableViewCell>
+                                </prototypes>
+                            </tableView>
+                        </subviews>
+                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstAttribute="trailing" secondItem="Gj6-zl-WcB" secondAttribute="trailing" id="87h-dl-5Zq"/>
+                            <constraint firstItem="GJ5-nu-HwU" firstAttribute="top" secondItem="Gj6-zl-WcB" secondAttribute="bottom" id="N5y-g3-zoU"/>
+                            <constraint firstItem="Gj6-zl-WcB" firstAttribute="leading" secondItem="RRM-1C-0M4" secondAttribute="leading" id="O3y-JW-skq"/>
+                            <constraint firstItem="Gj6-zl-WcB" firstAttribute="top" secondItem="qoJ-3p-AIe" secondAttribute="bottom" id="Yro-Td-3Rj"/>
+                        </constraints>
+                        <variation key="default">
+                            <mask key="constraints">
+                                <exclude reference="87h-dl-5Zq"/>
+                                <exclude reference="O3y-JW-skq"/>
+                                <exclude reference="Yro-Td-3Rj"/>
+                                <exclude reference="N5y-g3-zoU"/>
+                            </mask>
+                        </variation>
+                    </view>
+                    <toolbarItems/>
+                    <nil key="simulatedBottomBarMetrics"/>
+                    <connections>
+                        <outlet property="searchDisplayController" destination="oT3-GX-RBi" id="h3f-u4-mVs"/>
+                        <outlet property="tableView" destination="Gj6-zl-WcB" id="dTZ-F4-arY"/>
+                        <segue destination="Bnd-T5-LtA" kind="show" identifier="FavoritesToContent" id="sKK-au-Gb4"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="Sh1-5V-XDm" userLabel="First Responder" sceneMemberID="firstResponder"/>
+                <searchDisplayController id="oT3-GX-RBi">
+                    <connections>
+                        <outlet property="delegate" destination="y7y-PU-EcC" id="Frm-6w-snF"/>
+                        <outlet property="searchContentsController" destination="y7y-PU-EcC" id="9Gc-uw-Kiq"/>
+                        <outlet property="searchResultsDataSource" destination="y7y-PU-EcC" id="RRr-sR-1GS"/>
+                        <outlet property="searchResultsDelegate" destination="y7y-PU-EcC" id="uhn-VL-ow8"/>
+                    </connections>
+                </searchDisplayController>
+            </objects>
+            <point key="canvasLocation" x="1971" y="-1112"/>
+        </scene>
+        <!--Chapter TableVC-->
+        <scene sceneID="q4h-vN-hg0">
+            <objects>
+                <tableViewController id="BNx-lF-0gk" customClass="ChapterTableVC" customModule="CCHA_test_app" customModuleProvider="target" sceneMemberID="viewController">
+                    <tableView key="view" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="60" sectionHeaderHeight="28" sectionFooterHeight="28" id="mOj-hD-VKo">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <prototypes>
+                            <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="default" accessoryType="disclosureIndicator" indentationWidth="10" reuseIdentifier="Cell" id="Nud-D5-Z6H">
+                                <rect key="frame" x="0.0" y="28" width="375" height="60"/>
+                                <autoresizingMask key="autoresizingMask"/>
+                                <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="Nud-D5-Z6H" id="zej-GY-7yl">
+                                    <rect key="frame" x="0.0" y="0.0" width="342" height="59.5"/>
+                                    <autoresizingMask key="autoresizingMask"/>
+                                </tableViewCellContentView>
+                            </tableViewCell>
+                        </prototypes>
+                        <connections>
+                            <outlet property="dataSource" destination="BNx-lF-0gk" id="COd-q6-VdY"/>
+                            <outlet property="delegate" destination="BNx-lF-0gk" id="b5y-Xk-7o0"/>
+                        </connections>
+                    </tableView>
+                    <connections>
+                        <outlet property="tableview" destination="mOj-hD-VKo" id="9MY-dn-VkT"/>
+                        <segue destination="Bnd-T5-LtA" kind="show" identifier="SectionToContent" id="fLL-qd-b7W"/>
+                    </connections>
+                </tableViewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="JX3-QZ-In7" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1866" y="-2913"/>
+        </scene>
+        <!--Article TableVC-->
+        <scene sceneID="Hhr-up-3RA">
+            <objects>
+                <tableViewController id="inJ-KP-g6w" customClass="ArticleTableVC" customModule="CCHA_test_app" customModuleProvider="target" sceneMemberID="viewController">
+                    <tableView key="view" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="60" sectionHeaderHeight="28" sectionFooterHeight="28" id="T1u-Kg-Z41">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <prototypes>
+                            <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="default" accessoryType="disclosureIndicator" indentationWidth="10" reuseIdentifier="Cell" id="uaC-64-Jeq">
+                                <rect key="frame" x="0.0" y="28" width="375" height="60"/>
+                                <autoresizingMask key="autoresizingMask"/>
+                                <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="uaC-64-Jeq" id="1q9-oM-zpc">
+                                    <rect key="frame" x="0.0" y="0.0" width="342" height="59.5"/>
+                                    <autoresizingMask key="autoresizingMask"/>
+                                </tableViewCellContentView>
+                            </tableViewCell>
+                        </prototypes>
+                        <connections>
+                            <outlet property="dataSource" destination="inJ-KP-g6w" id="HGh-gR-y5i"/>
+                            <outlet property="delegate" destination="inJ-KP-g6w" id="od9-6r-BXT"/>
+                        </connections>
+                    </tableView>
+                    <connections>
+                        <outlet property="tableView" destination="T1u-Kg-Z41" id="KQC-Mu-Amk"/>
+                        <outlet property="tableview" destination="T1u-Kg-Z41" id="C1n-Ir-Rfe"/>
+                        <segue destination="BNx-lF-0gk" kind="show" identifier="ThirdSegue" id="iZH-t2-UZ4"/>
+                        <segue destination="Bnd-T5-LtA" kind="show" identifier="ArticleToContent" id="181-xJ-k0x"/>
+                    </connections>
+                </tableViewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="LPq-9E-cnh" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="2126" y="-1884"/>
+        </scene>
+        <!--Title TableVC-->
+        <scene sceneID="MqS-6e-5h9">
+            <objects>
+                <tableViewController id="Mh2-2K-nxy" customClass="TitleTableVC" customModule="CCHA_test_app" customModuleProvider="target" sceneMemberID="viewController">
+                    <tableView key="view" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="60" sectionHeaderHeight="28" sectionFooterHeight="28" id="88C-C1-h04">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <prototypes>
+                            <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="default" accessoryType="disclosureIndicator" indentationWidth="10" reuseIdentifier="Cell" id="tWN-zc-xZN">
+                                <rect key="frame" x="0.0" y="28" width="375" height="60"/>
+                                <autoresizingMask key="autoresizingMask"/>
+                                <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="tWN-zc-xZN" id="5Rf-3X-Cg5">
+                                    <rect key="frame" x="0.0" y="0.0" width="342" height="59.5"/>
+                                    <autoresizingMask key="autoresizingMask"/>
+                                </tableViewCellContentView>
+                            </tableViewCell>
+                        </prototypes>
+                        <connections>
+                            <outlet property="dataSource" destination="Mh2-2K-nxy" id="5qY-Us-FkP"/>
+                            <outlet property="delegate" destination="Mh2-2K-nxy" id="EFI-4o-4Bs"/>
+                        </connections>
+                    </tableView>
+                    <connections>
+                        <outlet property="tableview" destination="88C-C1-h04" id="A2Z-du-GR2"/>
+                        <segue destination="inJ-KP-g6w" kind="show" identifier="SecondSegue" id="0Ry-hM-RT4"/>
+                        <segue destination="Bnd-T5-LtA" kind="show" identifier="TitleToContent" id="59T-Nq-avT"/>
+                    </connections>
+                </tableViewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="qMU-LY-sLr" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="888" y="-1249"/>
+        </scene>
+        <!--School Laws TableVC-->
+        <scene sceneID="xtA-Jm-dW9">
+            <objects>
+                <tableViewController id="rKJ-ju-uLC" customClass="SchoolLawsTableVC" customModule="CCHA_test_app" customModuleProvider="target" sceneMemberID="viewController">
+                    <tableView key="view" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" rowHeight="70" sectionHeaderHeight="28" sectionFooterHeight="28" id="LJB-De-72X">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <prototypes>
+                            <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="default" accessoryType="disclosureIndicator" indentationWidth="10" reuseIdentifier="Cell" id="nWQ-Ny-0Wd">
+                                <rect key="frame" x="0.0" y="28" width="375" height="70"/>
+                                <autoresizingMask key="autoresizingMask"/>
+                                <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="nWQ-Ny-0Wd" id="MRU-FV-Nl1">
+                                    <rect key="frame" x="0.0" y="0.0" width="342" height="69.5"/>
+                                    <autoresizingMask key="autoresizingMask"/>
+                                </tableViewCellContentView>
+                            </tableViewCell>
+                        </prototypes>
+                        <connections>
+                            <outlet property="dataSource" destination="rKJ-ju-uLC" id="5AB-nI-dqP"/>
+                            <outlet property="delegate" destination="rKJ-ju-uLC" id="0KA-PX-m0r"/>
+                        </connections>
+                    </tableView>
+                    <connections>
+                        <outlet property="searchDisplayController" destination="Cba-Ne-XY2" id="pMh-dI-wod"/>
+                        <outlet property="tableview" destination="LJB-De-72X" id="QgD-rN-KYG"/>
+                        <segue destination="Mh2-2K-nxy" kind="show" identifier="firstSegue" id="acf-96-JBx"/>
+                    </connections>
+                </tableViewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="cjY-WT-fTa" userLabel="First Responder" sceneMemberID="firstResponder"/>
+                <searchDisplayController id="Cba-Ne-XY2">
+                    <connections>
+                        <outlet property="delegate" destination="rKJ-ju-uLC" id="Pao-k4-YI5"/>
+                        <outlet property="searchContentsController" destination="rKJ-ju-uLC" id="ZLd-at-k9a"/>
+                        <outlet property="searchResultsDataSource" destination="rKJ-ju-uLC" id="3Bm-v2-dcR"/>
+                        <outlet property="searchResultsDelegate" destination="rKJ-ju-uLC" id="wd6-xx-haH"/>
+                    </connections>
+                </searchDisplayController>
+            </objects>
+            <point key="canvasLocation" x="1143" y="-482"/>
+        </scene>
+        <!--TermsVC-->
+        <scene sceneID="KCh-nw-JQw">
+            <objects>
+                <viewController id="pMA-Jb-0vX" customClass="TermsVC" customModule="CCHA_test_app" customModuleProvider="target" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="jPu-55-g1L"/>
+                        <viewControllerLayoutGuide type="bottom" id="I31-yW-Zup"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="6oF-3k-So3">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" editable="NO" usesAttributedText="YES" translatesAutoresizingMaskIntoConstraints="NO" id="3wq-bN-afT" customClass="CustomUITextView" customModule="CCHA_test_app" customModuleProvider="target">
+                                <rect key="frame" x="4" y="64" width="367" height="603"/>
+                                <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <gestureRecognizers/>
+                                <attributedString key="attributedText">
+                                    <fragment>
+                                        <string key="content">CONDITIONS OF USE
+The material in the INSchoolLaw app is for informational purposes only and is not legal advice. Use of, or communications through, this App does not create an attorney-client relationship between you and Church Church Hittle + Antrim (CCHA) or any of its attorneys. Please do not send any confidential information pertaining to potential legal services to CCHA or any of its attorneys through this App.
+CCHA strives to provide accurate information through this App. However, occasionally the App will contain information that has become obsolete or is otherwise inaccurate. CCHA does not warrant in any way that the information provided is complete or accurate and disclaims all liability for the information provided. Feel free to contact us if you believe that any information contained on any of the pages on this App is out of date or incorrect. 
+This App is not intended as advertising or as a solicitation, and CCHA is not seeking to solicit any person or entity viewing this App.
+COPYRIGHT
+The compilation of the materials in this App and the App itself is copyrighted by CCHA as of 2016. Distribution of this app does not constitute consent to any use of this material for commercial redistribution either via the Internet or other means. In those cases where the underlying texts are government documents, those texts lie in the public domain, but CCHA has a copyright in markup, navigation apparatus, and other value-added features in this app. Button Icon designed by bezier master from the Noun Project.
+TRADEMARK
+INSchoolLaw and all of CCHA’s names and logos are trademarks of CCHA. 
+</string>
+                                        <attributes>
+                                            <font key="NSFont" size="14" name="HelveticaNeue"/>
+                                            <paragraphStyle key="NSParagraphStyle" alignment="natural" lineBreakMode="wordWrapping" baseWritingDirection="natural" paragraphSpacingBefore="20" tighteningFactorForTruncation="0.0"/>
+                                        </attributes>
+                                    </fragment>
+                                </attributedString>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                                <connections>
+                                    <outletCollection property="gestureRecognizers" destination="b43-UC-qFZ" appends="YES" id="sQm-Rh-JCD"/>
+                                </connections>
+                            </textView>
+                        </subviews>
+                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="3wq-bN-afT" firstAttribute="leading" secondItem="6oF-3k-So3" secondAttribute="leadingMargin" constant="-12" id="0vC-UZ-Le3"/>
+                            <constraint firstItem="I31-yW-Zup" firstAttribute="top" secondItem="3wq-bN-afT" secondAttribute="bottom" id="TpO-lG-DNm"/>
+                            <constraint firstAttribute="trailingMargin" secondItem="3wq-bN-afT" secondAttribute="trailing" constant="-12" id="bIe-Qt-quc"/>
+                            <constraint firstItem="3wq-bN-afT" firstAttribute="top" secondItem="jPu-55-g1L" secondAttribute="bottom" id="jjS-ZC-cXg"/>
+                        </constraints>
+                    </view>
+                    <connections>
+                        <outlet property="textview" destination="3wq-bN-afT" id="vhy-LK-yQz"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="R39-6X-X8P" userLabel="First Responder" sceneMemberID="firstResponder"/>
+                <pinchGestureRecognizer id="b43-UC-qFZ"/>
+            </objects>
+            <point key="canvasLocation" x="148" y="6"/>
+        </scene>
+        <!--Indiana School Law-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="HomeVC" customModule="CCHA_test_app" customModuleProvider="target" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="y3c-jy-aDJ"/>
+                        <viewControllerLayoutGuide type="bottom" id="wfy-db-euE"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" distribution="fillEqually" spacing="40" translatesAutoresizingMaskIntoConstraints="NO" id="13O-N7-zna">
+                                <rect key="frame" x="41" y="89" width="293" height="553"/>
+                                <subviews>
+                                    <stackView opaque="NO" contentMode="scaleToFill" distribution="fillEqually" spacing="125" translatesAutoresizingMaskIntoConstraints="NO" id="KgT-xA-Rs7">
+                                        <rect key="frame" x="0.0" y="0.0" width="293" height="157.5"/>
+                                        <subviews>
+                                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="rCK-cG-vzJ" customClass="CustomButton" customModule="CCHA_test_app" customModuleProvider="target">
+                                                <rect key="frame" x="0.0" y="0.0" width="126.5" height="157.5"/>
+                                                <color key="backgroundColor" red="0.49019607840000001" green="0.65098039220000004" blue="0.72549019609999998" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                <fontDescription key="fontDescription" name="Georgia" family="Georgia" pointSize="20"/>
+                                                <inset key="contentEdgeInsets" minX="2" minY="2" maxX="2" maxY="2"/>
+                                                <size key="titleShadowOffset" width="2.2250738585072014e-308" height="2.2250738585072014e-308"/>
+                                                <state key="normal" title="School Laws">
+                                                    <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                </state>
+                                                <userDefinedRuntimeAttributes>
+                                                    <userDefinedRuntimeAttribute type="number" keyPath="shadowRadius">
+                                                        <real key="value" value="2"/>
+                                                    </userDefinedRuntimeAttribute>
+                                                    <userDefinedRuntimeAttribute type="size" keyPath="shadowOffset">
+                                                        <size key="value" width="0.0" height="2"/>
+                                                    </userDefinedRuntimeAttribute>
+                                                    <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                                        <real key="value" value="35"/>
+                                                    </userDefinedRuntimeAttribute>
+                                                </userDefinedRuntimeAttributes>
+                                                <variation key="heightClass=compact-widthClass=compact">
+                                                    <fontDescription key="fontDescription" name="Georgia" family="Georgia" pointSize="18"/>
+                                                </variation>
+                                                <variation key="heightClass=regular-widthClass=regular">
+                                                    <fontDescription key="fontDescription" name="Georgia" family="Georgia" pointSize="45"/>
+                                                </variation>
+                                                <connections>
+                                                    <segue destination="rKJ-ju-uLC" kind="show" id="2Cx-sc-0Hy"/>
+                                                </connections>
+                                            </button>
+                                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="tZc-h9-56I" customClass="CustomButton" customModule="CCHA_test_app" customModuleProvider="target">
+                                                <rect key="frame" x="166.5" y="0.0" width="126.5" height="157.5"/>
+                                                <color key="backgroundColor" red="0.48627450979999998" green="0.64313725489999995" blue="0.72156862749999995" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                <fontDescription key="fontDescription" name="Georgia" family="Georgia" pointSize="20"/>
+                                                <state key="normal" title="Favorites">
+                                                    <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                </state>
+                                                <userDefinedRuntimeAttributes>
+                                                    <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                                        <real key="value" value="35"/>
+                                                    </userDefinedRuntimeAttribute>
+                                                </userDefinedRuntimeAttributes>
+                                                <variation key="heightClass=compact-widthClass=compact">
+                                                    <fontDescription key="fontDescription" name="Georgia" family="Georgia" pointSize="18"/>
+                                                </variation>
+                                                <variation key="heightClass=regular-widthClass=regular">
+                                                    <fontDescription key="fontDescription" name="Georgia" family="Georgia" pointSize="45"/>
+                                                </variation>
+                                                <connections>
+                                                    <segue destination="y7y-PU-EcC" kind="show" id="AyF-Bd-GYw"/>
+                                                </connections>
+                                            </button>
+                                        </subviews>
+                                        <variation key="widthClass=compact" spacing="40"/>
+                                    </stackView>
+                                    <stackView opaque="NO" contentMode="scaleToFill" distribution="fillEqually" spacing="125" translatesAutoresizingMaskIntoConstraints="NO" id="kU1-Fe-STJ">
+                                        <rect key="frame" x="0.0" y="197.5" width="293" height="158"/>
+                                        <subviews>
+                                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="BbR-Rh-lPy" customClass="CustomButton" customModule="CCHA_test_app" customModuleProvider="target">
+                                                <rect key="frame" x="0.0" y="0.0" width="126.5" height="158"/>
+                                                <color key="backgroundColor" red="0.48627450980392156" green="0.64313725490196072" blue="0.72156862745098038" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                <fontDescription key="fontDescription" name="Georgia" family="Georgia" pointSize="20"/>
+                                                <state key="normal" title="Contact CCHA">
+                                                    <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                </state>
+                                                <userDefinedRuntimeAttributes>
+                                                    <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                                        <real key="value" value="35"/>
+                                                    </userDefinedRuntimeAttribute>
+                                                </userDefinedRuntimeAttributes>
+                                                <variation key="heightClass=compact-widthClass=compact">
+                                                    <fontDescription key="fontDescription" name="Georgia" family="Georgia" pointSize="18"/>
+                                                </variation>
+                                                <variation key="heightClass=regular-widthClass=regular">
+                                                    <fontDescription key="fontDescription" name="Georgia" family="Georgia" pointSize="45"/>
+                                                </variation>
+                                                <connections>
+                                                    <segue destination="jQp-J7-NWU" kind="show" id="Poo-Cz-BWU"/>
+                                                </connections>
+                                            </button>
+                                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="XRf-R9-4vP" customClass="CustomButton" customModule="CCHA_test_app" customModuleProvider="target">
+                                                <rect key="frame" x="166.5" y="0.0" width="126.5" height="158"/>
+                                                <color key="backgroundColor" red="0.48627450980392156" green="0.64313725490196072" blue="0.72156862745098038" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                <fontDescription key="fontDescription" name="Georgia" family="Georgia" pointSize="20"/>
+                                                <inset key="contentEdgeInsets" minX="2" minY="2" maxX="2" maxY="2"/>
+                                                <state key="normal" title="Additional Resources">
+                                                    <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                </state>
+                                                <userDefinedRuntimeAttributes>
+                                                    <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                                        <real key="value" value="35"/>
+                                                    </userDefinedRuntimeAttribute>
+                                                </userDefinedRuntimeAttributes>
+                                                <variation key="heightClass=compact-widthClass=compact">
+                                                    <fontDescription key="fontDescription" name="Georgia" family="Georgia" pointSize="18"/>
+                                                </variation>
+                                                <variation key="heightClass=regular-widthClass=regular">
+                                                    <fontDescription key="fontDescription" name="Georgia" family="Georgia" pointSize="45"/>
+                                                </variation>
+                                                <connections>
+                                                    <segue destination="1PM-S3-ray" kind="show" id="EU0-Ag-sZs"/>
+                                                </connections>
+                                            </button>
+                                        </subviews>
+                                        <variation key="widthClass=compact" spacing="40"/>
+                                    </stackView>
+                                    <stackView opaque="NO" contentMode="scaleToFill" distribution="fillEqually" spacing="125" translatesAutoresizingMaskIntoConstraints="NO" id="9EU-ah-kyr">
+                                        <rect key="frame" x="0.0" y="395.5" width="293" height="157.5"/>
+                                        <subviews>
+                                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="gW5-Cu-Obd" customClass="CustomButton" customModule="CCHA_test_app" customModuleProvider="target">
+                                                <rect key="frame" x="0.0" y="0.0" width="126.5" height="157.5"/>
+                                                <color key="backgroundColor" red="0.48627450980392156" green="0.64313725490196072" blue="0.72156862745098038" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                <fontDescription key="fontDescription" name="Georgia" family="Georgia" pointSize="20"/>
+                                                <state key="normal" title="Meet CCHA">
+                                                    <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                </state>
+                                                <userDefinedRuntimeAttributes>
+                                                    <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                                        <real key="value" value="35"/>
+                                                    </userDefinedRuntimeAttribute>
+                                                </userDefinedRuntimeAttributes>
+                                                <variation key="heightClass=compact-widthClass=compact">
+                                                    <fontDescription key="fontDescription" name="Georgia" family="Georgia" pointSize="18"/>
+                                                </variation>
+                                                <variation key="heightClass=regular-widthClass=regular">
+                                                    <fontDescription key="fontDescription" name="Georgia" family="Georgia" pointSize="45"/>
+                                                </variation>
+                                                <connections>
+                                                    <segue destination="1Rx-aB-clL" kind="show" id="qH6-5z-jS4"/>
+                                                </connections>
+                                            </button>
+                                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="ztB-Bf-3OS" customClass="CustomButton" customModule="CCHA_test_app" customModuleProvider="target">
+                                                <rect key="frame" x="166.5" y="0.0" width="126.5" height="157.5"/>
+                                                <color key="backgroundColor" red="0.48627450980392156" green="0.64313725490196072" blue="0.72156862745098038" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                <fontDescription key="fontDescription" name="Georgia" family="Georgia" pointSize="20"/>
+                                                <inset key="contentEdgeInsets" minX="2" minY="2" maxX="2" maxY="2"/>
+                                                <state key="normal" title="CCHA Guidance">
+                                                    <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                </state>
+                                                <userDefinedRuntimeAttributes>
+                                                    <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                                        <real key="value" value="35"/>
+                                                    </userDefinedRuntimeAttribute>
+                                                </userDefinedRuntimeAttributes>
+                                                <variation key="heightClass=compact-widthClass=compact">
+                                                    <fontDescription key="fontDescription" name="Georgia" family="Georgia" pointSize="18"/>
+                                                </variation>
+                                                <variation key="heightClass=regular-widthClass=regular">
+                                                    <fontDescription key="fontDescription" name="Georgia" family="Georgia" pointSize="45"/>
+                                                </variation>
+                                                <connections>
+                                                    <segue destination="ZJP-73-FMT" kind="show" id="Yl2-Tr-0JE"/>
+                                                </connections>
+                                            </button>
+                                        </subviews>
+                                        <variation key="widthClass=compact" spacing="40"/>
+                                    </stackView>
+                                </subviews>
+                                <variation key="heightClass=regular-widthClass=regular" spacing="100"/>
+                            </stackView>
+                        </subviews>
+                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="13O-N7-zna" firstAttribute="top" secondItem="y3c-jy-aDJ" secondAttribute="bottom" constant="25" id="D2c-lF-Zhu">
+                                <variation key="heightClass=regular-widthClass=regular" constant="60"/>
+                            </constraint>
+                            <constraint firstAttribute="trailingMargin" secondItem="13O-N7-zna" secondAttribute="trailing" constant="25" id="NGP-Sb-INC">
+                                <variation key="heightClass=regular-widthClass=regular" constant="60"/>
+                            </constraint>
+                            <constraint firstItem="wfy-db-euE" firstAttribute="top" secondItem="13O-N7-zna" secondAttribute="bottom" constant="25" id="SUu-T2-HIJ">
+                                <variation key="heightClass=regular-widthClass=regular" constant="60"/>
+                            </constraint>
+                            <constraint firstItem="13O-N7-zna" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="V0i-1i-bwv"/>
+                            <constraint firstItem="13O-N7-zna" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leadingMargin" constant="25" id="gaH-Rd-UDL">
+                                <variation key="heightClass=regular-widthClass=regular" constant="60"/>
+                            </constraint>
+                            <constraint firstItem="13O-N7-zna" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" constant="30" id="gtA-FX-YjU"/>
+                        </constraints>
+                        <variation key="default">
+                            <mask key="constraints">
+                                <exclude reference="V0i-1i-bwv"/>
+                                <exclude reference="gtA-FX-YjU"/>
+                            </mask>
+                        </variation>
+                        <variation key="widthClass=compact">
+                            <mask key="constraints">
+                                <exclude reference="V0i-1i-bwv"/>
+                                <exclude reference="gtA-FX-YjU"/>
+                            </mask>
+                        </variation>
+                    </view>
+                    <navigationItem key="navigationItem" title="Indiana School Law" id="eqZ-7Z-KRQ">
+                        <barButtonItem key="leftBarButtonItem" image="termsBtn" id="0kO-61-BWD">
+                            <color key="tintColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            <connections>
+                                <segue destination="pMA-Jb-0vX" kind="show" customClass="SegueFromLeft" customModule="CCHA_test_app" customModuleProvider="target" id="yxB-o0-gEe"/>
+                            </connections>
+                        </barButtonItem>
+                        <barButtonItem key="rightBarButtonItem" systemItem="search" id="55v-Sg-S2E">
+                            <color key="tintColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            <connections>
+                                <segue destination="ESu-ks-zQj" kind="show" id="GfL-Cp-gZh"/>
+                            </connections>
+                        </barButtonItem>
+                    </navigationItem>
+                    <connections>
+                        <outlet property="addResourcesBtn" destination="XRf-R9-4vP" id="Kl0-bJ-Dww"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1084" y="232"/>
+        </scene>
+        <!--All Docs TableVC-->
+        <scene sceneID="Uac-IE-Pc2">
+            <objects>
+                <tableViewController id="ESu-ks-zQj" customClass="allDocsTableVC" customModule="CCHA_test_app" customModuleProvider="target" sceneMemberID="viewController">
+                    <tableView key="view" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="44" sectionHeaderHeight="28" sectionFooterHeight="28" id="lOI-Nq-yzl">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <prototypes>
+                            <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="cell" id="iVT-iq-olL">
+                                <rect key="frame" x="0.0" y="28" width="375" height="44"/>
+                                <autoresizingMask key="autoresizingMask"/>
+                                <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="iVT-iq-olL" id="LEy-lz-RUf">
+                                    <rect key="frame" x="0.0" y="0.0" width="375" height="43.5"/>
+                                    <autoresizingMask key="autoresizingMask"/>
+                                </tableViewCellContentView>
+                            </tableViewCell>
+                        </prototypes>
+                        <connections>
+                            <outlet property="dataSource" destination="ESu-ks-zQj" id="wwC-GY-73U"/>
+                            <outlet property="delegate" destination="ESu-ks-zQj" id="9QR-9H-WZp"/>
+                        </connections>
+                    </tableView>
+                    <connections>
+                        <outlet property="tableview" destination="lOI-Nq-yzl" id="lg3-yy-szm"/>
+                        <segue destination="Bnd-T5-LtA" kind="show" identifier="SearchToContent" id="RFS-K7-zva"/>
+                    </connections>
+                </tableViewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="QUG-rG-waB" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="2035" y="-397"/>
+        </scene>
+        <!--Ccha GuidanceVC-->
+        <scene sceneID="1AV-gO-Snj">
+            <objects>
+                <viewController id="ZJP-73-FMT" customClass="CchaGuidanceVC" customModule="CCHA_test_app" customModuleProvider="target" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="rFh-kc-ru4"/>
+                        <viewControllerLayoutGuide type="bottom" id="dxa-i1-lpx"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="e4O-Md-Q3i">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <webView contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="3FJ-VY-jQ0">
+                                <rect key="frame" x="-4" y="-2" width="383" height="669"/>
+                                <color key="backgroundColor" red="0.28958413004875183" green="0.31462949514389038" blue="0.32950475811958313" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <gestureRecognizers/>
+                                <connections>
+                                    <outlet property="delegate" destination="ZJP-73-FMT" id="cgk-BF-XPQ"/>
+                                    <outletCollection property="gestureRecognizers" destination="QjF-lY-705" appends="YES" id="dR6-Sq-iwT"/>
+                                    <outletCollection property="gestureRecognizers" destination="Ekq-7w-whQ" appends="YES" id="pZ0-JS-ccb"/>
+                                </connections>
+                            </webView>
+                            <activityIndicatorView hidden="YES" opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" hidesWhenStopped="YES" style="white" translatesAutoresizingMaskIntoConstraints="NO" id="j32-b5-f84">
+                                <rect key="frame" x="177.5" y="323.5" width="20" height="20"/>
+                                <color key="color" red="0.48627450979999998" green="0.64313725489999995" blue="0.72156862749999995" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            </activityIndicatorView>
+                        </subviews>
+                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="j32-b5-f84" firstAttribute="centerY" secondItem="e4O-Md-Q3i" secondAttribute="centerY" id="3dO-dl-SgU"/>
+                            <constraint firstItem="3FJ-VY-jQ0" firstAttribute="leading" secondItem="e4O-Md-Q3i" secondAttribute="leadingMargin" constant="-20" id="Gy8-Wc-LL3"/>
+                            <constraint firstItem="dxa-i1-lpx" firstAttribute="top" secondItem="3FJ-VY-jQ0" secondAttribute="bottom" id="GyH-zj-70g"/>
+                            <constraint firstItem="j32-b5-f84" firstAttribute="centerX" secondItem="e4O-Md-Q3i" secondAttribute="centerX" id="RD8-8N-IRW"/>
+                            <constraint firstAttribute="trailingMargin" secondItem="3FJ-VY-jQ0" secondAttribute="trailing" constant="-20" id="YJq-65-bEV"/>
+                            <constraint firstItem="3FJ-VY-jQ0" firstAttribute="top" secondItem="rFh-kc-ru4" secondAttribute="bottom" constant="-66" id="qVh-97-NUE"/>
+                        </constraints>
+                    </view>
+                    <connections>
+                        <outlet property="actInd" destination="j32-b5-f84" id="XwU-cC-4UN"/>
+                        <outlet property="webView" destination="3FJ-VY-jQ0" id="yt5-9t-Dw5"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="v6H-SV-j8w" userLabel="First Responder" sceneMemberID="firstResponder"/>
+                <swipeGestureRecognizer direction="right" id="QjF-lY-705" userLabel="Swipe Right Back">
+                    <connections>
+                        <action selector="swipeBack:" destination="ZJP-73-FMT" id="QN7-K2-YY0"/>
+                    </connections>
+                </swipeGestureRecognizer>
+                <swipeGestureRecognizer direction="left" id="Ekq-7w-whQ" userLabel="Swipe Left Forward">
+                    <connections>
+                        <action selector="swipeForward:" destination="ZJP-73-FMT" id="m3m-ro-3dq"/>
+                    </connections>
+                </swipeGestureRecognizer>
+            </objects>
+            <point key="canvasLocation" x="2505" y="858"/>
+        </scene>
+        <!--Meet CchaVC-->
+        <scene sceneID="lEx-pO-IU5">
+            <objects>
+                <viewController id="1Rx-aB-clL" customClass="MeetCchaVC" customModule="CCHA_test_app" customModuleProvider="target" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="juC-eV-xjl"/>
+                        <viewControllerLayoutGuide type="bottom" id="c6j-gM-dQg"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="qLk-Y4-bbR">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <webView contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="0BF-VX-f0J">
+                                <rect key="frame" x="-4" y="-1" width="383" height="668"/>
+                                <color key="backgroundColor" red="0.28958413004875183" green="0.31462949514389038" blue="0.32950475811958313" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <gestureRecognizers/>
+                                <connections>
+                                    <outlet property="delegate" destination="1Rx-aB-clL" id="AiX-9Q-3qE"/>
+                                    <outletCollection property="gestureRecognizers" destination="9U6-hv-Wo0" appends="YES" id="mLS-0T-wnl"/>
+                                    <outletCollection property="gestureRecognizers" destination="XMu-gX-JcM" appends="YES" id="LZM-FD-lJt"/>
+                                </connections>
+                            </webView>
+                            <activityIndicatorView hidden="YES" opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" hidesWhenStopped="YES" style="white" translatesAutoresizingMaskIntoConstraints="NO" id="ENy-ep-DXv">
+                                <rect key="frame" x="177.5" y="323.5" width="20" height="20"/>
+                                <color key="color" red="0.48627450979999998" green="0.64313725489999995" blue="0.72156862749999995" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            </activityIndicatorView>
+                        </subviews>
+                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="0BF-VX-f0J" firstAttribute="leading" secondItem="qLk-Y4-bbR" secondAttribute="leadingMargin" constant="-20" id="6Uu-mb-JEH"/>
+                            <constraint firstItem="c6j-gM-dQg" firstAttribute="top" secondItem="0BF-VX-f0J" secondAttribute="bottom" id="WNu-N7-pbP"/>
+                            <constraint firstItem="0BF-VX-f0J" firstAttribute="top" secondItem="juC-eV-xjl" secondAttribute="bottom" constant="-65" id="YhD-Cz-bVl"/>
+                            <constraint firstItem="ENy-ep-DXv" firstAttribute="centerY" secondItem="qLk-Y4-bbR" secondAttribute="centerY" id="ZcG-Ih-sGl"/>
+                            <constraint firstAttribute="trailingMargin" secondItem="0BF-VX-f0J" secondAttribute="trailing" constant="-20" id="iVV-29-12K"/>
+                            <constraint firstItem="ENy-ep-DXv" firstAttribute="centerX" secondItem="qLk-Y4-bbR" secondAttribute="centerX" id="nYg-3b-8Ap"/>
+                        </constraints>
+                    </view>
+                    <connections>
+                        <outlet property="actInd" destination="ENy-ep-DXv" id="Xbz-3O-pbl"/>
+                        <outlet property="webView" destination="0BF-VX-f0J" id="Kla-Pa-7Eg"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="5Af-ho-kj3" userLabel="First Responder" sceneMemberID="firstResponder"/>
+                <swipeGestureRecognizer direction="right" id="9U6-hv-Wo0" userLabel="Swipe Right Forward">
+                    <connections>
+                        <action selector="swipeBack:" destination="1Rx-aB-clL" id="I9P-xX-fcu"/>
+                    </connections>
+                </swipeGestureRecognizer>
+                <swipeGestureRecognizer direction="left" id="XMu-gX-JcM" userLabel="Swipe Left Back">
+                    <connections>
+                        <action selector="swipeForward:" destination="1Rx-aB-clL" id="DQd-wT-ihE"/>
+                    </connections>
+                </swipeGestureRecognizer>
+            </objects>
+            <point key="canvasLocation" x="1421" y="1055"/>
+        </scene>
+        <!--Additional ResourcesVC-->
+        <scene sceneID="6FS-9r-sh8">
+            <objects>
+                <viewController id="1PM-S3-ray" customClass="AdditionalResourcesVC" customModule="CCHA_test_app" customModuleProvider="target" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="Ucz-Ix-cnM"/>
+                        <viewControllerLayoutGuide type="bottom" id="cpT-Fo-yud"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="Jyv-BH-ws8">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="H3G-x9-v5x">
+                                <rect key="frame" x="120" y="164" width="360" height="286"/>
+                                <subviews>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Indiana Department of Education" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="hDz-ia-f8K">
+                                        <rect key="frame" x="8" y="194" width="352" height="20"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                        <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Click to see academic standards and other school data. " textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="3" baselineAdjustment="alignBaselines" minimumFontSize="9" adjustsLetterSpacingToFitWidth="YES" translatesAutoresizingMaskIntoConstraints="NO" id="knD-Az-NtU">
+                                        <rect key="frame" x="8" y="222" width="344" height="56"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                        <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <imageView contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="FullSizeRender-1" translatesAutoresizingMaskIntoConstraints="NO" id="Exu-xM-rRo">
+                                        <rect key="frame" x="0.0" y="0.0" width="360" height="186"/>
+                                    </imageView>
+                                </subviews>
+                                <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <constraints>
+                                    <constraint firstAttribute="trailing" secondItem="Exu-xM-rRo" secondAttribute="trailing" id="2uO-wG-m3Y"/>
+                                    <constraint firstItem="Exu-xM-rRo" firstAttribute="top" secondItem="H3G-x9-v5x" secondAttribute="top" id="BBr-qd-DTV"/>
+                                    <constraint firstItem="Exu-xM-rRo" firstAttribute="leading" secondItem="H3G-x9-v5x" secondAttribute="leading" id="Hnl-W9-Qik"/>
+                                    <constraint firstAttribute="bottom" secondItem="Exu-xM-rRo" secondAttribute="bottom" constant="100" id="jKw-WD-0Wz"/>
+                                </constraints>
+                            </view>
+                            <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" distribution="fillEqually" spacing="20" translatesAutoresizingMaskIntoConstraints="NO" id="hpC-1P-GOH">
+                                <rect key="frame" x="20" y="94" width="335" height="543"/>
+                                <subviews>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="riU-ba-Ght" customClass="CustomButton" customModule="CCHA_test_app" customModuleProvider="target">
+                                        <rect key="frame" x="0.0" y="0.0" width="335" height="42.5"/>
+                                        <color key="backgroundColor" red="0.48627450979999998" green="0.64313725489999995" blue="0.72156862749999995" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        <fontDescription key="fontDescription" name="Georgia" family="Georgia" pointSize="15"/>
+                                        <state key="normal" title="Indiana Department of Education">
+                                            <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        </state>
+                                        <userDefinedRuntimeAttributes>
+                                            <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                                <real key="value" value="15"/>
+                                            </userDefinedRuntimeAttribute>
+                                        </userDefinedRuntimeAttributes>
+                                        <variation key="heightClass=regular-widthClass=regular">
+                                            <fontDescription key="fontDescription" name="Georgia" family="Georgia" pointSize="30"/>
+                                        </variation>
+                                        <connections>
+                                            <action selector="indianaDOE:" destination="1PM-S3-ray" eventType="touchUpInside" id="Mz1-cs-Rj9"/>
+                                        </connections>
+                                    </button>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="qCY-ju-oZ4" customClass="CustomButton" customModule="CCHA_test_app" customModuleProvider="target">
+                                        <rect key="frame" x="0.0" y="62.5" width="335" height="42.5"/>
+                                        <color key="backgroundColor" red="0.48627450979999998" green="0.64313725489999995" blue="0.72156862749999995" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        <fontDescription key="fontDescription" name="Georgia" family="Georgia" pointSize="15"/>
+                                        <state key="normal" title="Indiana Attorney General Advisory Opinions">
+                                            <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        </state>
+                                        <userDefinedRuntimeAttributes>
+                                            <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                                <real key="value" value="15"/>
+                                            </userDefinedRuntimeAttribute>
+                                        </userDefinedRuntimeAttributes>
+                                        <variation key="heightClass=regular-widthClass=regular">
+                                            <fontDescription key="fontDescription" name="Georgia" family="Georgia" pointSize="30"/>
+                                        </variation>
+                                        <connections>
+                                            <action selector="indianaAtorneyBtn:" destination="1PM-S3-ray" eventType="touchUpInside" id="Uy9-4O-QBG"/>
+                                        </connections>
+                                    </button>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="p36-MV-oee" customClass="CustomButton" customModule="CCHA_test_app" customModuleProvider="target">
+                                        <rect key="frame" x="0.0" y="125" width="335" height="42.5"/>
+                                        <color key="backgroundColor" red="0.48627450979999998" green="0.64313725489999995" blue="0.72156862749999995" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        <fontDescription key="fontDescription" name="Georgia" family="Georgia" pointSize="15"/>
+                                        <state key="normal" title="Indiana Education Employment Relations Board">
+                                            <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        </state>
+                                        <userDefinedRuntimeAttributes>
+                                            <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                                <real key="value" value="15"/>
+                                            </userDefinedRuntimeAttribute>
+                                        </userDefinedRuntimeAttributes>
+                                        <variation key="heightClass=regular-widthClass=regular">
+                                            <fontDescription key="fontDescription" name="Georgia" family="Georgia" pointSize="30"/>
+                                        </variation>
+                                        <connections>
+                                            <action selector="indianaEducationBtn:" destination="1PM-S3-ray" eventType="touchUpInside" id="GRt-pZ-vpY"/>
+                                        </connections>
+                                    </button>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Lki-H9-Kci" customClass="CustomButton" customModule="CCHA_test_app" customModuleProvider="target">
+                                        <rect key="frame" x="0.0" y="187.5" width="335" height="42.5"/>
+                                        <color key="backgroundColor" red="0.48627450979999998" green="0.64313725489999995" blue="0.72156862749999995" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        <fontDescription key="fontDescription" name="Georgia" family="Georgia" pointSize="15"/>
+                                        <state key="normal" title="Indiana Public Access Counselor">
+                                            <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        </state>
+                                        <userDefinedRuntimeAttributes>
+                                            <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                                <real key="value" value="15"/>
+                                            </userDefinedRuntimeAttribute>
+                                        </userDefinedRuntimeAttributes>
+                                        <variation key="heightClass=regular-widthClass=regular">
+                                            <fontDescription key="fontDescription" name="Georgia" family="Georgia" pointSize="30"/>
+                                        </variation>
+                                        <connections>
+                                            <action selector="IndianaCounselorBtn:" destination="1PM-S3-ray" eventType="touchUpInside" id="DOG-K8-e8g"/>
+                                        </connections>
+                                    </button>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="S9E-XT-QRl" customClass="CustomButton" customModule="CCHA_test_app" customModuleProvider="target">
+                                        <rect key="frame" x="0.0" y="250" width="335" height="43"/>
+                                        <color key="backgroundColor" red="0.48627450979999998" green="0.64313725489999995" blue="0.72156862749999995" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        <fontDescription key="fontDescription" name="Georgia" family="Georgia" pointSize="15"/>
+                                        <state key="normal" title="Indiana State Board of Accounts - Schools">
+                                            <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        </state>
+                                        <userDefinedRuntimeAttributes>
+                                            <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                                <real key="value" value="15"/>
+                                            </userDefinedRuntimeAttribute>
+                                        </userDefinedRuntimeAttributes>
+                                        <variation key="heightClass=regular-widthClass=regular">
+                                            <fontDescription key="fontDescription" name="Georgia" family="Georgia" pointSize="30"/>
+                                        </variation>
+                                        <connections>
+                                            <action selector="indianaStateBtn:" destination="1PM-S3-ray" eventType="touchUpInside" id="Zav-66-9Pe"/>
+                                        </connections>
+                                    </button>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="1Ba-Nm-QyL" customClass="CustomButton" customModule="CCHA_test_app" customModuleProvider="target">
+                                        <rect key="frame" x="0.0" y="313" width="335" height="42.5"/>
+                                        <color key="backgroundColor" red="0.48627450979999998" green="0.64313725489999995" blue="0.72156862749999995" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        <fontDescription key="fontDescription" name="Georgia" family="Georgia" pointSize="15"/>
+                                        <state key="normal" title="DLGF School Budget Information">
+                                            <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        </state>
+                                        <userDefinedRuntimeAttributes>
+                                            <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                                <real key="value" value="15"/>
+                                            </userDefinedRuntimeAttribute>
+                                        </userDefinedRuntimeAttributes>
+                                        <variation key="heightClass=regular-widthClass=regular">
+                                            <fontDescription key="fontDescription" name="Georgia" family="Georgia" pointSize="30"/>
+                                        </variation>
+                                        <connections>
+                                            <action selector="dlgfSchoolBtn:" destination="1PM-S3-ray" eventType="touchUpInside" id="JcM-qn-xko"/>
+                                        </connections>
+                                    </button>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ptP-Ag-Sdf" customClass="CustomButton" customModule="CCHA_test_app" customModuleProvider="target">
+                                        <rect key="frame" x="0.0" y="375.5" width="335" height="42.5"/>
+                                        <color key="backgroundColor" red="0.48627450979999998" green="0.64313725489999995" blue="0.72156862749999995" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        <fontDescription key="fontDescription" name="Georgia" family="Georgia" pointSize="15"/>
+                                        <state key="normal" title="Indiana School Boards Association">
+                                            <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        </state>
+                                        <userDefinedRuntimeAttributes>
+                                            <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                                <real key="value" value="15"/>
+                                            </userDefinedRuntimeAttribute>
+                                        </userDefinedRuntimeAttributes>
+                                        <variation key="heightClass=regular-widthClass=regular">
+                                            <fontDescription key="fontDescription" name="Georgia" family="Georgia" pointSize="30"/>
+                                        </variation>
+                                        <connections>
+                                            <action selector="schoolBoardBtn:" destination="1PM-S3-ray" eventType="touchUpInside" id="mVw-go-Udv"/>
+                                        </connections>
+                                    </button>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ESh-AS-17S" customClass="CustomButton" customModule="CCHA_test_app" customModuleProvider="target">
+                                        <rect key="frame" x="0.0" y="438" width="335" height="42.5"/>
+                                        <color key="backgroundColor" red="0.48627450979999998" green="0.64313725489999995" blue="0.72156862749999995" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        <fontDescription key="fontDescription" name="Georgia" family="Georgia" pointSize="15"/>
+                                        <state key="normal" title="DOE Office of Civil Rights Reading Room">
+                                            <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        </state>
+                                        <userDefinedRuntimeAttributes>
+                                            <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                                <real key="value" value="15"/>
+                                            </userDefinedRuntimeAttribute>
+                                        </userDefinedRuntimeAttributes>
+                                        <variation key="heightClass=regular-widthClass=regular">
+                                            <fontDescription key="fontDescription" name="Georgia" family="Georgia" pointSize="30"/>
+                                        </variation>
+                                        <connections>
+                                            <action selector="doeBtn:" destination="1PM-S3-ray" eventType="touchUpInside" id="FBn-5s-VmZ"/>
+                                        </connections>
+                                    </button>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Fv3-Dy-m0o" customClass="CustomButton" customModule="CCHA_test_app" customModuleProvider="target">
+                                        <rect key="frame" x="0.0" y="500.5" width="335" height="42.5"/>
+                                        <color key="backgroundColor" red="0.48627450979999998" green="0.64313725489999995" blue="0.72156862749999995" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        <fontDescription key="fontDescription" name="Georgia" family="Georgia" pointSize="15"/>
+                                        <state key="normal" title="U.S. Department of Labor">
+                                            <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        </state>
+                                        <userDefinedRuntimeAttributes>
+                                            <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                                <real key="value" value="15"/>
+                                            </userDefinedRuntimeAttribute>
+                                        </userDefinedRuntimeAttributes>
+                                        <variation key="heightClass=regular-widthClass=regular">
+                                            <fontDescription key="fontDescription" name="Georgia" family="Georgia" pointSize="30"/>
+                                        </variation>
+                                        <connections>
+                                            <action selector="usLaborBtn:" destination="1PM-S3-ray" eventType="touchUpInside" id="L1h-Oh-qpO"/>
+                                        </connections>
+                                    </button>
+                                </subviews>
+                                <variation key="heightClass=compact" spacing="10"/>
+                                <variation key="heightClass=regular-widthClass=regular" spacing="45"/>
+                            </stackView>
+                        </subviews>
+                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="cpT-Fo-yud" firstAttribute="top" secondItem="hpC-1P-GOH" secondAttribute="bottom" constant="30" id="Iih-R3-K0B"/>
+                            <constraint firstItem="cpT-Fo-yud" firstAttribute="top" secondItem="H3G-x9-v5x" secondAttribute="bottom" constant="150" id="UTQ-ZI-i9q"/>
+                            <constraint firstItem="hpC-1P-GOH" firstAttribute="leading" secondItem="Jyv-BH-ws8" secondAttribute="leading" constant="20" id="UXP-A6-AUQ"/>
+                            <constraint firstAttribute="trailing" secondItem="hpC-1P-GOH" secondAttribute="trailing" constant="20" id="cUW-ZK-h7U"/>
+                            <constraint firstAttribute="trailingMargin" secondItem="H3G-x9-v5x" secondAttribute="trailing" constant="100" id="kCT-9S-E1f"/>
+                            <constraint firstItem="H3G-x9-v5x" firstAttribute="leading" secondItem="Jyv-BH-ws8" secondAttribute="leadingMargin" constant="100" id="pdj-aM-4TR"/>
+                            <constraint firstItem="hpC-1P-GOH" firstAttribute="top" secondItem="Ucz-Ix-cnM" secondAttribute="bottom" constant="30" id="wzS-Oq-UTZ"/>
+                            <constraint firstItem="H3G-x9-v5x" firstAttribute="top" secondItem="Ucz-Ix-cnM" secondAttribute="bottom" constant="100" id="yfj-V9-sCj"/>
+                        </constraints>
+                        <variation key="default">
+                            <mask key="subviews">
+                                <exclude reference="H3G-x9-v5x"/>
+                            </mask>
+                        </variation>
+                    </view>
+                    <connections>
+                        <segue destination="a5t-6o-lIr" kind="show" identifier="loadWebPage" id="swW-1f-n60"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="bQW-Ue-LTg" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="2397" y="135"/>
+        </scene>
+        <!--Web Page-->
+        <scene sceneID="dYA-QB-73U">
+            <objects>
+                <viewController id="a5t-6o-lIr" customClass="ARWebPage" customModule="CCHA_test_app" customModuleProvider="target" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="hjo-6f-BW1"/>
+                        <viewControllerLayoutGuide type="bottom" id="bNg-8i-mTa"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="xgm-tJ-Il5">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <activityIndicatorView opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" hidesWhenStopped="YES" style="white" translatesAutoresizingMaskIntoConstraints="NO" id="7xd-Zh-WTd">
+                                <rect key="frame" x="177.5" y="323.5" width="20" height="20"/>
+                                <color key="color" red="0.48627450979999998" green="0.64313725489999995" blue="0.72156862749999995" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            </activityIndicatorView>
+                            <webView autoresizesSubviews="NO" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="HJF-kz-HpI">
+                                <rect key="frame" x="-4" y="64" width="383" height="603"/>
+                                <color key="backgroundColor" red="0.28958413004875183" green="0.31462949514389038" blue="0.32950475811958313" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <gestureRecognizers/>
+                                <dataDetectorType key="dataDetectorTypes" phoneNumber="YES" address="YES"/>
+                                <connections>
+                                    <outlet property="delegate" destination="a5t-6o-lIr" id="Atu-zG-Wd4"/>
+                                    <outletCollection property="gestureRecognizers" destination="87g-jl-Klk" appends="YES" id="kZV-In-TPk"/>
+                                    <outletCollection property="gestureRecognizers" destination="RUu-os-0Uf" appends="YES" id="DdF-af-Lsv"/>
+                                </connections>
+                            </webView>
+                        </subviews>
+                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstAttribute="trailingMargin" secondItem="HJF-kz-HpI" secondAttribute="trailing" constant="-20" id="4J2-OB-Iok"/>
+                            <constraint firstItem="HJF-kz-HpI" firstAttribute="top" secondItem="hjo-6f-BW1" secondAttribute="bottom" id="SoW-30-g9G"/>
+                            <constraint firstItem="HJF-kz-HpI" firstAttribute="leading" secondItem="xgm-tJ-Il5" secondAttribute="leadingMargin" constant="-20" id="Vv2-95-Adz"/>
+                            <constraint firstItem="HJF-kz-HpI" firstAttribute="leading" secondItem="xgm-tJ-Il5" secondAttribute="leading" id="aK4-wn-94r"/>
+                            <constraint firstItem="7xd-Zh-WTd" firstAttribute="centerX" secondItem="xgm-tJ-Il5" secondAttribute="centerX" id="bNf-cC-h8K"/>
+                            <constraint firstItem="bNg-8i-mTa" firstAttribute="top" secondItem="HJF-kz-HpI" secondAttribute="bottom" id="gwc-Eh-7YI"/>
+                            <constraint firstItem="HJF-kz-HpI" firstAttribute="top" secondItem="hjo-6f-BW1" secondAttribute="bottom" id="huJ-qy-KRH"/>
+                            <constraint firstItem="bNg-8i-mTa" firstAttribute="top" secondItem="HJF-kz-HpI" secondAttribute="bottom" id="teT-zL-LAM"/>
+                            <constraint firstAttribute="trailing" secondItem="HJF-kz-HpI" secondAttribute="trailing" id="vgC-dn-FVa"/>
+                            <constraint firstItem="7xd-Zh-WTd" firstAttribute="centerY" secondItem="xgm-tJ-Il5" secondAttribute="centerY" id="zp3-8Z-egy"/>
+                        </constraints>
+                        <variation key="default">
+                            <mask key="constraints">
+                                <exclude reference="aK4-wn-94r"/>
+                                <exclude reference="huJ-qy-KRH"/>
+                                <exclude reference="vgC-dn-FVa"/>
+                                <exclude reference="gwc-Eh-7YI"/>
+                            </mask>
+                        </variation>
+                    </view>
+                    <connections>
+                        <outlet property="act" destination="7xd-Zh-WTd" id="k7T-kN-NcJ"/>
+                        <outlet property="webView" destination="HJF-kz-HpI" id="3XG-N4-ckJ"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="Sk5-fd-vf9" userLabel="First Responder" sceneMemberID="firstResponder"/>
+                <swipeGestureRecognizer direction="right" id="87g-jl-Klk" userLabel="Swipe Right Back">
+                    <connections>
+                        <action selector="swipeBack:" destination="a5t-6o-lIr" id="VSU-PB-w5g"/>
+                    </connections>
+                </swipeGestureRecognizer>
+                <swipeGestureRecognizer direction="left" id="RUu-os-0Uf" userLabel="Swipe Left Forward">
+                    <connections>
+                        <action selector="swipeForward:" destination="a5t-6o-lIr" id="c9p-t9-Rdz"/>
+                    </connections>
+                </swipeGestureRecognizer>
+            </objects>
+            <point key="canvasLocation" x="3103" y="142"/>
+        </scene>
+        <!--ContactVC-->
+        <scene sceneID="V14-qX-Sw7">
+            <objects>
+                <viewController id="jQp-J7-NWU" customClass="ContactVC" customModule="CCHA_test_app" customModuleProvider="target" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="V3y-dj-NfK"/>
+                        <viewControllerLayoutGuide type="bottom" id="5HV-2u-ayJ"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="DfV-Tw-6x5">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" distribution="fillEqually" spacing="28" translatesAutoresizingMaskIntoConstraints="NO" id="e5Q-7X-Zd7">
+                                <rect key="frame" x="36" y="94" width="303" height="543"/>
+                                <subviews>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="FwJ-3u-wwF" customClass="CustomButton" customModule="CCHA_test_app" customModuleProvider="target">
+                                        <rect key="frame" x="0.0" y="0.0" width="303" height="53.5"/>
+                                        <color key="backgroundColor" red="0.48627450979999998" green="0.64313725489999995" blue="0.72156862749999995" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="40" id="eca-mg-drr"/>
+                                        </constraints>
+                                        <state key="normal" title="(317) 773-2190" image="callImage"/>
+                                        <userDefinedRuntimeAttributes>
+                                            <userDefinedRuntimeAttribute type="color" keyPath="fontColor">
+                                                <color key="value" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                            </userDefinedRuntimeAttribute>
+                                            <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                                <real key="value" value="15"/>
+                                            </userDefinedRuntimeAttribute>
+                                        </userDefinedRuntimeAttributes>
+                                        <variation key="default">
+                                            <mask key="constraints">
+                                                <exclude reference="eca-mg-drr"/>
+                                            </mask>
+                                        </variation>
+                                        <connections>
+                                            <action selector="callBtn:" destination="jQp-J7-NWU" eventType="touchUpInside" id="ejp-1H-xy5"/>
+                                        </connections>
+                                    </button>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="lih-6r-aMs" customClass="CustomButton" customModule="CCHA_test_app" customModuleProvider="target">
+                                        <rect key="frame" x="0.0" y="81.5" width="303" height="53.5"/>
+                                        <color key="backgroundColor" red="0.48627450979999998" green="0.64313725489999995" blue="0.72156862749999995" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        <state key="normal" title="schools2@cchalaw.com" image="mailTest"/>
+                                        <userDefinedRuntimeAttributes>
+                                            <userDefinedRuntimeAttribute type="color" keyPath="fontColor">
+                                                <color key="value" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                            </userDefinedRuntimeAttribute>
+                                            <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                                <real key="value" value="15"/>
+                                            </userDefinedRuntimeAttribute>
+                                        </userDefinedRuntimeAttributes>
+                                        <connections>
+                                            <action selector="emailBtn:" destination="jQp-J7-NWU" eventType="touchUpInside" id="Til-Lh-NXU"/>
+                                        </connections>
+                                    </button>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="pLf-5I-Whd" customClass="CustomButton" customModule="CCHA_test_app" customModuleProvider="target">
+                                        <rect key="frame" x="0.0" y="163" width="303" height="53.5"/>
+                                        <color key="backgroundColor" red="0.48627450979999998" green="0.64313725489999995" blue="0.72156862749999995" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        <state key="normal" title="www.cchalaw.com" image="webImage"/>
+                                        <userDefinedRuntimeAttributes>
+                                            <userDefinedRuntimeAttribute type="color" keyPath="fontColor">
+                                                <color key="value" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                            </userDefinedRuntimeAttribute>
+                                            <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                                <real key="value" value="15"/>
+                                            </userDefinedRuntimeAttribute>
+                                        </userDefinedRuntimeAttributes>
+                                        <connections>
+                                            <action selector="webBtn:" destination="jQp-J7-NWU" eventType="touchUpInside" id="TDq-2N-dJF"/>
+                                        </connections>
+                                    </button>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="sdY-Ri-woJ" customClass="CustomButton" customModule="CCHA_test_app" customModuleProvider="target">
+                                        <rect key="frame" x="0.0" y="244.5" width="303" height="54"/>
+                                        <color key="backgroundColor" red="0.48627450979999998" green="0.64313725489999995" blue="0.72156862749999995" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        <state key="normal" title="@CCHALaw" image="twitterImage"/>
+                                        <userDefinedRuntimeAttributes>
+                                            <userDefinedRuntimeAttribute type="color" keyPath="fontColor">
+                                                <color key="value" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                            </userDefinedRuntimeAttribute>
+                                            <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                                <real key="value" value="15"/>
+                                            </userDefinedRuntimeAttribute>
+                                        </userDefinedRuntimeAttributes>
+                                        <connections>
+                                            <action selector="twitBtn:" destination="jQp-J7-NWU" eventType="touchUpInside" id="Vms-6C-6Ff"/>
+                                        </connections>
+                                    </button>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="TPZ-iL-4Wy" customClass="CustomButton" customModule="CCHA_test_app" customModuleProvider="target">
+                                        <rect key="frame" x="0.0" y="326.5" width="303" height="53.5"/>
+                                        <color key="backgroundColor" red="0.48627450979999998" green="0.64313725489999995" blue="0.72156862749999995" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        <state key="normal" title="CCHA LinkedIn" image="linkedin-logo"/>
+                                        <userDefinedRuntimeAttributes>
+                                            <userDefinedRuntimeAttribute type="color" keyPath="fontColor">
+                                                <color key="value" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                            </userDefinedRuntimeAttribute>
+                                            <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                                <real key="value" value="15"/>
+                                            </userDefinedRuntimeAttribute>
+                                        </userDefinedRuntimeAttributes>
+                                        <connections>
+                                            <action selector="linkedBtn:" destination="jQp-J7-NWU" eventType="touchUpInside" id="YAt-9j-Hal"/>
+                                        </connections>
+                                    </button>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="luw-2t-4Wo" customClass="CustomButton" customModule="CCHA_test_app" customModuleProvider="target">
+                                        <rect key="frame" x="0.0" y="408" width="303" height="53.5"/>
+                                        <color key="backgroundColor" red="0.48627450979999998" green="0.64313725489999995" blue="0.72156862749999995" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        <state key="normal" title="CCHA Facebook" image="facebookImage"/>
+                                        <userDefinedRuntimeAttributes>
+                                            <userDefinedRuntimeAttribute type="color" keyPath="fontColor">
+                                                <color key="value" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                            </userDefinedRuntimeAttribute>
+                                            <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                                <real key="value" value="15"/>
+                                            </userDefinedRuntimeAttribute>
+                                        </userDefinedRuntimeAttributes>
+                                        <connections>
+                                            <action selector="fbBtn:" destination="jQp-J7-NWU" eventType="touchUpInside" id="e5n-Qu-ebh"/>
+                                        </connections>
+                                    </button>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="obd-Ud-ycA" customClass="CustomButton" customModule="CCHA_test_app" customModuleProvider="target">
+                                        <rect key="frame" x="0.0" y="489.5" width="303" height="53.5"/>
+                                        <color key="backgroundColor" red="0.48627450979999998" green="0.64313725489999995" blue="0.72156862749999995" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        <state key="normal" title="Locations" image="mapImage"/>
+                                        <userDefinedRuntimeAttributes>
+                                            <userDefinedRuntimeAttribute type="color" keyPath="fontColor">
+                                                <color key="value" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                            </userDefinedRuntimeAttribute>
+                                            <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                                <real key="value" value="15"/>
+                                            </userDefinedRuntimeAttribute>
+                                        </userDefinedRuntimeAttributes>
+                                        <connections>
+                                            <action selector="mapsBtn:" destination="jQp-J7-NWU" eventType="touchUpInside" id="52t-nh-bRc"/>
+                                        </connections>
+                                    </button>
+                                </subviews>
+                                <variation key="heightClass=compact" spacing="15"/>
+                                <variation key="heightClass=regular-widthClass=regular" spacing="50"/>
+                            </stackView>
+                        </subviews>
+                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="e5Q-7X-Zd7" firstAttribute="leading" secondItem="DfV-Tw-6x5" secondAttribute="leadingMargin" constant="20" id="9xP-mG-mrV"/>
+                            <constraint firstAttribute="trailingMargin" secondItem="e5Q-7X-Zd7" secondAttribute="trailing" constant="20" id="Icv-PY-jio"/>
+                            <constraint firstAttribute="bottomMargin" secondItem="e5Q-7X-Zd7" secondAttribute="bottom" constant="30" id="Vc3-08-G3B">
+                                <variation key="heightClass=compact" constant="10"/>
+                            </constraint>
+                            <constraint firstItem="e5Q-7X-Zd7" firstAttribute="top" secondItem="V3y-dj-NfK" secondAttribute="bottom" constant="30" id="vYH-g8-zWm">
+                                <variation key="heightClass=compact" constant="10"/>
+                            </constraint>
+                        </constraints>
+                    </view>
+                    <connections>
+                        <outlet property="callBtn" destination="FwJ-3u-wwF" id="i6c-xG-xUI"/>
+                        <outlet property="emailBtn" destination="lih-6r-aMs" id="yFg-yp-tQT"/>
+                        <outlet property="facebookBtn" destination="luw-2t-4Wo" id="jiV-j7-wdg"/>
+                        <outlet property="locationsBtn" destination="obd-Ud-ycA" id="gLE-fz-IAP"/>
+                        <outlet property="siteBtn" destination="pLf-5I-Whd" id="vmf-zw-ogS"/>
+                        <outlet property="stackView" destination="e5Q-7X-Zd7" id="j0x-EF-Vav"/>
+                        <outlet property="twit1Btn" destination="sdY-Ri-woJ" id="f06-j0-Nvd"/>
+                        <outlet property="twit2Btn" destination="TPZ-iL-4Wy" id="VKC-Ap-sOo"/>
+                        <segue destination="a5t-6o-lIr" kind="show" identifier="pushToWeb" id="pjj-ap-vXN"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="VW5-Ra-KQc" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="401" y="761"/>
+        </scene>
+        <!--Name of Code-->
+        <scene sceneID="dnx-3g-tQM">
+            <objects>
+                <viewController id="Bnd-T5-LtA" customClass="TestTextViewController" customModule="CCHA_test_app" customModuleProvider="target" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="kF0-Aa-FZe"/>
+                        <viewControllerLayoutGuide type="bottom" id="ZTF-8o-EOd"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="ZDS-Na-i9P">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" editable="NO" usesAttributedText="YES" translatesAutoresizingMaskIntoConstraints="NO" id="O9K-Zy-Ikz" customClass="CustomUITextView" customModule="CCHA_test_app" customModuleProvider="target">
+                                <rect key="frame" x="5" y="64" width="365" height="559"/>
+                                <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <attributedString key="attributedText">
+                                    <fragment>
+                                        <string key="content">If you are seeing this text, then an error has occured. Please email schools2@cchalaw.com with the name of the document and we will get this fixed as soon as possible. Thanks for your help. </string>
+                                        <attributes>
+                                            <font key="NSFont" size="14" name="HelveticaNeue"/>
+                                            <paragraphStyle key="NSParagraphStyle" alignment="left" lineBreakMode="wordWrapping" baseWritingDirection="natural" paragraphSpacingBefore="20" tighteningFactorForTruncation="0.0"/>
+                                        </attributes>
+                                    </fragment>
+                                </attributedString>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                                <dataDetectorType key="dataDetectorTypes" link="YES"/>
+                                <variation key="heightClass=regular-widthClass=regular">
+                                    <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="35"/>
+                                </variation>
+                                <connections>
+                                    <outlet property="delegate" destination="Bnd-T5-LtA" id="HkX-aR-BrE"/>
+                                </connections>
+                            </textView>
+                        </subviews>
+                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="O9K-Zy-Ikz" firstAttribute="top" secondItem="kF0-Aa-FZe" secondAttribute="bottom" id="BR5-eV-l7b"/>
+                            <constraint firstItem="ZTF-8o-EOd" firstAttribute="top" secondItem="O9K-Zy-Ikz" secondAttribute="bottom" id="aLE-gU-kg6"/>
+                            <constraint firstAttribute="trailing" secondItem="O9K-Zy-Ikz" secondAttribute="trailing" constant="5" id="brQ-MA-gOw"/>
+                            <constraint firstItem="O9K-Zy-Ikz" firstAttribute="leading" secondItem="ZDS-Na-i9P" secondAttribute="leading" constant="5" id="oHf-bj-88f"/>
+                        </constraints>
+                    </view>
+                    <toolbarItems/>
+                    <navigationItem key="navigationItem" title="Name of Code" id="5y5-SV-IyZ"/>
+                    <simulatedToolbarMetrics key="simulatedBottomBarMetrics"/>
+                    <connections>
+                        <outlet property="textView" destination="O9K-Zy-Ikz" id="rZg-gy-SE1"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="WwN-qP-lpb" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1200" y="-2011"/>
+        </scene>
+        <!--Navigation Controller-->
+        <scene sceneID="SyM-tj-1Jw">
+            <objects>
+                <navigationController automaticallyAdjustsScrollViewInsets="NO" id="Ywj-4l-NgA" sceneMemberID="viewController">
+                    <toolbarItems/>
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" id="Hai-cX-GKJ">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="44"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                        <color key="barTintColor" red="0.48627450979999998" green="0.64313725489999995" blue="0.72156862749999995" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <textAttributes key="titleTextAttributes">
+                            <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        </textAttributes>
+                    </navigationBar>
+                    <nil name="viewControllers"/>
+                    <toolbar key="toolbar" opaque="NO" clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="wbY-55-0ze">
+                        <rect key="frame" x="0.0" y="556" width="600" height="44"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                    </toolbar>
+                    <connections>
+                        <segue destination="BYZ-38-t0r" kind="relationship" relationship="rootViewController" id="gD1-SP-o8V"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="uX2-3D-4Jh" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-561" y="335"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="FullSizeRender-1" width="1242" height="330"/>
+        <image name="callImage" width="35" height="36"/>
+        <image name="facebookImage" width="35" height="35"/>
+        <image name="linkedin-logo" width="40" height="38"/>
+        <image name="mailTest" width="36" height="28"/>
+        <image name="mapImage" width="27" height="37"/>
+        <image name="termsBtn" width="24" height="27"/>
+        <image name="twitterImage" width="35" height="30"/>
+        <image name="webImage" width="36" height="36"/>
+    </resources>
+    <inferredMetricsTieBreakers>
+        <segue reference="pjj-ap-vXN"/>
+        <segue reference="sKK-au-Gb4"/>
+    </inferredMetricsTieBreakers>
+</document>

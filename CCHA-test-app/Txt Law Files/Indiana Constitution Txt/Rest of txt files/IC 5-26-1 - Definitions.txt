@@ -1,0 +1,511 @@
+IC 5-26 ARTICLE 26. PUBLIC SAFETY COMMUNICATIONS 
+IC 5-26-1 Chapter 1. Definitions 
+IC 5-26-1-1 "Commission" 
+Sec. 1. As used in this article, "commission" refers to the integrated public safety commission established under IC 5-26-2-1. As added by P.L.117-1999, SEC.1. 
+
+IC 5-26-1-1.2 "Committee" 
+Sec. 1.2. As used in IC 5-26-6, "committee" refers to the state agency public safety committee established by IC 5-26-6-1. As added by P.L.2-2003, SEC.25. 
+
+IC 5-26-1-1.4 "Communications division" 
+Sec. 1.4. As used in IC 5-26-6, "communications division" refers to the communications division of the state police department. As added by P.L.2-2003, SEC.26. 
+
+IC 5-26-1-1.6 "Department" 
+Sec. 1.6. As used in IC 5-26-6, "department" refers to the state police department established by IC 10-11-2-4. As added by P.L.2-2003, SEC.27. 
+
+IC 5-26-1-1.8 "FCC" 
+Sec. 1.8. As used in IC 5-26-6, "FCC" refers to the Federal Communications Commission. As added by P.L.2-2003, SEC.28. 
+
+IC 5-26-1-2 "Fund" 
+Sec. 2. As used in this article, "fund" refers to the integrated public safety communications fund established under IC 5-26-4-1. As added by P.L.117-1999, SEC.1. 
+
+IC 5-26-1-3 "Member" 
+Sec. 3. As used in IC 5-26-2, "member" refers to a member of the integrated public safety commission. As added by P.L.117-1999, SEC.1. Amended by P.L.2-2003, SEC.29. 
+
+IC 5-26-1-4 
+"Public safety agency" 
+
+Sec. 4. As used in this article, "public safety agency" means a federal, state, or local governmental entity eligible to hold an authorization in a public safety radio service as set forth in 47 CFR 90 et seq. As added by P.L.117-1999, SEC.1. 
+
+IC 5-26-1-4.3 
+"State public safety agency" 
+
+Sec. 4.3. As used in IC 5-26-6, "state public safety agency" means a state entity eligible to hold an authorization in a public safety radio service as set forth in 47 CFR 90 et seq. As added by P.L.2-2003, SEC.30. 
+
+IC 5-26-1-4.6 "Superintendent" 
+Sec. 4.6. As used in IC 5-26-6, “superintendent" refers to the superintendent of the state police department appointed under IC 10-11-2-6. As added by P.L.2-2003, SEC.31. 
+
+IC 5-26-1-5 "System" 
+Sec. 5. As used in this article, "system" refers to the Indiana statewide wireless public safety voice and data communications system. The term does not include an enhanced emergency telephone system under IC 36-8-16-2 (before its repeal on July 1, 2012) or the statewide 911 system under IC 36-8-16.7. As added by P.L.117-1999, SEC.1. Amended by P.L.132-2012, SEC.2. 
+
+IC 5-26-1-6 "User agency" 
+Sec. 6. (a) Except as provided in subsection (b), as used in this article, "user agency" means a public safety agency or other entity that enters into an agreement with the commission to use the system. 
+(b) As used in IC 5-26-6, "user agency" means a state public safety agency that uses the system. As added by P.L.117-1999, SEC.1. Amended by P.L.2-2003, SEC.32. 
+
+IC 5-26-2 Chapter 2. Integrated Public Safety Commission 
+IC 5-26-2-1 Establishment of commission 
+Sec. 1. The integrated public safety commission is established for the purpose of promoting the efficient use of public safety agency resources through improved coordination and cooperation toenhance the safety of Indiana residents. As a first step in accomplishing this goal, the commission shall focus on establishing a statewide wireless voice and data communications system. 
+As added by P.L.117-1999, SEC.1. 
+
+IC 5-26-2-2 Publication of policies in manual 
+Sec. 2. The commission shall publish its policies within a standardized operations procedures manual. 
+As added by P.L.117-1999, SEC.1. 
+
+IC 5-26-2-3 Members 
+Sec. 3. (a) The commission is comprised of twelve (12) members as follows: 
+(1) 
+A sheriff appointed by the governor. 
+
+(2) 
+A chief of police appointed by the governor. 
+
+(3) 
+A fire chief appointed by the governor. 
+
+(4) 
+A head of an emergency medical services provider appointed by the governor. 
+
+(5) 
+A mayor appointed by the governor. 
+
+(6) 
+A county commissioner appointed by the governor. 
+
+(7) 
+A representative of campus law enforcement appointed by the governor. 
+
+(8) 
+A representative of the private sector appointed by the governor. 
+
+(9) 
+The superintendent of the state police department, who represents the state agency public safety committee. 
+
+(10) 
+The special agent in charge of the Indiana office of the Federal Bureau of Investigation or designee. 
+
+(11) 
+An individual appointed by the speaker of the house of representatives. 
+
+(12) 
+An individual appointed by the president pro tempore of the senate. 
+
+
+(b) Not more than four (4) members appointed under subsection (a)(1) through (a)(8) may be members of the same political party. 
+As added by P.L.117-1999, SEC.1. 
+IC 5-26-2-4 Quorum; affirmative vote 
+Sec. 4. (a) Seven (7) members of the commission constitute a quorum. 
+(b) An affirmative vote of at least seven (7) members of the commission is required for the commission to take action. 
+As added by P.L.117-1999, SEC.1. 
+
+IC 5-26-2-5 Powers of commission 
+Sec. 5. The commission's powers include the following: 
+(1) 
+Planning for voluntary coordination of resources by public safety agencies. 
+
+(2) 
+Developing coordinated, integrated responses to significant public safety events by those public safety agencies that choose to take part. 
+
+(3) 
+Developing means of sharing information operationally and technologically to improve public safety. 
+
+(4) 
+Contracting with consultants to assist in the planning and development under this article. 
+
+(5) 
+Contracting with others to provide services under this article. 
+
+(6) 
+Accepting gifts, devises, bequests, grants, loans, appropriations, revenue sharing, other financing and assistance, and any other aid from any source and agreeing to and complying with conditions attached thereto as necessary or appropriate to the purposes of the commission. 
+
+(7) 
+Acquiring real property, or any interest therein, by lease, conveyance (including purchase) instead of foreclosure, or foreclosure as necessary or appropriate to the purposes of the commission. 
+
+(8) 
+Owning, managing, operating, holding, clearing, improving, and constructing facilities on real property as necessary or appropriate to the purposes of the commission. 
+
+(9) 
+Selling, assigning, exchanging, transferring, conveying, leasing, mortgaging, or otherwise disposing of or encumbering real property, or interests therein or facilities thereon as necessary or appropriate to the purposes of the commission. 
+
+(10) 
+Acquiring personal property by lease or conveyance as necessary or appropriate to the purposes of the commission. 
+
+(11) 
+Selling, assigning, exchanging, transferring, conveying, leasing, mortgaging, or otherwise disposing of or encumbering personal property, or interests therein as necessary or appropriate to the purposes of the commission. 
+
+(12)
+ The powers enumerated in IC 5-26-3-6. 
+
+(13) 
+Any other power necessary, proper, or convenient to carry out this article. 
+
+
+As added by P.L.117-1999, SEC.1. Amended by P.L.123-2002, SEC.10. 
+
+IC 5-26-2-6 Chair and vice chair; staff 
+Sec. 6. (a) The governor shall select a chair and vice chair of the commission. 
+(b) The chair may appoint staff needed to carry out this chapter from the existing staff of participating agencies. As added by P.L.117-1999, SEC.1. 
+
+IC 5-26-2-7 Compensation and expenses of nonstate employee members 
+Sec. 7. Each member of the commission who is not a state employee is entitled to the minimum salary per diem provided by IC 4-10-11-2.1(b). The member is also entitled to reimbursement for traveling expenses as provided under IC 4-13-1-4 and other expenses actually incurred in connection with the member's duties as provided in the state policies and procedures established by the Indiana department of administration and approved by the budget agency. As added by P.L.117-1999, SEC.1. 
+
+IC 5-26-2-8 Expenses of state employee members 
+Sec. 8. Each member of the commission who is a state employee is entitled to reimbursement for traveling expenses as provided under IC 4-13-1-4 and other expenses actually incurred in connection with the member's duties as provided in the state policies and procedures established by the Indiana department of administration and approved by the budget agency. As added by P.L.117-1999, SEC.1. 
+
+IC 5-26-2-9 Per diem and expenses of legislative members 
+Sec. 9. The legislative members of the commission are entitled to receive the same per diem, mileage, and travel allowances paid to persons who serve as legislative members of interim study committees established by the legislative council. As added by P.L.117-1999, SEC.1. 
+
+IC 5-26-2-10 Procurement procedures 
+Sec. 10. The commission is subject to the procurement procedures under IC 5-22. As added by P.L.117-1999, SEC.1. 
+
+IC 5-26-3 
+Chapter 3. Indiana Statewide Wireless Public Safety Voice and Data Communications System 
+IC 5-26-3-1 Contract for establishment of system 
+Sec. 1. (a) The commission may contract for the establishment of a statewide wireless public safety voice and data communications system. 
+(b) The system must: 
+(1) 
+be efficient; 
+
+(2) 
+provide modern two (2) way voice or data communication to user agencies without a duplication of efforts; and 
+
+(3) 
+allow user agencies with compatible equipment to communicate with one another, resulting in the efficient handling of emergencies and cooperation between agencies. 
+
+
+As added by P.L.117-1999, SEC.1. 
+
+IC 5-26-3-2 User's agreement 
+Sec. 2. If a public safety agency or other entity decides to use the system, the agency or other entity must enter into a user's agreement with the commission. As added by P.L.117-1999, SEC.1. 
+
+IC 5-26-3-3 Supervision of system; use of facilities 
+Sec. 3. (a) The commission is responsible for the supervision of the statewide wireless public safety voice and data communications systems as follows: 
+(1) 
+Maintenance of the main wide area transmitter sites and interconnection links of the system. 
+
+(2) 
+Management of the system's Federal Communications Commission licensing. 
+
+(3) 
+Frequency planning for the system. 
+
+(4) 
+Management of the system. 
+
+
+(b) The Indiana statewide wireless public safety voice and data communications system may use the facilities of commercial mobile radio service providers (as defined in 47 USC 332). If the commission chooses to contract with one or more commercial mobile radio service providers to provide the system, the commission may delegate the responsibilities in subsection (a) to the commercial mobile radio service providers. As added by P.L.117-1999, SEC.1. 
+IC 5-26-3-4 Criteria for determining who may use system 
+Sec. 4. The commission shall develop criteria for determining whether a public safety agency or other entity may use the system. The commission may not prohibit a public safety agency from using the public safety agency's own public safety voice and data communications system. 
+As added by P.L.117-1999, SEC.1. 
+
+IC 5-26-3-5 Approval for public safety agencies to join system 
+Sec. 5. (a) Except as provided in subsection (b), a public safety agency or other entity may join the system with the approval of the commission. 
+(b) A state public safety agency may join the system if the agency is approved by the state agency public safety committee under IC 5-26-6 and the commission. As added by P.L.117-1999, SEC.1. Amended by P.L.2-2003, SEC.33. 
+
+IC 5-26-3-6 Powers of commission 
+Sec. 6. (a) In addition to the powers enumerated in IC 5-26-2-5, the commission has the following powers related to the system: 
+(1) 
+Ensuring that federal and state communications requirements are followed. 
+
+(2) 
+Providing system planning, including mutual aid planning and compatibility planning with other public safety agency communications systems. 
+
+(3) 
+Creating a standard user agreement. 
+
+(4) 
+Providing assistance to local public safety agencies in making equipment purchases. 
+
+(5) 
+Assessing charges for using the system. 
+
+(6) 
+Entering into and performing use and occupancy agreements concerning the system under IC 4-13.5. 
+
+(7) 
+Exercising any power necessary to carry out this chapter. 
+
+
+(b) The Indiana statewide wireless public safety voice and data communications system may use the facilities of commercial mobile radio service providers (as defined in 47 USC 332). If the commission chooses to contract with one or more commercial mobile radio service providers to provide the system, the commission may delegate the responsibilities in subsection (a) to the commercial mobile radio service providers. As added by P.L.117-1999, SEC.1. Amended by P.L.123-2002, SEC.11. 
+
+IC 5-26-3-7 Subcommittees 
+Sec. 7. The following subcommittees are created: 
+(1) 
+A user's subcommittee. 
+
+(2) 
+A technical subcommittee. 
+
+(3) 
+A finance subcommittee. 
+
+(4) 
+Any other subcommittee as determined by the commission. 
+
+
+As added by P.L.117-1999, SEC.1. 
+
+IC 5-26-4 Chapter 4. Integrated Public Safety Communications Fund 
+IC 5-26-4-1 Establishment; contents; investment; reversion; transferofmoney to other funds 
+Sec. 1. (a) The integrated public safety communications fund is established to be used only to carry out the purposes of this article. The fund shall be administered by the commission. 
+(b) The fund consists of: 
+(1) 
+appropriations from the general assembly; 
+
+(2) 
+gifts; 
+
+(3) 
+federal grants; 
+
+(4) 
+fees and contributions from user agencies that the commission considers necessary to maintain and operate the system; 
+
+(5) 
+amounts distributed to the fund under IC 9; and 
+
+(6) 
+money from any other source permitted by law. 
+
+
+(c) 
+The treasurer of state shall invest the money in the fund not currently needed to meet the obligations of the fund in the same manner as other public funds may be invested. Interest that accrues from these investments shall be deposited in the fund. 
+
+(d) 
+Money in the fund at the end of a state fiscal year does not revert to the state general fund. 
+
+(e) 
+If federal funds are not sufficient to pay for the system, the commission shall transfer money from the fund to the communications system infrastructure fund established by IC 5-26-5-4 in amounts sufficient to pay rentals and other obligations under use and occupancy agreements or other contracts or leases relating to the financing of the system under IC 4-13.5. 
+
+
+As added by P.L.117-1999, SEC.1. Amended by P.L.123-2002, SEC.12; P.L.216-2014, SEC.5; P.L.198-2016, SEC.17. 
+
+IC 5-26-4-2 Appropriation of money in fund 
+Sec. 2. The money in the fund is annually appropriated as follows: 
+(1) 
+To the commission, for its use, subject to the approval of the budget agency, in the acquisition, construction, equipping, operation, maintenance, and financing of the system and state user equipment for the system, including the payment of rentals and other obligations under use and occupancy agreements or other contracts or leases relating to the financing of the system under IC 4-13.5. 
+
+(2) 
+To the state police department, such amounts as determined by the budget agency that are sufficient to enable the state police crime laboratory to address any backlog of cases to be processed by the laboratory. The appropriations under this subdivision are subject to the payment of rentals and other 
+
+
+obligations under use and occupancy agreements or other contracts or leases relating to the financing of the system under IC 4-13.5. 
+As added by P.L.123-2002, SEC.13. 
+
+IC 5-26-5 Chapter 5. Communications System Infrastructure Fund 
+IC 5-26-5-1 "Communications system infrastructure" defined 
+Sec. 1. As used in this chapter, "communications system infrastructure" means all or part of the infrastructure of the system described in IC 5-26-3, including: 
+(1) 
+towers and the associated land, improvements, foundations, access roads and rights-of-way, structures, fencing, and equipment necessary, proper, or convenient to enable the tower to function as part of the system; 
+
+(2) 
+the radio and network equipment necessary, proper, or convenient to transmit and receive voice and data communications; and 
+
+(3) 
+any other necessary, proper, or convenient elements of the system. 
+
+
+As added by P.L.123-2002, SEC.14. 
+
+IC 5-26-5-2 "Construction" defined 
+Sec. 2. As used in this chapter, "construction" means the erection, renovation, refurbishing, or alteration of all or any part of buildings, improvements, or other structures, including installation of fixtures or equipment, landscaping of grounds, site work, and providing for other ancillary facilities pertinent to the buildings or structures. As added by P.L.123-2002, SEC.14. 
+
+IC 5-26-5-3 "Infrastructure fund" defined 
+Sec. 3. As used in this chapter, "infrastructure fund" refers to the communications system infrastructure fund. As added by P.L.123-2002, SEC.14. 
+
+IC 5-26-5-4 Establishment of fund 
+Sec. 4. The communications system infrastructure fund is established for the purpose of providing communications system infrastructure. The infrastructure fund consists of distributions received under IC 5-26-4-1(e). As added by P.L.123-2002, SEC.14. 
+
+IC 5-26-5-5 Administration and investment of fund 
+Sec. 5. The infrastructure fund shall be administered by the commission. The treasurer of state shall invest the money in the infrastructure fund not currently needed to meet the obligations of the infrastructure fund in the same manner as other public funds may be invested. 
+As added by P.L.123-2002, SEC.14. 
+
+IC 5-26-5-6 Nonreversion of money 
+Sec. 6. Money in the infrastructure fund at the end of a state fiscal year does not revert to the state general fund. As added by P.L.123-2002, SEC.14. 
+
+IC 5-26-5-7 Use of money in fund; purposes 
+Sec. 7. The commission may use the money in the infrastructure fund only to pay the following: 
+(1) 
+The cost of construction of communications system infrastructure. 
+
+(2) 
+The cost of acquisition or leasing of all real or personal property required for the construction of communications system infrastructure. 
+
+(3) 
+The cost of operation and maintenance of communications system infrastructure. 
+
+(4) 
+The cost of demolishing or removing any buildings, structures, or improvements on property acquired by the commission for the construction of communications system infrastructure. 
+
+(5) 
+Engineering and legal expenses, other professional services, and the costs of plans, specifications, surveys, estimates, and any necessary feasibility studies. 
+
+(6) 
+Payment of rentals and other obligations and performance of other obligations under use and occupancy agreements or other contracts or leases relating to the financing of communications system infrastructure under IC 4-13.5. 
+
+
+As added by P.L.123-2002, SEC.14. 
+
+IC 5-26-5-8 Priority of payment of obligations under use and occupancy agreements 
+Sec. 8. The commission shall pay its obligations under any use and occupancy agreement or any other contract or lease with the Indiana finance authority from money deposited in the infrastructure fund before making any other disbursement or expenditure of the money. As added by P.L.123-2002, SEC.14. Amended by P.L.235-2005, SEC.92. 
+
+IC 5-26-5-9 Appropriation of money in fund; budget agency approval 
+Sec. 9. There is annually appropriated to the commission the money in the infrastructure fund for its use, subject to the approval of the budget agency, in carrying out the purposes described in section 7 of this chapter. 
+As added by P.L.123-2002, SEC.14. 
+
+IC 5-26-6 Chapter 6. State Agency Public Safety Committee 
+IC 5-26-6-1 State agency public safety committee established 
+Sec. 1. The state agency public safety committee is established. 
+As added by P.L.2-2003, SEC.34. 
+
+IC 5-26-6-2 State public safety agency required to join system 
+Sec. 2. A state public safety agency that has or wants to have a voice or data wireless communications network must join the system when technically and economically feasible. 
+As added by P.L.2-2003, SEC.34. 
+
+IC 5-26-6-3 Responsibilities of communications division 
+Sec. 3. The communications division is responsible for the following with regard to state public safety agencies and state owned assets unless otherwise directed by the superintendent: 
+(1) 
+Maintenance of the main wide area transmitter sites and interconnecting links. 
+
+(2) 
+Management of FCC licensing. 
+
+(3) 
+Frequency planning. 
+
+(4) 
+Appropriate radio program software. 
+
+(5) 
+Code plugs. 
+
+(6) 
+System keys. 
+
+(7) 
+Assignment and control of individual identification numbers and talkgroup numbers. 
+
+
+As added by P.L.2-2003, SEC.34. 
+
+IC 5-26-6-4 Publication of committee policies 
+Sec. 4. The committee shall publish its policies within a standardized operations procedures manual approved by the superintendent. 
+As added by P.L.2-2003, SEC.34. 
+
+IC 5-26-6-5 Criteria for system use 
+Sec. 5. The committee shall develop criteria for determining whether a state public safety agency may use the system. 
+As added by P.L.2-2003, SEC.34. 
+
+IC 5-26-6-6 Committee members; vacancies; terms 
+Sec. 6. (a) The committee consists of ten (10) members appointed by the superintendent. Each of the following user agencies shall be represented by one (1) committee member: 
+(1) 
+State police department. 
+
+(2) 
+Indiana department of transportation. 
+
+(3) 
+Department of homeland security. 
+
+(4) 
+Department of natural resources. 
+
+(5) 
+Alcohol and tobacco commission. 
+
+(6) 
+Department of state revenue. 
+
+(7) 
+Department of environmental management. 
+
+(8) 
+Military department of the state of Indiana. 
+
+(9) 
+Department of correction. 
+
+(10)
+ Indiana department of administration. 
+
+
+(b) A director of an agency described in subsection (a)(2) through (a)(10) shall recommend a person to the superintendent to serve as a committee member. 
+(c) 
+The superintendent shall fill any vacancies on the committee. 
+
+(d) 
+A committee member serves until the earlier of the following: 
+
+(1) 
+The member is removed by the superintendent. 
+
+(2) 
+The date the member ceases to be employed by the agency the member represents on the committee. 
+
+
+
+
+As added by P.L.2-2003, SEC.34. Amended by P.L.1-2006, SEC.125. 
+
+IC 5-26-6-7 Quorum; requirements to take action 
+Sec. 7. (a) Six (6) members of the committee constitute a quorum. 
+(b) An affirmative vote of at least six (6) members of the committee is required for the committee to take action. 
+As added by P.L.2-2003, SEC.34. 
+
+IC 5-26-6-8 Contracts for the committee 
+Sec. 8. The department may enter into and administer contracts for the committee. 
+As added by P.L.2-2003, SEC.34. 
+
+IC 5-26-6-9 Powers of committee 
+Sec. 9. The committee's powers include the following: 
+(1) 
+Ensuring that federal and state communications requirements are followed. 
+
+(2) 
+Providing system planning, including mutual aid planning and compatibility planning in coordination with the integrated public safety commission established under IC 5-26-2-1. 
+
+(3) 
+Subject to IC 5-26-3-5, determining whether a state public safety agency may become a system user. 
+
+(4) 
+Providing assistance to local public safety agencies in making equipment purchases. 
+
+(5) 
+Exercising any power necessary to carry out this chapter. 
+
+
+As added by P.L.2-2003, SEC.34. 
+
+IC 5-26-6-10 Chairperson; vice chairperson 
+Sec. 10. A chairperson and vice chairperson of the committee shall be selected by the superintendent. 
+As added by P.L.2-2003, SEC.34. 
+
+IC 5-26-6-11 Restrictions on salary per diem and traveling expenses 
+Sec. 11. A member of the committee who is not a state employee is not entitled to: 
+(1) 
+the minimum salary per diem provided by IC 4-10-11-2.1(b); and 
+
+(2) 
+reimbursement for: 
+
+(A) 
+traveling expenses as provided under IC 4-13-1-4; and 
+
+(B) 
+other expenses actually incurred in connection with the member's duties as provided in the state policies and procedures established by the Indiana department of administration and approved by the budget agency. 
+
+
+
+
+As added by P.L.2-2003, SEC.34. 
+
+IC 5-26-6-12 Reimbursement for traveling and other expenses 
+Sec. 12. A member of the committee who is a state employee is entitled to: 
+(1) 
+reimbursement for traveling expenses as provided under IC 4-13-1-4; and 
+
+(2) 
+other expenses actually incurred in connection with the member's duties as provided in the state policies and procedures established by the Indiana department of administration and approved by the budget agency. 
+
+
+As added by P.L.2-2003, SEC.34. 
+
+

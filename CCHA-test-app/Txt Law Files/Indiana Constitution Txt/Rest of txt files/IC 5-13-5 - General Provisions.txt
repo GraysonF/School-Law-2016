@@ -1,0 +1,111 @@
+IC 5-13-5 Chapter 5. General Provisions 
+IC 5-13-5-0.3 P.L.19-1987 restatement of law affecting public deposit insurance fund and the board for depositories 
+Sec. 0.3. (a) P.L.19-1987 is intended to restate the law affecting the public deposit insurance fund and the board for depositories. The substantive operation of the public deposit insurance fund and the board for depositories, established under IC 5-12-1-19.1 (before its repeal) continues uninterrupted under IC 5-13-12, as added by P.L.19-1987. 
+(b) P.L.19-1987 does not affect rights or liabilities of the public deposit insurance fund and board for depositories accrued before May 6, 1987. As added by P.L.220-2011, SEC.92. 
+
+IC 5-13-5-1 Cashbook; duties of public officers; public inspection 
+Sec. 1. (a) Every public officer who receives or distributes public funds shall: 
+(1) 
+keep a cashbook into which the public officer shall enter daily, by item, all receipts of public funds; and 
+
+(2) 
+balance the cashbook daily to show funds on hand at the close of each day. 
+
+
+(b) The cashbook is a public record and is open to public inspection in accordance with IC 5-14-3. 
+(c) A person who violates this section is subject to criminal prosecution under IC 35-44.2-2-2. As added by P.L.19-1987, SEC.7. Amended by P.L.126-2012, SEC.21. 
+IC 5-13-5-2 Application of section to public funds other than state funds; warrants for payment of public funds;copy ofwarrant; disposition of warrant 
+Sec. 2. (a) This section applies to public funds other than state funds. In all political subdivisions where the fiscal officer and investing officer are two (2) separate individuals by law, all warrants for the payment of public funds shall be drawn by the proper public officer upon the proper treasurer. In all political subdivisions where the fiscal officer and investing officer are the same individual by law, all warrants shall be drawn by the fiscal officer directly against a depository. A copy of the warrant shall be attached to each warrant when drawn. The copy of the warrant shall be readily detachable and shall show the following information: 
+(1) 
+The number of the warrant. 
+
+(2) 
+The date and amount of the warrant. 
+
+(3) 
+The name of the payee. 
+
+(4) 
+The purpose of the warrant. 
+
+(5) 
+The name and office of the drawer. 
+
+(6) 
+The fund and the appropriation upon which the warrant is drawn. 
+
+
+(b) In all political subdivisions where the fiscal officer and investing officer are two (2) separate individuals by law, warrants shall be presented by the proper public officer to the proper treasurer, who shall detach and retain the copy of the warrant, countersign the original, and stamp upon the original the name of the depository by which it is payable. A warrant is effective only if it is stamped and countersigned as provided in this subsection. After countersignature and stamping, all warrants shall be returned to the proper public officer for distribution. The proper treasurer, when any warrant is presented for payment by any person other than a depository, may, for convenience of the persons presenting the warrant, pay the amount of the warrant to the holder, take an assignment by endorsement of the warrant, and deposit the warrant in the proper depository in lieu of the cash paid out to the holder of the warrant. As added by P.L.19-1987, SEC.7. 
+
+IC 5-13-5-3 Drawing warrant 
+Sec. 3. All warrants for the payment of public funds of the state shall be drawn by the auditor of state on the treasurer of state. As added by P.L.19-1987, SEC.7. 
+
+IC 5-13-5-4 Signature of authorized public officers on check or negotiable order of withdrawal; purposes 
+Sec. 4. (a) All checks or negotiable orders of withdrawal drawn upon depositories shall be signed by public officers authorized to sign the check or negotiable order of withdrawal in the officer's official capacity. All funds paid out of the state treasury must be by check or negotiable order of withdrawal of the state treasurer upon the warrant of the auditor of state. 
+(b) A public officer may draw a check or negotiable order of withdrawal upon a depository only for the following purposes: 
+(1) 
+The payment of a warrant drawn by the auditor of state. 
+
+(2) 
+The payment of a warrant drawn by the fiscal officer of a political subdivision, where the fiscal officer and investing officer are two (2) separate individuals by law. 
+
+(3) 
+The payment of a legal claim against a political subdivision where the fiscal officer and investing officer are the same individual by law. 
+
+(4) 
+An investment authorized under this article. 
+
+(5) 
+The transfer of funds between depositories. 
+
+
+As added by P.L.19-1987, SEC.7. Amended by P.L.18-1996, SEC.5. 
+IC 5-13-5-5 Transactingbusinesswithfinancialinstitutionorpublic retirement fund through use of electronic funds transfer; ordinance or resolution 
+Sec. 5. (a) The fiscal body of any political subdivision may by ordinance or resolution authorize the proper legal officers of the political subdivision to transact the political subdivision's business with a financial institution or a public pension or retirement fund administered by the Indiana public retirement system through the use of electronic funds transfer. 
+(b) The ordinance or resolution must: 
+(1) 
+specify the types of transactions that may be conducted by electronic funds transfer; and 
+
+(2) 
+require the proper officers to maintain adequate documentation of the transactions so that they may be audited as provided by law. 
+
+
+As added by P.L.19-1987, SEC.7. Amended by P.L.61-2002, SEC.9; P.L.35-2012, SEC.91. 
+
+IC 5-13-5-6 Financial institution continuation qualification as depository 
+Sec. 6. (a) A financial institution that is a depository for the state on March 21, 1996, and any successor financial institution, continues to be a depository for the state after March 21, 1996, without reapplying under IC 5-13-10.5, until the earliest of the following occurs: 
+(1) 
+The board of depositories revokes the status of the financial institution as a depository. 
+
+(2) 
+The financial institution notifies the state board of finance that the financial institution is resigning as a depository for the state. 
+
+(3) 
+Another law terminates the depository status of the financial 
+
+
+institution. A financial institution that qualifies under this subsection as a depository for the state after March 21, 1996, shall be treated after March 21, 1996, as if the financial institution were designated as a depository under IC 5-13-10.5. 
+(b) A financial institution that is a depository for a political subdivision on March 21, 1996, and any successor financial institution continues to be a depository for the political subdivision after March 21, 1996, without reapplying under IC 5-13-10.5 or IC 5-13-8-1, until the earliest of the following occurs: 
+(1) 
+The state board of finance revokes the status of the financial institution as a depository. 
+
+(2) 
+The financial institution notifies the state board of finance or the local board of finance for the political subdivision that the financial institution is resigning as a depository for the political subdivision. 
+
+(3) 
+Another law terminates the depository status of the financial 
+
+
+institution. A financial institution that qualifies under this subsection as a depository for a political subdivision after March 21, 1996, shall be treated after March 21, 1996, as if the financial institution were designated as a depository under IC 5-13-8. 
+(c) 
+Subject to IC 5-13-8-9, a financial institution that is a depository for the state on March 21, 1996, and any successor financial institution is eligible after March 21, 1996, to become a depository for any political subdivision for which the financial institution is not already a depository without reapplying under IC 5-13-10.5 or IC 5-13-8-1. A financial institution that qualifies under this subsection as a depository for a political subdivision after March 21, 1996, shall be treated after March 21, 1996, as if the financial institution were designated as a depository under IC 5-13-8. 
+
+(d) 
+The treasurer of state shall add any financial institution that qualifies as a depository for political subdivisions under subsection 
+
+(b) 
+or (c) to the list of depositories eligible to receive the public funds of political subdivisions under IC 5-13-8-1. 
+
+
+As added by P.L.16-2009, SEC.12. 
+

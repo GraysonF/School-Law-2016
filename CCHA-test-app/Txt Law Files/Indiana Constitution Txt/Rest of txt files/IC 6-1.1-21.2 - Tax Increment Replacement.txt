@@ -1,0 +1,323 @@
+IC 6-1.1-21.2 Chapter 21.2. Tax Increment Replacement 
+IC 6-1.1-21.2-1 Repealed 
+(As added by P.L.192-2002(ss), SEC.44. Repealed by P.L.146-2008, SEC.803.) 
+
+IC 6-1.1-21.2-2 Applicability of definitions in IC 36 
+Sec. 2. Except as otherwise provided, the definitions in IC 36 apply throughout this chapter. As added by P.L.192-2002(ss), SEC.44. 
+
+IC 6-1.1-21.2-3 "Allocation area" 
+Sec. 3. As used in this chapter, "allocation area" refers to an area that is established under the authority of any of the following statutes and in which tax increment revenues are collected: 
+(1) 
+IC 6-1.1-39. 
+
+(2) 
+IC 8-22-3.5. 
+
+(3) 
+IC 36-7-14. 
+
+(4) 
+IC 36-7-14.5. 
+
+(5) 
+IC 36-7-15.1. 
+
+(6) 
+IC 36-7-30. 
+
+
+(7) IC 36-7-30.5. As added by P.L.192-2002(ss), SEC.44. Amended by P.L.146-2008, SEC.231. 
+
+IC 6-1.1-21.2-4 
+"Base assessed value" 
+
+Sec. 4. As used in this chapter, "base assessed value" means the base assessed value as that term is defined or used in: 
+(1) 
+IC 6-1.1-39-5(h); 
+
+(2) 
+IC 8-22-3.5-9(a); 
+
+(3) 
+IC 8-22-3.5-9.5; 
+
+(4) 
+IC 36-7-14-39(a); 
+
+(5) 
+IC 36-7-14-39.2; 
+
+(6) 
+IC 36-7-14-39.3(c); 
+
+(7) 
+IC 36-7-14-48; 
+
+(8) 
+IC 36-7-14.5-12.5; 
+
+(9) 
+IC 36-7-15.1-26(a); 
+
+(10)
+ IC 36-7-15.1-26.2(c); 
+
+(11)
+ IC 36-7-15.1-35(a); 
+
+(12)
+ IC 36-7-15.1-35.5; 
+
+(13)
+ IC 36-7-15.1-53; 
+
+(14)
+ IC 36-7-15.1-55(c); 
+
+(15)
+ IC 36-7-30-25(a)(2); 
+
+(16)
+ IC 36-7-30-26(c); 
+
+(17)
+ IC 36-7-30.5-30; or 
+
+
+(18) IC 36-7-30.5-31. As added by P.L.192-2002(ss), SEC.44. Amended by P.L.1-2003, SEC.27; P.L.146-2008, SEC.232. 
+
+IC 6-1.1-21.2-5 "District" 
+Sec. 5. As used in this chapter, "district" refers to the following: 
+(1) 
+An economic development district under IC 6-1.1-39. 
+
+(2) 
+An eligible entity (as defined in IC 8-22-3.5-2.5). 
+
+(3) 
+A redevelopment district, for an allocation area established under: 
+
+(A) 
+IC 36-7-14; or 
+
+(B) 
+IC 36-7-15.1. 
+
+
+
+(4) 
+A special taxing district, as described in: 
+
+(A) 
+IC 36-7-14.5-12.5(d); or 
+
+(B) 
+IC 36-7-30-3(b). 
+
+
+
+
+(5) A military base development area under IC 36-7-30.5-16. As added by P.L.192-2002(ss), SEC.44. Amended by P.L.146-2008, SEC.233. 
+
+IC 6-1.1-21.2-6 "Governing body" 
+Sec. 6. As used in this chapter, "governing body" means the following: 
+(1) 
+For an allocation area created under IC 6-1.1-39, the fiscal body of the county (as defined in IC 36-1-2-6). 
+
+(2) 
+For an allocation area created under IC 8-22-3.5, the commission (as defined in IC 8-22-3.5-2). 
+
+(3) 
+For an allocation area created under IC 36-7-14, the redevelopment commission. 
+
+(4) 
+For an allocation area created under IC 36-7-14.5, the redevelopment authority. 
+
+(5) 
+For an allocation area created under IC 36-7-15.1, the metropolitan development commission. 
+
+(6) 
+For an allocation area created under IC 36-7-30, the military base reuse authority. 
+
+(7) 
+For an allocation area created under IC 36-7-30.5, the military base development authority. 
+
+
+As added by P.L.192-2002(ss), SEC.44. Amended by P.L.146-2008, SEC.234. 
+
+IC 6-1.1-21.2-6.6 "Obligation" 
+Sec. 6.6. As used in this chapter, "obligation" means an obligation to repay: 
+(1) 
+the principal and interest on bonds; 
+
+(2) 
+lease rentals on leases; or 
+
+
+(3) any other contractual obligation; payable from tax increment revenues. The term includes a guarantee of repayment from tax increment revenues if other revenues are insufficient to make a payment. As added by P.L.146-2008, SEC.235. 
+
+IC 6-1.1-21.2-7 "Property taxes" 
+Sec. 7. As used in this chapter, "property taxes" means: 
+(1) 
+property taxes, as defined in: 
+
+(A) 
+IC 6-1.1-39-5(g); 
+
+(B) 
+IC 36-7-14-39(a); 
+
+(C) 
+IC 36-7-14-39.2; 
+
+(D) 
+IC 36-7-14-39.3(c); 
+
+(E) 
+IC 36-7-14.5-12.5; 
+
+(F) 
+IC 36-7-15.1-26(a); 
+
+(G) 
+IC 36-7-15.1-26.2(c); 
+
+(H) 
+IC 36-7-15.1-53(a); 
+
+(I)
+ IC 36-7-15.1-55(c); 
+
+(J)
+ IC 36-7-30-25(a)(3); 
+
+(K)
+ IC 36-7-30-26(c); 
+
+(L) 
+IC 36-7-30.5-30; or 
+
+(M)
+ IC 36-7-30.5-31; or 
+
+
+
+(2) 
+for allocation areas created under IC 8-22-3.5, the taxes assessed on taxable tangible property in the allocation area. 
+
+
+As added by P.L.192-2002(ss), SEC.44. Amended by P.L.146-2008, SEC.236. 
+
+IC 6-1.1-21.2-8 "Special fund" 
+Sec. 8. As used in this chapter, "special fund" means: 
+(1) 
+the special funds referred to in IC 6-1.1-39-5; 
+
+(2) 
+the special funds referred to in IC 8-22-3.5-9(e); 
+
+(3) 
+the allocation fund referred to in IC 36-7-14-39(b)(3); 
+
+(4) 
+the allocation fund referred to in IC 36-7-14.5-12.5(d); 
+
+(5) 
+the special fund referred to in IC 36-7-15.1-26(b)(3); 
+
+(6) 
+the special fund referred to in IC 36-7-15.1-53(b)(3); 
+
+(7) 
+the allocation fund referred to in IC 36-7-30-25(b)(3); or 
+
+
+(8) the allocation fund referred to in IC 36-7-30.5-30(b)(3). As added by P.L.192-2002(ss), SEC.44. Amended by P.L.146-2008, SEC.237; P.L.203-2011, SEC.2. 
+
+IC 6-1.1-21.2-9 
+"Tax increment replacement amount" 
+
+Sec. 9. As used in this chapter, "tax increment replacement amount" means the tax increment replacement amount determined under section 11 of this chapter. 
+As added by P.L.192-2002(ss), SEC.44. 
+
+IC 6-1.1-21.2-10 
+"Tax increment revenues" 
+
+Sec. 10. As used in this chapter, "tax increment revenues" means the property taxes attributable to the assessed value of property in excess of the base assessed value. 
+As added by P.L.192-2002(ss), SEC.44. 
+
+IC 6-1.1-21.2-11 Tax increment replacement amount; calculation 
+Sec. 11. (a) The governing body shall estimate the tax increment replacement amount for each allocation area under the jurisdiction of the governing body for the next calendar year on the schedule prescribed by the department of local government finance. 
+(b) The tax increment replacement amount is the greater of zero 
+(0) or the net amount by which: 
+(1) 
+laws enacted by the general assembly; and 
+
+(2) 
+actions taken by the department of local government 
+
+
+finance; after the establishment of the allocation area have decreased the tax increment revenues of the allocation area for the next calendar year (after adjusting for any increases resulting from laws or actions of the department of local government finance) below the sum of the amount needed to make all payments that are due in the next calendar year on obligations payable from tax increment revenues and to maintain any tax increment revenue to obligation payment ratio required by an agreement on which any of the obligations are based. 
+As added by P.L.192-2002(ss), SEC.44. Amended by P.L.256-2003, SEC.25; P.L.146-2008, SEC.238. 
+IC 6-1.1-21.2-12 Governingbodyactiontoraisetaxincrement replacement amount; review and action by legislative body; procedure; funding of certain amount by metropolitan development commission from personal property taxes 
+Sec. 12. (a) This section applies if the tax increment replacement amount for an allocation area in a district is greater than zero (0). 
+(b) A governing body may, after a public hearing, do the following: 
+(1) 
+Impose a special assessment on the owners of property that is located in an allocation area to raise an amount not to exceed the tax increment replacement amount. 
+
+(2) 
+Impose a tax on all taxable property in the district in which the governing body exercises jurisdiction to raise an amount not to exceed the tax increment replacement amount. 
+
+(3) 
+Reduce the base assessed value of property in the allocation area to an amount that is sufficient to increase the tax increment 
+
+
+revenues in the allocation area by an amount that does not exceed the tax increment replacement amount. 
+(c) 
+The governing body shall submit a proposed special assessment or tax levy under this section to the legislative body of the unit that established the district. The legislative body may: 
+
+(1) 
+reduce the amount of the special assessment or tax to be levied under this section; 
+
+(2) 
+determine that no special assessment or property tax should be levied under this section; or 
+
+(3) 
+increase the special assessment or tax to the amount necessary to fully fund the tax increment replacement amount. 
+
+
+
+(d) 
+Before a public hearing under subsection (b) may be held, the governing body must publish notice of the hearing under IC 5-3-1. The notice must also be sent to the fiscal officer of each political subdivision that is located in any part of the district. The notice must state that the governing body will meet to consider whether a special assessment or tax should be imposed under this chapter and whether the special assessment or tax will help the governing body realize the redevelopment or economic development objectives for the allocation area or honor its obligations related to the allocation area. The notice must also specify a date when the governing body will receive and hear remonstrances and objections from persons affected by the special assessment. All persons affected by the hearing, including all taxpayers within the allocation area, shall be considered notified of the pendency of the hearing and of subsequent acts, hearings, and orders of the governing body by the notice. At the hearing, which may be adjourned from time to time, the governing body shall hear all persons affected by the proceedings and shall consider all written remonstrances and objections that have been filed. The only grounds for remonstrance or objection are that the special assessment or tax will not help the governing body realize the redevelopment or economic development objectives for the allocation area or honor its obligations related to the allocation area. After considering the evidence presented, the governing body shall take final action concerning the proposed special assessment or tax. The final action taken by the governing body shall be recorded and is final and conclusive, except that an appeal may be taken in the manner prescribed by subsection (e). 
+
+(e) 
+A person who filed a written remonstrance with a governing body under subsection (d) and is aggrieved by the final action taken may, within ten (10) days after that final action, file in the office of the clerk of the circuit or superior court a copy of the order of the governing body and the person's remonstrance or objection against that final action, together with a bond conditioned to pay the costs of appeal if the appeal is determined against the person. The only ground of remonstrance or objection that the court may hear is whether the proposed special assessment or tax will help achieve the redevelopment of economic development objectives for the 
+
+
+allocation area or honor its obligations related to the allocation area. An appeal under this subsection shall be promptly heard by the court without a jury. All remonstrances or objections upon which an appeal has been taken must be consolidated, heard, and determined within thirty (30) days after the time of the filing of the appeal. The court shall hear evidence on the remonstrances or objections and may confirm the final action of the governing body or sustain the remonstrances or objections. The judgment of the court is final and conclusive, unless an appeal is taken as in other civil actions. 
+(f) This section applies to a governing body that: 
+(1) 
+is the metropolitan development commission for a county having a consolidated city; and 
+
+(2) 
+has established an allocation area and pledged tax increment revenues from the area to the payment of bonds, leases, or other obligations before May 8, 1989. 
+
+
+Notwithstanding subsections (a) through (e), the governing body may determine to fund that part of the tax increment replacement amount attributable to the repeal of IC 36-7-15.1-26.5, IC 36-7-15.1-26.7, and IC 36-7-15.1-26.9 from property taxes on personal property (as defined in IC 6-1.1-1-11). If the governing body makes such a determination, the property taxes on personal property in the amount determined under this subsection shall be allocated to the redevelopment district, paid into the special fund for the allocation area, and used for the purposes specified in IC 36-7-15.1-26. 
+As added by P.L.192-2002(ss), SEC.44. Amended by P.L.146-2008, SEC.239; P.L.182-2009(ss), SEC.154. 
+
+IC 6-1.1-21.2-13 Repealed 
+(As added by P.L.192-2002(ss), SEC.44. Repealed by P.L.146-2008, SEC.803.) 
+
+IC 6-1.1-21.2-14 Repealed 
+(As added by P.L.192-2002(ss), SEC.44. Amended by P.L.256-2003, SEC.26. Repealed by P.L.146-2008, SEC.803.) 
+IC 6-1.1-21.2-15 Special assessment and tax collections deposited in special fund; inapplicability of certain provisions to special assessments and taxes; exception from levy limits 
+Sec. 15. (a) As the special assessment or tax imposed under this chapter is collected by the county treasurer, it shall be transferred to the governing body and accumulated and kept in the special fund for the allocation area. 
+(b) A special assessment or tax levied under this chapter is not subject to IC 6-1.1-20. 
+(c) A special assessment or tax levied under this chapter and the use of revenues from a special assessment or tax levied under this chapter by a governing body do not create a constitutional or statutory debt, pledge, or obligation of the governing body, the district, or any county, city, town, or township. 
+(d) The ad valorem property tax levy limits imposed by IC 6-1.1-18.5-3 or another provision of IC 6-1.1-18.5 do not apply to a special assessment or tax imposed under this chapter. For purposes of computing the ad valorem property tax levy limit imposed on a civil taxing unit under IC 6-1.1-18.5-3 or another provision of IC 6-1.1-18.5, the civil taxing unit's ad valorem property tax levy for a particular calendar year does not include a special assessment or tax imposed under this chapter. As added by P.L.192-2002(ss), SEC.44. Amended by P.L.224-2007, SEC.40; P.L.146-2008, SEC.240; P.L.182-2009(ss), SEC.155. 
+
+IC 6-1.1-21.2-16 Adjustment for tax benefit 
+Sec. 16. (a) This section applies if the tax increment replacement amount for an allocation area in a district is less than zero (0). 
+(b) The governing body of a district shall increase the base assessed value of property in the allocation area to an amount sufficient so that the tax increment replacement amount is equal to zero (0). As added by P.L.146-2008, SEC.241. 
+

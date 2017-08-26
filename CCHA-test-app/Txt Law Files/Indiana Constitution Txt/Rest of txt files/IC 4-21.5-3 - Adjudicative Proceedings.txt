@@ -1,0 +1,1423 @@
+IC 4-21.5-3 Chapter 3. Adjudicative Proceedings 
+IC 4-21.5-3-1 Service of process; notice by publication 
+Sec. 1. (a) This section applies to: 
+(1) 
+the giving of any notice; 
+
+(2) 
+the service of any motion, ruling, order, or other filed item; or 
+
+
+(3) 
+the filing of any document with the ultimate authority; in an administrative proceeding under this article. 
+
+(b) 
+Except as provided in subsection (c) or as otherwise provided by law, a person shall serve papers by: 
+
+(1) 
+United States mail; 
+
+(2) 
+personal service; 
+
+(3) 
+electronic mail; or 
+
+(4) 
+any other method approved by the Indiana Rules of Trial Procedure. 
+
+
+
+(c) 
+The following shall be served by United States mail or personal service: 
+
+(1) 
+The initial notice of a determination under section 6 of this chapter. 
+
+(2) 
+A petition for review of an agency action under section 7 of this chapter. 
+
+(3) 
+A complaint under section 8 of this chapter. 
+
+
+
+(d) 
+The agency shall keep a record of the time, date, and circumstances of the service under subsection (b) or (c). 
+
+(e)
+ Service shall be made on a person or on the person's counsel or other authorized representative of record in the proceeding. Service on an artificial person or a person incompetent to receive service shall be made on a person allowed to receive service under the rules governing civil actions in the courts. If an ultimate authority consists of more than one (1) individual, service on that ultimate authority must be made on the chairperson or secretary of the ultimate authority. A document to be filed with that ultimate authority must be filed with the chairperson or secretary of the ultimate authority. 
+
+(f)
+ If the current address of a person is not ascertainable, service shall be mailed to the last known address where the person resides or has a principal place of business. If the identity, address, or existence of a person is not ascertainable, or a law other than a rule allows, service shall be made by a single publication in a newspaper of general circulation in: 
+
+(1) 
+the county in which the person resides, has a principal place of business, or has property that is the subject of the proceeding; or 
+
+(2) 
+Marion County, if the place described in subdivision (1) is not ascertainable or the place described in subdivision (1) is 
+
+
+
+
+outside Indiana and the person does not have a resident agent or other representative of record in Indiana. 
+(g) 
+A notice given by publication must include a statement advising a person how the person may receive written notice of the proceedings. 
+
+(h) 
+The filing of a document with an ultimate authority is complete on the earliest of the following dates that apply to the filing: 
+
+(1) 
+The date on which the document is delivered to the ultimate authority: 
+
+(A) 
+under subsection (b) or (c); and 
+
+(B) 
+in compliance with subsection (e). 
+
+
+
+(2) 
+The date of the postmark on the envelope containing the document, if the document is mailed to the ultimate authority by United States mail. 
+
+(3) 
+The date on which the document is deposited with a private carrier, as shown by a receipt issued by the carrier, if the document is sent to the ultimate authority by private carrier. 
+
+
+
+
+As added by P.L.18-1986, SEC.1. Amended by P.L.35-1987, SEC.2; P.L.33-1989, SEC.2; P.L.35-1989, SEC.2; P.L.32-2011, SEC.1; P.L.6-2012, SEC.17; P.L.152-2012, SEC.4. 
+
+IC 4-21.5-3-2 Time computation 
+Sec. 2. (a) In computing any period of time under this article, the day of the act, event, or default from which the designated period of time begins to run is not included. The last day of the computed period is to be included unless it is: 
+(1) 
+a Saturday; 
+
+(2) 
+a Sunday; 
+
+(3) 
+a legal holiday under a state statute; or 
+
+(4) 
+a day that the office in which the act is to be done is closed during regular business hours. 
+
+
+(b) 
+A period runs until the end of the next day after a day described in subsection (a)(1) through (a)(4). If the period allowed is less than seven (7) days, intermediate Saturdays, Sundays, state holidays, and days on which the office in which the act is to be done is closed during regular business hours are excluded from the calculation. 
+
+(c) 
+A period of time under this article that commences when a person is served with a paper, including the period in which a person may petition for judicial review, commences with respect to a particular person on the earlier of the date that: 
+
+(1) 
+the person is personally served with the notice; or 
+
+(2) 
+a notice for the person is deposited in the United States mail. 
+
+
+
+(d) 
+If section 1(f) of this chapter applies, a period of time under this article commences when a notice for the person is published in 
+
+
+a newspaper. 
+(e) If a notice is served through the United States mail, three (3) days must be added to a period that commences upon service of that notice. As added by P.L.18-1986, SEC.1. Amended by P.L.32-2011, SEC.2. 
+
+IC 4-21.5-3-3 Notice of orders; additional proceedings; effectiveness; stays 
+Sec. 3. (a) An agency shall give notice concerning an order under section 4, 5, 6, or 8 of this chapter. An agency shall conduct additional proceedings under this chapter if required by section 7 or 8 of this chapter. However, IC 4-21.5-4 applies to the notice and proceedings necessary for emergency and other temporary orders. 
+(b) Notwithstanding IC 1-1-4-1, if: 
+(1) 
+a panel of individuals responsible for an agency action has a quorum of its members present, as specified by law; and 
+
+(2) 
+a statute other than IC 1-1-4-1 does not specify the number 
+
+
+of votes necessary to take an agency action; the panel may take the action by an affirmative vote of a majority of the members present and voting. For the purposes of this subsection, a member abstaining on a vote is not voting on the action. 
+(c) 
+An order is effective when it is issued as a final order under this chapter, except to the extent that: 
+
+(1) 
+a different date is set by this article; 
+
+(2) 
+a later date is set by an agency in its order; or 
+
+(3) 
+an order is stayed. 
+
+
+
+(d) 
+After an order becomes effective, an agency may suspend the effect of an order, in whole or in part, by staying the order under this chapter. 
+
+
+(e) A party to an order may be required to comply with an order only after the party has been served with the order or has actual knowledge of the order. As added by P.L.18-1986, SEC.1. Amended by P.L.35-1987, SEC.3. 
+
+IC 4-21.5-3-4 Notice required; licenses and personnel decisions; persons who must be notified; contents 
+Sec. 4. (a) Notice must be given under this section concerning the following: 
+(1) 
+The denial of a driver's license by the bureau of motor vehicles under IC 9. 
+
+(2) 
+The grant, renewal, restoration, transfer, or denial of a noncommercial fishing or hunting license by the department of natural resources under IC 14. 
+
+(3) 
+The grant, renewal, restoration, transfer, or denial of a license by an entity described in IC 25-0.5-9. 
+
+(4) 
+The grant, renewal, suspension, revocation, or denial of a certificate of registration under IC 25-5.2. 
+
+(5) 
+A personnel decision by an agency. 
+
+(6) 
+The grant, renewal, restoration, transfer, or denial of a license by the department of environmental management or the commissioner of the department under the following: 
+
+
+(A) Environmental management laws (as defined in IC 13-11-2-71) for the construction, installation, or modification of: 
+(i) 
+sewers and appurtenant facilities, devices, or structures for the collection and transport of sewage (as defined in IC 13-11-2-200) or storm water to a storage or treatment facility or to a point of discharge into the environment; or 
+
+(ii) 
+pipes, pumps, and appurtenant facilities, devices, or structures that are part of a public water system (as defined in IC 13-11-2-177.3) and that are used to transport water to a storage or treatment facility or to distribute water to the users of the public water system; 
+
+
+where a federal, state, or local governmental body has given or will give public notice and has provided or will provide an opportunity for public participation concerning the activity that is the subject of the license. 
+(B) 
+Environmental management laws (as defined in IC 13-11-2-71) for the registration of a device or a piece of equipment. 
+
+(C) 
+IC 13-17-6-1 for a person to engage in the inspection, management, and abatement of asbestos containing material. 
+
+(D) 
+IC 13-18-11 for a person to operate a wastewater treatment plant. 
+
+(E) 
+IC 13-15-10 for a person to operate the following: 
+
+(i)
+ A solid waste incinerator or a waste to energy facility. 
+
+(ii) 
+A land disposal site. 
+
+
+(iii) A facility described under IC 13-15-1-3 whose operation could have an adverse impact on the environment if not operated properly. 
+
+(F) 
+IC 13-20-4 for a person to operate a municipal waste collection and transportation vehicle. 
+
+
+(b) 
+When an agency issues an order described by subsection (a), the agency shall give a written notice of the order to the following persons: 
+
+(1) Each person to whom the order is specifically directed. 
+
+(2) 
+Each person to whom a law requires notice to be given. A person that is entitled to notice under this subsection is not a party to any proceeding resulting from the grant of a petition for review under section 7 of this chapter unless the person is designated as a party on the record of the proceeding. 
+
+(c) The notice must include the following: 
+(1) 
+A brief description of the order. 
+
+(2) 
+A brief explanation of the available procedures and the time limit for seeking administrative review of the order under 
+
+section 7 of this chapter. 
+
+(3) 
+Any information required by law. 
+
+
+
+(d) 
+An order under this section is effective when it is served. However, if a timely and sufficient application has been made for renewal of a license described by subsection (a)(3) and review is granted under section 7 of this chapter, the existing license does not expire until the agency has disposed of the proceeding under this chapter concerning the renewal, unless a statute other than this article provides otherwise. This subsection does not preclude an agency from issuing under IC 4-21.5-4 an emergency or other temporary order with respect to the license. 
+
+
+(e) If a petition for review of an order described in subsection (a) is filed within the period set by section 7 of this chapter and a petition for stay of effectiveness of the order is filed by a party or another person that has a pending petition for intervention in the proceeding, an administrative law judge shall, as soon as practicable, conduct a preliminary hearing to determine whether the order should be stayed in whole or in part. The burden of proof in the preliminary hearing is on the person seeking the stay. The administrative law judge may stay the order in whole or in part. The order concerning the stay may be issued after an order described in subsection (a) becomes effective. The resulting order concerning the stay shall be served on the parties and any person that has a pending petition for intervention in the proceeding. It must include a statement of the facts and law on which it is based. As added by P.L.18-1986, SEC.1. Amended by P.L.35-1989, SEC.3; P.L.25-1991, SEC.1; P.L.33-1993, SEC.1; P.L.1-1996, SEC.25; P.L.54-2001, SEC.2; P.L.184-2002, SEC.1; P.L.3-2014, SEC.3; P.L.198-2016, SEC.7. 
+
+IC 4-21.5-3-5 Noticerequired; certainlicensing andotherdecisions;personswho must be notified; contents; effectiveness of order; stays 
+Sec. 5. (a) Notice shall be given under this section concerning the following: 
+(1) 
+The grant, renewal, restoration, transfer, or denial of a license not described by section 4 of this chapter. 
+
+(2) 
+The approval, renewal, or denial of a loan, grant of property or services, bond, financial guarantee, or tax incentive. 
+
+(3) 
+The grant or denial of a license in the nature of a variance or exemption from a law. 
+
+(4) 
+The determination of tax due or other liability. 
+
+(5) 
+A determination of status. 
+
+(6) 
+Any order that does not impose a sanction or terminate a legal right, duty, privilege, immunity, or other legal interest. 
+
+
+(b) When an agency issues an order described in subsection (a), the agency shall give a written notice of the order to the following persons: 
+(1) 
+Each person to whom the order is specifically directed. 
+
+(2) 
+Each person to whom a law requires notice to be given. 
+
+(3) 
+Each competitor who has applied to the agency for a mutually exclusive license, if issuance is the subject of the order and the competitor's application has not been denied in an order for which all rights to judicial review have been waived or exhausted. 
+
+(4) 
+Each person who has provided the agency with a written request for notification of the order, if the request: 
+
+(A) 
+describes the subject of the order with reasonable particularity; and 
+
+(B) 
+is delivered to the agency at least seven (7) days before the day that notice is given under this section. 
+
+
+
+(5) 
+Each person who has a substantial and direct proprietary interest in the subject of the order. 
+
+(6) 
+Each person whose absence as a party in the proceeding concerning the order would deny another party complete relief in the proceeding or who claims an interest related to the subject of the order and is so situated that the disposition of the matter, in the person's absence, may: 
+
+(A) 
+as a practical matter impair or impede the person's ability to protect that interest; or 
+
+(B) 
+leave any other person who is a party to a proceeding concerning the order subject to a substantial risk of incurring multiple or otherwise inconsistent obligations by reason of the person's claimed interest. 
+
+
+
+
+A person who is entitled to notice under this subsection is not a party to any proceeding resulting from the grant of a petition for review under section 7 of this chapter unless the person is designated as a party in the record of the proceeding. 
+(c) 
+The notice required by subsection (a) must include the following: 
+
+(1) 
+A brief description of the order. 
+
+(2) 
+A brief explanation of the available procedures and the time limit for seeking administrative review of the order under section 7 of this chapter. 
+
+(3) 
+A brief explanation of how the person may obtain notices of any prehearing conferences, preliminary hearings, hearings, stays, and any orders disposing of the proceedings without intervening in the proceeding, if a petition for review is granted under section 7 of this chapter. 
+
+(4) 
+Any other information required by law. 
+
+
+
+(d) 
+An agency issuing an order under this section or conducting an administrative review of the order shall give notice of any: 
+
+(1) 
+prehearing conference; 
+
+(2) 
+preliminary hearing; 
+
+(3) 
+hearing; 
+
+(4) 
+stay; or 
+
+
+
+(5) 
+order disposing of all proceedings; concerning the order to a person notified under subsection (b) who requests these notices in the manner specified under subsection (c)(3). 
+
+(e) 
+If a statute requires an agency to solicit comments from the public in a nonevidentiary public hearing before issuing an order described by subsection (a), the agency shall announce at the opening and the close of the public hearing how a person may receive notice of the order under subsection (b)(4). 
+
+(f) 
+If a petition for review and a petition for stay of effectiveness of an order described in subsection (a) has not been filed, the order is effective fifteen (15) days (or any longer period during which a person may, by statute, seek administrative review of the order) after the order is served. If both a petition for review and a petition for stay of effectiveness are filed before the order becomes effective, any part of the order that is within the scope of the petition for stay is stayed for an additional fifteen (15) days. Any part of the order that is not within the scope of the petition is not stayed. The order takes effect regardless of whether the persons described by subsection (b)(5) or (b)(6) have been served. An agency shall make a good faith effort to identify and notify these persons, and the agency has the burden of persuasion that it has done so. The agency may request that the applicant for the order assist in the identification of these persons. Failure to notify any of these persons is not grounds for invalidating an order, unless an unnotified person is substantially prejudiced by the lack of notice. The burden of persuasion as to substantial prejudice is on the unnotified person. 
+
+(g) 
+If a timely and sufficient application has been made for renewal of a license with reference to any activity of a continuing nature and review is granted under section 7 of this chapter, the existing license does not expire until the agency has disposed of a proceeding under this chapter concerning the renewal, unless a statute other than this article provides otherwise. This subsection does not preclude an agency from issuing, under IC 4-21.5-4, an emergency or other temporary order with respect to the license. 
+
+(h) 
+On the motion of any party or other person having a pending petition for intervention in the proceeding, an administrative law judge shall, as soon as practicable, conduct a preliminary hearing to determine whether the order should be stayed. The burden of proof in the preliminary hearing is on the person seeking the stay. The administrative law judge may stay the order in whole or in part. The order concerning the stay may be issued before or after the order described in subsection (a) becomes effective. The resulting order concerning the stay shall be served on the parties, any person who has a pending petition for intervention in the proceeding, and any person who has requested notice under subsection (d). It must include a statement of the facts and law on which it is based. 
+
+
+As added by P.L.18-1986, SEC.1. Amended by P.L.35-1987, SEC.4. 
+
+IC 4-21.5-3-6 Notice required; persons who must receive notice; contents; effective date; stay, preliminary hearing, and resulting order 
+Sec. 6. (a) Notice shall be given under this section concerning the following: 
+(1) 
+A safety order under IC 22-8-1.1. 
+
+(2) 
+Any order that: 
+
+(A) 
+imposes a sanction on a person or terminates a legal right, duty, privilege, immunity, or other legal interest of a person; 
+
+(B) 
+is not described in section 4 or 5 of this chapter or IC 4-21.5-4; and 
+
+(C) 
+by statute becomes effective without a proceeding under this chapter if there is no request for a review of the order within a specified period after the order is issued or served. 
+
+
+
+(3) 
+A notice of program reimbursement or equivalent determination or other notice regarding a hospital's reimbursement issued by the office of Medicaid policy and planning or by a contractor of the office of Medicaid policy and planning regarding a hospital's year end cost settlement. 
+
+(4) 
+A determination of audit findings or an equivalent determination by the office of Medicaid policy and planning or by a contractor of the office of Medicaid policy and planning arising from a Medicaid postpayment or concurrent audit of a hospital's Medicaid claims. 
+
+(5) 
+A license suspension or revocation under: 
+
+(A) 
+IC 24-4.4-2; 
+
+(B) 
+IC 24-4.5-3; 
+
+(C) 
+IC 28-1-29; 
+
+(D) 
+IC 28-7-5; 
+
+(E) 
+IC 28-8-4; or 
+
+(F) 
+IC 28-8-5. 
+
+
+
+(6) 
+An order issued by the secretary or the secretary's designee against providers regulated by the division of aging or the bureau of developmental disabilities services and not licensed by the state department of health under IC 16-27 or IC 16-28. 
+
+
+(b) 
+When an agency issues an order described by subsection (a), the agency shall give notice to the following persons: 
+
+(1) Each person to whom the order is specifically directed. 
+
+(2) 
+Each person to whom a law requires notice to be given. A person who is entitled to notice under this subsection is not a party to any proceeding resulting from the grant of a petition for review under section 7 of this chapter unless the person is designated as a party in the record of the proceeding. 
+
+(c) The notice must include the following: 
+(1) 
+A brief description of the order. 
+
+(2) 
+A brief explanation of the available procedures and the time limit for seeking administrative review of the order under 
+
+section 7 of this chapter. 
+
+(3) 
+Any other information required by law. 
+
+
+
+(d) 
+An order described in subsection (a) is effective fifteen (15) days after the order is served, unless a statute other than this article specifies a different date or the agency specifies a later date in its order. This subsection does not preclude an agency from issuing, under IC 4-21.5-4, an emergency or other temporary order concerning the subject of an order described in subsection (a). 
+
+
+(e) If a petition for review of an order described in subsection (a) is filed within the period set by section 7 of this chapter and a petition for stay of effectiveness of the order is filed by a party or another person who has a pending petition for intervention in the proceeding, an administrative law judge shall, as soon as practicable, conduct a preliminary hearing to determine whether the order should be stayed in whole or in part. The burden of proof in the preliminary hearing is on the person seeking the stay. The administrative law judge may stay the order in whole or in part. The order concerning the stay may be issued after an order described in subsection (a) becomes effective. The resulting order concerning the stay shall be served on the parties and any person who has a pending petition for intervention in the proceeding. It must include a statement of the facts and law on which it is based. As added by P.L.18-1986, SEC.1. Amended by P.L.35-1987, SEC.5; P.L.42-1995, SEC.2; P.L.80-1998, SEC.1; P.L.35-2010, SEC.1; P.L.153-2011, SEC.1; P.L.186-2015, SEC.1; P.L.35-2016, SEC.1. 
+
+IC 4-21.5-3-7 Review; petition; denial of petition; preliminary hearing 
+Sec. 7. (a) To qualify for review of a personnel action to which IC 4-15-2.2 applies, a person must comply with IC 4-15-2.2-42. To qualify for review of any other order described in section 4, 5, or 6 of this chapter, a person must petition for review in a writing that does the following: 
+(1) 
+States facts demonstrating that: 
+
+(A) 
+the petitioner is a person to whom the order is specifically directed; 
+
+(B) 
+the petitioner is aggrieved or adversely affected by the order; or 
+
+(C) 
+the petitioner is entitled to review under any law. 
+
+
+
+(2) 
+Includes, with respect to determinations of notice of program reimbursement and audit findings described in section 6(a)(3) and 6(a)(4) of this chapter, a statement of issues that includes: 
+
+(A) 
+the specific findings, action, or determination of the office of Medicaid policy and planning or of a contractor of the office of Medicaid policy and planning from which the provider is appealing; 
+
+(B) 
+the reason the provider believes that the finding, action, 
+
+or determination of the office of Medicaid policy and planning or of a contractor of the office of Medicaid policy and planning was in error; and 
+
+(C) 
+with respect to each finding, action, or determination of the office of Medicaid policy and planning or of a contractor of the office of Medicaid policy and planning, the statutes or rules that support the provider's contentions of error. 
+
+
+
+
+Not more than thirty (30) days after filing a petition for review under this section, and upon a finding of good cause by the administrative law judge, a person may amend the statement of issues contained in a petition for review to add one (1) or more additional issues. 
+(3) Is filed: 
+(A) 
+with respect to an order described in section 4, 5, 6(a)(1), 6(a)(2), or 6(a)(5) of this chapter, with the ultimate authority for the agency issuing the order within fifteen (15) days after the person is given notice of the order or any longer period set by statute; or 
+
+(B) 
+with respect to a determination described in section 6(a)(3) or 6(a)(4) of this chapter, with the office of Medicaid policy and planning not more than one hundred eighty (180) days after the hospital is provided notice of the determination. 
+
+
+The issuance of an amended notice of program reimbursement by the office of Medicaid policy and planning does not extend the time within which a hospital must file a petition for review from the original notice of programreimbursement under clause (B), except for matters that are the subject of the amended notice of program reimbursement. 
+If the petition for review is denied, the petition shall be treated as a petition for intervention in any review initiated under subsection (d). 
+(b) 
+If an agency denies a petition for review under subsection (a) and the petitioner is not allowed to intervene as a party in a proceeding resulting from the grant of the petition for review of another person, the agency shall serve a written notice on the petitioner that includes the following: 
+
+(1) 
+A statement that the petition for review is denied. 
+
+(2) 
+A brief explanation of the available procedures and the time limit for seeking administrative review of the denial under subsection (c). 
+
+
+
+(c) 
+An agency shall assign an administrative law judge to conduct a preliminary hearing on the issue of whether a person is qualified under subsection (a) to obtain review of an order when a person requests reconsideration of the denial of review in a writing that: 
+
+(1) 
+states facts demonstrating that the person filed a petition for review of an order described in section 4, 5, or 6 of this chapter; 
+
+(2) 
+states facts demonstrating that the person was denied review without an evidentiary hearing; and 
+
+(3) 
+is filed with the ultimate authority for the agency denying the review within fifteen (15) days after the notice required by subsection (b) was served on the petitioner. 
+
+
+
+
+Notice of the preliminary hearing shall be given to the parties, each person who has a pending petition for intervention in the proceeding, and any other person described by section 5(d) of this chapter. The resulting order must be served on the persons to whom notice of the preliminary hearing must be given and include a statement of the facts and law on which it is based. 
+(d) If a petition for review is granted, the petitioner becomes a party to the proceeding and the agency shall assign the matter to an administrative law judge or certify the matter to another agency for the assignment of an administrative law judge (if a statute transfers responsibility for a hearing on the matter to another agency). The agency granting the administrative review or the agency to which the matter is transferred may conduct informal proceedings to settle the matter to the extent allowed by law. As added by P.L.18-1986, SEC.1. Amended by P.L.35-1987, SEC.6; P.L.42-1995, SEC.3; P.L.2-1997, SEC.11; P.L.222-2005, SEC.22; P.L.213-2007, SEC.1; P.L.217-2007, SEC.1; P.L.6-2012, SEC.18. 
+
+IC 4-21.5-3-8 Sanctions; temporary orders 
+Sec. 8. (a) An agency may issue a sanction or terminate a legal right, duty, privilege, immunity, or other legal interest not described by section 4, 5, or 6 of this chapter only after conducting a proceeding under this chapter. However, this subsection does not preclude an agency from issuing, under IC 4-21.5-4, an emergency or other temporary order concerning the subject of the proceeding. 
+(b) 
+When an agency seeks to issue an order that is described by subsection (a), the agency shall serve a complaint upon: 
+
+(1) each person to whom any resulting order will be specifically directed; and 
+
+(2) 
+any other person required by law to be notified. A person notified under this subsection is not a party to the proceeding unless the person is a person against whom any resulting order will be specifically directed or the person is designated by the agency as a party in the record of the proceeding. 
+
+(c) 
+The complaint required by subsection (b) must include the following: 
+
+(1) 
+A short, plain statement showing that the pleader is entitled to an order. 
+
+(2) 
+A demand for the order that the pleader seeks. 
+
+
+
+
+As added by P.L.18-1986, SEC.1. 
+
+IC 4-21.5-3-8.5 Sharing administrative law judges among agencies; information concerning administrative law judges 
+Sec. 8.5. (a) An agency may share an administrative law judge with another agency: 
+(1) 
+to avoid bias, prejudice, interest in the outcome, or another conflict of interest; 
+
+(2) 
+if a party requests a change of administrative law judge; 
+
+(3) 
+to ease scheduling difficulties; or 
+
+
+(4) 
+for another good cause. An agency may adopt rules under IC 4-22-2 to implement this subsection. 
+
+(b) 
+To the extent practicable, an administrative law judge must have expertise in the area of law being adjudicated. 
+
+
+(c) An agency shall post on the agency's Internet web site the: 
+(1) 
+name; 
+
+(2) 
+salary and other remuneration; and 
+
+
+(3) relevant professional experience; of every person who serves as an administrative law judge for the agency. As added by P.L.72-2014, SEC.3. 
+
+IC 4-21.5-3-9 Ultimate authority of agency; acting as or designating an administrative judge; disqualification; procedures 
+Sec. 9. (a) Except to the extent that a statute other than this article limits an agency's discretion to select an administrative law judge, the ultimate authority for an agency may: 
+(1) 
+act as an administrative law judge; 
+
+(2) 
+designate one (1) or more members of the ultimate authority (if the ultimate authority is a panel of individuals) to act as an administrative law judge; or 
+
+(3) 
+designate one (1) or more: 
+
+(A) 
+attorneys licensed to practice law in Indiana; or 
+
+(B) 
+persons who served as administrative law judges for a state agency before January 1, 2014; 
+
+
+
+
+to act as an administrative law judge. A person designated under subdivision (3) is not required to be an employee of the agency. A designation under subdivision (2) or (3) may be made in advance of the commencement of any particular proceeding for a generally described class of proceedings or may be made for a particular proceeding. A general designation may provide procedures for the assignment of designated individuals to particular proceedings. 
+(b) 
+An agency may not knowingly assign an individual to serve alone or with others as an administrative law judge who is subject to disqualification under this chapter. 
+
+(c) 
+If the judge believes that the judge's impartiality might reasonably be questioned, or believes that the judge's personal bias, prejudice, or knowledge of a disputed evidentiary fact might influence the decision, an individual assigned to serve alone or with 
+
+
+others as an administrative law judge shall: 
+(1) 
+withdraw as the administrative law judge; or 
+
+(2) 
+inform the parties of the potential basis for disqualification, place a brief statement of this basis on the record of the proceeding, and allow the parties an opportunity to petition for disqualification under subsection (d). 
+
+
+(d) 
+Any party to a proceeding may petition for the disqualification of an individual serving alone or with others as an administrative law judge upon discovering facts establishing grounds for disqualification under this chapter. The administrative law judge assigned to the proceeding shall determine whether to grant the petition, stating facts and reasons for the determination. If the administrative law judge ruling on the disqualification issue is not the ultimate authority for the agency, the party petitioning for disqualification may petition the ultimate authority in writing for review of the ruling within ten (10) days after notice of the ruling is served. The ultimate authority shall conduct proceedings described by section 28 of this chapter to review the petition and affirm, modify, or dissolve the ruling within thirty (30) days after the petition is filed. A determination by the ultimate authority under this subsection is a final order subject to judicial review under IC 4-21.5-5. 
+
+(e) 
+If a substitute is required for an administrative law judge who is disqualified or becomes unavailable for any other reason, the substitute must be appointed in accordance with subsection (a). 
+
+(f) 
+Any action taken by a duly appointed substitute for a disqualified or unavailable administrative law judge is as effective as if taken by the latter. 
+
+(g) 
+If there is a reasonable likelihood that the ultimate authority will be called upon to: 
+
+
+(1) review; or 
+(2) issue a final order with respect to; a matter pending before or adjudicated by an administrative law judge, the provisions of section 11 of this chapter that apply to an administrative law judge or to a person communicating with an administrative law judge apply to a member of the ultimate authority and to a person communicating with a member of the ultimate authority. As added by P.L.18-1986, SEC.1. Amended by P.L.35-1987, SEC.7; P.L.72-2014, SEC.4. 
+
+IC 4-21.5-3-10 Disqualification of administrative law judge 
+Sec. 10. (a) Any individual serving or designated to serve alone or with others as an administrative law judge is subject to disqualification for: 
+(1) 
+bias, prejudice, or interest in the outcome of a proceeding; 
+
+(2) 
+failure to dispose of the subject of a proceeding in an 
+
+orderly and reasonably prompt manner after a written request by a party; 
+
+(3) 
+unless waived or extended with the written consent of all parties or for good cause shown, failure to issue an order not later than ninety (90) days after the latest of: 
+
+(A) 
+the filing of a motion to dismiss or a motion for summary judgment under section 23 of this chapter that is filed after June 30, 2011; 
+
+(B) 
+the conclusion of a hearing that begins after June 30, 2011; or 
+
+(C) 
+the completion of any schedule set for briefing or for submittal of proposed findings of fact and conclusions of law for a disposition under clauses (A) or (B); or 
+
+
+
+
+(4) 
+any cause for which a judge of a court may be disqualified. Nothing in this subsection prohibits an individual who is an employee of an agency from serving as an administrative law judge. 
+
+(b) 
+This subsection does not apply to a proceeding concerning a regulated occupation (as defined in IC 25-1-7-1), except for a proceeding concerning a water well driller (as described in IC 25-39-3) or an out of state mobile health care entity regulated by the state department of health. An individual who is disqualified under subsection (a)(2) or (a)(3) shall provide the parties a list of at least three (3) special administrative law judges who meet the requirements of: 
+
+(1) 
+IC 4-21.5-7-6, if the case is pending in the office of environmental adjudication; 
+
+(2) 
+IC 14-10-2-2, if the case is pending before the division of hearings of the natural resources commission; or 
+
+(3) 
+any other statute or rule governing qualification to serve an 
+
+
+
+
+agency other than those described in subdivision (1) or (2). Subject to subsection (c), the parties may agree to the selection of one (1) individual from the list. 
+(c)
+ If the parties do not agree to the selection of an individual as provided in subsection (b) not later than ten (10) days after the parties are provided a list of judges under subsection (b), a special administrative law judge who meets the requirements of subsection 
+
+(b) 
+shall be selected under the procedure set forth in Trial Rule 79(D), 79(E), or 79(F). 
+
+
+As added by P.L.18-1986, SEC.1. Amended by P.L.32-2011, SEC.3. 
+
+IC 4-21.5-3-11 Ex parte communications; violations 
+Sec. 11. (a) Except as provided in subsection (b) or unless required for the disposition of ex parte matters specifically authorized by statute, an administrative law judge serving in a proceeding may not communicate, directly or indirectly, regarding any issue in the proceeding while the proceeding is pending, with: 
+(1) 
+any party; 
+
+(2) 
+any individual who has a direct or indirect interest in the outcome of the proceeding; 
+
+(3) 
+any individual who presided at a previous stage of the proceeding; or 
+
+(4) 
+any individual who is prohibited from assisting the 
+
+
+administrative law judge under section 13 of this chapter; without notice and opportunity for all parties to participate in the communication. 
+(b) 
+A member of a multimember panel of administrative law judges may communicate with other members of the panel regarding a matter pending before the panel, and any administrative law judge may receive aid from staff assistants. However, a staff assistant may not communicate to an administrative law judge any: 
+
+(1) 
+ex parte communications of a type that the administrative law judge would be prohibited from receiving under subsection (a); or 
+
+(2) 
+information that would furnish, augment, diminish, or modify the evidence in the record. 
+
+
+
+(c) 
+Unless required for the disposition of ex parte matters specifically authorized by statute, a person described by subsection (a)(1), (a)(2), (a)(3), or (a)(4) may not communicate, directly or indirectly, in connection with any issue in that proceeding while the proceeding is pending, with any person serving as administrative law judge without notice and opportunity for all parties to participate in the communication. 
+
+(d) 
+If, before serving as administrative law judge in a proceeding, an individual receives an ex parte communication of a type that would not properly be received while serving, the individual, promptly after starting to serve, shall disclose the communication in the manner prescribed in subsection (e). 
+
+(e) 
+An administrative law judge who receives an ex parte communication in violation of this section shall: 
+
+(1) 
+place on the record of the pending matter all written communications received, all written responses to the communications, and a memorandum stating the substance of all oral communications received, all responses made, and the identity of each individual from whom the administrative law judge received an ex parte communication; and 
+
+(2) 
+advise all parties that these matters have been placed on the 
+
+
+
+
+record. Any person described by subsection (a)(1), (a)(2), (a)(3), or (a)(4) shall be allowed to rebut a charge of wrongful ex parte communication upon requesting the opportunity for rebuttal within fifteen (15) days after notice of the communication. 
+(f) 
+If necessary to eliminate the effect of an ex parte communication received in violation of this section, an administrative law judge who receives the communication may be disqualified and the portions of the record pertaining to the 
+
+communication may be corrected, modified, or preserved by protective order. 
+
+(g) 
+A violation of this section is subject to the sanctions under sections 36 and 37 of this chapter. 
+
+
+As added by P.L.18-1986, SEC.1. Amended by P.L.35-1987, SEC.8. 
+
+IC 4-21.5-3-12 Administrative law judge; prohibited acts; disqualification 
+Sec. 12. An administrative law judge who: 
+(1) 
+comments publicly, except as to hearing schedules or procedures, about pending or impending proceedings; or 
+
+(2) 
+engages in financial or business dealings that tend to: 
+
+(A) 
+reflect adversely on the administrative law judge's impartiality; 
+
+(B) 
+interfere with the proper performance of the administrative law judge's duties; 
+
+(C) 
+exploit the administrative law judge's position; or 
+
+(D) 
+involve the administrative law judge in frequent financial or business dealings with attorneys or other persons who are likely to come before the administrative law judge; 
+
+
+
+
+is subject to disqualification. A violation of this section is subject to the sanctions under sections 36 and 37 of this chapter. 
+As added by P.L.18-1986, SEC.1. 
+
+IC 4-21.5-3-13 Disqualification; involvement in preadjudicative stage 
+Sec. 13. (a) An individual who has served as investigator, prosecutor, or advocate in a proceeding or in its preadjudicative stage may not serve as an administrative law judge or assist or advise the administrative law judge in the same proceeding. 
+(b) 
+An individual who is subject to the authority, direction, or discretion of an individual who has served as investigator, prosecutor, or advocate in a proceeding or in its preadjudicative stage may not serve as an administrative law judge or assist or advise the administrative law judge in the same proceeding. 
+
+(c) 
+An individual who has made a determination of probable cause or other equivalent preliminary determination in a proceeding may serve as an administrative law judge or assist or advise the administrative law judge in the same proceeding, unless a party demonstrates grounds for disqualification under section 10 of this chapter. 
+
+(d) 
+An individual may serve as an administrative law judge or a person presiding under sections 28, 29, 30, and 31 of this chapter at successive stages of the same proceeding, unless a party demonstrates grounds for disqualification under section 10 of this chapter. 
+
+(e) 
+A violation of this section is subject to the sanctions under sections 36 and 37 of this chapter. 
+
+
+As added by P.L.18-1986, SEC.1. 
+
+IC 4-21.5-3-14 Record; hearing on motion; burden of proof; standard of review 
+Sec. 14. (a) An administrative law judge conducting a proceeding shall keep a record of the administrative law judge's proceedings under this article. 
+(b) 
+If a motion is based on facts not otherwise appearing in the record for the proceeding, the administrative law judge may hear the matter on affidavits presented by the respective parties or the administrative law judge may direct that the matter be heard wholly or partly on oral testimony or depositions. 
+
+(c) 
+At each stage of the proceeding, the agency or other person requesting that an agency take action or asserting an affirmative defense specified by law has the burden of persuasion and the burden of going forward with the proof of the request or affirmative defense. Before the hearing on which the party intends to assert it, a party shall, to the extent possible, disclose any affirmative defense specified by law on which the party intends to rely. If a prehearing conference is held in the proceeding, a party notified of the conference shall disclose the party's affirmative defense in the conference. 
+
+
+(d) The proceedings before an administrative law judge are de novo. As added by P.L.18-1986, SEC.1. Amended by P.L.35-1987, SEC.9; P.L.32-2011, SEC.4. 
+
+IC 4-21.5-3-15 Participation in proceeding 
+Sec. 15. (a) Any party may participate in a proceeding in person or, if the party is not an individual or is incompetent to participate, by a duly authorized representative. 
+(b) Whether or not participating in person, any party may be advised and represented at the party's own expense by counsel or, unless prohibited by law, by another representative. As added by P.L.18-1986, SEC.1. Amended by P.L.33-1989, SEC.3. 
+
+IC 4-21.5-3-16 Interpreters 
+Sec. 16. (a) A person who: 
+(1) cannot speak or understand the English language or who because of hearing, speaking, or other impairment has difficulty in communicating with other persons; and 
+(2) 
+is a party or witness in any proceeding under this article; is entitled to an interpreter to assist the person throughout the proceeding under this article. 
+
+(b) 
+The interpreter may be retained by the person or may be appointed by the agency before which the proceeding is pending. If 
+
+an interpreter is appointed by the agency, the fee for the services of the interpreter shall be set by the agency. The fee shall be paid from any funds available to the agency or be paid in any other manner ordered by the agency. 
+
+(c) 
+Any agency may inquire into the qualifications and integrity of any interpreter and may disqualify any person from serving as an interpreter. 
+
+(d) 
+Every interpreter for another person in a proceeding shall take the following oath: 
+
+
+Do you affirm, under penalties of perjury, that you will justly, truly, and impartially interpret to _______ the oath about to be administered to him (or her), the questions that may be asked him (or her), and the answers that he (or she) shall give to the questions, relative to the cause now under consideration before this agency? 
+(e) IC 35-44.1-2-1 concerning perjury applies to an interpreter. As added by P.L.18-1986, SEC.1. Amended by P.L.126-2012, SEC.13; P.L.215-2016, SEC.89. 
+
+IC 4-21.5-3-17 Opportunity to file documents; copies 
+Sec. 17. (a) The administrative law judge, at appropriate stages of a proceeding, shall give all parties full opportunity to file pleadings, motions, and objections and submit offers of settlement. 
+(b) The administrative law judge, at appropriate stages of a proceeding, may give all parties full opportunity to file briefs, proposed findings of fact, and proposed orders. 
+(c) A party shall serve copies of any filed item on all parties. 
+(d) The administrative law judge shall serve copies of all notices, orders, and other papers generated by the administrative law judge on all parties. The administrative law judge shall give notice of preliminary hearings, prehearing conferences, hearings, stays, and orders disposing of the proceeding to persons described by section 5(d) of this chapter. As added by P.L.18-1986, SEC.1. 
+
+IC 4-21.5-3-18 Prehearing conference; notice 
+Sec. 18. (a) The administrative law judge for the hearing, subject to the agency's rules, may, on the administrative law judge's own motion, and shall, on the motion of a party, conduct a prehearing conference. The administrative law judge may deny a motion for a prehearing conference if the administrative law judge has previously conducted a prehearing conference in the proceeding. 
+(b) 
+This section and section 19 of this chapter apply if the conference is conducted. 
+
+(c) 
+The administrative law judge for the prehearing conference shall set the time and place of the conference and give reasonable written notice to the following: 
+
+(1) 
+All parties. 
+
+(2) 
+All persons who have filed written petitions to intervene in the matter. 
+
+(3) 
+All persons entitled to notice under any law. 
+
+
+
+(d) 
+The initial prehearing conference notice in a proceeding must include the following: 
+
+(1) 
+The names and mailing addresses of all known parties and other persons to whom notice is being given by the administrative law judge. 
+
+(2) 
+The names and mailing addresses of all publications used to provide notice under this section. 
+
+(3) 
+The name, official title, and mailing address of any counsel or employee who has been designated to appear for the agency and a telephone number through which the counsel or employee can be reached. 
+
+(4) 
+The official file or other reference number, the name of the proceeding, and a general description of the subject matter. 
+
+(5) 
+A statement of the time, place, and nature of the prehearing conference. 
+
+(6) 
+A statement of the legal authority and jurisdiction under which the prehearing conference and the hearing are to be held. 
+
+(7) 
+The name, official title, and mailing address of the administrative law judge for the prehearing conference and a telephone number through which information concerning hearing schedules and procedures may be obtained. 
+
+(8) 
+A statement that a party who fails to attend or participate in a prehearing conference, hearing, or other later stage of the proceeding may be held in default or have a proceeding dismissed under section 24 of this chapter. 
+
+
+
+(e) 
+Any subsequent prehearing conference notice in the proceeding may omit the information described in subsections (d)(1), (d)(2), (d)(3), (d)(6), and (d)(8). 
+
+(f) 
+Any notice under this section may include any other matters that the administrative law judge considers desirable to expedite the proceedings. 
+
+
+As added by P.L.18-1986, SEC.1. Amended by P.L.35-1987, SEC.10. 
+
+IC 4-21.5-3-19 Prehearing conference; electronic means; matters considered; prehearing order on pleadings 
+Sec. 19. (a) This section and section 18 of this chapter apply to prehearing conferences. 
+(b) 
+To expedite a decision on pending motions and other issues, the administrative law judge may conduct all or part of the prehearing conference by telephone, television, or other electronic means if each participant in the conference has an opportunity: 
+
+(1) 
+to participate in; 
+
+(2) 
+to hear; and 
+
+
+
+(3) 
+if technically feasible, to see; the entire proceeding while it is taking place. 
+
+(c) 
+The administrative law judge shall conduct the prehearing conference, as may be appropriate, to deal with such matters as the following: 
+
+(1) 
+Resolution of the issues in the proceeding under section 23 of this chapter. 
+
+(2) 
+Exploration of settlement possibilities. 
+
+(3) 
+Preparation of stipulations. 
+
+(4) 
+Clarification of issues. 
+
+(5) 
+Rulings on identity and limitation of the number of witnesses. 
+
+(6) 
+Objections to proffers of evidence. 
+
+(7) 
+A determination of the extent to which direct evidence, rebuttal evidence, or cross-examination will be presented in written form. 
+
+(8) 
+The order of presentation of evidence and cross-examination. 
+
+(9) 
+Rulings regarding issuance of subpoenas, discovery orders, and protective orders. 
+
+(10) 
+Such other matters as will promote the orderly and prompt 
+
+
+
+
+conduct of the hearing. The administrative law judge shall issue a prehearing order incorporating the matters determined at the prehearing conference. 
+(d) If a prehearing conference is not held, the administrative law judge for the hearing may issue a prehearing order, based on the pleadings, to regulate the conduct of the proceedings. As added by P.L.18-1986, SEC.1. 
+
+IC 4-21.5-3-20 Hearing; time and place; notice 
+Sec. 20. (a) The administrative law judge for the hearing shall set the time and place of the hearing and give reasonable written notice to all parties and to all persons who have filed written petitions to intervene in the matter. Unless a shorter notice is required to comply with any law or is stipulated by all parties and persons filing written requests for intervention, an agency shall give at least five (5) days notice of the hearing. 
+(b) 
+The notice must include a copy of any prehearing order rendered in the matter. 
+
+(c) 
+To the extent not included in a prehearing order accompanying it the initial hearing notice in a proceeding must include the following: 
+
+(1) 
+The names and mailing addresses of all parties and other persons to whom notice is being given by the administrative law judge. 
+
+(2) 
+The name, official title, and mailing address of any counsel or employee who has been designated to appear for the agency 
+
+and a telephone number through which the counsel or employee can be reached. 
+
+(3) 
+The official file or other reference number, the name of the proceeding, and a general description of the subject matter. 
+
+(4) 
+A statement of the time, place, and nature of the hearing. 
+
+(5) 
+A statement of the legal authority and jurisdiction under which the hearing is to be held. 
+
+(6) 
+The name, official title, and mailing address of the administrative law judge and a telephone number through which information concerning hearing schedules and procedures may be obtained. 
+
+(7) 
+A statement of the issues involved and, to the extent known to the administrative law judge, of the matters asserted by the parties. 
+
+(8) 
+A statement that a party who fails to attend or participate in a prehearing conference, hearing, or other later stage of the proceeding may be held in default or have a proceeding dismissed under section 24 of this chapter. 
+
+
+
+(d) 
+Subsequent hearing notices in the proceeding may omit the information described in subsections (c)(1), (c)(2), (c)(5), and (c)(8). 
+
+(e) 
+Any notice under this section may include any other matters the administrative law judge considers desirable to expedite the proceedings. 
+
+(f) 
+The administrative law judge shall give notice to persons other than parties and petitioners for intervention who are entitled to notice under any law. Notice under this subsection may include all types of information provided in subsections (a) through (e) or may consist of a brief statement indicating: 
+
+(1) 
+the subject matter, parties, time, place, and nature of the hearing; 
+
+(2) 
+the manner in which copies of the notice to the parties may be inspected and copied; 
+
+(3) 
+the name of the administrative law judge; and 
+
+(4) 
+a telephone number through which information concerning proceeding hearing schedules and procedures may be obtained. 
+
+
+
+
+As added by P.L.18-1986, SEC.1. Amended by P.L.35-1987, SEC.11. 
+
+IC 4-21.5-3-21 Petition for intervention 
+Sec. 21. (a) Before the beginning of the hearing on the subject of the proceeding, the administrative law judge shall grant a petition for intervention in a proceeding and identify the petitioner in the record of the proceeding as a party if: 
+(1) the petition: 
+(A) 
+is submitted in writing to the administrative law judge, with copies mailed to all parties named in the record of the proceeding; and 
+
+(B) 
+states facts demonstrating that a statute gives the 
+
+
+petitioner an unconditional right to intervene in the proceeding; or 
+(2) the petition: 
+(A) 
+is submitted in writing to the administrative law judge, with copies mailed to all parties named in the record of the proceeding, at least three (3) days before the hearing; and 
+
+(B) 
+states facts demonstrating that the petitioner is aggrieved or adversely affected by the order or a statute gives the petitioner a conditional right to intervene in the proceeding. 
+
+
+(b) 
+The administrative law judge, at least twenty-four (24) hours before the beginning of the hearing, shall issue an order granting or denying each pending petition for intervention. 
+
+(c) 
+After the beginning of the hearing on the subject of the proceeding, but before the close of evidence in the hearing, anyone may be permitted to intervene in the proceeding if: 
+
+(1) 
+a statute confers a conditional right to intervene or an applicant's claim or defense and the main action have a question of law or fact in common; and 
+
+(2) 
+the administrative law judge determines that the interests of justice and the orderly and prompt conduct of the proceedings will not be impaired by allowing the intervention. 
+
+
+
+
+In exercising its discretion, the administrative law judge shall consider whether the intervention will unduly delay or prejudice the adjudication of the legal interests of any of the parties. 
+(d) An order granting or denying a petition for intervention must specify any condition and briefly state the reasons for the order. The administrative law judge may modify the order at any time, stating the reasons for the modification. The administrative law judge shall promptly give notice of an order granting, denying, or modifying intervention to the petitioner for intervention and to all parties. 
+As added by P.L.18-1986, SEC.1. Amended by P.L.35-1987, SEC.12. 
+
+IC 4-21.5-3-22 Administrative orders; enforcement 
+Sec. 22. (a) The administrative law judge at the request of any party or an agency shall, and upon the administrative law judge's own motion may, issue: 
+(1) 
+subpoenas; 
+
+(2) 
+discovery orders; and 
+
+
+(3) 
+protective orders; in accordance with the rules of procedure governing discovery, depositions, and subpoenas in civil actions in the courts. 
+
+(b) 
+The party seeking the order shall serve the order in accordance with these rules of procedure. If ordered by the administrative law judge, the sheriff in the county in which the order is to be served shall serve the subpoena, discovery order, or protective order. 
+
+(c) 
+Subpoenas and orders issued under this section may be enforced under IC 4-21.5-6. 
+
+
+As added by P.L.18-1986, SEC.1. 
+
+IC 4-21.5-3-23 Summary judgment 
+Sec. 23. (a) A party may, at any time after a matter is assigned to an administrative law judge, move for a summary judgment in the party's favor as to all or any part of the issues in a proceeding. 
+(b) 
+Except as otherwise provided in this section, an administrative law judge shall consider a motion filed under subsection (a) as would a court that is considering a motion for summary judgment filed under Trial Rule 56 of the Indiana Rules of Trial Procedure. 
+
+(c) 
+Service of the motion and any response to the motion, including supporting affidavits, shall be performed as provided in this article. 
+
+
+(d) Sections 28 and 29 of this chapter apply to an order granting summary judgment that disposes of all issues in a proceeding. As added by P.L.18-1986, SEC.1. Amended by P.L.35-1987, SEC.13; P.L.5-1988, SEC.27; P.L.32-2011, SEC.5. 
+
+IC 4-21.5-3-24 Default or dismissal 
+Sec. 24. (a) At any stage of a proceeding, if a party fails to: 
+(1) 
+satisfy the requirements of section 7(a) of this chapter; 
+
+(2) 
+file a responsive pleading required by statute or rule; 
+
+(3) 
+attend or participate in a prehearing conference, hearing, or other stage of the proceeding; or 
+
+(4) 
+take action on a matter for a period of sixty (60) days, if the 
+
+
+party is responsible for taking the action; the administrative law judge may serve upon all parties written notice of a proposed default or dismissal order, including a statement of the grounds. 
+(b) 
+Within seven (7) days after service of a proposed default or dismissal order, the party against whom it was issued may file a written motion requesting that the proposed default order not be imposed and stating the grounds relied upon. During the time within which a party may file a written motion under this subsection, the administrative law judge may adjourn the proceedings or conduct them without the participation of the party against whom a proposed default order was issued, having due regard for the interest of justice and the orderly and prompt conduct of the proceedings. 
+
+(c) 
+If the party has failed to file a written motion under subsection (b), the administrative law judge shall issue the default or dismissal order. If the party has filed a written motion under subsection (b), the administrative law judge may either enter the order or refuse to enter the order. 
+
+(d) 
+After issuing a default order, the administrative law judge shall conduct any further proceedings necessary to complete the proceeding without the participation of the party in default and shall 
+
+
+determine all issues in the adjudication, including those affecting the defaulting party. The administrative law judge may conduct proceedings in accordance with section 23 of this chapter to resolve any issue of fact. 
+As added by P.L.18-1986, SEC.1. Amended by P.L.72-2014, SEC.5. 
+
+IC 4-21.5-3-25 Conduct of hearing; procedure 
+Sec. 25. (a) This section and section 26 of this chapter govern the conduct of any hearing held by an administrative law judge. 
+(b) 
+The administrative law judge shall regulate the course of the proceedings in conformity with any prehearing order and in an informal manner without recourse to the technical, common law rules of evidence applicable to civil actions in the courts. 
+
+(c) 
+To the extent necessary for full disclosure of all relevant facts and issues, the administrative law judge shall afford to all parties the opportunity to respond, present evidence and argument, conduct cross-examination, and submit rebuttal evidence, except as restricted by a limitation under subsection (d) or by the prehearing order. 
+
+(d) 
+The administrative law judge may, after a prehearing order is issued under section 19 of this chapter, impose conditions upon a party necessary to avoid unreasonably burdensome or repetitious presentations by the party, such as the following: 
+
+(1) 
+Limiting the party's participation to designated issues in which the party has a particular interest demonstrated by the petition. 
+
+(2) 
+Limiting the party's use of discovery, cross-examination, and other procedures so as to promote the orderly, prompt, and just conduct of the proceeding. 
+
+(3) 
+Requiring two (2) or more parties to combine their presentations of evidence and argument, cross-examination, discovery, and other participation in the proceedings. 
+
+
+
+
+If a person is allowed to intervene in the proceeding after the commencement of a hearing under this section, the administrative law judge may prohibit the intervener from recalling any witness who has been heard or reopening any matter that has been resolved, unless the intervener did not receive a notice required by this chapter or the intervener presents facts that demonstrate that fraud, perjury, or an abuse of discretion has occurred. Any proceedings conducted before the giving of a notice required by this chapter are voidable upon the motion of the party who failed to receive the notice. 
+(e) 
+The administrative law judge may administer oaths and affirmations and rule on any offer of proof or other motion. 
+
+(f) 
+The administrative law judge may give nonparties an opportunity to present oral or written statements. If the administrative law judge proposes to consider a statement by a nonparty, the judge shall give all parties an opportunity to challenge or rebut it and, on motion of any party, the judge shall require the 
+
+
+statement to be given under oath or affirmation. 
+(g) The administrative law judge shall have the hearing recorded at the agency's expense. The agency is not required, at its expense, to prepare a transcript, unless required to do so by law. Any party, at the party's expense, may cause a reporter approved by the agency to prepare a transcript from the agency's record, or cause additional recordings to be made during the hearing if the making of the additional recordings does not cause distraction or disruption. Notwithstanding IC 5-14-3-8, an agency may charge a person who requests that an agency provide a transcript (other than for judicial review under IC 4-21.5-5-13) the reasonable costs of preparing the transcript. As added by P.L.18-1986, SEC.1. 
+
+IC 4-21.5-3-26 Conduct of hearing; evidence 
+Sec. 26. (a) This section and section 25 of this chapter govern the conduct of any hearing conducted by an administrative law judge. Upon proper objection, the administrative law judge shall exclude evidence that is irrelevant, immaterial, unduly repetitious, or excludable on constitutional or statutory grounds or on the basis of evidentiary privilege recognized in the courts. In the absence of proper objection, the administrative law judge may exclude objectionable evidence. The administrative law judge may admit hearsay evidence. If not objected to, the hearsay evidence may form the basis for an order. However, if the evidence is properly objected to and does not fall within a recognized exception to the hearsay rule, the resulting order may not be based solely upon the hearsay evidence. 
+(b) 
+All testimony of parties and witnesses must be made under oath or affirmation. 
+
+(c) 
+Statements presented by nonparties in accordance with section 25 of this chapter may be received as evidence. 
+
+(d) 
+Any part of the evidence may be received in written form if doing so will expedite the hearing without substantial prejudice to the interests of any party. 
+
+(e) 
+Documentary evidence may be received in the form of a copy or excerpt. Upon request, parties shall be given an opportunity to compare the copy with the original if available. 
+
+(f)
+ Official notice may be taken of the following: 
+
+(1) 
+Any fact that could be judicially noticed in the courts. 
+
+(2) 
+The record of other proceedings before the agency. 
+
+(3) 
+Technical or scientific matters within the agency's specialized knowledge. 
+
+(4) 
+Codes or standards that have been adopted by an agency of the United States or this state. 
+
+
+
+(g)
+ Parties must be: 
+
+(1) 
+notified before or during the hearing, or before the issuance 
+
+of any order that is based in whole or in part on facts or material noticed under subsection (f), of the specific facts or material noticed, and the source of the facts or material noticed, including any staff memoranda and data; and 
+
+(2) 
+afforded an opportunity to contest and rebut the facts or material noticed under subsection (f). 
+
+
+
+
+
+
+As added by P.L.18-1986, SEC.1. 
+
+IC 4-21.5-3-27 Final orders; findings of fact and conclusions of law 
+Sec. 27. (a) If the administrative law judge is the ultimate authority for the agency, the ultimate authority's order disposing of a proceeding is a final order. If the administrative law judge is not the ultimate authority, the administrative law judge's order disposing of the proceeding becomes a final order when affirmed under section 29 of this chapter. Regardless of whether the order is final, it must comply with this section. 
+(b) 
+This subsection applies only to an order not subject to subsection (c). The order must include, separately stated, findings of fact for all aspects of the order, including the remedy prescribed and, if applicable, the action taken on a petition for stay of effectiveness. Findings of ultimate fact must be accompanied by a concise statement of the underlying basic facts of record to support the findings. The order must also include a statement of the available procedures and time limit for seeking administrative review of the order (if administrative review is available). 
+
+(c) 
+This subsection applies only to an order of the ultimate authority entered under IC 13, IC 14, or IC 25. The order must include separately stated findings of fact and, if a final order, conclusions of law for all aspects of the order, including the remedy prescribed and, if applicable, the action taken on a petition for stay of effectiveness. Findings of ultimate fact must be accompanied by a concise statement of the underlying basic facts of record to support the findings. Conclusions of law must consider prior final orders (other than negotiated orders) of the ultimate authority under the same or similar circumstances if those prior final orders are raised on the record in writing by a party and must state the reasons for deviations from those prior orders. The order must also include a statement of the available procedures and time limit for seeking administrative review of the order (if administrative review is available). 
+
+(d) 
+Findings must be based exclusively upon the evidence of record in the proceeding and on matters officially noticed in that proceeding. Findings must be based upon the kind of evidence that is substantial and reliable. The administrative law judge's experience, technical competence, and specialized knowledge may be used in evaluating evidence. 
+
+
+(e) A substitute administrative law judge may issue the order under this section upon the record that was generated by a previous administrative law judge. 
+(f) 
+The administrative law judge may allow the parties a designated amount of time after conclusion of the hearing for the submission of proposed findings. 
+
+(g) 
+An order under this section shall be issued in writing within ninety (90) days after conclusion of the hearing or after submission of proposed findings in accordance with subsection (f), unless this period is waived or extended with the written consent of all parties or for good cause shown. 
+
+
+(h) The administrative law judge shall have copies of the order under this section delivered to each party and to the ultimate authority for the agency (if it is not rendered by the ultimate authority). As added by P.L.18-1986, SEC.1. Amended by P.L.25-1997, SEC.1; P.L.2-1998, SEC.10. 
+
+IC 4-21.5-3-28 Final order; authority to issue; proceedings 
+Sec. 28. (a) This section applies to proceedings under sections 29, 30, and 31 of this chapter. 
+(b) 
+The ultimate authority or its designee shall conduct proceedings to issue a final order. A designee may be selected in advance of the commencement of any particular proceeding for a generally described class of proceedings or may be selected for a particular proceeding. A general designation may provide procedures for the assignment of designated individuals to particular proceedings. 
+
+(c) 
+Any individual serving alone or with others in a proceeding may be disqualified for any of the reasons that an administrative law judge may be disqualified. The procedures in section 9 of this chapter apply to the disqualification and substitution of the individual. 
+
+(d) 
+Motions and petitions submitted by a party to the ultimate authority shall be served on each party to the proceeding and to any person described by section 5(d) of this chapter. 
+
+(e) 
+In the conduct of its proceedings, the ultimate authority or its designee shall afford each party an opportunity to present briefs. The ultimate authority or its designee may: 
+
+(1) 
+afford each party an opportunity to present oral argument; 
+
+(2) 
+have a transcript prepared, at the agency's expense, of any portion of the record of a proceeding that the ultimate authority or its designee considers necessary; 
+
+(3) 
+exercise the powers of an administrative law judge to hear additional evidence under sections 25 and 26 of this chapter; or 
+
+(4) 
+allow nonparties to participate in a proceeding in 
+
+
+
+
+accordance with section 25 of this chapter. Sections 15 and 16 of this chapter concerning representation and interpreters apply to the proceedings of the ultimate authority or its designee. 
+(f) Notices and orders of the ultimate authority or its designee shall be served on all parties and all other persons who have requested notice under section 5 of this chapter. 
+(g) The final order of the ultimate authority or its designee must: 
+(1) 
+identify any differences between the final order and the nonfinal order issued by the administrative law judge under section 27 of this chapter; 
+
+(2) 
+include findings of fact meeting the standards of section 27 of this chapter or incorporate the findings of fact in the administrative law judge's order by express reference to the order; and 
+
+(3) 
+briefly explain the available procedures and time limit for seeking administrative review of the final order by another agency under section 30 of this chapter (if any is available). 
+
+
+As added by P.L.18-1986, SEC.1. 
+
+IC 4-21.5-3-29 Orders from other than ultimate authority; review by ultimate authority; objections 
+Sec. 29. (a) This section does not apply if the administrative law judge issuing an order under section 27 of this chapter is the ultimate authority for the agency. 
+(b) 
+After an administrative law judge issues an order under section 27 of this chapter, the ultimate authority or its designee shall issue a final order: 
+
+(1) 
+affirming; 
+
+(2) 
+modifying; or 
+
+
+
+(3) 
+dissolving; the administrative law judge's order. The ultimate authority or its designee may remand the matter, with or without instructions, to an administrative law judge for further proceedings. 
+
+(c)
+ In the absence of an objection or notice under subsection (d) or (e), the ultimate authority or its designee shall affirm the order. 
+
+(d) 
+To preserve an objection to an order of an administrative law judge for judicial review, a party must not be in default under this chapter and must object to the order in a writing that: 
+
+(1) 
+identifies the basis of the objection with reasonable particularity; and 
+
+(2) 
+is filed with the ultimate authority responsible for reviewing the order within fifteen (15) days (or any longer period set by statute) after the order is served on the petitioner. 
+
+
+
+(e) 
+Without an objection under subsection (d), the ultimate authority or its designee may serve written notice of its intent to review any issue related to the order. The notice shall be served on all parties and all other persons described by section 5(d) of this chapter. The notice must identify the issues that the ultimate 
+
+authority or its designee intends to review. 
+
+(f) 
+A final order disposing of a proceeding or an order remanding an order to an administrative law judge for further proceedings shall be issued within sixty (60) days after the latter of: 
+
+(1) 
+the date that the order was issued under section 27 of this chapter; 
+
+(2) 
+the receipt of briefs; or 
+
+
+
+(3) 
+the close of oral argument; unless the period is waived or extended with the written consent of all parties or for good cause shown. 
+
+
+(g) After remand of an order under this section to an administrative law judge, the judge's order is also subject to review under this section. As added by P.L.18-1986, SEC.1. 
+
+IC 4-21.5-3-30 Review by another agency 
+Sec. 30. If, under a statute, an agency may review the final order of another agency, the review shall be treated as if it was a continuous proceeding before a single agency. For the purposes of this review and the application of section 3 of this chapter concerning the effectiveness of an order, a final order of the first agency shall be treated as a nonfinal order of an administrative law judge, and the second agency shall review the order under section 29 of this chapter. To preserve an issue for judicial review, a party must comply with section 29(d) of this chapter before the second agency. The ultimate authority for the second agency or its designee may conduct proceedings under section 31 of this chapter. As added by P.L.18-1986, SEC.1. 
+
+IC 4-21.5-3-31 Modification of final order 
+Sec. 31. (a) An agency has jurisdiction to modify a final order under this section before the earlier of the following: 
+(1) 
+Thirty (30) days after the agency has served the final order under section 27, 29, or 30 of this chapter. 
+
+(2) 
+Another agency assumes jurisdiction over the final order under section 30 of this chapter. 
+
+(3) 
+A court assumes jurisdiction over the final order under IC 4-21.5-5. 
+
+
+(b) 
+A party may petition the ultimate authority for an agency for a stay of effectiveness of a final order. The ultimate authority or its designee may, before or after the order becomes effective, stay the final order in whole or in part. 
+
+(c)
+ A party may petition the ultimate authority for an agency for a rehearing of a final order. The ultimate authority or its designee may grant a petition for rehearing only if the petitioning party demonstrates that: 
+
+
+(1) 
+the party is not in default under this chapter; 
+
+(2) 
+newly discovered material evidence exists; and 
+
+(3) 
+the evidence could not, by due diligence, have been 
+
+
+discovered and produced at the hearing in the proceeding. The rehearing may be limited to the issues directly affected by the newly discovered evidence. If the rehearing is conducted by a person other than the ultimate authority, section 29 of this chapter applies to review of the order resulting from the rehearing. 
+(d) Clerical mistakes and other errors resulting from oversight or omission in a final order or other part of the record of a proceeding may be corrected by an ultimate authority or its designee on the motion of any party or on the motion of the ultimate authority or its designee. 
+(e) An action of a petitioning party or an agency under this section neither tolls the period in which a party may object to a second agency under section 30 of this chapter nor tolls the period in which a party may petition for judicial review under IC 4-21.5-5. However, if a rehearing is granted under subsection (c), these periods are tolled and a new period begins on the date that a new final order is served. As added by P.L.18-1986, SEC.1. Amended by P.L.35-1987, SEC.14. 
+
+IC 4-21.5-3-32 Final orders; public inspection; indexing; deletions; precedent 
+Sec. 32. (a) Each agency shall make all written final orders available for public inspection and copying under IC 5-14-3. The agency shall index final orders that are issued after June 30, 1987, by name and subject. An agency shall index an order issued before July 1, 1987, if a person submits a written request to the agency that the order be indexed. An agency shall delete from these orders identifying details to the extent required by IC 5-14-3 or other law. In each case, the justification for the deletion must be explained in writing and attached to the order. 
+(b) An agency may not rely on a written final order as precedent to the detriment of any person until the order has been made available for public inspection and indexed in the manner described in subsection (a). However, this subsection does not apply to any person who has actual timely knowledge of the order. The burden of proving that knowledge is on the agency. As added by P.L.18-1986, SEC.1. Amended by P.L.35-1987, SEC.15. 
+
+IC 4-21.5-3-33 Records 
+Sec. 33. (a) An agency shall maintain an official record of each proceeding under this chapter. 
+(b) 
+The agency record of the proceeding consists only of the following: 
+
+(1) 
+Notices of all proceedings. 
+
+(2) 
+Any prehearing order. 
+
+(3) 
+Any motions, pleadings, briefs, petitions, requests, and intermediate rulings. 
+
+(4) 
+Evidence received or considered. 
+
+(5) 
+A statement of matters officially noticed. 
+
+(6) 
+Proffers of proof and objections and rulings on them. 
+
+(7) 
+Proposed findings, requested orders, and exceptions. 
+
+(8) 
+The record prepared for the administrative law judge or for the ultimate authority or its designee under sections 28 through 31 of this chapter, at a hearing, and any transcript of the record considered before final disposition of the proceeding. 
+
+(9) 
+Any final order, nonfinal order, or order on rehearing. 
+
+(10) 
+Staff memoranda or data submitted to the administrative law judge or a person presiding in a proceeding under sections 28 through 31 of this chapter. 
+
+(11) 
+Matters placed on the record after an ex parte communication. 
+
+
+
+(c) 
+Except to the extent that a statute provides otherwise, the agency record described by subsection (b) constitutes the exclusive basis for agency action in proceedings under this chapter and for judicial review of a proceeding under this chapter. 
+
+
+As added by P.L.18-1986, SEC.1. 
+
+IC 4-21.5-3-34 Informal procedures; rules; final orders 
+Sec. 34. (a) An agency is encouraged to develop informal procedures that are consistent with this article and make unnecessary more elaborate proceedings under this article. 
+(b) 
+An agency may adopt rules, under IC 4-22-2, setting specific procedures to facilitate informal settlement of matters. The procedures must be consistent with this article. 
+
+(c) 
+This section does not require any person to settle a matter under the agency's informal procedures. 
+
+(d) 
+This subsection does not apply to a proceeding before the state ethics commission (created by IC 4-2-6-2) or a proceeding concerning a regulated occupation (as defined in IC 25-1-7-1), except for a proceeding concerning a water well driller (as described in IC 25-39-3) or an out of state mobile health care entity regulated by the state department of health. When a matter is settled without the need for more elaborate proceedings under this section, the ultimate authority or its designee shall issue the order agreed to by the parties as a final order under this article. 
+
+(e) 
+When the final order referred to in subsection (d) involves the modification of a permit issued under IC 13, the administrative law judge: 
+
+(1) 
+shall remand the permit to the issuing agency with instructions to modify the permit in accordance with the final order; and 
+
+(2) 
+retains jurisdiction over any appeals of the modified permit. 
+
+
+
+
+Only those terms of the permit that are the subject of the final order shall be modified and subject to public notice and comment. 
+(f) Any petition for administrative review under this chapter concerning permit modification under subsection (e) is limited to only those terms of the permit modified in accordance with the final order issued under subsection (d). As added by P.L.18-1986, SEC.1. Amended by P.L.35-1987, SEC.16; P.L.32-2011, SEC.6. 
+
+IC 4-21.5-3-35 Additional procedural rights; rules 
+Sec. 35. An agency may grant procedural rights to persons in addition to those conferred by this article so long as the rights conferred upon other persons by any law are not substantially prejudiced. The agency may adopt rules, under IC 4-22-2, concerning the nature and requirements of all procedures for requesting a proceeding or engaging in a proceeding, so long as the rules are not inconsistent with this article. As added by P.L.18-1986, SEC.1. 
+
+IC 4-21.5-3-36 Persons presiding in proceedings; violations 
+Sec. 36. An individual who: 
+(1) 
+is serving alone or with others as an administrative law judge or as a person presiding in a proceeding under sections 28 through 31 of this chapter; and 
+
+(2) 
+knowingly or intentionally violates section 11, 12, or 13 of 
+
+
+this chapter; commits a Class A misdemeanor. As added by P.L.18-1986, SEC.1. 
+
+IC 4-21.5-3-37 Aiding in violation 
+Sec. 37. A person who: 
+(1) 
+aids, induces, or causes an individual serving alone or with others as an administrative law judge or as a person presiding in a proceeding under sections 28 through 31 of this chapter to violate section 11, 12, or 13 of this chapter; and 
+
+(2) 
+acts with the intent to: 
+
+(A) 
+have the individual described in subdivision (1) disqualified from serving in a proceeding; or 
+
+(B) 
+influence the individual described in subdivision (1) 
+
+
+
+
+with respect to any issue in a proceeding; commits a Class A misdemeanor. As added by P.L.18-1986, SEC.1. 
+

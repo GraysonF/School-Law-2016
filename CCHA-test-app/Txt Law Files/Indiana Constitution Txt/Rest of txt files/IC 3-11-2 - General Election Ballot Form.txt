@@ -1,0 +1,450 @@
+IC 3-11-2 Chapter 2. General Election Ballot Form 
+IC 3-11-2-0.5 Applicability 
+Sec. 0.5. (a) This chapter applies only to paper ballots. 
+(b) This chapter does not apply to: 
+(1) an electronic voting system; or 
+(2) an optical scan voting system. As added by P.L.58-2005, SEC.14. Amended by P.L.164-2006, SEC.87. 
+
+IC 3-11-2-1 Repealed 
+(As added by P.L.5-1986, SEC.7. Amended by P.L.3-1987, SEC.196; P.L.3-1989, SEC.9; P.L.2-1996, SEC.133; P.L.3-1997, SEC.256. Repealed by P.L.14-2004, SEC.196.) 
+
+IC 3-11-2-2 Repealed 
+(As added by P.L.5-1986, SEC.7. Amended by P.L.3-1987, SEC.197; P.L.5-1998, SEC.4; P.L.66-2003, SEC.34; P.L.14-2004, SEC.93. Repealed by P.L.1-2006, SEC.588.) 
+
+IC 3-11-2-2.1 All candidates and public questions in election districts in county on ballot 
+Sec. 2.1. Each county election board shall have the: 
+(1) names of all candidates for election to offices or retention in offices; and 
+(2) state and local public questions; in election districts wholly or partially within the county printed on a ballot as provided in this chapter. The county may print all offices on a single ballot under this section. As added by P.L.14-2004, SEC.94. Amended by P.L.164-2006, SEC.88. 
+
+IC 3-11-2-3 Requirements of size, quality and color, and thickness 
+Sec. 3. Each type of ballot must be: 
+(1) 
+of uniform size; 
+
+(2) 
+of the same quality and color of paper; and 
+
+(3) 
+sufficiently thick that the printing cannot be distinguished from the back. 
+
+
+As added by P.L.5-1986, SEC.7. Amended by P.L.3-1987, SEC.198; P.L.194-2013, SEC.42. 
+IC 3-11-2-4 Repealed 
+
+(As added by P.L.5-1986, SEC.7. Amended by P.L.3-1987, SEC.199; P.L.3-1995, SEC.94; P.L.3-1997, SEC.257; P.L.66-2003, SEC.35. Repealed by P.L.194-2013, SEC.43.) 
+
+IC 3-11-2-5 Name and device; listing of nominees 
+Sec. 5. The nominees of a: 
+(1) 
+major political party; 
+
+(2) 
+political party described by IC 3-8-4-10; or 
+
+(3) 
+group of petitioners under IC 3-8-6 who are identified by the 
+
+
+petition as the nominees of a political party; shall be listed on the ballots under the name of the party or petitioners as designated by them in their certificate or petition. If the same device is selected by two (2) parties it shall be given to the party that first filed the device under IC 3-8-7-11. 
+As added by P.L.5-1986, SEC.7. Amended by P.L.3-1987, SEC.200; P.L.230-2005, SEC.50. 
+
+IC 3-11-2-6 Name and device; order; political party; write-in voting 
+Sec. 6. (a) The device named and list of nominees shall be placed on the ballots as follows: 
+(1) 
+The major political party whose candidate received the highest number of votes in the county for secretary of state at the last election in the first column or row on the left side of all ballots. 
+
+(2) 
+The major political party whose candidate received the second highest number of votes in the county for secretary of state at the last election in the second column or row. 
+
+(3) 
+Any other political party in the same order. 
+
+
+(b) 
+If a political party did not have a candidate for secretary of state in the last election or a nominee is an independent candidate (or an independent ticket for President and Vice President of the United States or for governor and lieutenant governor), the party or independent candidate or ticket shall be placed on the ballot after the parties described in subsection (a). If more than one (1) political party or independent candidate or ticket that has qualified to be on the ballot did not have a candidate for secretary of state in the last election, those parties, candidates, or tickets shall be listed on the ballot in the order in which the party filed its petition of nomination under IC 3-8-6-12. 
+
+(c) 
+Subject to subsection (e), a column or row for write-in voting shall be placed to the right of all party and independent columns on the ballot. 
+
+(d) 
+This subsection applies to a county having a population of more than four hundred thousand (400,000) but less than seven hundred thousand (700,000). If there is insufficient room on a row to 
+
+
+list each candidate of a political party, a second or subsequent row may be utilized. However, a second or subsequent row may not be utilized unless the first row, and all preceding rows, have been filled. 
+(e) A column or row for write-in voting for an office is not required if there are no declared write-in candidates for that office. However, procedures must be implemented to permit write-in voting for candidates for federal offices. As added by P.L.5-1986, SEC.7. Amended by P.L.3-1987, SEC.201; P.L.7-1991, SEC.4; P.L.4-1991, SEC.60; P.L.12-1992, SEC.7; P.L.3-1993, SEC.115; P.L.14-2004, SEC.95. 
+
+IC 3-11-2-7 Cautionary statement 
+Sec. 7. The following statement shall be printed in underlined print at the extreme top of a ballot to be used in an election covered by this title: "It is a crime to falsify this ballot or to violate Indiana election laws.". As added by P.L.5-1986, SEC.7. Amended by P.L.3-1987, SEC.202; P.L.221-2005, SEC.40. 
+
+IC 3-11-2-8 Instructions; form, location, and contents; exception 
+Sec. 8. (a) Except as provided in subsection (b), all written or printed instructions must be at the top of the ballot immediately below the statement required by section 7 of this chapter. No other instructions or writing may appear at any other place on the ballot, including the ballot for federal and state offices, except as specified by this title. 
+(b) At the discretion of the county election board, general instructions to the voters required by this title to be placed at the front of the ballot may be posted in writing in each voting booth instead of printing the instructions on the ballot. 
+(c) The instructions must be in English and any other language that the board considers necessary, clear, concise, and written so that a voter will not be confused about the effect of the voter's voting mark and vote. As added by P.L.5-1986, SEC.7. Amended by P.L.6-1986, SEC.16; P.L.3-1987, SEC.203; P.L.221-2005, SEC.41; P.L.21-2016, SEC.3. 
+
+IC 3-11-2-9 Device of political parties or independent ticket 
+Sec. 9. The device of each political party or independent ticket described in section 6 of this chapter shall be: 
+(1) 
+enclosed in a circle not less than three-fourths (3/4) of an inch in diameter; and 
+
+(2) 
+placed under the name of the party or independent ticket, as required by section 10 of this chapter. 
+
+
+As added by P.L.5-1986, SEC.7. Amended by P.L.3-1987, SEC.204; 
+P.L.3-1993, SEC.116; P.L.14-2004, SEC.96. 
+
+IC 3-11-2-10 Arrangement of ballot 
+Sec. 10. (a) Public questions shall be placed on the general election ballot in the following order after the statement described in section 7 of this chapter, and the instructions described in subsections (d) and (e) and section 8 of this chapter, if instructions are printed on the ballot: 
+(1) Ratification of a state constitutional amendment. 
+(2) 
+Local public questions. Each public question shall be placed in a separate column on the ballot. 
+
+(b) 
+The name or title of the political party or independent ticket described in section 6 of this chapter shall be placed on the general election ballot after the public questions described in subsection (a). The device of the political party or independent ticket shall be placed immediately under the name of the political party or independent ticket. The instructions for voting a straight party ticket shall be placed to the right of the device, if instructions are printed on the ballot. 
+
+
+(c) The instructions for voting a straight party ticket must conform 
+as nearly as possible to the following: "(1) To vote a straight (insert political party name) ticket for all (insert political party name) candidates on this ballot, except for candidates described in (2) below, make a voting mark on or in this circle and do not make any other marks on this ballot. 
+(2) 
+To vote for any candidate for an at-large office (insert countycouncil, city common council, town council, or township board if those offices appear on this ballot), you must make another voting mark for each candidate you wish to vote for. Your straight party vote will not count as a vote for any candidate for that office. 
+
+(3) 
+If you wish to vote for a candidate seeking a nonpartisan office or on a public question, you must make another voting mark on the appropriate place on this ballot.". 
+
+
+(d) 
+Except as permitted under section 8(b) of this chapter, if the ballot contains an independent ticket described in section 6 of this chapter and at least one (1) other independent candidate, the ballot must also contain a statement that reads substantially as follows: "A vote cast for an independent ticket will only be counted for the candidates for President and Vice President or governor and lieutenant governor comprising that independent ticket. This vote will NOT be counted for any OTHER independent candidate appearing on the ballot.". 
+
+(e) 
+Except as permitted under section 8(b) of this chapter, the ballot must also contain a statement that reads substantially as follows: "A write-in vote will NOT be counted unless the vote is for 
+
+a DECLARED write-in candidate. To vote for a write-in candidate, you must make a voting mark on or in the square to the left of the name you have written in or your vote will not be counted.". 
+
+(f) 
+The list of candidates of the political party shall be placed immediately under the instructions for voting a straight party ticket. The names of the candidates shall be placed three-fourths (3/4) of an inch apart from center to center of the name. The name of each candidate must have, immediately on its left, a square three-eighths (3/8) of an inch on each side. 
+
+
+(g) The circuit court clerk may authorize the printing of ballots containing a ballot variation code to ensure that the proper version of a ballot is used within a precinct. As added by P.L.5-1986, SEC.7. Amended by P.L.3-1987, SEC.205; P.L.3-1993, SEC.117; P.L.4-1996, SEC.60; P.L.3-1997, SEC.258; P.L.14-2004, SEC.97; P.L.58-2005, SEC.15; P.L.190-2011, SEC.4; P.L.219-2013, SEC.30; P.L.21-2016, SEC.4. 
+
+IC 3-11-2-11 Repealed 
+(Repealed by P.L.3-1993, SEC.282.) 
+
+IC 3-11-2-11.5 Names of write-in candidates not printed on ballot 
+Sec. 11.5. The name of a write-in candidate may not be printed on any ballot. As added by P.L.3-1997, SEC.259. 
+
+IC 3-11-2-12 Ballot order of offices 
+Sec. 12. The following offices shall be placed on the general election ballot in the following order after the public questions described in section 10(a) of this chapter: 
+(1) 
+Federal and state offices: 
+
+(A) 
+President and Vice President of the United States. 
+
+(B) 
+United States Senator. 
+
+(C) 
+Governor and lieutenant governor. 
+
+(D) 
+Secretary of state. 
+
+(E) 
+Auditor of state. 
+
+(F) 
+Treasurer of state. 
+
+(G) 
+Attorney general. 
+
+(H) 
+Superintendent of public instruction. 
+
+(I)
+ United States Representative. 
+
+
+
+(2) 
+Legislative offices: 
+
+(A) 
+State senator. 
+
+(B) 
+State representative. 
+
+
+
+(3) 
+Circuit offices and county judicial offices: 
+
+(A) 
+Judge of the circuit court, and unless otherwise specified under IC 33, with each division separate if there is more than 
+
+one (1) judge of the circuit court. 
+
+(B) 
+Judge of the superior court, and unless otherwise specified under IC 33, with each division separate if there is more than one (1) judge of the superior court. 
+
+(C) 
+Judge of the probate court. 
+
+(D) 
+Prosecuting attorney. 
+
+(E) 
+Clerk of the circuit court. 
+
+
+
+(4) 
+County offices: 
+
+(A) 
+County auditor. 
+
+(B) 
+County recorder. 
+
+(C) 
+County treasurer. 
+
+(D) 
+County sheriff. 
+
+(E) 
+County coroner. 
+
+(F) 
+County surveyor. 
+
+(G) 
+County assessor. 
+
+(H) 
+County commissioner. This clause applies only to a county that is not subject to IC 36-2-2.5. 
+
+(I) 
+Single county executive. This clause applies only to a county that is subject to IC 36-2-2.5. 
+
+(J) 
+County council member, except as provided in section 
+
+
+12.4 of this chapter. 
+
+(5) 
+Township offices: 
+
+(A) 
+Township assessor (only in a township referred to in IC 36-6-5-1(d)). 
+
+(B) 
+Township trustee. 
+
+(C) 
+Township board member, except as provided in section 
+
+
+12.4 of this chapter. 
+(D) 
+Judge of the small claims court. 
+
+(E) 
+Constable of the small claims court. 
+
+
+
+(6) 
+City offices: 
+
+(A) 
+Mayor. 
+
+(B) 
+Clerk or clerk-treasurer. 
+
+(C) 
+Judge of the city court. 
+
+(D) 
+City-county council member or common council member, except as provided in section 12.4 of this chapter. 
+
+
+
+(7) 
+Town offices: 
+
+(A) 
+Clerk-treasurer. 
+
+(B) 
+Judge of the town court. 
+
+(C) 
+Town council member, except as provided in section 
+
+
+
+
+12.4 of this chapter. As added by P.L.3-1987, SEC.207. Amended by P.L.8-1989, SEC.8; P.L.3-1997, SEC.260; P.L.14-2004, SEC.98; P.L.98-2004, SEC.37; P.L.2-2005, SEC.4; P.L.146-2008, SEC.6; P.L.190-2011, SEC.5; P.L.201-2011, SEC.5; P.L.6-2012, SEC.9; P.L.77-2014, SEC.5; P.L.21-2016, SEC.5. 
+IC 3-11-2-12.2 Order of districts on ballot 
+Sec. 12.2. Whenever candidates are to be elected to an office that includes more than one (1) district, the districts shall be placed on the ballot in alphabetical or numerical order, according to the designation given to the district. As added by P.L.4-1996, SEC.61. Amended by P.L.21-2016, SEC.6. 
+
+IC 3-11-2-12.4 Election of more than one candidate to an office; placement of office on ballot; required instruction 
+Sec. 12.4. (a) This section applies whenever more than one (1) candidate may be elected to an office. 
+(b) The office shall be placed on the general election ballot after the offices described in section 12 of this chapter and before the offices described in section 12.9 of this chapter. 
+(c) The ballot shall contain a statement reading substantially as follows above the name of the first candidate: "To vote for any candidate for this office, you must make a voting mark for each candidate you wish to vote for. A straight party vote will not count as a vote for any candidate for this office.". As added by P.L.21-2016, SEC.7. 
+
+IC 3-11-2-12.5 Ballot order; alternative order of county offices 
+Sec. 12.5. Notwithstanding section 12 of this chapter, the county election board may alter the prescribed ballot order to place the names of the candidates for the following offices before the names of the candidates for county judicial offices: 
+(1) 
+Prosecuting attorney. 
+
+(2) 
+Clerk of the circuit court. 
+
+(3) 
+The county offices listed in section 12(4) of this chapter. 
+
+
+As added by P.L.4-1991, SEC.61. 
+
+IC 3-11-2-12.7 Ballot order; candidates for at-large seats on fiscal or legislative body of political subdivision 
+Sec. 12.7. (a) This section applies to candidates for election to at-large seats on the fiscal or legislative body of a political subdivision. 
+(b) 
+Candidates shall be listed in alphabetical order according to surname within each row or column on the ballot. 
+
+(c) 
+In each row or column on the ballot in which the names of candidates appear, the ballot shall contain a statement reading substantially as follows above the name of the first candidate: "Vote for not more than (insert number of candidates to be elected) candidates of ANY party for this office.". 
+
+(d) 
+If more than one (1) candidate for an at-large seat was nominated by the same petition of nomination, these candidates shall be listed in alphabetical order by surname within the same row or 
+
+
+column on the ballot, with the position of the row or column being determined under section 6 of this chapter. 
+As added by P.L.3-1997, SEC.261. Amended by P.L.14-2004, SEC.99; P.L.164-2006, SEC.89. 
+
+IC 3-11-2-12.8 Repealed 
+(As added by P.L.224-2007, SEC.2. Repealed by P.L.146-2008, SEC.801.) 
+
+IC 3-11-2-12.9 Ballot order; school board offices 
+Sec. 12.9. (a) School board offices to be elected at the general election shall be placed on the general election ballot after the offices described in section 12.4 of this chapter with each candidate for the office designated as "nonpartisan". 
+(b) If the ballot contains a candidate for a school board office, the ballot must also contain a statement that reads substantially as follows: "To vote for a candidate for this office, make a voting mark on or in the square to the left of the candidate's name.". As added by P.L.83-1999, SEC.1. Amended by P.L.58-2005, SEC.16; P.L.190-2011, SEC.6; P.L.194-2013, SEC.44; P.L.21-2016, SEC.8. 
+
+IC 3-11-2-13 Ballot order; retention of justice or appellate judge 
+Sec. 13. (a) The following offices shall be placed on the general election ballot in the following order after the offices described in section 12.9 of this chapter: 
+(1) 
+Retention of a justice of the supreme court. 
+
+(2) 
+Retention of a judge of the court of appeals. 
+
+(3) 
+Retention of the judge of the tax court. 
+
+
+(b) 
+Whenever more than one (1) justice of the supreme court is subject to retention, the name of each justice must appear on the ballot in alphabetical order. However, if the justice serving as chief justice is subject to retention, the chief justice's name must appear first. 
+
+(c) 
+Whenever more than one (1) judge of the court of appeals is subject to retention, the name of each judge must appear on the ballot in alphabetical order. However, if the judge serving as chief judge is subject to retention, the chief judge's name must appear first. 
+
+
+(d) These offices shall be placed in a separate column on the ballot. As added by P.L.3-1987, SEC.208. Amended by P.L.4-1991, SEC.62; P.L.83-1999, SEC.2; P.L.58-2005, SEC.17; P.L.190-2011, SEC.7. 
+IC 3-11-2-14 Ballot order; other judicial offices 
+Sec. 14. (a) The following offices shall be placed on the general election ballot in the following order after the offices described in section 13 of this chapter: 
+(1) 
+Retention of a local judge. 
+
+(2) 
+Local nonpartisan judicial offices. 
+
+
+(b) 
+These offices shall be placed in a separate column on the ballot. 
+
+(c) 
+If the ballot contains a candidate for a local nonpartisan judicial office, the ballot must also contain a statement that reads substantially as follows: "To vote for a candidate for this office, make a voting mark on or in the square to the left of the candidate's name.". 
+
+(d) 
+If more than one (1) question concerning the retention of a local judge is to be placed on a ballot, the questions shall be placed on the ballot: 
+
+(1) 
+in alphabetical order according to the surname of the local judge; and 
+
+(2) 
+identifying the court (including division or room) in which the judge serves. 
+
+
+
+
+As added by P.L.3-1987, SEC.209. Amended by P.L.4-1996, SEC.62; P.L.83-1999, SEC.3; P.L.58-2005, SEC.18; P.L.190-2011, SEC.8. 
+
+IC 3-11-2-14.5 Ballot order; candidates for at-large seats on governing body of school corporation 
+Sec. 14.5. (a) This section applies to candidates for election to at-large seats on the governing body of a school corporation. 
+(b) Candidates shall be listed in alphabetical order according to surname. 
+(c) The ballot shall contain a statement reading substantially as follows above the name of the first candidate: "Vote for no more than (insert number of candidates to be elected) candidates for this office.". As added by P.L.3-1997, SEC.262. 
+
+IC 3-11-2-15 Form of public question 
+Sec. 15. (a) A public question shall be placed on the general election ballot in the following form: (The explanatory text for the public question, if required by law) 
+"Shall (insert public question)?" 
+[] YES 
+[] NO 
+(b) In addition to any other explanatory text required by law, the ballot must also contain a statement that reads substantially as follows: "To vote on this public question, make a voting mark on or in the square to the left of the word "YES" or "NO".". 
+(c) Except as expressly authorized or required by statute, the commission, the election division, or a county election board may not authorize the printing or use of ballots that contain language concerning the public question other than the language authorized by a statute. 
+As added by P.L.3-1987, SEC.210. Amended by P.L.4-1996, SEC.63; P.L.3-1997, SEC.263. 
+
+IC 3-11-2-16 Errors or omissions in ballot; determination by election board; reprint or use of defective ballot 
+Sec. 16. (a) If an election board determines that a ballot printed under the authority of the election board does not comply with a requirement imposed by this title or contains any other error or omission that might result in confusion or mistakes by voters, the board shall: 
+(1) 
+reprint or correct the ballot; or 
+
+(2) 
+conduct a public hearing concerning the defective ballots. 
+
+
+(b) 
+The board may conduct the hearing after informing each political party, ticket, or candidate that the board determines may have an interest in the matter. 
+
+(c)
+ At the hearing, the board shall hear any testimony offered by a person concerning the defective ballots and shall make findings of fact concerning the following: 
+
+(1) 
+The number of ballots, if any, containing the error or omission that have already been cast. 
+
+(2) 
+The cost of correcting the error through the use of reprinted ballots or any other suitable method. 
+
+(3) 
+Whether the error or omission would be likely to cause confusion or mistakes by voters. 
+
+(4) 
+Whether any voter objects to the use of the ballots, notwithstanding the error or omission. 
+
+
+
+
+(d) If: 
+(1) 
+a voter does not file a written objection to the use of the ballots with the board before the board concludes the hearing; and 
+
+(2) 
+the board determines that the use of the ballots would not be 
+
+
+likely to cause confusion or mistakes by voters; the board shall authorize the use of the defective ballots, notwithstanding the error or omission. 
+(e) If: 
+(1) 
+a voter files a written objection to the use of the ballots with the board before the board concludes the hearing; or 
+
+(2) 
+the board determines that the use of the ballots would be 
+
+
+likely to cause confusion or mistakes by voters; the board shall order the ballots to be reprinted or altered to conform with the requirements of this title. 
+(f) If the board acts under subsection (a) or (e), a voter who has already voted a defective ballot by absentee ballot is entitled to recast the voter's ballot in accordance with IC 3-11-10-1.5 or IC 3-11.5-4-2. Notwithstanding the issuance of an order under subsection (e), a defective ballot shall be counted if the intent of the voter can be determined and the ballot would otherwise be counted under IC 3-12-1. 
+As added by P.L.3-1993, SEC.118. Amended by P.L.3-1997, SEC.264; P.L.225-2011, SEC.52; P.L.194-2013, SEC.45. 
+

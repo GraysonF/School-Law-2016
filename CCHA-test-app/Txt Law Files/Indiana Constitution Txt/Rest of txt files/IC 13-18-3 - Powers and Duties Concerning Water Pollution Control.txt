@@ -1,0 +1,640 @@
+IC 13-18-3 
+Chapter 3. Powers and Duties Concerning Water Pollution Control 
+IC 13-18-3-1 Duties of board 
+Sec. 1. The board shall adopt rules for the control and prevention of pollution in waters of Indiana with any substance: 
+(1) 
+that is deleterious to: 
+
+(A) 
+the public health; or 
+
+(B) 
+the prosecution of any industry or lawful occupation; or 
+
+
+
+(2) 
+by which: 
+
+(A) 
+any fish life or any beneficial animal or vegetable life may be destroyed; or 
+
+(B) 
+the growth or propagation of fish life or beneficial animal or vegetable life is prevented or injuriously affected. 
+
+
+
+
+As added by P.L.1-1996, SEC.8. Amended by P.L.133-2012, SEC.125. 
+IC 13-18-3-2 Adoption of rules to implement federal acts; designation of outstanding state resource waters; antidegradation review of certain applications; classification of all state waters 
+Sec. 2. (a) The board may adopt rules under IC 4-22-2 that are necessary to the implementation of: 
+(1) 
+the Federal Water Pollution Control Act (33 U.S.C. 1251 et seq.), as in effect January 1, 1988; and 
+
+(2) 
+the federal Safe Drinking Water Act (42 U.S.C. 300f 
+
+
+through 300j), as in effect January 1, 1988; except as provided in IC 14-37. 
+(b) "Degradation" has the meaning set forth in IC 13-11-2-50.5. 
+(c) 
+"Outstanding national resource water" has the meaning set forth in IC 13-11-2-149.5. 
+
+(d) 
+"Outstanding state resource water" has the meaning set forth in IC 13-11-2-149.6. 
+
+(e) "Watershed" has the meaning set forth in IC 14-8-2-310. 
+
+(f) 
+The board may designate a water body as an outstanding state resource water by rule if the board determines that the water body has a unique or special ecological, recreational, or aesthetic significance. 
+
+(g) 
+Before the board may adopt a rule designating a water body as an outstanding state resource water, the board must consider the following: 
+
+(1) 
+Economic impact analyses, presented by any interested party, taking into account future population and economic development growth. 
+
+(2) 
+The biological criteria scores for the water body, using factors that consider fish communities, macro invertebrate 
+
+communities, and chemical quality criteria using representative biological data from the water body under consideration. 
+
+(3) 
+The level of current urban and agricultural development in the watershed. 
+
+(4) 
+Whether the designation of the water body as an outstanding state resource water will have a significant adverse effect on future population, development, and economic growth in the watershed, if the water body is in a watershed that has more than three percent (3%) of its land in urban land uses or serves a municipality with a population greater than five thousand (5,000). 
+
+(5) 
+Whether the designation of the water body as an outstanding state resource water is necessary to protect the unique or special ecological, recreational, or aesthetic significance of the water body. 
+
+
+
+(h) 
+Before the board may adopt a rule designating a water body as an outstanding state resource water, the board must make available to the public a written summary of the information considered by the board under subsections (f) and (g), including the board's conclusions concerning that information. 
+
+(i) 
+The commissioner shall present a summary of the comments received from the comment period and information that supports a water body designation as an outstanding state resource water to the interim study committee on environmental affairs established by IC 2-5-1.3-4 in an electronic format under IC 5-14-6 not later than one hundred twenty (120) days after the rule regarding the designation is finally adopted by the board. 
+
+(j) 
+Notwithstanding any other provision of this section, the designation of an outstanding state resource water in effect on January 1, 2000, remains in effect. 
+
+(k)
+ For a water body designated as an outstanding state resource water, the board shall provide by rule procedures that will: 
+
+(1) 
+prevent degradation; and 
+
+(2) 
+allow for increases and additions in pollutant loadings from an existing or new discharge if: 
+
+(A) 
+there will be an overall improvement in water quality for the outstanding state resource water as described in this section; and 
+
+(B) 
+the applicable requirements of rules adopted by the board under this section are met. 
+
+
+
+
+
+(l) 
+The procedures provided by rule under subsection (k) must include the following: 
+
+(1) 
+A definition of significant lowering of water quality that includes a de minimis quantity of additional pollutant load: 
+
+(A) 
+for which a new or increased permit limit is required; and 
+
+(B) 
+below which antidegradationimplementation procedures do not apply. 
+
+
+
+(2) 
+Provisions allowing the permittee to choose application of one (1) of the following for each activity undertaken by the permittee that will result in a significant lowering of water quality in the outstanding state resource water: 
+
+(A) 
+Implementation of a water quality project in the watershed of the outstanding state resource water that will result in an overall improvement of the water quality of the outstanding state resource water. 
+
+(B) 
+Payment of a fee, not to exceed five hundred thousand dollars ($500,000), based on the type and quantity of increased pollutant loadings, to the department for deposit in the outstanding state resource water improvement fund established under section 14 of this chapter for use as permitted under that section. 
+
+
+
+(3) 
+Criteria for the submission and timely approval of projects described in subdivision (2)(A). 
+
+(4) 
+A process for public input in the approval process. 
+
+(5) 
+Use of water quality data that is less than seven (7) years old and specific to the outstanding state resource water. 
+
+(6) 
+Criteria for using the watershed improvement fees to fund projects in the watershed that result in improvement in water quality in the outstanding state resource water. 
+
+
+
+(m) 
+For a water body designated as an outstanding state resource water after June 30, 2000, the board shall provide by rule antidegradation implementation procedures before the water body is designated in accordance with this section. 
+
+(n) 
+A water body may be designated as an outstanding national resource water only by the general assembly after recommendations for designation are made by the board and the interim study committee on environmental affairs established by IC 2-5-1.3-4. 
+
+(o) 
+Before recommending the designation of an outstanding national resource water, the department shall provide for an adequate public notice and comment period regarding the designation. The commissioner shall present a summary of the comments and information received during the comment period and the department's recommendation concerning designation to the interim study committee on environmental affairs established by IC 2-5-1.3-4 in an electronic format under IC 5-14-6 not later than ninety (90) days after the end of the comment period. The committee shall consider the comments, information, and recommendation received from the department, and shall convey its recommendation concerning designation to the general assembly within six (6) months after receipt. 
+
+(p) 
+This subsection applies to all surface waters of the state. The department shall complete an antidegradation review of all NPDES general permits. The department may modify the general permits for purposes of antidegradation compliance. After an antidegradation review of a permit is conducted under this subsection, activities 
+
+
+covered by an NPDES general permit are not required to undergo an additional antidegradation review. An NPDES general permit may not be used to authorize a discharge into an outstanding national resource water or an outstanding state resource water, except that a short term, temporary storm water discharge to an outstanding national resource water or to an outstanding state resource water may be permitted under an NPDES general permit if the commissioner determines that the discharge will not significantly lower the water quality downstream of the discharge. 
+(q) Subsection (r) applies to: 
+(1) 
+an application for an NPDES permit subject to IC 13-15-4-1(a)(2)(B), IC 13-15-4-1(a)(3)(B), or IC 13-15-4-1(a)(4); or 
+
+(2) 
+an application for a modification or renewal of an NPDES 
+
+
+permit; that proposes new or increased discharge that would result in a significant lowering of water quality as defined in subsection (l)(1). 
+(r) 
+For purposes of an antidegradation review with respect to an application referred to in subsection (q), the applicant shall demonstrate at the time the application is submitted to the department, and the commissioner shall review: 
+
+(1) 
+an analysis of alternatives to the proposed discharge; and 
+
+(2) 
+subject to subsection (s), social or economic factors indicating the importance of the proposed discharge if alternatives to the proposed discharge are not practicable. 
+
+
+
+(s) 
+Subject to subsection (t), the commissioner shall consider the following factors in determining whether a proposed discharge is necessary to accommodate important economic or social development in the area in which the waters are located under antidegradation standards and implementation procedures: 
+
+(1) 
+Creation, expansion, or maintenance of employment. 
+
+(2) 
+The unemployment rate. 
+
+(3) 
+The median household income. 
+
+(4) 
+The number of households below the poverty level. 
+
+(5) 
+Community housing needs. 
+
+(6) 
+Change in population. 
+
+(7) 
+The impact on the community tax base. 
+
+(8) 
+Provision of fire departments, schools, infrastructure, and other necessary public services. 
+
+(9) 
+Correction of a public health, safety, or environmental problem. 
+
+(10) 
+Production of goods and services that protect, enhance, or improve the overall quality of life and related research and development. 
+
+(11)
+ The impact on the quality of life for residents in the area. 
+
+(12) 
+The impact on the fishing, recreation, and tourism industries. 
+
+(13)
+ The impact on threatened and endangered species. 
+
+(14)
+ The impact on economic competitiveness. 
+
+(15) 
+Demonstration by the permit applicant that the factors identified and reviewed under subdivisions (1) through (14) are necessary to accommodate important social or economic development despite the proposed significant lowering of water quality. 
+
+(16) 
+Inclusion by the applicant of additional factors that may enhance the social or economic importance associated with the proposed discharge, such as an approval that: 
+
+(A) 
+recognizes social or economic importance; and 
+
+(B) 
+is given to the applicant by: 
+
+(i)
+ a legislative body; or 
+
+(ii) 
+other government officials. 
+
+
+
+
+
+(17) 
+Any other action or recommendation relevant to the antidegradation demonstration made by a: 
+
+(A) 
+state; 
+
+(B) 
+county; 
+
+(C) 
+township; or 
+
+
+
+(D) 
+municipality; 
+potentially affected by the proposed discharge. 
+
+
+(18) 
+Any other action or recommendation relevant to the antidegradation demonstration received during the public participation process. 
+
+(19)
+ Any other factors that the commissioner: 
+
+(A) 
+finds relevant; or 
+
+(B) 
+is required to consider under the Clean Water Act. 
+
+
+
+
+
+(t) 
+In determining whether a proposed discharge is necessary to accommodate important economic or social development in the area in which the waters are located under antidegradation standards and implementation procedures, the commissioner: 
+
+(1) 
+must give substantial weight to any applicable determinations by governmental entities; and 
+
+(2) 
+may rely on consideration of any one (1) or a combination of the factors listed in subsection (s). 
+
+
+
+(u) 
+Each exceptional use water (as defined in IC 13-11-2-72.5, before its repeal) designated by the board before June 1, 2009, becomes an outstanding state resource water on June 1, 2009, by operation of law. 
+
+(v) 
+Beginning June 1, 2009, all waters of the state are classified in the following categories: 
+
+(1) 
+Outstanding national resource waters. 
+
+(2) 
+Outstanding state resource waters. 
+
+(3) 
+Waters of the state as described in 327 IAC 2-1-2(1), as in effect on January 1, 2009. 
+
+(4) 
+High quality waters as described in 327 IAC 2-1-2(2), as in effect on January 1, 2009. 
+
+(5) 
+Waters of the state as described in 327 IAC 2-1.5-4(a), as in effect on January 1, 2009. 
+
+(6) 
+High quality waters as described in 327 IAC 2-1.5-4(b), as in effect on January 1, 2009. 
+
+
+
+
+As added by P.L.1-1996, SEC.8. Amended by P.L.140-2000, SEC.17; P.L.1-2001, SEC.16; P.L.78-2009, SEC.15; P.L.81-2011, SEC.1; P.L.53-2014, SEC.124; P.L.112-2016, SEC.17. 
+
+IC 13-18-3-2.1 Deadline for department to complete antidegradation review in certain circumstances; extension 
+Sec. 2.1. (a) If: 
+(1) 
+a discharge results from an activity for which: 
+
+(A) 
+an NPDES permit subject to IC 13-15-4-1(a)(2)(B), IC 13-15-4-1(a)(3)(B), or IC 13-15-4-1(a)(4); or 
+
+(B) 
+a modification or renewal of a permit referred to in one 
+
+
+
+(1) 
+of the sections referred to in subdivision (1); 
+is sought; and 
+
+
+(2) 
+the permit application or application to modify or renew the permit proposes a new or increased discharge that would result in a significant lowering of water quality as defined in IC 13-18-3-2(l)(1); 
+
+
+the deadline for the department to complete the antidegradation review under 40 CFR 131.12 and 40 CFR Part 132, Appendix E with respect to the discharge is the deadline for the commissioner to approve or deny the NPDES permit application under IC 13-15-4-1. 
+(b) The commissioner may extend for cause for not more than ninety (90) days the deadline under subsection (a) for the department to complete the antidegradation review. As added by P.L.78-2009, SEC.16. Amended by P.L.112-2016, SEC.18. 
+
+IC 13-18-3-2.3 Designated use change to CSO wet weather category; long term control plans 
+Sec. 2.3. (a) This subsection applies if a use attainability analysis is performed and approved to change the designated use of a water body receiving wet weather discharges from combined sewer overflows from the recreational use designation that applied to the waters immediately before the application to the waters of the CSO wet weather subcategory established in section 2.5 of this chapter to that subcategory. Upon implementation of the approved long term control plan, the plan fulfills the water quality goals of the state with respect to wet weather discharges that are a result of overflows from the combined sewer system addressed by the plan. 
+(b) 
+A long term control plan must meet the requirements of: 
+
+(1) 
+Section 402(q) of the federal Clean Water Act (33 U.S.C. 1342(q)); and 
+
+(2) 
+59 FR 18688. 
+
+
+
+(c) 
+An approved long term control plan shall be incorporated into: 
+
+
+(1) 
+the NPDES permit holder's NPDES permit; or 
+
+(2) 
+an order of the commissioner under IC 13-14-2-6. 
+
+
+(d) If a use attainability analysis is performed, the department shall: 
+(1) 
+review a use attainability analysis submitted under this chapter concurrently with a long term control plan submitted under this chapter; and 
+
+(2) 
+use the approved long term control plan to satisfy the requirements of the use attainability analysis. 
+
+
+As added by P.L.140-2000, SEC.18. Amended by P.L.54-2005, SEC.2. 
+
+IC 13-18-3-2.4 Review of feasibility of implementing additional or new control alternatives to attain water quality standards 
+Sec. 2.4. An NPDES permit holder shall review the feasibility of implementing additional or new control alternatives to attain water quality standards. The NPDES permit holder shall conduct such a review periodically, but not less than every five (5) years after approval of the long term control plan by the department. The NPDES permit holder shall: 
+(1) 
+document to the department that the long term control plan has been reviewed; 
+
+(2) 
+update the long term control plan as necessary; 
+
+(3) 
+submit any amendments to the long term control plan to the department for approval; and 
+
+(4) 
+implement control alternatives determined to be cost 
+
+
+effective and affordable. Cost effectiveness may be determined, at the option of the NPDES permit holder, by using a knee of the curve analysis in accordance with section 402(q) of the federal Clean Water Act (33 U.S.C. 1342(q)) and 59 FR 18688. As added by P.L.140-2000, SEC.19. Amended by P.L.1-2001, SEC.17; P.L.54-2005, SEC.3. 
+IC 13-18-3-2.5 CSO wet weather limited use subcategory established; application after approval of long termcontrol plan; other requirements; EPA approval; monitoring and review; rules 
+Sec. 2.5. (a) A CSO wet weather limited use subcategory is established for waters affected by receiving combined sewer overflows, as specified in an approved long term control plan. The CSO wet weather limited use subcategory applies to a specific water body after implementation of an approved long term control plan for the combined sewer system whose overflow discharges affect those waters is implemented and the conditions of subsection (b) are satisfied. The following requirements apply to the CSO wet weather limited use subcategory: 
+(1) 
+The water quality based requirements associated with the CSO wet weather limited use subcategory that apply to waters affected by wet weather combined sewer overflows are determined by an approved long term control plan for the combined sewer system. The water quality based requirements remain in effect during the time and to the physical extent that the recreational use designation that applied to the waters immediately before the application to the waters of the CSO wet weather limited use subcategory is not attained, but for not more than four (4) days after the date the overflow discharge ends. 
+
+(2) 
+At all times other than those described in subdivision (1), the water quality criteria associated with the appropriate recreational use designation that applied to the waters immediately before the application to the waters of the CSO wet weather limited use subcategory apply unless there is a change in the use designation as a result of a use attainability analysis. 
+
+
+(b) The CSO wet weather limited use subcategory applies if: 
+(1) 
+the department has approved a long term control plan for the NPDES permit holder for the combined sewer system; 
+
+(2) 
+the approved long term control plan: 
+
+(A) 
+is incorporated into: 
+
+(i)
+ the NPDES permit holder’s NPDES permit; or 
+
+(ii) 
+an order of the commissioner under IC 13-14-2-6; 
+
+
+
+(B) 
+satisfies the requirements of section 2.3 of this chapter; and 
+
+(C) 
+specifies the water quality based requirements that apply to combined sewer overflows during and immediately following wet weather events, as provided in subsection (a)(1); 
+
+
+
+(3) 
+the NPDES permit holder has implemented the approved long term control plan; and 
+
+(4) 
+subject to subsection (c), 40 CFR 131.10, 40 CFR 131.20, and 40 CFR 131.21 are satisfied. 
+
+
+(c) 
+For purposes of subsection (b)(4), 40 CFR 131.10 may be satisfied by including appropriate data and information in the long term control plan. 
+
+(d) 
+The department shall implement the CSO wet weather limited use subcategory and associated water quality based requirements under this section when the subcategory and requirements are approved by the United States Environmental Protection Agency. The department shall seek approval of the United States Environmental Protection Agency in a timely manner. 
+
+(e) 
+The NPDES permit holder shall monitor its discharges and the water quality in the affected receiving stream periodically as provided in the long term control plan. The NPDES permit holder shall provide all such information to the department. 
+
+
+(f) In conjunction with a review of its long term control plan under section 2.4 of this chapter, the NPDES permit holder shall review information generated after the use attainability analysis was approved by the department to determine whether the conclusion of the use attainability analysis is still valid. The NPDES permit holder shall provide the results of the review to the department. 
+(g) The board shall adopt rules under IC 13-14-8 and IC 13-14-9 to implement this section before October 1, 2006. As added by P.L.140-2000, SEC.20. Amended by P.L.54-2005, SEC.4. 
+
+IC 13-18-3-2.6 Permit schedules of compliance 
+Sec. 2.6. (a) Where appropriate, permits shall contain schedules of compliance requiring the permittee to take specific steps to achieve expeditious compliance with applicable standards, limitations, and other requirements. 
+(b) 
+The schedule of compliance shall require compliance as soon as reasonably possible, but may remain in effect as long as the National Pollutant Discharge Elimination System (NPDES) permit requirements are in effect. 
+
+(c) 
+The department shall, at the request of the NPDES permit holder, incorporate in the permit a schedule of compliance for meeting the water quality based requirements associated with combined sewer overflows during the period of development, approval, and implementation of the long term control plan. The schedules of compliance: 
+
+(1) 
+may exceed time frames authorized under 327 IAC; and 
+
+(2) 
+may not exceed the period specified for implementation in an approved long term control plan. 
+
+
+
+(d) 
+If the term of a schedule of compliance exceeds the term of an NPDES permit, the department shall continue to implement the schedule of compliance continuously before and during each successive permit term, to the maximum duration as provided in subsection (c). The permit shall specify that the schedule of compliance lasts beyond the term of the permit. 
+
+(e) 
+Upon request of the permittee, the department shall modify NPDES permits containing water quality based requirements associated with combined sewer overflows to provide schedules of compliance as provided in subsection (c). 
+
+
+(f) The board shall adopt rules under IC 13-14-8 and IC 13-14-9 to implement this section before October 1, 2006. As added by P.L.54-2005, SEC.5. 
+
+IC 13-18-3-3 Repealed 
+(As added by P.L.1-1996, SEC.8. Repealed by P.L.133-2012, SEC.126.) 
+
+IC 13-18-3-4 Orders; review by environmental law judge 
+Sec. 4. (a) The commissioner may enter into agreed orders as provided in IC 13-30-3-6. 
+(b) An environmental law judge under IC 4-21.5-7 shall review orders and determinations of the commissioner. 
+As added by P.L.1-1996, SEC.8. 
+
+IC 13-18-3-5 Additional duties 
+Sec. 5. The board shall carry out other duties imposed by law. 
+As added by P.L.1-1996, SEC.8. 
+
+IC 13-18-3-6 Enforcement 
+Sec. 6. The water pollution control laws may be enforced under IC 13-30-3 or IC 13-14-2-6. 
+As added by P.L.1-1996, SEC.8. 
+
+IC 13-18-3-7 Orders to acquire, construct, repair, alter, or extend plants 
+Sec. 7. The commissioner may order any person to acquire, construct, repair, alter, or extend the plants that are necessary for the disposal or treatment of organic or inorganic matter that is: 
+(1) 
+causing; 
+
+(2) 
+contributing to; or 
+
+
+(3) about to cause or contribute to; a polluted condition of the waters of Indiana. 
+As added by P.L.1-1996, SEC.8. 
+
+IC 13-18-3-8 Sealing of mines and wells 
+Sec. 8. The commissioner may require the sealing of mines, oil and gas wells, brine wells, or any other subterranean strata that are: 
+(1) 
+causing; 
+
+(2) 
+contributing to; or 
+
+
+(3) about to cause or contribute to; a polluted condition of the waters of Indiana. 
+As added by P.L.1-1996, SEC.8. 
+
+IC 13-18-3-9 Entry upon property; purposes 
+Sec. 9. The department may, through any authorized agent, enter at all reasonable times in or upon any private or public property for the purpose of inspecting and investigating conditions relating to the pollution of any water of Indiana. 
+As added by P.L.1-1996, SEC.8. 
+
+IC 13-18-3-10 Assistance from other state departments, agencies, or institutions 
+Sec. 10. The department may call upon: 
+(1) 
+any state officer, board, department, or other state institution; and 
+
+(2) 
+the officers or employees of an individual entity described 
+
+
+in subdivision (1); for any assistance necessary to carry out the water pollution control laws. As added by P.L.1-1996, SEC.8. Amended by P.L.233-2015, SEC.25. 
+
+IC 13-18-3-11 Liberal construction 
+Sec. 11. Since the water pollution control laws are necessary for the public health, safety, and welfare, the water pollution control laws shall be liberally construed to effectuate the purposes of the water pollution control laws. As added by P.L.1-1996, SEC.8. 
+
+IC 13-18-3-12 Adoption of rules waiving requirement of submission of plans 
+Sec. 12. The board shall adopt rules providing that whenever a person submits plans to a unit concerning the design or construction of: 
+(1) 
+a sanitary sewer or public water main, if: 
+
+(A) 
+a professional engineer who is registered under IC 25-31 prepared the plans; 
+
+(B) 
+the unit provided for review of the plans by a qualified engineer and subsequently approved the plans; and 
+
+(C) 
+all other requirements specified in rules adopted by the board are met; or 
+
+
+
+(2) 
+a sanitary sewer extension for and within a subdivision, if: 
+
+(A) 
+a qualified professional surveyor who is registered under IC 25-21.5 prepared the plans; 
+
+(B) 
+the subdivision is being laid out or having been laid out by the professional surveyor subject to IC 25-21.5-7; 
+
+(C) 
+the unit provided for review of the plans by a qualified engineer and subsequently approved the plans; and 
+
+(D) 
+all other requirements specified in rules adopted by the 
+
+
+
+
+board are met; the plans are not required to be submitted to any state agency for a permit, permission, or review, unless required by federal law. As added by P.L.104-1998, SEC.1. Amended by P.L.241-1999, SEC.1; P.L.133-2012, SEC.127; P.L.57-2013, SEC.10; P.L.113-2014, SEC.70. 
+IC 13-18-3-13 Violation of storm water runoff rules 
+Sec. 13. If a violation of 327 IAC 15-5 occurs, the department shall determine which person is responsible for committing the violation. In making this determination, the department shall, if appropriate, consider: 
+(1) 
+public records of ownership; 
+
+(2) 
+building permits issued by local units of government; or 
+
+
+(3) other relevant information. The department's determination to proceed against a person responsible for committing a violation must be based on the specific facts and circumstances related to a particular violation. As added by P.L.161-1999, SEC.1. 
+
+IC 13-18-3-14 Fund; report 
+Sec. 14. (a) The outstanding state resource water improvement fund is established. All money collected under section 2 of this chapter and any money accruing to the fund are continuously appropriated to the fund to carry out the purposes of section 2 of this chapter. Money in the fund at the end of a state fiscal year does not revert to the state general fund, unless the outstanding state resource water improvement fund is abolished. 
+(b) 
+The outstanding state resource water improvement fund shall be administered as follows: 
+
+(1) 
+The fund may be used by the department of environmental management to fund projects that will lead to overall improvement to the water quality of the affected outstanding state resource water. 
+
+(2) 
+The treasurer of state may invest the money in the fund not currently needed to meet the obligations of the fund in the same manner as other public money may be invested. 
+
+(3) 
+Any interest received accrues to the fund. 
+
+(4) 
+The expenses of administering the fund shall be paid from the fund. 
+
+
+
+(c) 
+The commissioner shall annually report to the interim study committee on environmental affairs established by IC 2-5-1.3-4 in an electronic format under IC 5-14-6: 
+
+
+(1) plans for the use and implementation of the outstanding state resource water improvement fund; and 
+(2) the balance in the fund. As added by P.L.140-2000, SEC.21. Amended by P.L.78-2009, SEC.17; P.L.53-2014, SEC.125. 
+
+IC 13-18-3-15 Terms and conditions of NPDES general permits 
+Sec. 15. (a) Subject to subsection (c), the board shall amend 327 IAC 5 and 327 IAC 15 to eliminate: 
+(1) 
+the requirement that NPDES general permit terms and conditions be contained in a rule; and 
+
+(2) 
+the terms and conditions of each NPDES general permit that is: 
+
+(A) 
+contained in that article; and 
+
+(B) 
+in effect on the effective date of this section. 
+
+
+
+
+(b) 
+The department may develop and issue NPDES general permits in accordance with 40 CFR 122.28. 
+
+(c) 
+After 327 IAC 5 and 327 IAC 15 are amended under subsection (a), the terms and conditions of an NPDES general permit under that article as they existed before the amendment remain in effect and are binding on any person regulated under the NPDES general permit until the person submits a notice of intent to be covered by an NPDES general permit developed and issued under subsection (b). 
+
+(d) 
+Any person regulated under an NPDES general permit on the effective date of the amendment required by subsection (a) must: 
+
+(1) 
+submit a notice of intent described in subsection (c) not later than ninety (90) days after the department makes the form of the notice of intent available to the person; or 
+
+(2) 
+apply for an NPDES individual permit under 327 IAC 5 to maintain permit coverage required under the Clean Water Act. 
+
+
+
+(e) 
+This section does not affect the authority of the board to adopt rules that authorize NPDES general permits. 
+
+
+As added by P.L.81-2011, SEC.2. 
+

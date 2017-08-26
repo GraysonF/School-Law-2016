@@ -1,0 +1,1283 @@
+ARTICLE 7. DRIVER'S LICENSE DIVISION 
+Rule 1. Motorized Bicycles (Repealed) 
+(Repealed by Bureau of Motor Vehicles; filed Nov 26, 1996, 4:35 p.m.: 20 IR 938) 
+Rule 1.1. Definitions; Required Documentation for Credentials 
+140 IAC 7-1.1-1 Definitions 
+Authority: IC 9-14-8-3 
+Affected: IC 3-5-2-42.5; IC 9-13-2; IC 9-24; IC 12-7-2-61 
+Sec. 1. (a) The definitions in this section apply throughout this article. 
+(b) 
+"Bureau" has the meaning set forth in IC 9-13-2-16. 
+
+(c) 
+"CDL applicant" means any person requesting a CDL, or renewal, reinstatement, or requalification thereof. 
+
+
+(d) 
+"CDL learner's permit" or "CLP" has the meaning set forth in IC 9-24-6-0.5 [IC 9-24-6 was repealed by P.L.198-2016, SECTION 451, effective July 1, 2016.]. 
+
+(e) 
+"CDL skills test" means the bureau, or a certified CDL skills test examiner, administered examination of a CDL or CDL endorsement applicant's skills as required by 49 CFR 383*. 
+
+(f) 
+"Certified CDL skills test examiner" means a person who the bureau certifies and authorizes to administer a driving skills test to any applicant for a CDL. 
+
+(g) 
+"Class" means group as set forth in 49 CFR 383.91*. 
+
+(h) 
+"Commercial driver's license" or "CDL" has the meaning set forth in 49 CFR 383.5*. 
+
+(i) 
+"Commercial motor vehicle" or "CMV" has the meaning set forth in 49 CFR 383.5*. 
+
+(j) 
+"Commission" has the meaning set forth in IC 9-13-2-32. 
+
+(k) 
+"Commissioner" has the meaning set forth in IC 9-13-2-33. 
+
+
+
+(l) 
+"Core knowledge exam" means a written test designed to verify the applicant's knowledge in the operation of a CMV as required by 49 CFR 383*. 
+
+(m) 
+"Disqualification" means any of the following actions: 
+
+(1) 
+The suspension, revocation, or cancellation of a CDL by the state or jurisdiction of issuance. A disqualification will be considered a suspension action when a person with a CDL is prohibited from operating a CMV for a determinate period of time due to the person having: 
+
+(A) 
+been convicted; or 
+
+(B) 
+refused to submit to a certified chemical test. 
+
+
+
+(2) 
+Any withdrawal of a person's privileges to drive a CMV by the state or other jurisdiction as a result of a violation of state or local law relating to motor vehicle traffic control, other than: 
+
+(A) 
+parking; 
+
+(B) 
+vehicle weight; or 
+
+
+
+(C) 
+vehicle defect; 
+violations. 
+
+
+(3) 
+A determination by the Federal Motor Carrier Safety Administration or the state that a person: 
+
+(A) 
+is not qualified to operate a CMV under 49 CFR Part 391*; or 
+
+(B) 
+has committed an action that requires disqualification pursuant to 49 CFR 383*. 
+
+
+
+(n) 
+"Driver's license" has the meaning set forth in IC 9-13-2-48. 
+
+(o) 
+"Endorsement" has the meaning set forth in 49 CFR 383.5*. 
+
+
+
+(p) 
+"Endorsement knowledge test" means a test designed to verify the applicant's knowledge in the operation of a specific type of CMV as required by 49 CFR 383*. 
+
+(q) 
+"Full legal name" means, pursuant to 6 CFR 37.3*, an individual's: 
+
+(1) 
+first name; 
+
+(2) 
+middle name or names; and 
+
+
+
+(3) 
+last name or surname; without the use of initials or nicknames. 
+
+
+(r) 
+"Gross combination weight rating" or "GCWR" has the meaning set forth in 49 CFR 383.5*. 
+
+(s) 
+"Gross vehicle weight rating" or "GVWR" has the meaning set forth in 49 CFR 383.5*. 
+
+(t) 
+"Incapacitated person" means an individual who: 
+
+(1) 
+because of insanity, mental illness, mental deficiency, physical illness, infirmity is unable to: 
+
+(A) manage, in whole or in part, the individual's property; or 
+
+(B) 
+provide self-care; 
+or both; or 
+
+
+(2) 
+has a developmental disability as defined in IC 12-7-2-61. 
+
+(u) 
+"Lawful status" means a person who meets the requirements of: 
+
+(1) 
+IC 9-24-9-2.5 for a driver's license; or 
+
+(2) 
+IC 9-24-16-3.5(1) for an identification card. 
+
+
+(v)"Licensebranch"meansthecommission'sbranch officesauthorizedtoperformthefunctionsandconductthetransactions pursuant to IC 9-16 [IC 9-16 was repealed by P.L.198-2016, SECTION 197, effective July 1, 2016.]. 
+(w) 
+"Mobile home" has the meaning set forth in IC 9-13-2-103.2. 
+
+(x) 
+"Motorcycle" has the meaning set forth in IC 9-13-2-108. 
+
+
+(y) 
+"Motorcycle learner's permit" means a bureau issued permit that entitles a person to operate a motorcycle on Indiana highways subject to Indiana laws and regulations. 
+
+(z) 
+"Motorcycle license endorsement" means an authorization placed on an existing driver's license that authorizes a person to operate a motorcycle on Indiana highways. 
+
+
+(aa) "Motorcycle operational skills test" means the bureau approved standardized driving skills examination given by a state driver examiner or an approved examiner to determine whether a student has sufficient physical and mental ability to operate a motorcycle properly to qualify for a motorcycle license or motorcycle endorsement. 
+(bb) "Operator's license" means the driver's license issued under IC 9-24-3. 
+
+(cc) "Person" has the meaning set forth in IC 9-13-2-124. 
+(dd) "Qualified jurisdiction" means a country specified in 49 CFR 383.23(b)(1)(n.1)*. 
+(ee) "Residence" has the meaning set forth in IC 3-5-2-42.5. 
+(ff) "Resident" has the meaning set forth in IC 9-13-2-78. 
+(gg) "State" has the meaning set forth in IC 9-13-2-173. 
+(hh)"Statedriverexaminer"meansacommission designatedperson whosedutiesincludetheadministrationofdrivingskills 
+
+tests on the commission's behalf. 
+(ii) "Truck driver training school" has the meaning set forth in IC 9-13-2-188.5 [IC 9-13-2-188.5 was repealed by P.L.198­
+2016, SECTION 175, effective July 1, 2016.]. (jj) "Visual screening" means an eye screening that the bureau administers to: 
+(1) 
+license; 
+
+(2) 
+permit; and 
+
+
+(3) endorsement; applicants. 
+*These documents are incorporated by reference. Copies may be obtained from the Government Printing Office, 732 North Capitol Street NW, Washington, D.C. 20401 or are available for review and copying at the Indiana Bureau of Motor Vehicles, Indiana Government Center North, Fourth Floor, 100 North Senate Avenue, Indianapolis, Indiana 46204. (Bureau of Motor Vehicles; 140 IAC 7-1.1-1; filed Oct 7, 2008, 10:23 a.m.: 20081105-IR-140080215FRA; filed Nov 12, 2009, 3:44 p.m.: 20091209­IR-140090169FRA; filed Nov 25, 2014, 3:50 p.m.: 20141224-IR-140140292FRA) 
+140 IAC 7-1.1-2 License, permit, and identification card qualifications (Repealed) 
+Sec. 2. (Repealed by Bureau of Motor Vehicles; filed Nov 12, 2009, 3:44 p.m.: 20091209-IR-140090169FRA) 
+
+140 IAC 7-1.1-3 License, permit, and identification card documentation requirements 
+Authority: IC 9-14-8-3; IC 9-24 
+Affected: IC 5-26.5; IC 9-24 
+Sec. 3. (a) Each applicant for an initial, renewed, duplicate, and amended driver's license and identification card must submit qualified documents or information, or both, to the bureau to prove the applicant's identity, lawful status in the United States (U.S.), residence address, and Social Security number (SSN) or that the applicant does not qualify for an SSN, and that the applicant is an Indiana resident. An applicant for an initial driver's license includes an applicant who held an Indiana driver's license or identification card, became a non-Indiana resident, and then reestablished Indiana residency. For some requirements, the bureau may allow applicants to use one (1) or more qualified documents to satisfy more than one (1) of the requirements in this section. A U.S. citizen, as verified through bureau records or the applicant's documents, who applies for a renewed, duplicate, or amended driver's license or identification card and who otherwise qualifies for a driver's license or identification card but does not comply with the documentation requirements in this section may receive a driver's license or identification card with a notation that the driver's license or identification card may not be accepted for federal identification purposes. The bureau will only allow an applicant's documents to serve as proof for the applicable requirement in this section if the documents meet the following requirements: 
+(1) 
+Must be unaltered and valid original documents or certified facsimiles from the issuing agency. 
+
+(2) 
+Must be: 
+
+(A) 
+in the English language; or 
+
+(B) 
+be presented with a verifiably accurate English translation of the document. 
+
+
+
+
+(b) All applicants for an initial, renewed, duplicate, or amended Indiana driver's license or identification card must comply with the requirements in this subsection one (1) time, except for non-U.S. citizens, as verified through bureau records or the applicant's documents, who must comply with the requirements in this subsection each time the applicant applies for an initial, renewed, duplicate, or amended Indiana driver's license or identification card. This subsection does not apply to a U.S. citizen, as verified through bureau records or the applicant's documents, who applies for a renewed, duplicate or amended driver's license or identification card with a notation that the driver's license or identification card may not be accepted for federal identification purposes. An applicant must show proof of the following: 
+(1) 
+Identity, which includes full legal name and date of birth, by presenting one (1) of the following documents: 
+
+(A) 
+An unexpired U.S. passport or U.S. passport card. 
+
+(B) 
+A certified birth certificate, and if applicable a certified amended birth certificate showing a change in name, date of birth, or gender, filed with a state office of vital statistics, or equivalent state entity, in the applicant's state of birth. 
+
+(C) 
+A Consular Report of Birth Abroad issued by the U.S. State Department (Form FS-240, Form DS-1350, or Form FS-545). 
+
+(D) 
+An unexpired U.S. Department of Homeland Security (DHS) or U.S. Immigration and Naturalization Service (INS) issued Permanent Resident Card (Form 1-551) for those individuals whose authorized admittance and lawful status can be verified by the DHS. 
+
+(E) 
+An unexpired DHS issued Employment Authorization Document (Form I-688B or Form 1-766) for those individuals whose authorized admittance and lawful status can be verified by the DHS. 
+
+(F) 
+An unexpired foreign passport with an unexpired U.S. visa accompanied by the approved 1-94 form documenting either the applicant's most recent admittance into the U.S. or current status, or an unexpired foreign passport without a U.S. visa, for those individuals whose authorized admittance and lawful status can be verified by the DHS. 
+
+(G) 
+A DHS issued Certificate of Naturalization (Form N-550 or Form N-570) for those individuals whose authorized admittance and lawful status can be verified by the DHS. 
+
+(H) 
+A DHS issued Certificate of Citizenship (Form N-560 or Form N-561) for those individuals whose authorized admittance and lawful status can be verified by the DHS. 
+
+(I) 
+Non-U.S. citizens, as verified through bureau records or the applicant's documents, who have complied with the requirements in this subsection at least one (1) time and thereafter received an Indiana driver's license or identification card may use the Indiana driver's license or identification card for proof of identity. 
+
+(J) 
+Other documents that a U.S. federal agency issued to show identity if the bureau can verify that the document's 
+
+information is accurate. 
+
+(K) 
+An applicant whose full legal name, date of birth, or gender was changed and is different than how the corresponding information appears in any of the documents delineated in clauses (A) through (J) of this subsection must show proof of the change by presenting additional documents supporting the change, which include the following: 
+
+(i) 
+A marriage license; 
+
+(ii) 
+A divorce decree; 
+
+
+
+
+(iii) A court order approving a name change or a date of birth change; 
+(iv) 
+A certified amended birth certificate for a gender change; or 
+
+(v) 
+A physician's signed and dated statement that "(insert applicant's name) successfullyunderwent all treatment necessary to permanently change (insert applicant's name) gender from (insert prior gender) to (insert new gender).". 
+
+
+
+(2) 
+Lawful status in the U.S. by presenting the following: 
+
+(A) 
+One (1) of the documents delineated in subsections (1)(A) through (H) of this section [subdivision (1)(A) through (1)(H)]; or 
+
+(B) 
+A Notice of Action (Form I-797) document, if the bureau can verify that the DHS received it and has not denied action, and documents that a U.S. federal agency issued to show lawful status that pertain to the applicant's Notice of Action; or 
+
+(C) 
+Proof of application for asylum in the United States (Form I-589) for those individuals whose authorized admittance and lawful status can be verified by the DHS; or 
+
+(D) 
+Other documents that a U.S. federal agency issued to show lawful status if the bureau can verify that the document's information is accurate and the person has lawful status in the U.S. 
+
+
+
+(3) 
+Being an Indiana resident and of the applicant's residence address, which may not be a post office box, by submitting the bureau's form entitled "Indiana Residency Affidavit" by the following: 
+
+
+(A) An applicant who is an incapacitated person. A person who: 
+(i) 
+is the applicant's legal guardian or caregiver; 
+
+(ii) 
+is at least eighteen (18) years of age; and 
+
+
+(iii) resides with the applicant must sign the form at a license branch. Thelegal guardian or caregiver must showproofofidentitybyprovidingone(1)documentfromthelistin subdivision (1), proof of residence address by providing two (2) documents from the list in subdivision (4), providing information detailing their relationship tothe applicant, providing the guardianship documents ifapplicable, and presenting a valid Indiana driver's license or identification card. 
+(B) 
+Homeless applicants without a residence address. A person who is a legal representative of a government entity or a not-for-profit organization, identified as such under 26 U.S.C. Sec. 501(c)(3)*, must sign the form. Additionally, the applicant must provide a letter from the government entity or not-for-profit organization on its letterhead containing the entity or organization's name, address, and telephone number, and the legal representative's name, signature, and signature date. The legal representative must state in the letter that the entity or organization provides services to the applicant and will accept delivery of mail for the applicant. 
+
+(C) 
+Applicants who are unable to comply with the requirements in clause (A), (B), (D), or (E) of this subdivision. A person with whom the applicant resides must: 
+
+(i) 
+sign the form at a license branch at the time of the application; and 
+
+(ii) 
+present: (AA) a valid Indiana driver's license or identification card; (BB) proof of identity by providing one (1) document from the list in subdivision (1); and 
+
+
+(CC) proof of residence address by providing two (2) documents from the list in subdivision (4). 
+
+(D) 
+An applicant who resides in a motor vehicle, including but not limited to a mobile home or motor home. Another person who is an Indiana resident with a residence address must: 
+
+(i) 
+sign the form and attest that the applicant may use the person's residence address for record purposes; and 
+
+(ii) 
+must show proof of residence address by providing two (2) documents from the list provided in subdivision 
+
+
+
+
+(4). The applicant must provide proof of paying Indiana income taxes for the current year or immediately prior year, and have current motor vehicle title and registration records with the bureau. 
+(E)Applicantswith rural routemail deliveryaddresses. Each oftheseapplicantsmustalsoprovideaproperlycertified government issued document containing the applicant's name and description of the residence's location. 
+(4) 
+Being an Indiana resident and of the applicant's residence address, which may not be a post office box, by presenting a valid and active identification card issued to the applicant pursuant to the Indiana attorney general's address confidentiality program under IC 5-26.5, or by submitting two (2) documents showing proof of being an Indiana resident and two (2) documents showing the applicant's residence address. Additionally, each applicant enrolled in a truck driver training school located in Indiana must show proof of enrollment and present the applicant's out-of-state driver's license. Qualifying documents include the following: 
+
+(A) 
+A U.S. Postal Service change of address confirmation (Form CNL107) containing the applicant's old and new addresses. 
+
+(B) 
+A survey of the applicant's Indiana property produced by a licensed surveyor containing the applicant's name and residence address. 
+
+(C) 
+An Indiana voter registration card. 
+
+(D) 
+A utility company, credit card, doctor, or hospital bill: 
+
+(i) 
+issued within sixty (60) days of the application date; and 
+
+(ii) 
+containing the applicant's name and residence address. 
+
+
+
+(E) 
+A residence mortgage or similar loan contract, or lease or rental contract, containing: 
+
+(i) 
+the applicant's name, residence address; and 
+
+(ii) 
+signatures from the parties needed to execute the agreement. 
+
+
+
+(F) 
+A bank statement or bank transaction receipt, dated within sixty (60) days of the application date, containing the: 
+
+(i) 
+bank's name and mailing address; and 
+
+(ii) 
+the applicant's name and residence address. 
+
+
+
+(G) 
+A current motor vehicle loan payment book for a motor vehicle registered in the applicant's name, and containing the applicant's name and residence address. 
+
+(H) 
+A current valid homeowner's, renter's, or car insurance policy dated within one (1) year of the application date, containing the applicant's name and residence address. 
+
+(I) 
+A W-2 Form, property tax or excise tax bill, or Social Security Administration or other pension or retirement annualbenefitssummarystatement,datedwith thecurrent or immediatelyprior year, containing theapplicant'sname and residence address. 
+
+(J) 
+A preprinted pay stub, dated within sixty (60) days of the application date, containing the: 
+
+(i) 
+employer's name and address; and 
+
+(ii) 
+the applicant's name and residence address. 
+
+
+
+(K) 
+An Indiana family and social services administration issued child support check stub, or Medicaid or Medicare benefit statement, dated within sixty (60) days of the application date, containing the applicant's name and address. 
+
+(L) 
+A valid Indiana handgun permit containing the applicant's: 
+
+(i) 
+name; 
+
+(ii) 
+signature; 
+
+
+(iii) residence address; and 
+(iv) date of birth. 
+
+(M) 
+First-class mail from any federal or state court or agency, dated within sixty (60) days of the application date, containing the applicant's name and residence address. 
+
+
+
+(5) 
+Having a valid SSN or that the person does not qualify for an SSN by presenting one (1) SSN document or an SSA document, dated within sixty (60) days of the application date, establishing that the person does not qualify for an SSN. The applicant'sSSN,or SSAdocumentation showing that theapplicantdoesnotqualifyfor an SSN,presentedtothebureaumust match the information that the SSA has in its records for the SSN or for the SSA documentation. The following documents, containing the applicant's name and SSN, qualify to show proof of having a valid SSN: 
+
+
+(A) 
+SSA issued Social Security card. 
+
+(B) 
+A W-2 form. 
+
+(C) 
+A Form 1099. 
+
+(D) 
+A preprinted pay stub containing the employer's name. 
+
+
+(c) 
+Subject to the requirements in subsection (b) of this section, to receive a duplicate or renewed Indiana driver's license or identification card, an applicant must do the following: 
+
+(1) 
+Verify that the applicant's: 
+
+(A) 
+full legal name; 
+
+(B) 
+date of birth; 
+
+(C) 
+SSN; and 
+
+
+
+(D) 
+residence address; 
+are current, accurate, and match the information existing in the bureau's records. 
+
+
+(2) 
+Applicants without an SSN must present an SSA document, dated within sixty (60) days of the application date, establishing that the person does not qualify for an SSN. 
+
+
+
+(d) 
+Subject to the requirements in subsection (b) of this section, to receive an amended Indiana driver's license or identification card an applicant must do the following: 
+
+(1) 
+Provide the applicant's existing driver's license or identification card, or verify that the applicant's: 
+
+(A) 
+full legal name; 
+
+(B) 
+date of birth; 
+
+(C) 
+SSN; and 
+
+
+
+(D) 
+residence address; 
+are current, accurate, and match the information existing in the bureau's records. 
+
+
+(2) 
+Applicants without an SSN must present an SSA document, dated within sixty (60) days of the application date, establishing that the person does not qualify for an SSN. 
+
+(3) 
+Present qualified documentation as proof for the requested change as follows: 
+
+(A) 
+To show proof of the applicant's new full legal name, the applicant must submit one (1) of the following documents: 
+
+(i) 
+An unexpired U.S. passport or U.S. passport card. 
+
+(ii) 
+A certified birth certificate, and if applicable a certified amended birth certificate showing a change in name, date of birth, or gender, filed with a state office of vital statistics, or equivalent state entity, in the applicant's state of birth. 
+
+
+(iii) A Consular Report of Birth Abroad issued by the U.S. State Department (Form FS-240, Form DS-1350, or Form FS-545). 
+(iv) 
+An unexpired U.S. Department of Homeland Security (DHS) or U.S. Immigration and Naturalization Service (INS) issued Permanent Resident Card (Form 1-551). 
+
+(v) 
+An unexpired DHS issued Employment Authorization Document (Form I-688B or Form 1-766). 
+
+(vi) 
+An unexpired foreign passport with an unexpired U.S. visa accompanied by the approved 1-94 form documenting either the applicant's most recent admittance into the U.S. or current status, or an unexpired foreign passport without a U.S. visa for those individuals whose authorized admittance and status can be verified by the DHS. 
+
+
+(vii) A DHS issued Certificate of Naturalization (Form N-550 or Form N-570). 
+(viii) A DHS issued Certificate of Citizenship (Form N-560 or Form N-561). 
+(ix) 
+Other documents that a U.S. federal agency issued to show identity if the bureau can verify that the document's information is accurate. 
+
+(x) 
+A marriage license. 
+
+(xi) 
+A divorce decree. 
+
+
+(xii) Adoption papers. 
+(xiii) A court ordered name change. 
+
+(B) 
+To show proof of the applicant's amended date of birth, the applicant must submit one (1) of the following 
+
+
+
+
+
+
+documents: 
+(i) 
+A certified amended birth certificate; or 
+
+(ii) 
+A court ordered date of birth change. 
+
+
+(C) 
+To show proof of the applicant's gender change, the applicant must submit one (1) of the following documents: 
+
+(i) 
+A certified amended birth certificate; or 
+
+(ii) 
+A physician's signed and dated statement that "(insert applicant's name) successfullyunderwent all treatment necessary to permanently change (insert applicant's name) gender from (insert prior gender) to (insert new gender).". 
+
+
+
+(D) 
+To show proof of the applicant's new residence address, the applicant must submit the Indiana residency affidavit pursuant to subsection (b)(3) of this section, or two (2) of the documents from the list in subsection (b)(4) of this section. 
+
+(E) 
+To show proof of the applicant's new SSN, the applicant must present one (1) of the documents from the list in subsection (b)(5) of this section containing the applicant's new SSN. 
+
+
+(e) An applicant maypetition the commissioner or the commissioner's designee toaccept reasonable, authentic, and verifiable alternative documents upon the applicant proving that the applicant is reasonably unable to meet the requirements in this section. However, non-U.S. citizens, as verified through bureau records or the applicant's documents, may not use alternate documents to demonstrate lawful status. 
+*These documents are incorporated by reference. Copies may be obtained from the Government Printing Office, 732 North Capitol Street NW, Washington, D.C. 20401 or are available for review and copying at the Indiana Bureau of Motor Vehicles, Indiana Government Center North, Fourth Floor, 100 North Senate Avenue, Indianapolis, Indiana 46204. (Bureau of Motor Vehicles; 140 IAC 7-1.1-3; filed Nov 12, 2009, 3:44 p.m.: 20091209-IR-140090169FRA, eff Jan 1, 2010; readopted filed Nov 24, 2015, 4:18 p.m.: 20151223-IR-140150108RFA) 
+
+140 IAC 7-1.1-4 Documentation for individuals with conditions causing appearance of intoxication 
+Authority: IC 9-14-8-3; IC 9-24-11-2; IC 9-24-11-9 
+Affected: IC 9-24 
+
+Sec. 4. An applicant for a driver's license issued under IC 9-24-11-9, which contains the distinctive color coding indicating that the person has a medical condition causing the person to appear intoxicated, must obtain the original or renewed physician's certificate not more than thirty (30) days prior to the application date. (Bureau of Motor Vehicles; 140 IAC 7-1.1-4; filed Oct 7, 2008, 10:23 a.m.: 20081105-IR-140080215FRA; readopted filed Nov 3, 2014, 1:43 p.m.: 20141203-IR-140140375RFA) 
+Rule 1.2. Interim License; Temporary Invalidation; Address Change 
+
+140 IAC 7-1.2-1 Issuance of interim license or identification card 
+Authority: IC 9-14-8-3; IC 9-24 
+Affected: IC 9-24 
+
+Sec. 1. The bureau may issue an interim Indiana driver's license for specified periods to those individuals who meet all of the requirements for obtaining an Indiana driver's license or identification card and are in one (1) of the following situations: 
+(1) 
+The person is applying at a time when the bureau's system or systems used for the driver's license issuing process is not properly operating. 
+
+(2) 
+The person is applying for an initial, duplicate, amended, or renewed driver's license or identification card, unless the person possesses the person's Indiana driver's license or identification card that does not expire for at least fourteen (14) [sic] after the application date. 
+
+(3) 
+The person is applying for a renewed Indiana driver's license and the Problem Driver Pointer System indicates that the applicant's driving privileges are suspended in another state. 
+
+(4) 
+The person has an Indiana driver's license, is traveling outside the state, and is unable to return to the state in time to renew the person's driver's license. 
+
+(5) 
+The person has an Indiana driver's license, is traveling outside the state, and lost the person's Indiana driver's license while traveling outside the state. 
+
+(6) 
+The person is applying and the bureau determines that the person might be the victim of an image conflict or fraud, or a discrepancy exists in the person's information when the bureau seeks to verify its accuracy with records that the federal government maintains. 
+
+(7) 
+The person received an interim permit and the bureau requires additional time to investigate or review the person's information. 
+
+
+(Bureau of Motor Vehicles; 140 IAC 7-1.2-1; filed Oct 7, 2008, 10:23 a.m.: 20081105-IR-140080215FRA; filed Nov 12, 2009, 
+3:44 p.m.: 20091209-IR-140090169FRA, eff Jan 1, 2010; readopted filed Nov 24, 2015, 4:18 p.m.: 20151223-IR-140150108RFA) 
+Rule 2. Motorcycle Operator Licensing Regulations 
+
+140 IAC 7-2-1 Definitions (Repealed) 
+Sec. 1. (Repealed by Bureau of Motor Vehicles; filed Oct 7, 2008, 10:23 a.m.: 20081105-IR-140080215FRA) 
+
+140 IAC 7-2-2 Motorcycle learner's permit (Repealed) 
+Sec. 2. (Repealed by Bureau of Motor Vehicles; filed Oct 7, 2008, 10:23 a.m.: 20081105-IR-140080215FRA) 
+
+140 IAC 7-2-3 Motorcycle temporary learner's permit (Repealed) 
+Sec. 3. (Repealed by Bureau of Motor Vehicles; filed Oct 7, 2008, 10:23 a.m.: 20081105-IR-140080215FRA) 
+
+140 IAC 7-2-4 Motorcycle license endorsement (Repealed) 
+Sec. 4. (Repealed by Bureau of Motor Vehicles; filed Oct 7, 2008, 10:23 a.m.: 20081105-IR-140080215FRA) 
+
+140 IAC 7-2-5 Motorcycle written test 
+Authority: IC 9-14-8-3 
+Affected: IC 9-24-8 
+Sec. 5. Any person who passed the written test to obtain a motorcycle learner's permit is not required to take the written test at the time of application for a motorcycle license endorsement or a motorcycle operator's license. The written test will consist of twenty-five (25) questions, twenty-one (21) of which must be answered correctly for a passing score. (Bureau of Motor Vehicles; 140 IAC 7-2-5; filed Apr 28, 1981, 9:35 a.m.: 4 IR 900; filed Nov 9, 1983, 3:40 p.m.: 7 IR 25; readopted filed Oct 17, 2001, 4:01 p.m.: 25 IR 920; readopted filed Nov 14, 2007, 1:31 p.m.: 20071212-IR-140070562RFA; filed Oct 7, 2008, 10:23 a.m.: 20081105­IR-140080215FRA; readopted filed Nov 3, 2014, 1:43 p.m.: 20141203-IR-140140375RFA) 
+
+140 IAC 7-2-6 Motorcycle skills test 
+Authority: IC 9-14-8-3 
+Affected: IC 9-24-8 
+Sec. 6. (a) An applicant for motorcycle endorsement or motorcycle operator's license must take an operational skills test administeredbyaperson whomthecommissioner,or hisor her designee,approvesasamotorcycleoperationalskillstestexaminer. No person who has been an instructor or owner of a school offering motorcycle instruction for a fee may administer an operational skills test to an applicant who was a student of such school. 
+(b) 
+The operational skills test must include maneuvers with a motorcycle involving proper starting, stopping, turning, braking, riding through obstacles, changing traffic lanes, and the testing of other areas of riding skills. The applicant must receive 
+
+fewer than eleven (11) penalty points to pass the skills test. If the applicant is assessed eleven (11) penalty points any time prior to the completion of the test, the examination attempt will be terminated. 
+
+(c) 
+A person who fails the operational skills test must wait until the next business day before being allowed to retake the operational skills test. 
+
+(d) All persons must wear a motorcycle helmet during the operational skills test. 
+
+(e) 
+Every applicant must sign a waiver of liability prior to taking an operational skills test. The waiver must include the following information: 
+
+(1) 
+The applicant understands they are taking a motorcycle operational skills test and believes they are qualified to take such test. 
+
+(2) 
+The applicant will hold the commission, the state, the owners of the test site, and the motorcycle examiner harmless for any injury that the applicant or the applicant's motorcycle and equipment, or all, might sustain from any accident during the operational skills test. 
+
+
+
+
+(Bureau of Motor Vehicles; 140 IAC 7-2-6; filed Apr 28, 1981, 9:35 a.m.: 4 IR 901; filed Nov 9, 1983, 3:40 p.m.: 7 IR 25; errata filed Aug 10, 1992, 3:00 p.m.: 15 IR 2595; readopted filed Oct 17, 2001, 4:01 p.m.: 25 IR 920; readopted filed Nov 14, 2007, 1:31 p.m.: 20071212-IR-140070562RFA; filed Oct 7, 2008, 10:23 a.m.: 20081105-IR-140080215FRA; readopted filed Nov 3, 2014, 
+1:43 p.m.: 20141203-IR-140140375RFA) 
+
+140 IAC 7-2-7 Operational skills test waiver (Repealed) 
+Sec. 7. (Repealed by Bureau of Motor Vehicles; filed Nov 9, 1983, 3:40 p.m.: 7 IR 27) 
+
+140 IAC 7-2-8 Motorcycle learner's permits; suspension or revocation (Repealed) 
+Sec. 8. (Repealed by Bureau of Motor Vehicles; filed Nov 9, 1983, 3:40 p.m.: 7 IR 27) 
+
+140 IAC 7-2-9 Fees for operational skills test 
+Authority: IC 9-14-8-3 
+Affected: IC 9-24-8; IC 9-29 
+Sec. 9. An applicant for a motorcycle operational skills test shall pay the lawful fee to the approved motorcycle examiner prior to taking the operational skills test. A bureau approved organization that provides operational skills tests may charge reasonable fees for each operational skills test that the organizational administers in an amount to cover its reasonable administrative costs and five dollars ($5) for the operational skills test examiner. Fees collected by a certified motorcycle examiner who is not a state employee shall be retained by such examiner for services rendered. (Bureau of Motor Vehicles; 140 IAC 7-2-9; filed Apr 28, 1981, 9:35 a.m.: 4 IR 901; filed Nov 9, 1983, 3:40 p.m.: 7 IR 26; readopted filed Jul 30, 2001, 10:30 a.m.: 24 IR 4231; readopted filed Nov 14, 2007, 1:31 p.m.: 20071212-IR-140070562RFA; filed Oct 7, 2008, 10:23 a.m.: 20081105-IR­140080215FRA; readopted filed Nov 3, 2014, 1:43 p.m.: 20141203-IR-140140375RFA) 
+
+140 IAC 7-2-10 Approved motorcycle examiners; qualifications 
+Authority: IC 9-14-8-3 
+Affected: IC 9-24-8 
+Sec. 10. An applicant to be an approved motorcycle skills test examiner must meet the following qualifications: 
+(1) 
+Be twenty-one (21) years of age or older. 
+
+(2) 
+Possess a valid Indiana operator's, chauffeur's, or public passenger chauffeur's driver's license with a motorcycle endorsement, or a motorcycle operator's driver's license. 
+
+(3) 
+Have successfully completed a bureau approved motorcycle safety training course. 
+
+(4) 
+An approved motorcycle skills test examiner must give a minimum of five (5) operational skills tests each year to maintain the approval. 
+
+
+(Bureau of Motor Vehicles; 140 IAC 7-2-10; filed Apr 28, 1981, 9:35 a.m.: 4 IR 902; filed Nov 9, 1983, 3:40 p.m.: 7 IR 26; readopted filed Jul 30, 2001, 10:30 a.m.: 24 IR 4231; readopted filed Nov 14, 2007, 1:31 p.m.: 20071212-IR-140070562RFA; filed Oct 7, 2008, 10:23 a.m.: 20081105-IR-140080215FRA; readopted filed Nov 3, 2014, 1:43 p.m.: 20141203-IR­140140375RFA) 
+
+140 IAC 7-2-11 Licensing of motorcycle training instructors 
+Authority: IC 9-14-8-3 
+Affected: IC 9-24-8; IC 9-24-10 
+Sec.11.Motorcycletraininginstructors,exceptthosecertifiedtoteachmotorcycleinstruction bythesuperintendentofpublic instruction, shall be required to be licensed in and are subject to the requirements and discipline provisions IC 9-27-4 [IC 9-27-4 was repealed by P.L.1-2010, SECTION 156, effective March 12, 2010.] and 140 IAC 4-1, pertaining to commercial driving schools and instructors. (Bureau of Motor Vehicles; 140 IAC 7-2-11; filed Apr 28, 1981, 9:35 a.m.: 4 IR 902; filed Nov 9, 1983, 3:40 p.m.: 7 IR 26; readopted filed Jul 30, 2001, 10:30 a.m.: 24 IR 4231; readopted filed Nov 14, 2007, 1:31 p.m.: 20071212-IR­140070562RFA; filed Oct 7, 2008, 10:23 a.m.: 20081105-IR-140080215FRA; readopted filed Nov 3, 2014, 1:43 p.m.: 20141203­IR-140140375RFA) 
+
+140 IAC 7-2-12 Suspension or revocation of instructor license or examiner certification (Repealed) 
+Sec. 12. (Repealed by Bureau of Motor Vehicles; filed Oct 7, 2008, 10:23 a.m.: 20081105-IR-140080215FRA) 
+Rule 3. Commercial Driver's Licensing 
+
+140 IAC 7-3-1 Definitions (Repealed) 
+Sec. 1. (Repealed by Bureau of Motor Vehicles; filed Oct 7, 2008, 10:23 a.m.: 20081105-IR-140080215FRA) 
+
+140 IAC 7-3-2 General 
+Authority: IC 9-14-8-3; IC 9-24-6.1-2 
+Affected: IC 9-24-6 
+Sec. 2. (a) A person who has a CDL may not hold more than one (1) driver's license at the same time. 
+(b) A CDL shall expire at midnight on the applicant's birthday that occurs four (4) years following the CDL's issuance date. (Bureau of Motor Vehicles; 140 IAC 7-3-2; filed Jun 1, 1990, 2:16 p.m.: 13 IR 1835, eff Jul 1, 1990; filed Nov 14, 1990, 1:30 p.m.: 14 IR 555; readopted filed Jul 30, 2001, 10:30 a.m.: 24 IR 4231; readopted filed Nov 14, 2007, 1:31 p.m.: 20071212-IR­140070562RFA; filed Oct 7, 2008, 10:23 a.m.: 20081105-IR-140080215FRA; readopted filed Nov 3, 2014, 1:43 p.m.: 20141203­IR-140140375RFA) 
+140 IAC 7-3-3 Applicant (Repealed) 
+Sec. 3. (Repealed by Bureau of Motor Vehicles; filed Oct 7, 2008, 10:23 a.m.: 20081105-IR-140080215FRA) 
+
+140 IAC 7-3-3.5 Applicant 
+Authority: IC 9-14-8-3; IC 9-24-6.1-2 
+Affected: IC 9-24-6.1 
+Sec. 3.5. A CDL applicant may apply at a license branch subject to the provisions of IC 9-24-6 [IC 9-24-6 was repealed by P.L.198-2016, SECTION 451, effective July 1, 2016.] and the following: 
+(1) 
+The CDL applicant must hold a valid CDL learner's permit. 
+
+(2) 
+The applicant must pass a bureau administered or approved visual screening exam. 
+
+(3) 
+The applicant for a CMV class or endorsement type or types, or both, must pass the applicable CDL knowledge exams and CDL skills tests. 
+
+(4) 
+An applicant for a CMV class that is different than the one that the applicant's current CDL authorizes must pass all applicable CDL knowledge exams and CDL skills tests, except for the following: 
+
+(A) 
+A person who possesses the requisite endorsement for a combination vehicle (Class A) may operate a heavy straight vehicle (Class B) or a small vehicle (Class C). However, the person must have any other endorsements that might be required for the specific type of Class B or Class C vehicle being operated. 
+
+(B) 
+A person who possesses the requisite endorsement for a heavy straight vehicle (Class B) may operate a small vehicle (Class C). However, the person must have any other endorsements that might be required for the specific type of Class C vehicle being operated. 
+
+
+
+(5) 
+The applicant for an initial CDL must pass a bureau approved physical examination prior to applying for an initial CDL and every two (2) years thereafter, or a shorter period if the bureau so designates for the person. The applicant must provide a copy of a Medical Examination Report and Medical Examiner's Certificate, both signed by the qualified medical examiner or examiners who conducted the examinations. The examinations must occur within thirty (30) days prior to submitting the application. 
+
+(6) 
+The applicant must pass the records checks required by 49 CFR 383.73*. 
+
+(7) 
+The applicant must pay all required fees. 
+
+(8) 
+Theapplicant's driver's licenseor permitmaynotbesuspended, revoked, canceled, or invalidated in Indiana or anyother state, territory, federal district, or any province of the Dominion of Canada at the time of application. 
+
+(9) 
+The applicant must surrender all driver's licenses and permits at the time of application. 
+
+(10) 
+The applicant shall be issued his or her CDL subject to any restrictions on his or her driving privileges at the time of application. 
+
+(11) 
+A CDL applicant must not have held more than one (1) operator's license at the same time during the two (2) years preceding the application. 
+
+(12) 
+A CDL applicant must pass a CDL core knowledge exam and a CDL skills test that comply with minimum federal standards. *This document is incorporated by reference. Copies may be obtained from the Government Printing Office, 732 North 
+
+
+Capitol Street NW, Washington, D.C. 20401 or are available for review and copying at the Indiana Bureau of Motor Vehicles, Indiana Government Center North, Fourth Floor, 100 North Senate Avenue, Indianapolis, Indiana 46204. (Bureau of Motor Vehicles; 140 IAC 7-3-3.5; filed Oct 7, 2008, 10:23 a.m.: 20081105-IR-140080215FRA; readopted filed Nov 3, 2014, 1:43 p.m.: 20141203-IR-140140375RFA) 
+140 IAC 7-3-4 Application Authority: IC 9-14-8-3; IC 9-24-6.1-2 Affected: IC 5-26.5; IC 9-24-6.1 
+Sec. 4. (a) The application for a CDL or CDL learner's permit must include the applicant's: 
+(1) 
+full legal name, current residential address, and out-of-state address if the applicant is in Indiana to attend a truck driving training school; 
+
+(2) 
+physical description including gender, height, weight, eye color, and hair color; 
+
+(3) 
+date of birth; 
+
+(4) 
+Social Security number, or verification of the applicant's ineligibility to receive a valid Social Security number with verification of identity and lawful status in the United States; 
+
+(5) 
+signature; 
+
+(6) 
+medical and physical qualification information that this article requires; 
+
+(7) 
+out-of-state driver history, including, but not limited to, any and all operator, chauffeur, public passenger chauffeur, and commercial driver's licenses and permits, including the dates of such licenses and permits and state or states that issued them; 
+
+(8) 
+complete criminal history, based on fingerprint analysis, including arrests and disposition for applicants applying for a hazardous materials endorsement; and 
+
+(9) 
+certification that the information provided is true and accurate. 
+
+
+(b) 
+A CDL holder must immediately submit an application to the bureau for an amended CDL upon changing his or her name or residential address. 
+
+(c) 
+No person who has been a resident of this state for more than thirty (30) days may drive a CMV under the authority of a CDL that an authority outside of this state issued. 
+
+(d) 
+Any person who knowingly provides the bureau with falsified information or certifications required under this article is subject to the suspension, disqualification, or cancellation of the person's CDL for a period to be determined by the bureau. 
+
+(e) 
+An individual certified as a program participant in the address confidentiality program under IC 5-26.5 is not required to provide the individual's principal address and mailing address, but may provide an address that the office of the attorney general designates under IC 5-26.5 as the individual's principal address and mailing address. (Bureau of Motor Vehicles; 140 IAC 7-3-4; filed Jun 1, 1990, 2:16 p.m.: 13 IR 1836, eff Jul 1, 1990; filed Nov 14, 1990, 1:30 p.m.: 14 IR 555; readopted filed Jul 30, 2001, 
+
+
+10:30 a.m.: 24 IR 4231; readopted filed Nov 14, 2007, 1:31 p.m.: 20071212-IR-140070562RFA; filed Oct 7, 2008, 10:23 a.m.: 20081105-IR-140080215FRA; readopted filed Nov 3, 2014, 1:43 p.m.: 20141203-IR-140140375RFA) 
+
+140 IAC 7-3-5 Learner's permit (Repealed) 
+Sec. 5. (Repealed by Bureau of Motor Vehicles; filed Oct 7, 2008, 10:23 a.m.: 20081105-IR-140080215FRA) 
+
+140 IAC 7-3-5.5 Learner's permit validity period; renewal 
+Authority: IC 9-14-8-3; IC 9-24-6.1-2 
+Affected: IC 9-24-6.1 
+
+Sec. 5.5. (a) A CDL learner's permit shall be valid for a period of not more than one hundred eighty (180) days. 
+(b) A person may apply for the renewal of the person's CDL learner's permit two (2) times during any two (2) year period. Thus, a person with a CDL learner's permit, whether issued by Indiana or another qualified jurisdiction, may hold a CDL learner's permit for a total of not more than eighteen (18) months out of any twenty-four (24) month period. (Bureau of Motor Vehicles; 140 IAC 7-3-5.5; filed Oct 7, 2008, 10:23 a.m.: 20081105-IR-140080215FRA; readopted filed Nov 3, 2014, 1:43 p.m.: 20141203­IR-140140375RFA) 
+
+140 IAC 7-3-6 Physical examination requirements (Repealed) 
+Sec. 6. (Repealed by Bureau of Motor Vehicles; filed Oct 7, 2008, 10:23 a.m.: 20081105-IR-140080215FRA) 
+
+140 IAC 7-3-6.5 Physical examination requirements 
+Authority: IC 9-14-8-3; IC 9-24-6.1-2 
+Affected: IC 8-2.1-24-18; IC 9-24-6.1 
+
+Sec. 6.5. (a) Every CDL holder must obtain and have in the person's possession a medical examiner's certification that the CDL holder is qualified to operate a CMV either interstate or intrastate. 
+(b) The medical examination shall be performed by a licensed medical examiner pursuant to 49 CFR 391, Subpart E*. 
+(c) 
+For intrastateoperation, themedical examiner mayrecommendtheissuanceofan intrastateCDLsubjecttothefollowing restrictions: 
+
+(1) 
+Diabetes: for persons with diabetes mellitus requiring insulin treatment, the medical examiner may recommend restrictions consistent with the requirements of IC 8-2.1-24-18. The Medical Examination Report must indicate that the applicant's diabetic condition is controlled such that the applicant is not likely to lose consciousness or any loss of ability to properly control a CMV. 
+
+(2) 
+Neurological conditions: for persons with medical history or clinical diagnosis of epilepsy, seizure disorder, or other 
+
+neurological condition, the medical examiner shall state his or her opinion whether such conditions disqualify a driver from unrestricted interstate operation pursuant to 49 CFR 391.43*. If they do, the medical examiner may consider whether under specificrestrictionsthedriver maybequalified for intrastateoperation ofa CMV.Themedicalexaminer mayfind thedriver qualified for intrastate operation subject to medical restrictions only if the examiner recommends that under the specified restrictions the condition is not likely to cause loss of consciousness or any loss of ability to control a commercial motor vehicle. In addition, the driver must be seizure/epilepsy free for at least one (1) year from the last occurrence before intrastate certification is considered. In that event, the medical examiner shall specify such medical restrictions on the physical examination form accompanying the intrastate certification, or on an attached separate sheet of paper. If the driver is disqualified from interstate operation and the medical examiner does not recommend specific restrictions that may permit qualification for intrastate operation, the examination report will be construed as a recommendation that the driver is not qualified to operate CMVs. 
+
+(3) 
+Notwithstanding the provisions set forth in subdivision (1) or (2), the medical examiner shall not certify a driver who fails to meet any of the other standards set forth in 49 CFR 391.43*, except that a physician may certify and recommend that the bureau qualify such a person for intrastate operation under specific medical restrictions or instructions. 
+
+
+
+(d) 
+The expiration date for the Medical Examination Report and the Medical Examiner's Certificate must be not more than twenty-four (24) months from the date of the report and certification in the case an applicant who is medicially qualified for an interstate CDL, and not more than twelve (12) months from the date of the report and certification in the case of an applicant who is medically qualified for an intrastate CDL. The expiration date may be an earlier date than the expiration of the twelve (12) or twenty-four (24) month periods if, in the medical examiner's opinion, the interests of public highway safety or the health of the driver requires an earlier follow-up examination. 
+
+(e) 
+The driver shall submit a copy of the Medical Examination Report and Medical Examiner's Certificate to the bureau and upon its expiration shall submit a new Medical Examination Report and Medical Examiner's Certificate. The bureau shall disqualify a driver who does not maintain on file a current valid Medical Examination Report and Medical Examiner's Certificate, except that the bureau may, in its discretion, allow one (1) period of not more than thirty (30) days after a valid Medical Examination Report and Medical Examiner's Certificate has expired before issuing such disqualification. 
+
+(f) 
+A person who does not meet the requirements of 49 CFR 391* or of this section shall be disqualified from operating a CMV. In determining whether a person meets those requirements, the bureau may require the person to provide any additional information or documentation that the bureau reasonably deems necessary to make such a determination. In making such determination,thebureaumayalsorequestandconsider theadvisoryopinionoftheIndianadriver'slicensemedicaladvisoryboard, the Federal Motor Carrier SafetyAdministration's regulations, instructions tomedical examiners, conference reports on commercial driving and medical conditions, and any other relevant medical reference sources and advice. 
+
+(g) 
+The bureau shall not issue a passenger endorsement, a school bus endorsement, or a hazardous materials endorsement to a person with an intrastate restricted CDL. 
+
+
+*These documents are incorporated by reference. Copies may be obtained from the Government Printing Office, 732 North Capitol Street NW, Washington, D.C. 20401 or are available for review and copying at the Indiana Bureau of Motor Vehicles, Indiana Government Center North, Fourth Floor, 100 North Senate Avenue, Indianapolis, Indiana 46204. (Bureau of Motor Vehicles; 140 IAC 7-3-6.5; filed Oct 7, 2008, 10:23 a.m.: 20081105-IR-140080215FRA; readopted filed Nov 3, 2014, 1:43 p.m.: 20141203-IR-140140375RFA) 
+
+140 IAC 7-3-7 Commercial driver's license contents 
+Authority: IC 9-14-8-3; IC 9-24-6.1-2 
+Affected: IC 9-24-6.1 
+Sec. 7. (a) The CDL shall contain the information required by 49 CFR 383.153* and the applicant's: 
+(1) 
+full legal name. Pursuant to 6 CFR 37.17*, the name on the face of the license or card must be the same as the name on the source documents that the applicant presented to establish identity; 
+
+(2) 
+current residential address; 
+
+(3) 
+weight, hair color, and eye color; and 
+
+(4) 
+CDL number, and dates of issuance and expiration. 
+
+(b) 
+The bureau may include additional codes for additional groupings of endorsements. 
+
+
+(c) The bureau shall include information on the CDL license or CDL permit that briefly describes the applicant's medical condition that affects the person's ability to operate a CMV. 
+*These documents are incorporated by reference. Copies may be obtained from the Government Printing Office, 732 North Capitol Street NW, Washington, D.C. 20401 or are available for review and copying at the Indiana Bureau of Motor Vehicles, Indiana Government Center North, Fourth Floor, 100 North Senate Avenue, Indianapolis, Indiana 46204. (Bureau of Motor Vehicles; 140 IAC 7-3-7; filed Jun 1, 1990, 2:16 p.m.: 13 IR 1836, eff Jul 1, 1990; readopted filed Jul 30, 2001, 10:30 a.m.: 24 IR 4231; readopted filed Nov 14, 2007, 1:31 p.m.: 20071212-IR-140070562RFA; filed Oct 7, 2008, 10:23 a.m.: 20081105-IR­140080215FRA; readopted filed Nov 3, 2014, 1:43 p.m.: 20141203-IR-140140375RFA) 
+
+140 IAC 7-3-8 Classes (Repealed) 
+Sec. 8. (Repealed by Bureau of Motor Vehicles; filed Oct 7, 2008, 10:23 a.m.: 20081105-IR-140080215FRA) 
+
+140 IAC 7-3-8.5 Classes of commercial motor vehicles 
+Authority: IC 9-14-8-3; IC 9-24-6.1-2 
+Affected: IC 9-24-6.1 
+
+Sec. 8.5. In accordance with the United States Department of Transportation standards in 49 CFR 383.91*, the CMV classes are as follows: 
+(1) 
+Combination vehicle (Class A): Any combination of vehicles with a GCWR of twenty-six thousand one (26,001) pounds (eleven thousand seven hundred ninety-four (11,794) kilograms) or more provided the GVWR of the vehicle or vehicles being towed is in excess of ten thousand (10,000) pounds (four thousand five hundred thirty-six (4,536) kilograms). 
+
+(2) 
+Heavy straight vehicle (Class B): Any single vehicle with a GVWR of twenty-six thousand one (26,001) pounds (eleven thousand seven hundred ninety-four (11,794) kilograms) or more, or any such vehicle that is towing a vehicle that has a GVWR of not more than ten thousand (10,000) pounds (four thousand five hundred thirty-six (4,536) kilograms). 
+
+(3) 
+Small vehicle (Class C): Any single vehicle, or combination of vehicles, that meets neither the definition of Class A nor that of Class B as contained in this section, but that either is designed to transport sixteen (16) or more passengers including the driver, or is used in the transportation of materials found to be hazardous for the purposes of the Hazardous Materials Transportation Act and that require the motor vehicle to be placarded under the Hazardous Materials Regulations (49 CFR Part 172, Subpart F*). *These documents are incorporated by reference. Copies may be obtained from the Government Printing Office, 732 North 
+
+
+Capitol Street NW, Washington, D.C. 20401 or are available for review and copying at the Indiana Bureau of Motor Vehicles, Indiana Government Center North, Fourth Floor, 100 North Senate Avenue, Indianapolis, Indiana 46204. (Bureau of Motor Vehicles; 140 IAC 7-3-8.5; filed Oct 7, 2008, 10:23 a.m.: 20081105-IR-140080215FRA; readopted filed Nov 3, 2014, 1:43 p.m.: 20141203-IR-140140375RFA) 
+
+140 IAC 7-3-9 Core knowledge examination 
+Authority: IC 9-14-8-3; IC 9-24-6.1-2 
+Affected: IC 9-24-6.1 
+
+Sec. 9. (a) TheCDLcoreknowledgeexamination shall contain not morethan fifty(50) questions nor fewer than twenty(20) questions. The applicant must correctly answer eighty percent (80%) of the questions to have a passing score. 
+(b) 
+An applicant who fails the CDL core knowledge examination may take as many additional CDL core knowledge examinations as desired. However, the applicant, may only take one (1) CDL core knowledge examination in any single business day. 
+
+(c) 
+The results of a passed core knowledge examination shall be valid for a period of one hundred eighty (180) days after the examination date. (Bureau of Motor Vehicles; 140 IAC 7-3-9; filed Jun 1, 1990, 2:16 p.m.: 13 IR 1837, eff Jul 1, 1990; readopted filed Oct 17, 2001, 4:01 p.m.: 25 IR 921; readopted filed Nov 14, 2007, 1:31 p.m.: 20071212-IR-140070562RFA; filed 
+
+
+Oct 7, 2008, 10:23 a.m.: 20081105-IR-140080215FRA; readopted filed Nov 3, 2014, 1:43 p.m.: 20141203-IR-140140375RFA) 
+
+140 IAC 7-3-10 Endorsements 
+Authority: IC 9-14-8-3; IC 9-24-6.1-2 
+Affected: IC 9-24-6.1 
+Sec. 10. (a) The following requirements apply to a CDL holder applying for a CDL endorsement: 
+(1) 
+The applicant must pass the applicable knowledge examinations and CDL skills tests required for the specific class of license and endorsement sought. 
+
+(2) 
+An applicant whose driving privileges are disqualified, suspended, revoked, invalidated, or the subject of an equivalent action, is ineligible to apply for a CDL endorsement during the period of the disqualification, suspension, revocation, invalidation, or equivalent action. 
+
+
+(b) 
+The hazardous materials endorsement knowledge test must be taken upon application for an initial CDL or a CDL renewal. 
+
+(c) 
+CDL endorsement examinations passed shall only be valid for a period of one hundred eighty (180) days from the examination date. (Bureau of Motor Vehicles; 140 IAC 7-3-10; filed Jun 1, 1990, 2:16 p.m.: 13 IR 1837, eff Jul 1, 1990; filed Nov 14, 1990, 1:30 p.m.: 14 IR 556; readopted filed Oct 17, 2001, 4:01 p.m.: 25 IR 921; readopted filed Nov 14, 2007, 1:31 p.m.: 20071212-IR-140070562RFA; filed Oct 7, 2008, 10:23 a.m.: 20081105-IR-140080215FRA; readopted filed Nov 3, 2014, 1:43 p.m.: 20141203-IR-140140375RFA) 
+
+
+
+140 IAC 7-3-11 Skills test (Repealed) 
+Sec. 11. (Repealed by Bureau of Motor Vehicles; filed Oct 7, 2008, 10:23 a.m.: 20081105-IR-140080215FRA) 
+
+140 IAC 7-3-11.5 CDL skills test 
+Authority: IC 9-14-8-3; IC 9-24-6.1-2 
+Affected: IC 9-24-6.1 
+Sec. 11.5. (a) A CDL applicant must comply with the following CDL skills test requirements: 
+(1) 
+The CDL skills test shall be administered by a bureau certified CDL skills test examiner. 
+
+(2) 
+A CDL or endorsement, or both, applicant must take the bureau's approved CDL skills test in the CMV classification for which the applicant is seeking the CDL or endorsement, or both. 
+
+(3) 
+The CDL skills test must be administered at one (1) of the bureau's designated locations. 
+
+(4) 
+The applicant must successfully display an ability to operate the CMV properly and lawfully. 
+
+(5) 
+The applicant must pay the applicable fees for each CDL skills test to the bureau approved test site operator that administers the CDL skills test. 
+
+(6) 
+The CDL skills test is not required to be taken at the time of renewal of a CDL unless the person desires to change to a higher classification of CDL, to obtain a school bus or passenger endorsement, or to remove an air brake restriction. 
+
+(7) 
+Every applicant, prior to taking the CDL skills test, must successfully pass the core knowledge test and obtain a CDL permit in the appropriate classification. 
+
+(8) 
+Every applicant, prior to taking the CDL skills test, will be required to sign a waiver of liability. The waiver will include, but is not limited to, the following: 
+
+(A) 
+The applicant understands the type of driving skills test to be given and believes to be qualified to take the test. 
+
+(B) 
+The applicant will hold the bureau and the state harmless for any injury sustained from any accident during the CDL skills test. 
+
+
+
+(b) 
+Any person who fails a CDL skills test may take only one (1) CDL skills test in any single business day. 
+
+
+(c) The results of a passed CDL skills test shall be valid for a period of one hundred eighty (180) days from the date of the passed CDL skills test. (Bureau of Motor Vehicles; 140 IAC 7-3-11.5; filed Oct 7, 2008, 10:23 a.m.: 20081105-IR-140080215FRA; 
+readopted filed Nov 3, 2014, 1:43 p.m.: 20141203-IR-140140375RFA) 
+
+140 IAC 7-3-12 Commercial driving schools approved (Repealed) 
+Sec. 12. (Repealed by Bureau of Motor Vehicles; filed Oct 7, 2008, 10:23 a.m.: 20081105-IR-140080215FRA) 
+
+140 IAC 7-3-13 Certified CDL skills test examiner; qualifications 
+Authority: IC 9-14-8-3; IC 9-24-6.1-2 
+Affected: IC 9-24-6.1 
+
+Sec. 13. (a) To obtain the bureau's approval to be a certified CDL skills test examiner, an applicant must meet the following qualifications: 
+(1) 
+Be twenty-one (21) years of age or older. 
+
+(2) 
+Possess a valid CDL with an endorsement to operate a Class A CMV for a minimum of three (3) years, and have all other endorsements except the hazardous materials endorsement. 
+
+(3) 
+Have successfully completed a bureau approved training course. 
+
+(4) 
+Meet all requirements under 49 CFR 384.228*. 
+
+(b) 
+Certification by the bureau must not exceed a period of four (4) years. 
+
+(c) 
+Applicants under this section may reapply up to thirty (30) days prior to the end of their current certification. 
+
+
+*These documents are incorporated by reference. Copies may be obtained from the Government Printing Office, 732 North Capitol Street NW, Washington, D.C. 20401 or are available for review and copying at the Indiana Bureau of Motor Vehicles, Indiana Government Center North, Fourth Floor, 100 North Senate Avenue, Indianapolis, Indiana 46204. (Bureau of Motor Vehicles; 140 IAC 7-3-13; filed Jun 1, 1990, 2:16 p.m.: 13 IR 1838, eff Jul 1, 1990; readopted filed Oct 17, 2001, 4:01 p.m.: 25 IR 922; readopted filed Nov 14, 2007, 1:31 p.m.: 20071212-IR-140070562RFA; filed Oct 7, 2008, 10:23 a.m.: 20081105-IR­140080215FRA; readopted filed Nov 3, 2014, 1:43 p.m.: 20141203-IR-140140375RFA; filed Nov 25, 2014, 3:50 p.m.: 20141224­IR-140140292FRA) 
+
+140 IAC 7-3-14 Examiners; suspension and revocation of approval 
+Authority: IC 9-14-8-3; IC 9-24-6.1-2 
+Affected: IC 4-21.5-4; IC 9-24-6.1 
+
+Sec. 14. (a) The bureau may suspend for up to one (1) year or revoke the approval of any CDL skills test examiner after due notice and a hearing. However, under IC 4-21.5-4, the bureau may immediately suspend the approval of any CDL skills test examiner. The bureau may suspend or revoke the approval for violations, including, but not limited to, the following: 
+(1) 
+Willful or repeated violations of the laws, rules, or regulations dealing with driver's licensing. 
+
+(2) 
+Conduct in training or testing applicants that is unprofessional, intemperate, or negligent. 
+
+(3) 
+Fraud, deceit, or misrepresentation in application for approval. 
+
+(4) 
+Fraudulent, misleading, or deceptive statements in advertising, or promotion of a commercial truck driving training school. 
+
+(5) 
+Any conduct that, in the exercising of his or her discretion, the commissioner decides poses a threat to public safety or welfare, or otherwise warrants revocation or suspension. 
+
+
+(b) After the expiration of the revocation or suspension period, an examiner whose certification has been revoked or suspended may apply for reinstatement, and the bureau may reinstate within its discretion. (Bureau of Motor Vehicles; 140 IAC 7-3-14; filed Jun 1, 1990, 2:16 p.m.: 13 IR 1838, eff Jul 1, 1990; readopted filed Jul 30, 2001, 10:30 a.m.: 24 IR 4231; readopted filed Nov 14, 2007, 1:31 p.m.: 20071212-IR-140070562RFA; filed Oct 7, 2008, 10:23 a.m.: 20081105-IR-140080215FRA; readopted filed Nov 3, 2014, 1:43 p.m.: 20141203-IR-140140375RFA) 
+140 IAC 7-3-15 Fees (Repealed) 
+Sec. 15. (Repealed by Bureau of Motor Vehicles; filed Oct 7, 2008, 10:23 a.m.: 20081105-IR-140080215FRA) 
+
+140 IAC 7-3-16 Exemptions (Repealed) 
+Sec. 16. (Repealed by Bureau of Motor Vehicles; filed Oct 7, 2008, 10:23 a.m.: 20081105-IR-140080215FRA) 
+
+140 IAC 7-3-16.5 Exemptions (Repealed) 
+Sec. 16.5. (Repealed by Bureau of Motor Vehicles; filed Jun 17, 2013, 11:21 a.m.: 20130717-IR-140120377FRA) 
+
+140 IAC 7-3-17 Renewal (Repealed) 
+Sec. 17. (Repealed by Bureau of Motor Vehicles; filed Oct 7, 2008, 10:23 a.m.: 20081105-IR-140080215FRA) 
+
+140 IAC 7-3-17.5 Renewal timing and requirements 
+Authority: IC 9-14-8-3; IC 9-24-6.1-2 
+Affected: IC 9-24-6.1 
+Sec. 17.5. (a) A person with a CDL may apply to the bureau to renew the person's CDL up to one (1) year prior to the CDL's expiration date. 
+(b) 
+Except as provided in subsections (c) through (e), a person applying to renew the person's CDL is not required to take the core knowledge test, endorsement knowledge test, and CDL skills test. 
+
+(c) 
+A person applying to renew the person's CDL with a hazardous materials endorsement must pass the hazardous materials endorsement knowledge test and must pass a criminal history background check every four (4) years. 
+
+(d) 
+A person with a CDL that has been expired, disqualified, canceled, revoked, or invalidated for longer than one (1) year must pass all applicable knowledge exams and CDL skills tests prior to the issuance or renewal of a CDL. 
+
+(e) 
+A person who is applying for a CDL after having voluntarily surrendered or relinquished the person's CDL must meet all of the application requirements as if the applicant is applying for an initial CDL. (Bureau of Motor Vehicles; 140 IAC 7-3-17.5; filed Oct 7, 2008, 10:23 a.m.: 20081105-IR-140080215FRA; readopted filed Nov 3, 2014, 1:43 p.m.: 20141203-IR­140140375RFA) 
+
+
+
+140 IAC 7-3-18 Reciprocity 
+Authority: IC 9-14-8-3; IC 9-24-6.1-2; 49 CFR 383.23 
+Affected: IC 9-24-6.1; IC 9-28-1 
+Sec. 18. The bureau may issue a CDL to any person who holds a valid CDL of the same class from another state or qualified jurisdiction without requiring the person to take the CDL skills tests. A CDL holder transferring from another state or qualified jurisdiction must take the core knowledge test. The hazardous materials endorsement requires a core knowledge examination at the time of any application or renewal. (Bureau of Motor Vehicles; 140 IAC 7-3-18; filed Jun 1, 1990, 2:16 p.m.: 13 IR 1839, eff Jul 1, 1990; readopted filed Jul 30, 2001, 10:30 a.m.: 24 IR 4231; readopted filed Nov 14, 2007, 1:31 p.m.: 20071212-IR­140070562RFA; filed Oct 7, 2008, 10:23 a.m.: 20081105-IR-140080215FRA; readopted filed Nov 3, 2014, 1:43 p.m.: 20141203­IR-140140375RFA) 
+
+140 IAC 7-3-18.5 Notice of conviction 
+Authority: IC 9-14-8-3; IC 9-24-6.1-2 
+Affected: IC 9-24-6.1 
+Sec. 18.5. A CDL holder shall notify the bureau and the CDL holder's employer of any conviction for violating a state or local law relating to motor vehicle traffic control in accordance with 49 CFR 383.31. (Bureau of Motor Vehicles; 140 IAC 7-3-18.5; 
+filed Oct 7, 2008, 10:23 a.m.: 20081105-IR-140080215FRA; readopted filed Nov 3, 2014, 1:43 p.m.: 20141203-IR­140140375RFA) 
+
+140 IAC 7-3-19 Administrative hearings (Repealed) 
+Sec. 19. (Repealed by Bureau of Motor Vehicles; filed Oct 7, 2008, 10:23 a.m.: 20081105-IR-140080215FRA) 
+
+140 IAC 7-3-20 Grandfather clause (Repealed) 
+Sec. 20. (Repealed by Bureau of Motor Vehicles; filed Oct 7, 2008, 10:23 a.m.: 20081105-IR-140080215FRA) 
+
+140 IAC 7-3-21 Public passenger chauffeur's driver's license medical certification 
+Authority: IC 9-14-8-3; IC 9-24-5-1 
+Affected: IC 9-24-5 
+Sec. 21. A person applying to renew the person's public passenger chauffeur's driver's license must include a physician's medical certification dated within thirty (30) days before the expiration of the applicant's public passenger chauffeur's driver's license. (Bureau of Motor Vehicles; 140 IAC 7-3-21; filed Oct 7, 2008, 10:23 a.m.: 20081105-IR-140080215FRA; readopted filed Nov 3, 2014, 1:43 p.m.: 20141203-IR-140140375RFA) 
+Rule 4. Identity Documents Required 140 IAC 7-4-1 Definitions (Repealed) 
+Sec. 1. (Repealed by Bureau of Motor Vehicles; filed Oct 7, 2008, 10:23 a.m.: 20081105-IR-140080215FRA) 
+
+140 IAC 7-4-2 License, permit, and identification card qualifications (Repealed) 
+Sec. 2. (Repealed by Bureau of Motor Vehicles; filed Oct 7, 2008, 10:23 a.m.: 20081105-IR-140080215FRA) 
+
+140 IAC 7-4-3 Bureau of motor vehicles documentation list (Repealed) 
+Sec. 3. (Repealed by Bureau of Motor Vehicles; filed Nov 12, 2009, 3:44 p.m.: 20091209-IR-140090169FRA) 
+Rule 5. Truck Driver Training Schools 140 IAC 7-5-1 Definitions 
+Authority: IC 9-14-8-3; IC 9-24-6.1-1 
+Affected: IC 9-24-6.1-1; IC 9-27-6-4 
+Sec. 1. (a) The definitions in this section apply throughout this rule. 
+(b) "Behind-the-wheel training" means the practical portion of the student's training that takes place in a CMV. 
+(c) 
+"Classroom training" means the classroom portion of truck driver training course that instructs students on the laws and procedures regarding the proper operation of a CMV. 
+
+(d) 
+"Course" means training offered by a school for the purpose of teaching safe operation of a CMV, including classroom training and behind-the-wheel training. 
+
+(e) 
+"Instructor" has the meaning set forth in IC 9-27-6-4. 
+
+(f) 
+"Owner" means anyone with an ownership interest of any kind in the school. 
+
+(g) 
+"Student" means an individual who is actively enrolled in a truck driver training course. 
+
+
+
+(h) 
+"Truck driver training school" or "school" has the meaning set forth in IC 9-13-2-188.5 [IC 9-13-2-188.5 was repealed by P.L.198-2016, SECTION 175, effective July 1, 2016.]. 
+
+(i) 
+"Truck driver training school instructor license" or "instructor license" means the authorization from the bureau to act as an instructor. 
+
+(j) 
+"Truck driver training school license" or "license" means the authorization from the bureau to act as a school pursuant to IC 9-24-6-5.5 [IC 9-24-6 was repealed by P.L.198-2016, SECTION 451, effective July 1, 2016.]. (Bureau of Motor Vehicles; 140 IAC 7-5-1; filed Nov 25, 2014, 3:50 p.m.: 20141224-IR-140140292FRA) 
+
+
+
+140 IAC 7-5-2 Truck driver training school licensing 
+Authority: IC 9-14-8-3; IC 9-24-6.1-1 
+Affected: IC 9-24-6.1 
+Sec. 2. (a) Truck driver training schools must follow the same procedures and requirements for licensing as set forth in 140 IAC4-1.2-1includingthemandatoryinsurancecoveragerequirementsoutlinedin 140IAC4-1.5-2. However,truckdrivertraining school owners need only submit a limited criminal history background check dated within ninety (90) days of an initial or renewal school license application rather than a fingerprint-based full national criminal background check as required in 140 IAC 4-1.2­1(a) and 140 IAC 4-1.2-1(b). 
+(b) 140 IAC 4-1.2-1(h)(1) is inapplicable to truck driver training schools. (Bureau of Motor Vehicles; 140 IAC 7-5-2; filed Nov 25, 2014, 3:50 p.m.: 20141224-IR-140140292FRA) 
+
+140 IAC 7-5-3 Truck driver training school operations 
+Authority: IC 9-14-8-3; IC 9-24-6.1-1 
+Affected: IC 9-24-6.1 
+Sec. 3. (a) In addition to the following requirements, truck driver training schools must follow the same procedures and requirements for operation as set forth in 140 IAC 4-1.2-1(b) through 140 IAC 4-1.2-1(e) and 140 IAC 4-1.2-1(h) through 140 IAC 4-1.2-1(i). 
+(b) 
+Online training is not accepted for truck driver training. 
+
+(c) 
+The school is required to ascertain, before giving practical instruction, that the student possesses a valid CDL or CLP. 
+
+(d) 
+No course shall be completed in fewer than: 
+
+(1) 
+one hundred twenty (120) hours of instruction for a Class A CMV; or 
+
+(2) 
+eighty (80) hours of instruction for a Class B CMV. 
+
+(e) 
+The bureau may adopt procedures for the electronic transfer of student information, fees, and licensing as applicable. 
+
+
+(Bureau of Motor Vehicles; 140 IAC 7-5-3; filed Nov 25, 2014, 3:50 p.m.: 20141224-IR-140140292FRA) 
+
+140 IAC 7-5-4 Truck driver training school instructor licensing 
+Authority: IC 9-14-8-3; IC 9-24-6.1-1 
+Affected: IC 9-24-6.1 
+Sec. 4. (a) In addition to the following requirements, truck driver training school instructors must follow the same procedures and requirements for licensing as set forth in 140 IAC 4-1.3-1(a) through 140 IAC 4-1.3-1(f) and 140 IAC 4-1.3-1(h) through 140 IAC 4-1.3-1(i). However, truck driver training school instructors need only submit a limited criminal history background check dated within ninety (90) days of an initial or renewal instructor license application rather than a fingerprint-based full national criminal background check as required in 140 IAC 4-1.3-1(a) and 140 IAC 4-1.3-1(c). 
+(b) Applicants must hold a valid CDL before making application for an instructor's license. 
+(c) 
+The bureau shall deny an application for an instructor's license if within three (3) years prior to the application if the applicant has been convicted of operating a vehicle while under the influence of alcohol or a controlled substance. 
+
+(d) 
+The bureau may deny an application for an instructor's license if within three (3) years prior to the application if the applicant's driver's license has been suspended, revoked, canceled, or disqualified. (Bureau of Motor Vehicles; 140 IAC 7-5-4; filed 
+
+
+Nov 25, 2014, 3:50 p.m.: 20141224-IR-140140292FRA) 
+
+140 IAC 7-5-5 Truck driver training school instructor requirements 
+Authority: IC 9-14-8-3; IC 9-24-6.1-1 
+Affected: IC 9-24-6.1 
+
+Sec. 5. (a) Truck driver training school instructors shall follow the same requirements as set forth in 140 IAC 4-1.3-2. 
+(b) 140 IAC 4-1.3-2(a)(3) is inapplicable to truck driver training school instructors. Instead, instructors must ensure that the student possesses a valid CDL or CLP before giving behind-the-wheel training. (Bureau of Motor Vehicles; 140 IAC 7-5-5; filed Nov 25, 2014, 3:50 p.m.: 20141224-IR-140140292FRA) 
+
+140 IAC 7-5-6 Truck driver training licensing fees 
+Authority: IC 9-14-8-3; IC 9-24-6.1-1 
+Affected: IC 9-24-6.1; IC 21-7-13-32; IC 36-1-2-17 
+
+Sec. 6. (a) The fee for an application for an instructor's license is ten dollars ($10). 
+(b) 
+The fee for renewal of an instructor's license is ten dollars ($10). 
+
+(c) 
+The fee for an amendment of an instructor's license is five dollars ($5). 
+
+(d) 
+The fee for an application for a school license is one hundred dollars ($100) per location. 
+
+(e) 
+The fee for renewal of a school license is one hundred dollars ($100) per location. 
+
+(f) 
+The fee for an amendment of a school license is twenty dollars ($20). 
+
+
+(g) 
+School corporation as defined in IC 36-1-2-17 and state educational institutions as defined in IC 21-7-13-32 are exempt from the school license, renewal, and amendment fees. 
+
+(h) If an application for an instructor's license or a school license is denied, and the application is resubmitted within sixty 
+
+(60) 
+days of the denial, there is no fee for the resubmission. (Bureau of Motor Vehicles; 140 IAC 7-5-6; filed Nov 25, 2014, 3:50 p.m.: 20141224-IR-140140292FRA) 
+
+
+
+140 IAC 7-5-7 Criteria upon which to suspend or revoke a truck driver training school or truck driver instructor license 
+Authority: IC 9-14-8-3; IC 9-24-6.1-1 
+Affected: IC 9-24-6.1 
+
+Sec. 7. (a) The bureau may suspend or revoke the license of or issue a written warning to a school or instructor as set forth in 140 IAC 4-1.5-1(a) and 140 IAC 4-1.5-1(b). 
+(b) The bureau shall follow the procedure for suspension and revocation set forth in 140 IAC 4-1.5-1(c). (Bureau of Motor Vehicles; 140 IAC 7-5-7; filed Nov 25, 2014, 3:50 p.m.: 20141224-IR-140140292FRA) 
+
+140 IAC 7-5-8 Audits, investigations, and records 
+Authority: IC 9-14-8-3; IC 9-24-6.1-1 
+Affected: IC 9-27-6 
+
+Sec.8.(a)Thebureaumayauditor investigatean owner or school toconfirm compliancewith Indiana lawsandrulesrelated to truck driver training. 
+(b) 
+Truck driver training schools must follow the same procedures and requirements for audits and investigations as set forth in 140 IAC 4-1.5-3. 
+
+(c) 
+Truck driver training schools must maintain records as outlined in 140 IAC 4-1.5-3(b) but for six (6) years in accordance with IC 9-24-6-5.3(b) [IC 9-24-6.1 was repealed by P.L.198-2016, SECTION 451, effective July 1, 2016.]. (Bureau of Motor Vehicles; 140 IAC 7-5-8; filed Nov 25, 2014, 3:50 p.m.: 20141224-IR-140140292FRA) 
+
+
+
+140 IAC 7-5-9 Hearings 
+Authority: IC 9-14-8-3; IC 9-24-6.1-1 
+Affected: IC 4-21.5; IC 9-24-6.1 
+
+Sec. 9. An owner or instructor whose license application has been denied, or whose license or instructor license has been suspended or revoked, is entitled to an administrative hearing consistent with IC 4-21.5. (Bureau of Motor Vehicles; 140 IAC 7-5­9; filed Nov 25, 2014, 3:50 p.m.: 20141224-IR-140140292FRA) 
+
+140 IAC 7-5-10 Curriculum 
+Authority: IC 9-14-8-3; IC 9-24-6.1-1 
+Affected: IC 9-24-6.1 
+
+Sec. 10. (a) A school shall provide training that includes, but is not limited to, the following standards: 
+(1) 
+Classroom instruction on the subjects listed in 140 IAC 4-4-1.1 but as applied to the operation of a CMV. 
+
+(2) 
+Instruction and demonstration of the following in a CMV: 
+
+(A) 
+Stopping. 
+
+(B) 
+Starting. 
+
+(C) 
+Shifting. 
+
+(D) 
+Turning. 
+
+(E) 
+Lane changing. 
+
+(F) 
+Lane positioning. 
+
+(G) 
+Merging. 
+
+(H) 
+Signaling. 
+
+(I) 
+Backing. 
+
+(J) 
+Parallel parking. 
+
+(K) 
+Steering. 
+
+
+
+
+(b) The school shall not use any questions prepared by the bureau or appearing on the bureau examination when preparing questions for instructional or evaluative purposes. (Bureau of Motor Vehicles; 140 IAC 7-5-10; filed Nov 25, 2014, 3:50 p.m.: 20141224-IR-140140292FRA) 
+
+140 IAC 7-5-11 Truck driver training school vehicle standards 
+Authority: IC 9-14-8-3; IC 9-24-6.1-1 
+Affected: IC 9-24-6.1 
+
+Sec. 11. (a) Any motor vehicles owned or leased by a school for behind-the-wheel training must: 
+(1) 
+possess a current registration and license plate for that vehicle; 
+
+(2) 
+pass bureau inspection; 
+
+(3) 
+contain markings that identify the vehicle as a truck driver training vehicle that are visible from the left, right, front, and rear sides of the vehicle when operated on public roadways; and 
+
+(4) 
+be maintained in safe mechanical and physical condition. 
+
+(b) 
+The following must be kept in the vehicle at all times during behind-the-wheel training: 
+
+(1) 
+A completed school vehicle inspection form as prescribed by the bureau. 
+
+(2) 
+The vehicle registration and current insurance information. 
+
+
+(Bureau of Motor Vehicles; 140 IAC 7-5-11; filed Nov 25, 2014, 3:50 p.m.: 20141224-IR-140140292FRA) 
+* 
+
+
+

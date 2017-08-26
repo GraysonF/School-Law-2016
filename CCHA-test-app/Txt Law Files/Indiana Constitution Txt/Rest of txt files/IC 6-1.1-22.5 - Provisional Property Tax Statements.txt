@@ -1,0 +1,800 @@
+IC 6-1.1-22.5 Chapter 22.5. Provisional Property Tax Statements 
+IC 6-1.1-22.5-0.1 Application of certain amendments to chapter 
+Sec. 0.1. The amendments made to section 6 of this chapter by P.L.67-2006 apply only to property taxes first due and payable after December 31, 2005. 
+As added by P.L.220-2011, SEC.128. 
+
+IC 6-1.1-22.5-1 "Commissioner" defined 
+Sec. 1. As used in this chapter, "commissioner" refers to the commissioner of the department of local government finance. 
+As added by P.L.1-2004, SEC.37 and P.L.23-2004, SEC.40. 
+
+IC 6-1.1-22.5-2 "Provisional statement" defined 
+Sec. 2. As used in this chapter, "provisional statement" refers to a provisional property tax statement required by section 6 or 6.5 of this chapter as the context indicates. 
+As added by P.L.1-2004, SEC.37 and P.L.23-2004,SEC.40. Amended by P.L.182-2009(ss), SEC.158. 
+
+IC 6-1.1-22.5-3 "Property taxes" defined 
+Sec. 3. As used in this chapter, "property taxes" include special assessments. 
+As added by P.L.1-2004, SEC.37 and P.L.23-2004, SEC.40. 
+
+IC 6-1.1-22.5-4 "Reconciling statement" defined 
+Sec. 4. As used in this chapter, "reconciling statement" refers to a reconciling property tax statement required by section 11 of this chapter. 
+As added by P.L.1-2004, SEC.37 and P.L.23-2004, SEC.40. 
+
+IC 6-1.1-22.5-5 "Tax liability" defined 
+Sec. 5. As used in this chapter, "tax liability" includes liability for special assessments and refers to liability for property taxes after the application of all allowed deductions and credits. 
+As added by P.L.1-2004, SEC.37 and P.L.23-2004, SEC.40. 
+
+IC 6-1.1-22.5-6 Use of provisional statement authorized; notice to taxpayers and county fiscal body; transmitting of statement by electronic mail 
+Sec. 6. (a) This section applies to property taxes payable under this article on assessments determined for the 2003 assessment date or the assessment date in any later year, regardless of whether a proceeding to determine the necessity of a reassessment is being conducted under IC 6-1.1-4-5, IC 6-1.1-4-9, or another law. The county treasurer shall use a provisional statement under this chapter if the county auditor fails to deliver the abstract for that assessment date to the county treasurer under IC 6-1.1-22-5 before March 16 of the year following the assessment date (for property taxes first due and payable before 2011) or April 1 of the year following the assessment date (for property taxes first due and payable after 2010). The amount to be billed for each installment of the provisional statement is the amount determined under section 9 of this chapter. The billing must be based on the latest assessed values for property certified by the department of local government finance, as adjusted under the procedures specified by the department of local government finance. 
+(b) 
+The county treasurer shall give notice of the provisional statement, including disclosure of the method that is to be used in determining the tax liability to be indicated on the provisional statement, by publication one (1) time: 
+
+(1) in the form prescribed by the department of local government finance; and 
+
+(2) 
+in the manner described in IC 6-1.1-22-4(b). The notice may be combined with the notice required under section 10 of this chapter. 
+
+(c) 
+Subsection (a) applies regardless of whether the county auditor fails to deliver the abstract as provided in IC 6-1.1-22-5(b). Section 7 of this chapter does not apply to this section. 
+
+(d) 
+This subsection applies after June 30, 2009. Immediately upon determining to use provisional statements under subsection (a), the county treasurer shall give notice of the determination to the county fiscal body (as defined in IC 36-1-2-6). 
+
+(e) 
+In a county in which an authorizing ordinance is adopted under IC 6-1.1-22-8.1(h), a person may direct the county treasurer to transmit a provisional statement by electronic mail under IC 6-1.1-22-8.1(h). 
+
+(f) 
+The department of local government finance may waive the requirement under subsection (a) that a provisional statement must be used for property taxes first due and payable in a calendar year, if: 
+
+(1) 
+the county fiscal body or the county treasurer requests the waiver; and 
+
+(2) 
+the department of local government finance determines that: 
+
+(A) 
+the county will be able to send a property tax statement under IC 6-1.1-22 with a due date that is not later than June 10 of that calendar year; or 
+
+(B) 
+the failure to send a property tax statement under IC 6-1.1-22 in a timely manner is due to a change by the 
+
+
+
+
+
+
+county in computer software, and the county will be able to send a property tax statement under IC 6-1.1-22 with a due date that is not later than June 10 of that calendar year. 
+As added by P.L.1-2004, SEC.37 and P.L.23-2004, SEC.40. Amended by P.L.67-2006,SEC.9; P.L.118-2008, SEC.2; P.L.87-2009, SEC.10; P.L.89-2010, SEC.2; P.L.112-2012, SEC.39. 
+
+IC 6-1.1-22.5-6.5 Use of provisional statement for cross-county area 
+Sec. 6.5. (a) As used in this section, "cross-county area" refers to a cross-county entity's territory that is located in one (1) county. 
+(b) 
+As used in this section, "cross-county entity" refers to a taxing unit that is located in more than one (1) county. 
+
+(c) 
+As used in this section, "statement preparation date" refers to the date determined by the county treasurer before which the county treasurer must receive all necessary information in order to timely prepare and deliver property tax statements under IC 6-1.1-22. 
+
+(d) 
+With respect to property taxes first due and payable under this article after 2009, the county treasurer may, except as provided in section 7 of this chapter, use a provisional statement under this section if: 
+
+(1) 
+the county treasurer is not required to use provisional statements under section 6 of this chapter; and 
+
+(2) 
+the county treasurer determines that: 
+
+(A) 
+the property tax rate of a cross-county entity with cross-county area in the county has not been finally determined before the statement preparation date; and 
+
+(B) 
+the rate referred to in clause (A) has not been finally determined because the assessed valuation: 
+
+(i) in the cross-county area of a neighboring county; and 
+
+(ii) 
+on which the property taxes are based; has not been finally determined. 
+
+
+
+
+
+(e) 
+A provisional statement under this section applies only for the cross-county area in the county. If a provisional statement is used under this section, the county treasurer shall prepare and deliver property tax statements under IC 6-1.1-22 for the territory of the county that is not a cross-county area. 
+
+(f) 
+The county treasurer shall give notice of the provisional statement in the manner required by section 6(b) of this chapter. 
+
+(g) 
+Immediately upon determining to use provisional statements under this section, the county treasurer shall give notice of the determination to the county fiscal body (as defined in IC 36-1-2-6). 
+
+
+As added by P.L.182-2009(ss), SEC.159. 
+
+IC 6-1.1-22.5-7 Waiver by department of local government finance of use of provisional statement; procedure 
+Sec. 7. (a) The county auditor of a county or fifty (50) property owners in the county may, not more than five (5) days after the publication of the notice required under section 6.5(f) of this chapter, request in writing that the department of local government finance waive the use of a provisional statement under this chapter as to that county for a particular year. 
+(b) 
+With respect to the use of a provisional statement required under section 6 of this chapter, upon receipt of a request under subsection (a), the department of local government finance shall give notice of a hearing concerning the request in the manner provided by IC 5-3-1. The notice must state: 
+
+(1) 
+the date and time of the hearing; 
+
+(2) 
+the location of the hearing, which must be in the county; and 
+
+(3) 
+that the purpose of the hearing is to hear: 
+
+(A) 
+the request of the county treasurer and county auditor to waive the requirements of section 6 of this chapter; and 
+
+(B) 
+taxpayers' comments regarding that request. 
+
+
+
+
+
+(c) 
+After the hearing referred to in subsection (b), the department of local government finance may waive the use of a provisional statement under section 6 of this chapter for a particular year as to the county making the request if the department finds that the petitioners have presented sufficient evidence to establish that although the abstract required by IC 6-1.1-22-5 was not delivered in a timely manner: 
+
+(1) 
+the abstract; 
+
+(A) 
+was delivered as of the date of the hearing; or 
+
+(B) 
+will be delivered not later than a date specified by the county auditor and county treasurer; and 
+
+
+
+(2) 
+sufficient time remains or will remain after the date or anticipated date of delivery of the abstract to: 
+
+(A) 
+permit the timely preparation and delivery of property tax statements in the manner provided by IC 6-1.1-22; and 
+
+(B) 
+render the use of a provisional statement under section 6 of this chapter unnecessary. 
+
+
+
+
+
+(d) 
+With respect to a determination to use a provisional statement under section 6.5 of this chapter, upon receipt of a request under subsection (a), the department of local government finance shall give notice of a hearing concerning the request in the manner provided by IC 5-3-1. The notice must state: 
+
+(1) 
+the date and time of the hearing; 
+
+(2) 
+the location of the hearing, which must be in the county; and 
+
+(3) 
+that the purpose of the hearing is to hear: 
+
+(A) 
+the request of the county treasurer and county auditor to waive the requirements of section 6.5 of this chapter; and 
+
+(B) 
+taxpayers' comments regarding that request. 
+
+
+
+
+
+(e) 
+After the hearing referred to in subsection (d), the department of local government finance may waive the use of a provisional statement under section 6.5 of this chapter for a particular year as to the county making the request if the department finds that the 
+
+
+petitioners have presented sufficient evidence to establish that although the property tax rate of one (1) or more cross-county entities with cross-county area in the county was not finally determined before the statement preparation date: 
+(1) 
+that property tax rate: 
+
+(A) 
+was determined as of the date of the hearing; or 
+
+(B) 
+will be determined not later than a date specified by the county auditor and county treasurer; and 
+
+
+
+(2) 
+sufficient time remains or will remain after the date or anticipated date of determination of the rate to: 
+
+(A) 
+permit the timely preparation and delivery of property tax statements in the manner provided by IC 6-1.1-22; and 
+
+(B) 
+render the use of a provisional statement under section 
+
+
+
+
+6.5 of this chapter unnecessary. As added by P.L.1-2004, SEC.37 and P.L.23-2004, SEC.40. Amended by P.L.182-2009(ss), SEC.160; P.L.89-2010, SEC.3. 
+
+IC 6-1.1-22.5-8 Version a Form of provisional statement; information to be shown on statement; adjustments to tax liability 
+Note: This version of section effective until 1-1-2017. See also following version of this section, effective 1-1-2017. 
+Sec. 8. (a) Subject to subsection (c), a provisional statement must: 
+(1) 
+be on a form prescribed by the department of local government finance; 
+
+(2) 
+except as provided in emergency rules adopted under section 20 of this chapter and subsection (b): 
+
+(A) 
+for property taxes first due and payable after 2010 and billed using a provisional statement under section 6 of this chapter, indicate: 
+
+(i) 
+that the first installment of the taxpayer's tax liability is an amount equal to fifty percent (50%) of the tax liability that was payable in the same year as the assessment date for the property for which the provisional statement is issued, subject to any adjustments to the tax liability authorized by the department of local government finance under subsection (e) and approved by the county treasurer; and 
+
+(ii) 
+that the second installment is either the amount specified in a reconciling statement or, if a reconciling statement is not sent until after the second installment is due, an amount equal to fifty percent (50%) of the tax liability that was payable in the same year as the assessment date for the property for which the provisional statement is issued, subject to any adjustments to the tax liability authorized by the department of local government finance under subsection (e) and approved by the county treasurer; and 
+
+
+
+(B) 
+for property taxes billed using a provisional statement under section 6.5 of this chapter, except as provided in subsection (d), indicate tax liability in an amount determined by the department of local government finance based on: 
+
+(i) 
+subject to subsection (c), for the cross-county entity, the property tax rate of the cross-county entity for taxes first due and payable in the immediately preceding calendar year; and 
+
+(ii) 
+for all other taxing units that make up the taxing district or taxing districts that comprise the cross-county area, the property tax rates of the taxing units for taxes first due and payable in the current calendar year; 
+
+
+
+
+
+(3) 
+indicate: 
+
+(A) 
+that the tax liability under the provisional statement is determined as described in subdivision (2); and 
+
+(B) 
+that property taxes billed on the provisional statement: 
+
+(i) 
+are due and payable in the same manner as property taxes billed on a tax statement under IC 6-1.1-22-8.1; and 
+
+(ii) 
+will be credited against a reconciling statement; 
+
+
+
+
+
+(4) 
+for property taxes billed using a provisional statement under section 6 of this chapter, include a statement in the following or a substantially similar form, as determined by the department of local government finance: "Under Indiana law, ________ County (insert county) has sent provisional statements. The statement is due to be paid in installments on __________ (insert date) and ________ (insert date). The first installment is equal to fifty percent (50%) of your tax liability for taxes payable in ______ (insert year), subject to adjustment to the tax liability authorized by the department of local government finance and approved by the county treasurer. The second installment is either the amount specified in a reconciling statement that will be sent to you, or (if a reconciling statement is not sent until after the second installment is due) an amount equal to fifty percent (50%) of your tax liability for taxes payable in ______ (insert year), subject to adjustment to the tax liability authorized by the department of local government finance and approved by the county treasurer. After the abstract of property is complete, you will receive a reconciling statement in the amount of your actual tax liability for taxes payable in ______ (insert year) minus the amount you pay under this provisional statement."; 
+
+(5) 
+for property taxes billed using a provisional statement under section 6.5 of this chapter, include a statement in the following or a substantially similar form, as determined by the department of local government finance: "Under Indiana law, ________ County (insert county) has elected to send provisional statements for the territory of __________________ (insert cross-county entity) located in 
+
+________ County (insert county) because the property tax rate for ________________ (insert cross-county entity) was not available in time to prepare final tax statements. The statement is due to be paid in installments on __________ (insert date) and _________ (insert date). The statement is based on the property tax rate of _________________ (insert cross-county entity) for taxes first due and payable in _____ (insert immediately preceding calendar year). After the property tax rate of ________________ (insert cross-county entity) is determined, you will receive a reconciling statement in the amount of your actual tax liability for taxes payable in _____ (insert year) minus the amount you pay under this provisional statement."; 
+
+(6) 
+indicate any adjustment to tax liability under subdivision (2) authorized by the department of local government finance under subsection (e) and approved by the county treasurer for: 
+
+(A) 
+delinquent: 
+
+(i)
+ taxes; and 
+
+(ii) 
+special assessments; 
+
+
+
+(B) 
+penalties; and 
+
+(C) 
+interest; 
+
+
+
+(7) 
+in the case of a reconciling statement only, include: 
+
+(A) 
+a checklist that shows: 
+
+(i) 
+homestead credits under IC 6-1.1-20.4, IC 6-3.5-6-13, or another law and all property tax deductions; and 
+
+(ii) 
+whether each homestead credit and property tax deduction were applied in the current provisional statement; 
+
+
+
+(B) 
+an explanation of the procedure and deadline that a taxpayer must follow and the forms that must be used if a credit or deduction has been granted for the property and the taxpayer is no longer eligible for the credit or deduction; and 
+
+(C) 
+an explanation of the tax consequences and applicable penalties if a taxpayer unlawfully claims a standard deduction under IC 6-1.1-12-37 on: 
+
+(i)
+ more than one (1) parcel of property; or 
+
+(ii) 
+property that is not the taxpayer's principal place of residence or is otherwise not eligible for a standard deduction; and 
+
+
+
+
+
+(8) 
+include any other information the county treasurer requires. 
+
+
+(b) The county may apply a standard deduction, supplemental standard deduction, or homestead credit calculated by the county's property system on a provisional bill for a qualified property. If a provisional bill has been used for property tax billings for two (2) consecutive years and a property qualifies for a standard deduction, supplemental standard deduction, or homestead credit for the second year a provisional bill is used, the county shall apply the standard deduction, supplemental standard deduction, or homestead credit calculated by the county's property system on the provisional bill. 
+(c) For purposes of this section, property taxes that are: 
+(1) 
+first due and payable in the current calendar year on a provisional statement under section 6 or 6.5 of this chapter; and 
+
+(2) 
+based on property taxes first due and payable in the immediately preceding calendar year or on a percentage of those property taxes; 
+
+
+are determined after excluding from the property taxes first due and payable in the immediately preceding calendar year property taxes imposed by one (1) or more taxing units in which the tangible property is located that are attributable to a levy that no longer applies for property taxes first due and payable in the current calendar year. 
+(d) If there was no property tax rate of the cross-county entity for taxes first due and payable in the immediately preceding calendar year for use under subsection (a)(2)(B), the department of local government finance shall provide an estimated tax rate calculated to approximate the actual tax rate that will apply when the tax rate is finally determined. 
+(e) The department of local government finance shall: 
+(1) 
+authorize the types of adjustments to tax liability that a county treasurer may approve under subsection (a)(2)(A) including: 
+
+(A) 
+adjustments for any new construction on the property or any damage to the property; 
+
+(B) 
+any necessary adjustments for credits, deductions, or local option income taxes; 
+
+(C) 
+adjustments to include current year special assessments or exclude special assessments payable in the year of the assessment date but not payable in the current year; 
+
+(D) 
+adjustments to include delinquent: 
+
+(i)
+ taxes; and 
+
+(ii) 
+special assessments; 
+
+
+
+(E) 
+adjustments to include penalties that are due and owing; and 
+
+(F) 
+adjustments to include interest that is due and owing; and 
+
+
+
+(2) 
+notify county treasurers in writing of the types of adjustments authorized under subdivision (1). 
+
+
+As added by P.L.1-2004, SEC.37; P.L.23-2004, SEC.40. Amended by P.L.219-2007, SEC.65; P.L.87-2009, SEC.11; P.L.182-2009(ss), SEC.161; P.L.89-2010, SEC.4; P.L.172-2011, SEC.44. 
+
+IC 6-1.1-22.5-8 Version b Form of provisional statement; information to be shown on statement; adjustments to tax liability 
+Note: This version of section effective 1-1-2017. See also preceding version of this section, effective until 1-1-2017. 
+Sec. 8. (a) Subject to subsection (c), a provisional statement must: 
+(1) 
+be on a form prescribed by the department of local government finance; 
+
+(2) 
+except as provided in emergency rules adopted under section 20 of this chapter and subsection (b): 
+
+(A) 
+for property taxes first due and payable after 2010 and billed using a provisional statement under section 6 of this chapter, indicate: 
+
+(i) 
+that the first installment of the taxpayer's tax liability is an amount equal to fifty percent (50%) of the tax liability that was payable in the same year as the assessment date for the property for which the provisional statement is issued, subject to any adjustments to the tax liability authorized by the department of local government finance under subsection (e) and approved by the county treasurer; and 
+
+(ii) 
+that the second installment is either the amount specified in a reconciling statement or, if a reconciling statement is not sent until after the second installment is due, an amount equal to fifty percent (50%) of the tax liability that was payable in the same year as the assessment date for the property for which the provisional statement is issued, subject to any adjustments to the tax liability authorized by the department of local government finance under subsection (e) and approved by the county treasurer; and 
+
+
+
+(B) 
+for property taxes billed using a provisional statement under section 6.5 of this chapter, except as provided in subsection (d), indicate tax liability in an amount determined by the department of local government finance based on: 
+
+(i) 
+subject to subsection (c), for the cross-county entity, the property tax rate of the cross-county entity for taxes first due and payable in the immediately preceding calendar year; and 
+
+(ii) 
+for all other taxing units that make up the taxing district or taxing districts that comprise the cross-county area, the property tax rates of the taxing units for taxes first due and payable in the current calendar year; 
+
+
+
+
+
+(3) 
+indicate: 
+
+(A) 
+that the tax liability under the provisional statement is determined as described in subdivision (2); and 
+
+(B) 
+that property taxes billed on the provisional statement: 
+
+(i) 
+are due and payable in the same manner as property taxes billed on a tax statement under IC 6-1.1-22-8.1; and 
+
+(ii) 
+will be credited against a reconciling statement; 
+
+
+
+
+
+(4) 
+for property taxes billed using a provisional statement under section 6 of this chapter, include a statement in the following or a substantially similar form, as determined by the department of local government finance: 
+
+"Under Indiana law, ________ County (insert county) has sent provisional statements. The statement is due to be paid in installments on __________ (insert date) and ________ (insert date). The first installment is equal to fifty percent (50%) of your tax liability for taxes payable in ______ (insert year), subject to adjustment to the tax liability authorized by the department of local government finance and approved by the county treasurer. The second installment is either the amount specified in a reconciling statement that will be sent to you, or (if a reconciling statement is not sent until after the second installment is due) an amount equal to fifty percent (50%) of your tax liability for taxes payable in ______ (insert year), subject to adjustment to the tax liability authorized by the department of local government finance and approved by the county treasurer. After the abstract of property is complete, you will receive a reconciling statement in the amount of your actual tax liability for taxes payable in ______ (insert year) minus the amount you pay under this provisional statement."; 
+
+(5) 
+for property taxes billed using a provisional statement under section 6.5 of this chapter, include a statement in the following or a substantially similar form, as determined by the department of local government finance: "Under Indiana law, ________ County (insert county) has elected to send provisional statements for the territory of __________________ (insert cross-county entity) located in ________ County (insert county) because the property tax rate for ________________ (insert cross-county entity) was not available in time to prepare final tax statements. The statement is due to be paid in installments on __________ (insert date) and _________ (insert date). The statement is based on the property tax rate of _________________ (insert cross-county entity) for taxes first due and payable in _____ (insert immediately preceding calendar year). After the property tax rate of ________________ (insert cross-county entity) is determined, you will receive a reconciling statement in the amount of your actual tax liability for taxes payable in _____ (insert year) minus the amount you pay under this provisional statement."; 
+
+(6) 
+indicate any adjustment to tax liability under subdivision (2) authorized by the department of local government finance under subsection (e) and approved by the county treasurer for: 
+
+(A) 
+delinquent: 
+
+(i)
+ taxes; and 
+
+(ii) 
+special assessments; 
+
+
+
+(B) 
+penalties; and 
+
+(C) 
+interest; 
+
+
+
+(7) 
+in the case of a reconciling statement only, include: 
+
+(A) 
+a checklist that shows: 
+
+(i) 
+homestead credits under IC 6-1.1-20.4, IC 6-3.6-5, or another law and all property tax deductions; and 
+
+(ii) 
+whether each homestead credit and property tax deduction were applied in the current provisional statement; 
+
+
+
+(B) 
+an explanation of the procedure and deadline that a taxpayer must follow and the forms that must be used if a credit or deduction has been granted for the property and the taxpayer is no longer eligible for the credit or deduction; and 
+
+(C) 
+an explanation of the tax consequences and applicable penalties if a taxpayer unlawfully claims a standard deduction under IC 6-1.1-12-37 on: 
+
+(i)
+ more than one (1) parcel of property; or 
+
+(ii) 
+property that is not the taxpayer's principal place of residence or is otherwise not eligible for a standard deduction; and 
+
+
+
+
+
+(8) 
+include any other information the county treasurer requires. 
+
+
+(b) The county may apply a standard deduction, supplemental standard deduction, or homestead credit calculated by the county's property system on a provisional bill for a qualified property. If a provisional bill has been used for property tax billings for two (2) consecutive years and a property qualifies for a standard deduction, supplemental standard deduction, or homestead credit for the second year a provisional bill is used, the county shall apply the standard deduction, supplemental standard deduction, or homestead credit calculated by the county's property system on the provisional bill. 
+(c) For purposes of this section, property taxes that are: 
+(1) 
+first due and payable in the current calendar year on a provisional statement under section 6 or 6.5 of this chapter; and 
+
+(2) 
+based on property taxes first due and payable in the immediately preceding calendar year or on a percentage of those property taxes; 
+
+
+are determined after excluding from the property taxes first due and payable in the immediately preceding calendar year property taxes imposed by one (1) or more taxing units in which the tangible property is located that are attributable to a levy that no longer applies for property taxes first due and payable in the current calendar year. 
+(d) If there was no property tax rate of the cross-county entity for taxes first due and payable in the immediately preceding calendar year for use under subsection (a)(2)(B), the department of local government finance shall provide an estimated tax rate calculated to approximate the actual tax rate that will apply when the tax rate is finally determined. 
+(e) The department of local government finance shall: 
+(1) 
+authorize the types of adjustments to tax liability that a county treasurer may approve under subsection (a)(2)(A) including: 
+
+(A) 
+adjustments for any new construction on the property or any damage to the property; 
+
+(B) 
+any necessary adjustments for credits, deductions, or the local income tax; 
+
+(C) 
+adjustments to include current year special assessments or exclude special assessments payable in the year of the assessment date but not payable in the current year; 
+
+(D) 
+adjustments to include delinquent: 
+
+(i)
+ taxes; and 
+
+(ii) 
+special assessments; 
+
+
+
+(E) 
+adjustments to include penalties that are due and owing; and 
+
+(F) 
+adjustments to include interest that is due and owing; and 
+
+
+
+(2) 
+notify county treasurers in writing of the types of adjustments authorized under subdivision (1). 
+
+
+As added by P.L.1-2004, SEC.37; P.L.23-2004, SEC.40. Amended by P.L.219-2007, SEC.65; P.L.87-2009, SEC.11; P.L.182-2009(ss), SEC.161; P.L.89-2010, SEC.4; P.L.172-2011, SEC.44; P.L.197-2016, SEC.21. 
+IC 6-1.1-22.5-9 Tax due dates; deadline to send statements; amounts due; mailing of statement sent by electronic mail but not received; petition to extend deadline 
+Sec. 9. (a) Except as provided in subsection (e) and section 12(b) of this chapter, tax liability billed on a provisional statement is due in two (2) equal installments on May 10 and November 10 of the year following the assessment date covered by the provisional statement. 
+(b) 
+The county treasurer may mail or transmit the provisional statement one (1) time each year at least fifteen (15) days before the date on which the first installment is due under subsection (a) in the manner provided in IC 6-1.1-22-8.1, regardless of whether the notice required under section 6(b) of this chapter has been published. 
+
+(c) 
+This subsection applies to a provisional statement issued under section 6 of this chapter. Except when the second installment of a provisional statement is replaced by a final reconciling statement providing for taxes to be due on November 10, the amount of tax liability due for each installment of a provisional statement issued for a year after 2010 is fifty percent (50%) of the tax that was due for the immediately preceding year under IC 6-1.1-22 subject to any adjustments to the tax liability as prescribed by the department of local government finance. If no bill was issued in the prior year, the provisional bill shall be based on the amount that would have been due if a provisional tax statement had been issued for the immediately preceding year. The department of local government finance may prescribe standards to implement this subsection, including a method of calculating the taxes due when an abstract or 
+
+other information is not complete. 
+
+(d) 
+This subsection applies only if a provisional statement for payment of property taxes, special assessments, and any adjustment included in the provisional statement under section 8(e) of this chapter by electronic mail is transmitted to a person under IC 6-1.1-22-8.1(h). If a response to the transmission of electronic mail to a person indicates that the electronic mail was not received, the county treasurer shall mail to the person a hard copy of the provisional statement in the manner required by this chapter for persons who do not opt to receive statements by electronic mail. The due date for the property taxes, special assessments, and any adjustment included in the provisional statement under section 8(e) of this chapter under a provisional statement mailed to a person under this subsection is the due date indicated in the statement transmitted to the person by electronic mail. 
+
+
+(e) This subsection applies only to property taxes first due and payable in 2011. If a county is more than two (2) years behind in issuing property tax bills, the county treasurer of the county may petition the department in writing to extend the deadline for making the first installment payment on a provisional statement issued under this chapter. Upon receiving a petition under this subsection, the department may extend the payment deadline to a date that is not later than July 1, 2011. As added by P.L.1-2004, SEC.37 and P.L.23-2004, SEC.40. Amended by P.L.219-2007, SEC.66; P.L.87-2009, SEC.12; P.L.89-2010, SEC.5; P.L.172-2011, SEC.45. 
+
+IC 6-1.1-22.5-10 Notice of tax rates for reconciling statement 
+Sec. 10. If a provisional statement is used, the county treasurer shall give notice of tax rates required under IC 6-1.1-22-4 for the reconciling statement. As added by P.L.1-2004, SEC.37; P.L.23-2004, SEC.40. Amended by P.L.2-2005, SEC.18. 
+
+IC 6-1.1-22.5-11 Notice and transmission of reconciling statements by county treasurer 
+Sec. 11. (a) With respect to provisional statements under section 6 of this chapter, as soon as possible after the receipt of the abstract required by IC 6-1.1-22-5, the county treasurer shall: 
+(1) 
+give the notice required by IC 6-1.1-22-4; and 
+
+(2) 
+mail or transmit reconciling statements under section 12 of this chapter. 
+
+
+(b) With respect to provisional statements under section 6.5 of this chapter, as soon as possible after determination of the tax rate of the cross-county entity referred to in section 6.5 of this chapter, the county treasurer shall: 
+(1) 
+give the notice required by IC 6-1.1-22-4; and 
+
+(2) 
+mail or transmit reconciling statements under section 12 of this chapter. 
+
+
+As added by P.L.1-2004, SEC.37 and P.L.23-2004, SEC.40. Amended by P.L.182-2009(ss), SEC.162. 
+IC 6-1.1-22.5-12 Form of reconciling statement; information to be included on statement; request by county treasurer to issue reconciling statement adjusting second installment; use of electronic mail 
+Sec. 12. (a) Except as provided by subsection (c), each reconciling statement must be on a form prescribed by the department of local government finance and must indicate: 
+(1) 
+the actual property tax liability under this article for the calendar year for which the reconciling statement is issued; 
+
+(2) 
+the total amount paid under the provisional statement for the property for which the reconciling statement is issued; 
+
+(3) 
+if the amount under subdivision (1) exceeds the amount under subdivision (2), that the excess is payable by the taxpayer: 
+
+(A) 
+as a final reconciliation of the tax liability; and 
+
+(B) 
+not later than: 
+
+(i) 
+thirty (30) days after the date of the reconciling statement; 
+
+(ii) 
+if the county treasurer requests in writing that the commissioner designate a later date, the date designated by the commissioner; or 
+
+
+
+
+(iii) the date specified in an ordinance adopted under section 18.5 of this chapter; and 
+
+(4) 
+if the amount under subdivision (2) exceeds the amount under subdivision (1), that the taxpayer may claim a refund of the excess under IC 6-1.1-26. 
+
+
+(b) 
+If, upon receipt of the abstract required by IC 6-1.1-22-5 or upon determination of the tax rate of the cross-county entity referred to in section 6.5 of this chapter, the county treasurer determines that it is possible to complete the: 
+
+(1) preparation; and 
+
+(2) 
+mailing or transmittal; of the reconciling statement at least thirty (30) days before the due date of the second installment specified in the provisional statement, the county treasurer may request in writing that the department of local government finance permit the county treasurer to issue a reconciling statement that adjusts the amount of the second installment that was specified in the provisional statement. If the department approves the county treasurer's request, the county treasurer shall prepare and mail or transmit the reconciling statement at least thirty (30) days before the due date of the second installment specified in the provisional statement. 
+
+(c) 
+A reconciling statement prepared under subsection (b) must indicate: 
+
+(1) 
+the actual property tax liability under this article for the calendar year for the property for which the reconciling statement is issued; 
+
+(2) 
+the total amount of the first installment paid under the provisional statement for the property for which the reconciling statement is issued; 
+
+(3) 
+if the amount under subdivision (1) exceeds the amount under subdivision (2), the adjusted amount of the second installment that is payable by the taxpayer: 
+
+(A) 
+as a final reconciliation of the tax liability; and 
+
+(B) 
+not later than: 
+
+(i)
+ November 10; or 
+
+(ii) 
+if the county treasurer requests in writing that the commissioner designate a later date, the date designated by the commissioner; and 
+
+
+
+
+
+(4) 
+if the amount under subdivision (2) exceeds the amount under subdivision (1), that the taxpayer may claim a refund of the excess under IC 6-1.1-26. 
+
+
+
+(d) 
+In a county in which an authorizing ordinance is adopted under IC 6-1.1-22-8.1(h), a person may direct the county treasurer to transmit a reconciling statement by electronic mail under IC 6-1.1-22-8.1(h). 
+
+
+(e) A reconciling statement may include any adjustment authorized by the department of local government finance under section 8(e) of this chapter and approved by the county treasurer. As added byP.L.1-2004, SEC.37 and P.L.23-2004, SEC.40. Amended by P.L.219-2007, SEC.67; P.L.146-2008, SEC.254; P.L.87-2009, SEC.13; P.L.182-2009(ss), SEC.163; P.L.172-2011, SEC.46; P.L.13-2013, SEC.16. 
+
+IC 6-1.1-22.5-13 Payments to be made to county treasurer 
+Sec. 13. Taxpayers shall make all payments under this chapter to the county treasurer. The board of county commissioners may authorize the county treasurer to open temporary offices to receive payments under this chapter in municipalities in the county other than the county seat. As added by P.L.1-2004, SEC.37 and P.L.23-2004, SEC.40. 
+
+IC 6-1.1-22.5-14 Settlement and distribution of tax collections; separate general fund account for penalties; use of fund 
+Sec. 14. (a) Subject to subsection (b), not later than fifty-one (51) days after the due date of a provisional or reconciling statement under this chapter, the county auditor shall: 
+(1) 
+file with the auditor of state a report of settlement; and 
+
+(2) 
+distribute tax collections to the appropriate taxing units. 
+
+
+(b) The county treasurer shall: 
+(1) 
+place in a separate account in the county general fund penalties collected as a result of late payments on statements issued under this chapter for the payment of property taxes; 
+
+(2) 
+use the account only to defray the costs of mailing or transmission of statements under this chapter; and 
+
+(3) 
+deposit additional funds, if any, remaining in the account after the payment of costs of mailing or transmission of statements under this chapter in the county's property reassessment fund established under IC 6-1.1-4-27.5. 
+
+
+As added by P.L.1-2004, SEC.37 and P.L.23-2004, SEC.40. Amended by P.L.89-2010, SEC.6. 
+
+IC 6-1.1-22.5-15 Interest on undistributed tax collections 
+Sec. 15. If a county auditor fails to make a distribution of tax collections under section 14 of this chapter, a taxing unit that was to receive a distribution may recover interest on the undistributed tax collections at the same rate and in the same manner that interest may be recovered under IC 6-1.1-27-1(b). 
+As added by P.L.1-2004, SEC.37 and P.L.23-2004, SEC.40. 
+
+IC 6-1.1-22.5-16 Applicability of review and appeal procedures to provisional and reconciling statements 
+Sec. 16. IC 6-1.1-15: 
+(1) 
+does not apply to a provisional statement; and 
+
+(2) 
+applies to a reconciling statement. 
+
+
+As added by P.L.1-2004, SEC.37 and P.L.23-2004, SEC.40. 
+
+IC 6-1.1-22.5-17 Applicability of penalties to provisional andreconciling statements 
+Sec. 17. IC 6-1.1-37-10 applies to: 
+(1) a provisional statement; and 
+(2) a reconciling statement; in the same manner that IC 6-1.1-37-10 applies to an installment of property taxes. 
+As added by P.L.1-2004, SEC.37 and P.L.23-2004, SEC.40. 
+
+IC 6-1.1-22.5-18 Treatment of payments to determine delinquencies 
+Sec. 18. For purposes of IC 6-1.1-24-1(a)(1): 
+(1) 
+the first installment on a provisional statement is considered to be the taxpayer's spring installment of property taxes; 
+
+(2) 
+except as provided in subdivision (3) or section 18.5 of this chapter, payment on a reconciling statement is considered to be due before the due date of the first installment of property taxes 
+
+payable in the following year; and 
+
+(3) 
+payment on a reconciling statement described in section 12(b) of this chapter is considered to be the taxpayer's fall installment of property taxes. 
+
+
+As added by P.L.1-2004, SEC.37 and P.L.23-2004, SEC.40. Amended by P.L.219-2007, SEC.68; P.L.146-2008, SEC.255. 
+
+IC 6-1.1-22.5-18.5 Installment payments; tax due on reconciliation statement 
+Sec. 18.5. (a) A county council may adopt an ordinance to allow a taxpayer to make installment payments under this section of a tax payment due under a reconciling statement issued under this chapter or any other provision. 
+(b) An ordinance adopted under this section must specify: 
+(1) 
+the reconciling statement to which the ordinance applies; and 
+
+(2) 
+the installment due dates for taxpayers that choose to make installment payments. 
+
+
+(c)
+ An ordinance adopted under this section must give taxpayers in the county the option of: 
+
+(1) 
+making a single payment of the tax payment due under the reconciling statement on the date specified in the reconciling statement; or 
+
+(2) 
+paying installments of the tax payment due under the reconciling statement over the installment period specified in the ordinance. 
+
+
+
+(d) 
+If the total amount due on an installment date under this section is not completely paid on or before that installment date, the amount unpaid is considered delinquent and a penalty is added to the unpaid amount. The penalty is equal to an amount determined as follows: 
+
+
+(1) If: 
+(A) 
+the delinquent amount of real property taxes is completely paid on or before the date thirty (30) days after the installment date; and 
+
+(B) 
+the taxpayer is not liable for delinquent property taxes 
+
+
+first due and payable in a previous year for the same parcel; the amount of the penalty is equal to five percent (5%) of the delinquent amount. 
+(2) If: 
+(A) 
+the delinquent amount of personal property taxes is completely paid on or before the date thirty (30) days after the installment date; and 
+
+(B) 
+the taxpayer is not liable for delinquent property taxes first due and payable in a previous year for a personal property tax return for property in the same taxing district; 
+
+
+the amount of the penalty is equal to five percent (5%) of the delinquent amount. 
+(3) If neither subdivision (1) nor (2) applies, the amount of the penalty is equal to ten percent (10%) of the delinquent amount. 
+(e) 
+An additional penalty equal to ten percent (10%) of any taxes due on an installment date that remain unpaid shall be added on the day immediately following the date of the final installment payment. 
+
+(f) 
+The penalties under this section are imposed on only the principal amount of the delinquent taxes. 
+
+(g) 
+Notwithstanding any other provision, an ordinance adopted under this section may apply to the payment of amounts due under any reconciling statements issued by a county. 
+
+(h) 
+Approval by the department of local government finance is not required for the adoption of an ordinance under this section. 
+
+
+As added by P.L.146-2008, SEC.256. 
+
+IC 6-1.1-22.5-19 Supplementary effect of other provisions 
+Sec. 19. The other provisions of this article supplement the provisions of this chapter concerning the collection of property taxes. 
+As added by P.L.1-2004, SEC.37 and P.L.23-2004, SEC.40. 
+
+IC 6-1.1-22.5-20 Department of local government finance emergency rules to take into account certain real property assessment changes 
+Sec. 20. For purposes of a provisional statement under section 6 of this chapter, the department of local government finance may adopt emergency rules under IC 4-22-2-37.1 to do any of the following: 
+(1) Provide a methodology for a county treasurer to issue provisional statements with respect to real property, taking into account new construction of improvements placed on the real property, damage, and other losses related to the real property: 
+(A) 
+after the assessment date of the year preceding the assessment date to which the provisional statement applies; and 
+
+(B) 
+before the assessment date to which the provisional statement applies. 
+
+
+(2) Carry out IC 6-1.1-22.6. The department of local government finance may extend an emergency rule adopted under this section for an unlimited number of extension periods by adopting another emergency rule under IC 4-22-2-37.1. 
+As added by P.L.1-2004, SEC.37 and P.L.23-2004, SEC.40. Amended by P.L.182-2009(ss), SEC.164; P.L.112-2012, SEC.40; P.L.140-2013, SEC.5; P.L.245-2015, SEC.15. 
+IC 6-1.1-22.5-21 Use of parcel carrier to send documents 
+Sec. 21. Notwithstanding any other provision of this chapter, the county treasurer may send via a nationally recognized express parcel carrier any document that the county treasurer may send under this chapter via the United States mail. 
+As added by P.L.61-2011, SEC.2. 
+

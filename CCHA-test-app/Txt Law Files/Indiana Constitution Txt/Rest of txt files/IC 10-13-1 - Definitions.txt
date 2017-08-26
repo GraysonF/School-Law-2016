@@ -1,0 +1,2452 @@
+IC 10-13 
+ARTICLE 13. STATE POLICE DATA AND INFORMATION PROGRAMS 
+IC 10-13-1 Chapter 1. Definitions 
+IC 10-13-1-1 Application of definitions 
+Sec. 1. The definitions in this chapter apply throughout this article. As added by P.L.2-2003, SEC.4. 
+
+IC 10-13-1-2 "Department" 
+Sec. 2. "Department" refers to the state police department established by IC 10-11-2-4. As added by P.L.2-2003, SEC.4. 
+IC 10-13-1-3 "Superintendent" 
+Sec. 3. "Superintendent" refers to the superintendent of the department appointed under IC 10-11-2-6. As added by P.L.2-2003, SEC.4. 
+
+IC 10-13-2 Chapter 2. Criminal Justice Data Division 
+IC 10-13-2-1 "Division" 
+Sec. 1. As used in this chapter, "division" refers to the criminal justice data division established by section 2 of this chapter. As added by P.L.2-2003, SEC.4. 
+
+IC 10-13-2-2 Establishment 
+Sec. 2. (a) The criminal justice data division is established within the department. 
+(b) The division is under the administrative control and jurisdiction of the superintendent. 
+(c) The superintendent may: 
+(1) 
+staff the division with personnel necessary for its efficient operation; and 
+
+(2) 
+adopt rules to carry out the purposes of this chapter. 
+
+
+As added by P.L.2-2003, SEC.4. 
+
+IC 10-13-2-3 Storage and retrieval of criminal justice data; consultants 
+Sec. 3. (a) The division shall use the most current equipment, methods, and systems for the rapid storage and retrieval of criminal justice data necessary for an effective criminal justice system within Indiana. 
+(b) The superintendent may hire consultants to advise the superintendent in the most efficient means of establishing, funding, and maintaining the criminal justice data system with the ultimate purpose of extending the services and benefits of the system to all governmental agencies of the state and its political subdivisions having a need for the data. As added by P.L.2-2003, SEC.4. 
+
+IC 10-13-2-4 Purpose 
+Sec. 4. The division shall be organized and administered to fulfill the following purposes: 
+(1) 
+To inform the public and responsible governmental officials as to the nature of the crime problem, its magnitude, and its trend over time. 
+
+(2) 
+To measure the effects of prevention and deterrence programs, ranging from community action to police patrol. 
+
+(3) 
+To find out who commits crimes by age, sex, family status, income, ethnic and residential background, and other social attributes, to find the proper focus of crime prevention programs. 
+
+(4) 
+To measure the workload and effectiveness of all agencies of the criminal justice system, both individually and as an integrated system. 
+
+(5) 
+To analyze the factors contributing to success and failure of probation, parole, and other correctional alternatives for various kinds of offenders. 
+
+(6) 
+To provide criminal justice agencies with comparative norms of performance. 
+
+(7) 
+To furnish baseline data for research. 
+
+(8) 
+To compute the costs of crime in terms of economic injury inflicted upon communities and individuals, as well as to assess the direct public expenditures by criminal justice agencies. 
+
+(9) 
+To project expected crime rates and their consequences into the future for more enlightened government planning. 
+
+
+As added by P.L.2-2003, SEC.4. 
+
+IC 10-13-2-5 Duties 
+Sec. 5. (a) The division, under the supervision and direction of the superintendent and in accordance with the rules adopted under this chapter, shall do the following: 
+(1) 
+Collect data necessary for the accomplishment of the purposes of this chapter from all persons and agencies mentioned in section 6 of this chapter. 
+
+(2) 
+Prepare and distribute to all the persons and agencies the forms to be used in reporting data to the division. The forms also must provide for items of information needed by federal bureaus, agencies, or departments engaged in the development of national criminal statistics. 
+
+(3) 
+Prescribe the form and content of records to be kept by the persons and agencies to ensure the correct reporting of data to the division. 
+
+(4) 
+Instruct the persons and agencies in the installation, maintenance, and use of records and equipment and in the manner of reporting to the division. 
+
+(5) 
+Tabulate, analyze, and interpret the data collected. 
+
+(6) 
+Supply data, upon request, to federal bureaus, agencies, or departments engaged in collecting and analyzing national criminal statistics. 
+
+(7) 
+Present the following to the governor: 
+
+(A) 
+Before July 1 of each year, a printed report containing the criminal statistics of the preceding calendar year. 
+
+(B) 
+At other times the superintendent considers necessary or the governor requests, reports on public aspects of criminal statistics in a sufficiently general distribution for public enlightenment. 
+
+
+
+
+(b) The division may not obtain data under this chapter except that which is a public record, and all laws regulating privacy or restricting use of the data apply to any data collected. 
+(c) The division may accept data and reports from agencies other than those required to report under this chapter if the data and reports are consistent with the purposes of this chapter. As added by P.L.2-2003, SEC.4. Amended by P.L.97-2004, SEC.41. 
+
+IC 10-13-2-6 Public officials; cooperation with division; reporting noncompliance 
+Sec. 6. (a) If requested by the division, a public official or public agency dealing with crime or criminals or with delinquency or delinquents shall do the following: 
+(1) 
+Install and maintain records needed for reporting data required by the division. 
+
+(2) 
+Report to the division, as and when prescribed, all data requested. 
+
+(3) 
+Give the accredited agents of the division access to the records for the purpose of inspection. 
+
+(4) 
+Cooperate with the division to the end that its duties may be properly performed. 
+
+
+(b) An official required under this chapter to furnish reports, information, or statistics to the criminal justice data division or a person employed by the official is not liable in any action arising out of having furnished the information in a manner as may be required by this chapter or the rules adopted under this chapter. 
+(c) If a public official or public agency fails to comply with its duties under subsection (a), the division shall notify the Indiana criminal justice institute of the noncompliance in any manner approved by the Indiana criminal justice institute. As added by P.L.2-2003, SEC.4. Amended by P.L.35-2013, SEC.2. 
+
+IC 10-13-2-7 Equipment methods and systems; compatibility 
+Sec. 7. As far as is practicable, the equipment methods and systems used by the criminal justice data division must be compatible with those used by similar agencies in other states and the federal government so that data necessary for interstate, national, and international criminal justice is readily available. As added by P.L.2-2003, SEC.4. 
+
+IC 10-13-2-8 Commission and advisory council; planning agency 
+Sec. 8. In the administration of the division, the superintendent shall have the advice and assistance of the criminal justice commission and advisory council and the criminal justice planning agency. As added by P.L.2-2003, SEC.4. 
+
+IC 10-13-2-9 Adoption of rules 
+Sec. 9. (a) The superintendent shall adopt rules necessary to accomplish the purposes of this chapter. 
+(b) In formulating the rules, the superintendent shall have the advice and assistance of the criminal justice advisory committee established by section 10 of this chapter. As added by P.L.2-2003, SEC.4. 
+
+IC 10-13-2-10 Criminal justice advisory committee; composition; meetings 
+Sec. 10. (a) The criminal justice advisory committee is established. 
+(b) 
+The committee consists of the following persons or their designated representatives: 
+
+(1) 
+The superintendent, who shall act as chairman. 
+
+(2) 
+The attorney general. 
+
+(3) 
+The executive director of the criminal justice planning agency. 
+
+(4) 
+The commissioner of corrections. 
+
+(5) 
+One (1) county sheriff serving in the sheriff's second or subsequent term of office. 
+
+(6) 
+One (1) chief of police with at least two (2) years of experience as chief. 
+
+(7) 
+One (1) prosecuting attorney in the prosecuting attorney's second or subsequent term of office. 
+
+(8) 
+One (1) judge of a court of general criminal jurisdiction. 
+
+(9) 
+The executive director of the law enforcement training academy. 
+
+(10)
+ A criminologist or forensic scientist. 
+
+
+(c) A member of the committee: 
+(1) 
+must be appointed by the governor on a nonpartisan basis; and 
+
+(2) 
+shall serve at the pleasure of the governor. 
+
+
+
+(d) 
+A member of the committee serves without compensation except per diem as provided by law. 
+
+
+(e) The committee shall meet as often as is considered necessary by the superintendent to formulate or revise rules for the statewide operation of the criminal justice data division. As added by P.L.2-2003, SEC.4. 
+
+IC 10-13-2-11 Reports and analyses 
+Sec. 11. The division shall, within the limits of time and manpower, comply with all reasonable requests for periodic reports and analysis of data as may be made by any officer or agency required to report data that is necessary for the proper performance of the duties of the officer or agency. 
+As added by P.L.2-2003, SEC.4. 
+
+IC 10-13-2-12 Intent of chapter; violations; penalties 
+Sec. 12. (a) It is the intent of the general assembly in enacting this chapter to provide information and data with reference to the total criminal justice system that will be equally beneficial to all officers, agencies, and components of the criminal justice system to better perform their respective duties for the overall improvement of criminal justice. Rules adopted under this chapter shall be drafted to express this intent. 
+(b) If a public official: 
+(1) 
+is required by the rules to report to the division; and 
+
+(2) 
+fails to comply with: 
+
+(A) 
+the requests of the superintendent for information or data; or 
+
+(B) 
+the rules governing records and systems and equipment 
+
+
+
+
+and their maintenance; the director of the criminal justice planning agency may deny the public official the benefits of the system until the public official complies with the rules. 
+(c) An official who knowingly, intentionally, or recklessly makes a false return of information to the division commits a Class A misdemeanor. As added by P.L.2-2003, SEC.4. Amended by P.L.115-2003, SEC.10. 
+
+IC 10-13-2-13 Access to information in criminal justice information system 
+Sec. 13. Subject to policies adopted by the superintendent concerning the disclosure of law enforcement records, the division shall provide access to information in any criminal justice information system that is used to locate an individual for purposes relating to law enforcement to: 
+(1) 
+the child support bureau; or 
+
+(2) 
+a prosecuting attorney, private attorney, or private entity operating under an agreement or contract described in IC 31-25-4-13.1. 
+
+
+As added by P.L.80-2010, SEC.14. 
+
+IC 10-13-3 Chapter 3. Criminal History Information 
+IC 10-13-3-1 "Bias crime" 
+Sec. 1. As used in this chapter, "bias crime" means an offense in which the person who commits the offense knowingly or intentionally: 
+(1) selected the person who was injured; or 
+(2) damaged or otherwise affected property; by the offense because of the color, creed, disability, national origin, race, religion, or sexual orientation of the injured person or of the owner or occupant of the affected property or because the injured person or owner or occupant of the affected property was associated with any other recognizable group or affiliation. As added by P.L.2-2003, SEC.4. 
+
+IC 10-13-3-2 "Care" 
+Sec. 2. As used in this chapter, "care" means the provision of care, treatment, education, training, instruction, supervision, or recreation to children less than eighteen (18) years of age. As added by P.L.2-2003, SEC.4. 
+
+IC 10-13-3-2.5 "Caseworker" 
+Sec. 2.5. As used in this chapter, "caseworker" has the meaning set forth in IC 31-9-2-11. As added by P.L.146-2006, SEC.1. 
+
+IC 10-13-3-3 "Certificated employee" 
+Sec. 3. As used in this chapter, "certificated employee" has the meaning set forth in IC 20-29-2-4. As added by P.L.2-2003, SEC.4. Amended by P.L.1-2005, SEC.113. 
+
+IC 10-13-3-4 "Council" 
+Sec. 4. As used in this chapter, "council" means the security and privacy council established by section 34 of this chapter. As added by P.L.2-2003, SEC.4. 
+
+IC 10-13-3-5 
+"Criminal history data" 
+
+Sec. 5. (a) As used in this chapter, "criminal history data" means information collected by criminal justice agencies, the United States Department of Justice for the department's information system, or individuals. 
+(b) The term consists of the following: 
+(1) 
+Identifiable descriptions and notations of arrests, indictments, informations, or other formal criminal charges. 
+
+(2) 
+Information, including a photograph, regarding a sex or violent offender (as defined in IC 11-8-8-5) obtained through sex or violent offender registration under IC 11-8-8. 
+
+(3) 
+Any disposition, including sentencing, and correctional system intake, transfer, and release. 
+
+(4) 
+A photograph of the person who is the subject of the information described in subdivisions (1) through (3). 
+
+
+(c) The term includes fingerprint information described in section 24(f) of this chapter. As added by P.L.2-2003, SEC.4. Amended by P.L.20-2006, SEC.1; P.L.140-2006, SEC.4 and P.L.173-2006, SEC.4; P.L.1-2007, SEC.96; P.L.216-2007, SEC.3. 
+
+IC 10-13-3-6 
+"Criminal justice agency" 
+
+Sec. 6. (a) As used in this chapter, "criminal justice agency" means any agency or department of any level of government whose principal function is: 
+(1) 
+the apprehension, prosecution, adjudication, incarceration, probation, rehabilitation, or representation of criminal offenders; 
+
+(2) 
+the location of parents with child support obligations under 42 U.S.C. 653; 
+
+(3) 
+the licensing and regulating of riverboat gambling operations; or 
+
+(4) 
+the licensing and regulating of pari-mutuel horse racing operations. 
+
+
+(b) The term includes the following: 
+(1) 
+The office of the attorney general. 
+
+(2) 
+The Medicaid fraud control unit, for the purpose of investigating offenses involving Medicaid. 
+
+(3) 
+A nongovernmental entity that performs as its principal function the: 
+
+(A) 
+apprehension, prosecution, adjudication, incarceration, or rehabilitation of criminal offenders; 
+
+(B) 
+location of parents with child support obligations under 42 U.S.C. 653; 
+
+(C) 
+licensing and regulating of riverboat gambling operations; or 
+
+(D) 
+licensing and regulating of pari-mutuel horse racing 
+
+
+
+
+operations; under a contract with an agency or department of any level of government. 
+As added by P.L.2-2003, SEC.4. Amended by P.L.70-2004, SEC.1; P.L.234-2005, SEC.6. 
+
+IC 10-13-3-7 "Disposition" 
+Sec. 7. As used in this chapter, "disposition" means information disclosing that criminal proceedings have been concluded or indefinitely postponed. As added by P.L.2-2003, SEC.4. 
+
+IC 10-13-3-7.5 "Emergency placement" 
+Sec. 7.5. (a) As used in this chapter, "emergency placement" means an emergency out-of-home placement of a child by: 
+(1) 
+the department of child services established by IC 31-25-1-1; 
+
+(2) 
+a law enforcement officer; 
+
+(3) 
+a caseworker; 
+
+(4) 
+a juvenile probation officer; or 
+
+
+(5) 
+a court; as a result of exigent circumstancesthat require immediate placement with a person other than the child's parent, guardian, or custodian. 
+
+(b) 
+The term includes any out-of-home placement for temporary care and custody of a child at or after the time of initial removal or transfer of custody of the child from the child's parent, guardian, or custodian, as authorized under any of the following: 
+
+(1) 
+IC 31-34-2. 
+
+(2) 
+IC 31-34-2.5. 
+
+(3) 
+IC 31-34-4. 
+
+(4) 
+IC 31-34-5. 
+
+(5) 
+IC 31-37-4. 
+
+(6) 
+IC 31-37-5. 
+
+(7) 
+IC 31-37-6. 
+
+
+
+(c) 
+The term does not include any proposed or actual change in location of the child's placement for continuing care and custody after the court has entered an order at the time of or following a detention hearing required under IC 31-34-5 or IC 31-37-6, unless a court or an agency responsible for the child's care and supervision determines that an immediate change in placement is necessary to protect the health or safety of the child. 
+
+
+(d) The term does not include placement to an entity or in a facility that is not a residence (as defined in IC 3-5-2-42.5) or that is licensed by the state. As added by P.L.234-2005, SEC.7. Amended by P.L.145-2006, SEC.26; P.L.146-2006, SEC.2. 
+
+IC 10-13-3-8 "Inspection" 
+Sec. 8. As used in this chapter, "inspection" means visual perusal and includes the right to make memoranda abstracts of the information. 
+As added by P.L.2-2003, SEC.4. 
+
+IC 10-13-3-9 "Institute" 
+Sec. 9. As used in this chapter, "institute" means the Indiana criminal justice institute established by IC 5-2-6-3. As added by P.L.2-2003, SEC.4. 
+
+IC 10-13-3-10 
+"Law enforcement agency" 
+
+Sec. 10. (a) As used in this chapter, "law enforcement agency" means an agency or a department of any level of government whose principal function is the apprehension of criminal offenders. 
+(b) The term includes: 
+(1) 
+the office of the attorney general; and 
+
+(2) 
+the office of the inspector general. 
+
+
+As added by P.L.2-2003, SEC.4. Amended by P.L.222-2005, SEC.29. 
+
+IC 10-13-3-11 
+"Limited criminal history" 
+
+Sec. 11. (a) As used in this chapter, "limited criminal history" means information with respect to any arrest or criminal charge, which must include: 
+(1) 
+a disposition; and 
+
+(2) 
+a photograph of the person who is the subject of the limited criminal history, if a photograph is available. 
+
+
+(b) However, the term includes information about any arrest or criminal charge that occurred less than one (1) year before the date of a request even if no disposition has been entered. As added by P.L.2-2003, SEC.4. Amended by P.L.20-2006, SEC.2. 
+
+IC 10-13-3-12 
+"National criminal history background check" 
+
+Sec. 12. As used in this chapter, "national criminal history background check" means the criminal history record system maintained by the Federal Bureau of Investigation based on fingerprint identification or any other method of positive identification. As added by P.L.2-2003, SEC.4. 
+IC 10-13-3-12.5 
+"National name based criminal history record check" 
+
+Sec. 12.5. As used in this chapter, "national name based criminal history record check" means a query of the Interstate Identification Index data base maintained by the Federal Bureau of Investigation that: 
+(1) 
+is conducted using the subject's name; and 
+
+(2) 
+does not use fingerprint identification or another method of 
+
+
+positive identification. 
+As added by P.L.234-2005, SEC.8. 
+
+IC 10-13-3-13 
+"No contact order" 
+
+Sec. 13. As used in this chapter, "no contact order" means an order that prohibits a person from having direct or indirect contact with another person and that is issued under any of the following: 
+(1) 
+IC 31-32-13. 
+
+(2) 
+IC 31-34-20. 
+
+(3) 
+IC 31-37-19-1. 
+
+(4) 
+IC 31-37-19-6. 
+
+(5) 
+IC 33-39-1-8. 
+
+(6) 
+IC 35-33-8-3.2. 
+
+
+(7) IC 35-38-2-2.3. As added by P.L.2-2003, SEC.4. Amended by P.L.98-2004, SEC.80; P.L.1-2010, SEC.53. 
+
+IC 10-13-3-14 "Noncertificated employee" 
+Sec. 14. As used in this chapter, "noncertificated employee" has the meaning set forth in IC 20-29-2-11. As added by P.L.2-2003, SEC.4. Amended by P.L.1-2005, SEC.114. 
+
+IC 10-13-3-15 "Protective order" 
+Sec. 15. (a) As used in this chapter, "protective order" has the meaning set forth in IC 5-2-9-2.1. 
+(b) The term includes a foreign protection order (as defined in IC 34-6-2-48.5). As added by P.L.2-2003, SEC.4. 
+
+IC 10-13-3-16 "Qualified entity" 
+Sec. 16. (a) As used in this chapter, "qualified entity" means a business or an organization, whether public, private, for-profit, nonprofit, or voluntary, that provides care or care placement services. 
+(b) The term includes the following: 
+(1) 
+A business or an organization that licenses or certifies others to provide care or care placement services. 
+
+(2) 
+A home health agency licensed under IC 16-27-1. 
+
+(3) 
+A personal services agency licensed under IC 16-27-4. 
+
+
+As added by P.L.2-2003, SEC.4. Amended by P.L.197-2007, SEC.1. 
+
+IC 10-13-3-17 "Release" 
+Sec. 17. As used in this chapter, "release" means furnishing a copy or an edited copy of criminal history data. 
+As added by P.L.2-2003, SEC.4. 
+
+IC 10-13-3-18 "Reportable offenses" 
+Sec. 18. As used in this chapter, "reportable offenses" means all felonies and those misdemeanors the superintendent designates. As added by P.L.2-2003, SEC.4. Amended by P.L.156-2003, SEC.4. 
+
+IC 10-13-3-19 "Request" 
+Sec. 19. As used in this chapter, "request" means asking for release or inspection of a limited criminal history by noncriminal justice organizations or individuals in a manner that: 
+(1) 
+reasonably ensures the identification of the subject of the inquiry; and 
+
+(2) 
+contains a statement of the purpose for which the information is requested. 
+
+
+As added by P.L.2-2003, SEC.4. 
+
+IC 10-13-3-20 "School corporation" 
+Sec. 20. As used in this chapter, "school corporation" has the meaning set forth in IC 20-18-2-16. As added by P.L.2-2003, SEC.4. Amended by P.L.1-2005, SEC.115. 
+
+IC 10-13-3-21 
+"Special education cooperative" 
+
+Sec. 21. As used in this chapter, "special education cooperative" has the meaning set forth in IC 20-35-5-1(8). As added by P.L.2-2003, SEC.4. Amended by P.L.1-2005, SEC.116; P.L.231-2005, SEC.4; P.L.1-2006, SEC.170; P.L.38-2014, SEC.1. 
+
+IC 10-13-3-22 "Unidentified person" 
+Sec. 22. As used in this chapter, "unidentified person" means a deceased or mentally incapacitated person whose identity is unknown. As added by P.L.2-2003, SEC.4. 
+
+IC 10-13-3-23 
+"Workplace violence restraining order" 
+
+Sec. 23. As used in this chapter, "workplace violence restraining order" means an order issued under IC 34-26-6. As added by P.L.2-2003, SEC.4. 
+IC 10-13-3-24 State central repository; report of arrests; fingerprints 
+Sec. 24. (a) The department shall act as the official state central repository for criminal history data. 
+(b) 
+A sheriff, police department, or criminal justice agency in Indiana shall report to the department, on forms provided by the department, all arrests for reportable offenses. 
+
+(c) 
+Except as provided in subsection (e), at the time a sheriff, police department, or criminal justice agency makes the report described in subsection (b), the sheriff, police department, or criminal justice agency shall transmit a photograph of the person who is the subject of the report to the department. 
+
+(d) The department may adopt guidelines concerning the: 
+(1) form; and 
+
+(2) 
+manner of transmission (including electronic transmission); of a photograph described in subsection (c). If the department adopts guidelines under this subsection, the sheriff, police department, or criminal justice agency required to transmit a photograph under subsection (c) shall transmit the photograph in accordance with the guidelines adopted by the department. 
+
+
+(e) Notwithstanding subsections (c) and (d): 
+(1) 
+the department is not required to process; and 
+
+(2) 
+a sheriff, police department, or criminal justice agency is not 
+
+
+required to submit; a photograph under this section unless the department has sufficient funding available to process photographs submitted under this section. 
+(f) The department of correction may report to the department: 
+(1) 
+fingerprints recorded by the department of correction in any reliable manner, including the use of a digital fingerprinting device, when a person convicted of an offense is received by the department of correction; and 
+
+(2) 
+an abstract of judgment received by the department of correction that relates to the fingerprints described in subdivision (1). 
+
+
+As added by P.L.2-2003, SEC.4. Amended by P.L.20-2006, SEC.3; P.L.216-2007, SEC.4. 
+
+IC 10-13-3-25 Disposition reports 
+Sec. 25. (a) If a person whose arrest has been reported as required by section 24 of this chapter is: 
+(1) 
+transferred to the custody of another criminal justice agency; or 
+
+(2) 
+released without having an indictment or information filed 
+
+
+with any court; a disposition report shall be furnished to the department by the agency from whose custody the person has been transferred or released. Disposition reports shall be made on forms provided by the department. 
+(b) If an indictment or information is filed in a court, the clerk of the court shall furnish to the department, on forms provided by the department, a report of the disposition of the case. 
+(c) A disposition report, whether by a criminal justice agency or a court clerk, shall be sent to the department within thirty (30) days after the disposition. 
+As added by P.L.2-2003, SEC.4. 
+
+IC 10-13-3-26 Release of data to criminal justice agencies 
+Sec. 26. (a) A criminal justice agency: 
+(1) 
+shall provide criminal history data to another criminal justice agency upon request; and 
+
+(2) 
+may receive criminal history data from another criminal justice agency. 
+
+
+(b) 
+If the request is made by an agency doing a presentence investigation, the information shall be transmitted not later than seven (7) days after the date that the request is received. 
+
+(c) 
+The department shall provide criminal history data to a criminal justice agency making a request if the council determines that the agency has complied with this chapter. 
+
+
+As added by P.L.2-2003, SEC.4. 
+IC 10-13-3-27 Release of data to noncriminal justice organization or to individuals; national crime information center data restricted; penalties 
+Sec. 27. (a) Except as provided in subsection (b), on request, a law enforcement agency shall release a limited criminal history to or allow inspection of a limited criminal history by noncriminal justice organizations or individuals only if the subject of the request: 
+(1) 
+has applied for employment with a noncriminal justice organization or individual; 
+
+(2) 
+has: 
+
+(A) 
+applied for a license or is maintaining a license; and 
+
+(B) 
+provided criminal history data as required by law to be provided in connection with the license; 
+
+
+
+(3) 
+is a candidate for public office or a public official; 
+
+(4) 
+is in the process of being apprehended by a law enforcement agency; 
+
+(5) 
+is placed under arrest for the alleged commission of a crime; 
+
+(6) 
+has charged that the subject's rights have been abused repeatedly by criminal justice agencies; 
+
+(7) 
+is the subject of a judicial decision or determination with respect to the setting of bond, plea bargaining, sentencing, or probation; 
+
+(8) 
+has volunteered services that involve contact with, care of, or supervision over a child who is being placed, matched, or monitored by a social services agency or a nonprofit 
+
+corporation; 
+
+(9) 
+is currently residing in a location designated by the department of child services (established by IC 31-25-1-1) or by a juvenile court as the out-of-home placement for a child at the time the child will reside in the location; 
+
+(10) 
+has volunteered services at a public school (as defined in IC 20-18-2-15) or nonpublic school (as defined in IC 20-18-2-12) that involve contact with, care of, or supervision over a student enrolled in the school; 
+
+(11) 
+is being investigated for welfare fraud by an investigator of the division of family resources or a county office of the division of family resources; 
+
+(12) 
+is being sought by the parent locator service of the child support bureau of the department of child services; 
+
+(13) 
+is or was required to register as a sex or violent offender under IC 11-8-8; 
+
+(14)
+ has been convicted of any of the following: 
+
+(A) 
+Rape (IC 35-42-4-1), if the victim is less than eighteen 
+
+(18)
+ years of age. 
+
+(B) 
+Criminal deviate conduct (IC 35-42-4-2) (repealed), if the victim is less than eighteen (18) years of age. 
+
+(C) 
+Child molesting (IC 35-42-4-3). 
+
+(D) 
+Child exploitation (IC 35-42-4-4(b) or IC 35-42-4-4(c)). 
+
+(E) 
+Possession of child pornography (IC 35-42-4-4(d) or IC 35-42-4-4(e)). 
+
+(F) 
+Vicarious sexual gratification (IC 35-42-4-5). 
+
+(G) 
+Child solicitation (IC 35-42-4-6). 
+
+(H) 
+Child seduction (IC 35-42-4-7). 
+
+(I) 
+Sexual misconduct with a minor as a felony (IC 35-42-4-9). 
+
+(J) 
+Incest (IC 35-46-1-3), if the victim is less than eighteen 
+
+(18)
+ years of age. 
+
+(K) 
+Attempt under IC 35-41-5-1 to commit an offense listed in clauses (A) through (J). 
+
+(L) 
+Conspiracy under IC 35-41-5-2 to commit an offense listed in clauses (A) through (J). 
+
+(M) 
+An offense in any other jurisdiction in which the elements of the offense for which the conviction was entered are substantially similar to the elements of an offense described under clauses (A) through (J); 
+
+
+
+(15) 
+is identified as a possible perpetrator of child abuse or neglect in an assessment conducted by the department of child services under IC 31-33-8; or 
+
+(16)
+ is: 
+
+(A) 
+a parent, guardian, or custodian of a child; or 
+
+(B) 
+an individual who is at least eighteen (18) years of age 
+
+
+
+
+and resides in the home of the parent, guardian, or custodian; with whom the department of child services or a county probation department has a case plan, dispositional decree, or permanency plan approved under IC 31-34 or IC 31-37 that provides for reunification following an out-of-home placement. 
+However, limited criminal history information obtained from the National Crime Information Center may not be released under this section except to the extent permitted by the Attorney General of the United States. 
+(b) 
+A law enforcement agency shall allow inspection of a limited criminal history by and release a limited criminal history to the following noncriminal justice organizations: 
+
+(1) 
+Federally chartered or insured banking institutions. 
+
+(2) 
+Officials of state and local government for any of the following purposes: 
+
+(A) 
+Employment with a state or local governmental entity. 
+
+(B) 
+Licensing. 
+
+
+
+(3) 
+Segments of the securities industry identified under 15 
+
+
+U.S.C. 78q(f)(2). 
+
+(c) 
+Any person who knowingly or intentionally uses limited criminal history for any purpose not specified under this section commits a Class A misdemeanor. 
+
+
+As added by P.L.2-2003, SEC.4. Amended by P.L.1-2005, SEC.117; P.L.234-2005, SEC.9; P.L.1-2006, SEC.171; P.L.145-2006, SEC.27; P.L.140-2006, SEC.5 and P.L.173-2006, SEC.5; P.L.1-2007, SEC.97; P.L.216-2007, SEC.5; P.L.146-2008, SEC.368; P.L.44-2009, SEC.4; P.L.153-2011, SEC.2; P.L.48-2012, SEC.7; P.L.158-2013, SEC.166; P.L.214-2013, SEC.2;P.L.13-2016, SEC.3. 
+IC 10-13-3-27.5 Record check by department of child services under exigent circumstances; transmittal of report copy; providing fingerprints; removal of child for failure to provide fingerprints; compliance with federal law; contesting denial of placement; fee 
+Sec. 27.5. (a) If: 
+(1) 
+exigent circumstances require the emergency placement of a child; and 
+
+(2) 
+the department will be unable to obtain criminal history information from the Interstate Identification Index before the emergency placement is scheduled to occur; 
+
+
+upon request of the department of child services established by IC 31-25-1-1, a caseworker, or a juvenile probation officer, the department may conduct a national name based criminal history record check of each individual who is at least eighteen (18) years of age and who is currently residing in the location designated as the out-of-home placement at the time the child will reside in the location. The department shall promptly transmit a copy of the report it receives from the Interstate Identification Index to the agency or person that submitted a request under this section. 
+(b) After the department of child services, the caseworker, or the juvenile probation officer receives the results of the national name based criminal history record check and before the maximum period allowed under federal law has elapsed, the department of child services, the caseworker, or the juvenile probation officer shall provide the department with a complete set of fingerprints for each individual who is at least eighteen (18) years of age and who is currently residing in the location designated as the out-of-home placement at the time the child will be placed in the location. The department shall: 
+(1) 
+use fingerprint identification to positively identify each individual whose fingerprints are provided to the department under this subsection; or 
+
+(2) 
+submit the fingerprints to the Federal Bureau of Investigation not later than fifteen (15) calendar days after the date on which the national name based criminal history record check was conducted. 
+
+
+The child shall be removed from the location designated as the out-of-home placement if an individual who is at least eighteen (18) years of age and who is currently residing in the location designated as the out-of-home placement at the time the child will reside in the location fails to provide a complete set of fingerprints to the department of child services, the caseworker, or the juvenile probation officer. 
+(c) 
+The department and the person or agency that provided fingerprints shall comply with all requirements of 42 U.S.C. 5119a and any other applicable federal law or regulation regarding: 
+
+(1) 
+notification to the subject of the check; and 
+
+(2) 
+the use of the results obtained based on the check of the person's fingerprints. 
+
+
+
+(d) 
+If an out-of-home placement is denied as the result of a national name based criminal history record check, an individual who is the subject of the name based criminal history record check may contest the denial by submitting to the department of child services, the caseworker, or the juvenile probation officer: 
+
+(1) 
+a complete set of the individual's fingerprints; and 
+
+(2) 
+written authorization permitting the department of child services, the caseworker, or the juvenile probation officer to forward the fingerprints to the department for submission to the Federal Bureau of Investigation; 
+
+
+
+
+not later than five (5) days after the out-of-home placement is denied. 
+(e) The: 
+(1) department; and 
+(2) Federal Bureau of Investigation; may charge a reasonable fee for processing a national name based criminal history record check. The department shall adopt rules under IC 4-22-2 to establish a reasonable fee for processing a national name based criminal history record check and for collecting fees owed under this subsection. 
+(f) The: 
+(1) 
+department of child services, for an out-of-home placement arranged by a caseworker or the department of child services; or 
+
+(2) 
+juvenile court, for an out-of-home placement ordered by the 
+
+
+juvenile court; shall pay the fee described in subsection (e), arrange for fingerprinting, and pay the costs of fingerprinting, if any. As added by P.L.234-2005, SEC.10. Amended by P.L.145-2006, SEC.28; P.L.146-2006,SEC.3; P.L.138-2007, SEC.1; P.L.205-2013, SEC.168. 
+
+IC 10-13-3-28 Criminal history check on request of an individual seeking employment or to volunteer 
+Sec. 28. On request of an individual who has applied for employment or to volunteer with a noncriminal justice organization or individual, the Indiana central repository for criminal history information shall process a request for a national fingerprint based criminal history check of the individual making the request from the Federal Bureau of Investigation's National Crime Information Center upon: 
+(1) the submission of fingerprints of the individual making the request; and 
+(2) the payment of a fifteen dollar ($15) fee. As added by P.L.2-2003, SEC.4. Amended by P.L.127-2011, SEC.1; P.L.287-2013, SEC.1. 
+
+IC 10-13-3-29 Use by noncriminal justice organizations or individuals restricted 
+Sec. 29. A noncriminal justice organization or individual that receives a limited criminal history may not use it for purposes: 
+(1) 
+other than those stated in the request; or 
+
+(2) 
+that deny the subject any civil right to which the subject is entitled. 
+
+
+As added by P.L.2-2003, SEC.4. 
+
+IC 10-13-3-30 Request for limited criminal history; duties of law enforcement agency and department 
+Sec. 30. (a) Except as provided in subsection (c), on request for release or inspection of a limited criminal history, law enforcement agencies may, if the agency has complied with the reporting requirements in section 24 of this chapter, and the department shall do the following: 
+(1) 
+Require a form, provided by law enforcement agencies and the department, to be completed. The form shall be maintained for two (2) years and shall be available to the record subject 
+
+upon request. 
+
+(2) 
+Collect a three dollar ($3) fee to defray the cost of processing a request for inspection. 
+
+(3) 
+Collect a seven dollar ($7) fee to defray the cost of processing a request for release. However, law enforcement agencies and the department may not charge the fee for requests received from the parent locator service of the child support bureau of the department of child services. 
+
+
+(b) Law enforcement agencies and the department shall edit information so that the only information released or inspected is information that: 
+(1) 
+has been requested; and 
+
+(2) 
+is limited criminal history information. 
+
+
+(c) The fee required under subsection (a) shall be waived if the request relates to the registration of sex or violent offenders under IC 11-8-8 or the Indiana sex and violent offender registry under IC 36-2-13-5.5 or concerns a person required to register as a sex or violent offender under IC 11-8-8. As added by P.L.2-2003, SEC.4. Amended by P.L.156-2003, SEC.5; P.L.145-2006, SEC.29; P.L.140-2006, SEC.6 and P.L.173-2006, SEC.6; P.L.216-2007, SEC.6. 
+
+IC 10-13-3-31 Release of data to subject person; fee; challenge of data authorized 
+Sec. 31. (a) Unless otherwise prohibited by law, a criminal justice agency that maintains criminal history data, upon request and proper identification of the person about whom criminal history data is maintained, shall provide that person with a copy of the person's criminal history data for a reasonable fee. 
+(b) Any person may challenge the information contained in the person's criminal history data file. As added by P.L.2-2003, SEC.4. 
+
+IC 10-13-3-32 Application of chapter 
+Sec. 32. This chapter is not applicable to and does not prevent the release or inspection of information contained in the following: 
+(1) 
+Wanted person posters or announcements. 
+
+(2) 
+An original record of entry, including a police blotter, maintained by a criminal justice agency. 
+
+(3) 
+Published court or administrative opinions or records of public judicial, administrative, or legislative proceedings. 
+
+(4) 
+Records of traffic offenses maintained by the bureau of motor vehicles. 
+
+(5) 
+Announcements of pardon or executive clemency. 
+
+
+As added by P.L.2-2003, SEC.4. 
+IC 10-13-3-33 Rules; challenge of data procedure 
+
+Sec. 33. (a) The council shall adopt rules under IC 4-22-2 to: 
+(1) 
+assure the completeness and accuracy of criminal history data; 
+
+(2) 
+protect information from loss, alteration, destruction, or improper direct access to the information files; 
+
+(3) 
+prevent unreasonableinterference with the regular discharge of the duties of employees of law enforcement agencies; and 
+
+(4) 
+carry out this chapter. 
+
+
+(b) 
+If a person makes a challenge under section 31(b) of this chapter, the department shall: 
+
+(1) 
+make the changes requested, if it determines the data is in error; or 
+
+(2) 
+conduct a hearing under IC 4-21.5-3, if requested by the person making the challenge. 
+
+
+
+(c) 
+The rules adopted under this chapter must provide for inspection in a reasonable and timely manner. 
+
+
+As added by P.L.2-2003, SEC.4. 
+
+IC 10-13-3-34 Security and privacy council; establishment; members 
+Sec. 34. (a) There is established a security and privacy council that consists of nine (9) members selected under subsections (b) and (c). 
+(b) 
+The following six (6) members shall be appointed by and shall serve at the pleasure of the governor: 
+
+(1) 
+A prosecuting attorney. 
+
+(2) 
+The police chief of a city. 
+
+(3) 
+The sheriff of a county. 
+
+(4) 
+A criminal court judge. 
+
+(5) 
+Two (2) citizens who are not law enforcement officers. 
+
+
+
+(c) 
+The following persons, or their designees, also are members of the council: 
+
+(1) 
+The superintendent. 
+
+(2) 
+The attorney general. 
+
+(3) 
+The commissioner of the department of correction. 
+
+
+
+(d) 
+Members of the council are not entitled to receive compensation but are entitled to receive a per diem and mileage on those days in which they are engaged in the business of the council. Per diem and mileage paid shall be that amount paid to state employees. 
+
+
+As added by P.L.2-2003, SEC.4. 
+IC 10-13-3-35 Indiana data and communication system; national crime informationcenter's missing,wanted, andunidentifiedpersonfiles; entry or deletion of information 
+Sec. 35. (a) On a daily basis, all law enforcement agencies shall enter into the Indiana data and communication system (IDACS) computer the following: 
+(1) 
+All information concerning stolen or recovered property, including the following: 
+
+(A) 
+Motor vehicles. 
+
+(B) 
+Firearms. 
+
+(C) 
+Securities. 
+
+(D) 
+Boats. 
+
+(E) 
+License plates. 
+
+(F) 
+Other stolen or recovered property. 
+
+
+
+(2) 
+All information concerning fugitives charged with a crime, including information concerning extradition. 
+
+(3) 
+All information concerning runaways, missing and unidentified persons, and missing children (as defined in IC 10-13-5-4), including information concerning the release of those persons to the custody of a parent or guardian. 
+
+(4) 
+Information contained in a protective order, including any modifications or extensions issued by a court and filed with a law enforcement agency as required in IC 5-2-9-6(f). 
+
+
+(b) 
+On a daily basis, all law enforcement agencies shall do the following: 
+
+(1) 
+Enter all information concerning missing children (as defined in IC 10-13-5-4) into the National Crime Information Center's Missing Person File. 
+
+(2) 
+Enter all information concerning warrants issued for a person who allegedly abducted or unlawfully retained a missing child into the National Crime Information Center's Wanted Person File. 
+
+(3) 
+Enter all information concerning unidentified persons into the National Crime Information Center's Unidentified Person File. 
+
+(4) 
+Enter all information concerning a protective order, a workplace violence restraining order, or a no contact order involving intimate partners into the National Crime Information Center's (NCIC) Protection Order File if the order qualifies under NCIC rules. 
+
+
+
+(c) 
+If a protective order, a no contact order, or a workplace violence restraining order is removed from a depository established under IC 5-2-9, the law enforcement agency responsible for the depository shall delete the information entered under subsection (a)(4) from the Indiana data and communication system (IDACS) computer. 
+
+
+As added by P.L.2-2003, SEC.4. 
+IC 10-13-3-36 Fees; nonprofit organizations;family andchildrendivision; family and children offices; health professions bureau; educational institutions 
+Sec. 36. (a) The department may not charge a fee for responding to a request for the release of a limited criminal history record if the request is made by a nonprofit organization: 
+(1) 
+that has been in existence for at least ten (10) years; and 
+
+(2) 
+that: 
+
+(A) 
+has a primary purpose of providing an individual relationship for a child with an adult volunteer if the request is made as part of a background investigation of a prospective adult volunteer for the organization; 
+
+(B) 
+is a community intellectual disability and other developmental disabilities center (as defined in IC 12-7-2-39); 
+
+(C) 
+is a supervised group living facility licensed under IC 12-28-5; 
+
+(D) 
+is an area agency on aging designated under IC 12-10-1; 
+
+(E) 
+is a community action agency (as defined in IC 12-14-23-2); 
+
+(F) 
+is the owner or operator of a hospice program licensed under IC 16-25-3; or 
+
+(G) 
+is a community mental health center (as defined in IC 12-7-2-38). 
+
+
+
+
+(b) 
+Except as provided in subsection (d), the department may not charge a fee for responding to a request for the release of a limited criminal history record made by the department of child services or the division of family resources if the request is made as part of a background investigation of an applicant for a license under IC 12-17.2 or IC 31-27. 
+
+(c) 
+The department may not charge a fee for responding to a request for the release of a limited criminal history if the request is made by a school corporation, special education cooperative, or nonpublic school (as defined in IC 20-18-2-12) as part of a background investigation of a prospective or current employee or a prospective or current adult volunteer for the school corporation, special education cooperative, or nonpublic school. 
+
+(d) 
+As used in this subsection, "state agency" means an authority, a board, a branch, a commission, a committee, a department, a division, or another instrumentality of state government, including the executive and judicial branches of state government, the principal secretary of the senate, the principal clerk of the house of representatives, the executive director of the legislative services agency, a state elected official's office, or a body corporate and politic, but does not include a state educational institution. The department may not charge a fee for responding to a request for the release of a limited criminal history if the request is made: 
+
+(1) 
+by a state agency; and 
+
+(2) 
+through the computer gateway that is administered by the office of technology established by IC 4-13.1-2-1. 
+
+
+
+
+(e) The department may not charge a fee for responding to a request for the release of a limited criminal history record made by the Indiana professional licensing agency established by IC 25-1-5-3 if the request is: 
+(1) 
+made through the computer gateway that is administered by the office of technology; and 
+
+(2) 
+part of a background investigation of a practitioner or an individual who has applied for a license issued by a board (as defined in IC 25-1-9-1). 
+
+
+(f) The department may not charge a church or religious society a fee for responding to a request for the release of a limited criminal history record if: 
+(1) 
+the church or religious society is a religious organization exempt from federal income taxation under Section 501 of the Internal Revenue Code; 
+
+(2) 
+the request is made as part of a background investigation of a prospective or current employee or a prospective or current adult volunteer; and 
+
+(3) 
+the employee or volunteer works in a nonprofit program or ministry of the church or religious society, including a child care ministry registered under IC 12-17.2-6. 
+
+
+(g) The department may not charge the school of education of a public or private postsecondary educational institution a fee for responding to a request for the release of a limited criminal history record if the request is made as part of a background investigation of a student before or after the student begins the student's field or classroom experience. However, the department may charge the student a fee for responding to a request for the release of a limited criminal history record. As added by P.L.2-2003, SEC.4. Amended by P.L.138-2003, SEC.2; P.L.158-2003, SEC.1; P.L.261-2003,SEC.12; P.L.97-2004, SEC.42; P.L.1-2005, SEC.118;P.L.177-2005, SEC.30; P.L.1-2006, SEC.172; P.L.145-2006, SEC.30; P.L.142-2006, SEC.1; P.L.2-2007, SEC.147; P.L.121-2009, SEC.2; P.L.117-2015, SEC.4; P.L.51-2016, SEC.1. 
+
+IC 10-13-3-37 Use of fingerprints submitted for certain licensure applications; fees; retention of fingerprints 
+Sec. 37. (a) Under Public Law 92-544 (86 Stat. 1115), a local law enforcement agency may use fingerprints submitted for the purpose of identification in a request related to the following: 
+(1) 
+A taxicab driver's license application. 
+
+(2) 
+Reinstatement or renewal of a taxicab driver's license. 
+
+
+(b) 
+An applicant shall submit the fingerprints on forms provided for the license application. 
+
+(c) 
+The local law enforcement agency shall charge each applicant the fees set by the department and federal authorities to defray the costs associated with a search for and classification of the applicant's fingerprints. 
+
+
+(d) 
+The local law enforcement agency may: 
+
+(1) 
+forward for processing to the Federal Bureau of Investigation or any other agency fingerprints submitted by a license applicant; and 
+
+(2) 
+receive the results of all fingerprint investigations. 
+
+
+
+(e)
+ The department: 
+
+(1) 
+may permanently retainanapplicant's fingerprints submitted under this section; and 
+
+(2) 
+shall retain the applicant's fingerprints separately from fingerprints collected under section 24 of this chapter. 
+
+
+
+
+As added by P.L.2-2003, SEC.4. Amended by P.L.200-2007, SEC.1; P.L.155-2011, SEC.1. 
+
+IC 10-13-3-38 Collection of bias crime information; reports 
+Sec. 38. (a) A law enforcement agency shall collect information concerning bias crimes. 
+(b) 
+At least two (2) times each year, a law enforcement agency shall submit information collected under subsection (a) to the Indiana central repository for criminal history information. Information shall be reported in the manner and form prescribed by the department. 
+
+(c) 
+At least one (1) time each year, the Indiana central repository for criminal history information shall submit a report that includes a compilation of information obtained under subsection (b) to each law enforcement agency and to the legislative council. A report submitted to a law enforcement agency and the legislative council under this subsection may not contain the name of a person who: 
+
+(1) committed or allegedly committed a bias crime; or 
+
+(2) 
+was the victim or the alleged victim of a bias crime. A report submitted to the legislative council under this subsection must be in an electronic format under IC 5-14-6. 
+
+(d) 
+Except as provided in subsection (e), information collected, submitted, and reported under this section must be consistent with guidelines established for the acquisition,preservation, and exchange of identification records and information by: 
+
+(1) the Attorney General of the United States; or 
+
+(2) 
+the Federal Bureau of Investigation; under 28 U.S.C. 534 and the Hate Crime Statistics Act, as amended (28 U.S.C. 534 note). 
+
+(e) 
+Information submitted under subsection (b) and reports issued under subsection (c) shall, in conformity with guidelines prescribed by the department: 
+
+(1) 
+be separated in reports on the basis of whether it is an alleged crime, a charged crime, or a crime for which a conviction has been obtained; and 
+
+(2) 
+be divided in reports on the basis of whether, in the opinion of the reporting individual and the data collectors, bias was the primary motivation for the crime or only incidental to the crime. 
+
+
+
+
+As added by P.L.2-2003, SEC.4. Amended by P.L.28-2004, SEC.79. 
+
+IC 10-13-3-38.5 Use of fingerprints for employment or license; retention of fingerprints 
+Sec. 38.5. (a) Under federal P.L.92-544 (86 Stat. 1115), the department may use an individual's fingerprints submitted by the individual for the following purposes: 
+(1) 
+Determining the individual's suitabilityfor employment with the state, or as an employee of a contractor of the state, in a position: 
+
+(A) 
+that has a job description that includes contact with, care of, or supervision over a person less than eighteen (18) years of age; 
+
+(B) 
+that has a job description that includes contact with, care of, or supervision over an endangered adult (as defined in IC 12-10-3-2), except the individual is not required to meet the standard for harmed or threatened with harm set forth in IC 12-10-3-2(a)(3); 
+
+(C) 
+at a state institution managed by the office of the secretary of family and social services or state department of health; 
+
+(D) 
+at the Indiana School for the Deaf established by IC 20-22-2-1; 
+
+(E) 
+at the Indiana School for the Blind and Visually Impaired established by IC 20-21-2-1; 
+
+(F) 
+at a juvenile detention facility; 
+
+(G) 
+with the Indiana gaming commission under IC 4-33-3-16; 
+
+(H) 
+with the department of financial institutions under IC 28-11-2-3; or 
+
+(I) 
+that has a job description that includes access to or supervision over state financial or personnel data, including state warrants, banking codes, or payroll information pertaining to state employees. 
+
+
+
+(2) 
+Identification in a request related to an application for a teacher's license submitted to the department of education established by IC 20-19-3-1. 
+
+(3) 
+Use by the gaming commission established under IC 4-33-3-1 for licensure of a promoter (as defined in IC 4-33-22-6) under IC 4-33-22. 
+
+(4) 
+Use by the Indiana board of pharmacy in determining the individual's suitability for a position or employment with a wholesale drug distributor, as specified in IC 25-26-14-16(b), IC 25-26-14-16.5(b), IC 25-26-14-17.8(c), and IC 25-26-14-20. 
+
+(5) 
+Identification in a request related to an individual applying for or renewing a license or certificate described in IC 25-1-1.1-4 and a conviction described in IC 25-1-1.1-2 or 
+
+
+IC 25-1-1.1-3. An applicant shall submit the fingerprints in an appropriate format or on forms provided for the employment, license, or certificate application. The department shall charge each applicant the fee established under section 28 of this chapter and by federal authorities to defray the costs associated with a search for and classification of the applicant's fingerprints. The department may forward fingerprints submitted by an applicant to the Federal Bureau of Investigation or any other agency for processing. The state personnel department, the Indiana professional licensing agency, or the agency to which the applicant is applying for employment or a license may receive the results of all fingerprint investigations. 
+(b) 
+An applicant who is an employee of the state may not be charged under subsection (a). 
+
+(c) 
+Subsection (a)(1) does not apply to an employee of a contractor of the state if the contract involves the construction or repair of a capital project or other public works project of the state. 
+
+
+(d) The department: 
+(1) 
+may permanently retain an applicant's fingerprints submitted under this section; and 
+
+(2) 
+shall retain the applicant's fingerprints separately from fingerprints collected under section 24 of this chapter. 
+
+
+As added by P.L.261-2003, SEC.13. Amended by P.L.1-2005, SEC.119; P.L.120-2005, SEC.1; P.L.212-2005, SEC.1; P.L.218-2005, SEC.4; P.L.246-2005, SEC.90; P.L.1-2006, SEC.173; P.L.160-2009, SEC.2; P.L.113-2010, SEC.71;P.L.155-2011, SEC.2. 
+IC 10-13-3-39 Department designated authorized agency for national criminal history background check; request for background check by qualified entity; exchange of identification records; results provided to public agency 
+Sec. 39. (a) The department is designated as the authorized agency to receive requests for, process, and disseminate the results of national criminal history background checks that comply with this section and 42 U.S.C. 5119a. 
+(b) 
+A qualified entity may contact the department to request a national criminal history background check on any of the following persons: 
+
+(1) 
+A person who seeks to be or is employed with the qualified entity. A request under this subdivision must be made not later than three (3) months after the person is initially employed by the qualified entity. 
+
+(2) 
+A person who seeks to volunteer or is a volunteer with the qualified entity. A request under this subdivision must be made not later than three (3) months after the person initially volunteers with the qualified entity. 
+
+(3) 
+A person for whom a national criminal history background 
+
+check is required under any law relating to the licensing of a home, center, or other facility for purposes of day care or residential care of children. 
+
+(4) 
+A person for whom a national criminal history background check is permitted for purposes of: 
+
+(A) 
+placement of a child in a foster family home, a prospective adoptive home, or the home of a relative, legal guardian to whom IC 29-3-8-9 applies, or other caretaker under section 27.5 of this chapter or IC 31-34; 
+
+(B) 
+a report concerning an adoption as required by IC 31-19-8; 
+
+(C) 
+collaborative care host homes and supervised independent living arrangements as provided in IC 31-28-5.8-5.5; or 
+
+(D) 
+reunification of a child with a parent, guardian, or custodian as provided in IC 31-34-21-5.5. 
+
+
+
+(5) 
+A person for whom a national criminal history background check is required for the licensing of a group home, child caring institution, child placing agency, or foster home under IC 31-27. 
+
+(6) 
+A person for whom a national criminal history background check is required for determining the individual's suitability as an employee of a contractor of the state under section 38.5(a)(1) of this chapter. 
+
+
+
+(c) 
+A qualified entity must submit a request under subsection (b) in the form required by the department and provide a set of the person's fingerprints and any required fees with the request. 
+
+(d) 
+If a qualified entity makes a request in conformity with subsection (b), the department shall submit the set of fingerprints provided with the request to the Federal Bureau of Investigation for a national criminal history background check. The department shall respond to the request in conformity with: 
+
+(1) 
+the requirements of 42 U.S.C. 5119a; and 
+
+(2) 
+the regulations prescribed by the Attorney General of the United States under 42 U.S.C. 5119a. 
+
+
+(e) Subsection (f): 
+(1) 
+applies to a qualified entity that: 
+
+(A) 
+is not a school corporation or a special education cooperative; or 
+
+(B) 
+is a school corporation or a special education cooperative and seeks a nationalcriminalhistory background check for a volunteer; and 
+
+
+
+(2) 
+does not apply to a qualified entity that is a: 
+
+(A) 
+home health agency licensed under IC 16-27-1; or 
+
+(B) 
+personal services agency licensed under IC 16-27-4. 
+
+
+
+
+
+(f) 
+After receiving the results of a national criminal history background check from the Federal Bureau of Investigation, the department shall make a determination whether the person who is the subject of a request has been convicted of: 
+
+(1) 
+an offense described in IC 20-26-5-11; 
+
+(2) 
+in the case of a foster family home, an offense described in IC 31-27-4-13(a); 
+
+(3) 
+in the case of a prospective adoptive home, an offense described in IC 31-19-11-1(c); 
+
+(4) 
+any other felony; or 
+
+
+
+(5) 
+any misdemeanor; and convey the determination to the requesting qualified entity. 
+
+
+(g) This subsection applies to a qualified entity that: 
+(1) 
+is a school corporation or a special education cooperative; and 
+
+(2) 
+seeks a national criminal history background check to determine whether to employ or continue the employment of a certificated employee or a noncertificated employee of a school corporation or an equivalent position with a special education cooperative. 
+
+
+After receiving the results of a national criminal history background check from the Federal Bureau of Investigation, the department may exchange identification records concerning convictions for offenses described in IC 20-26-5-11 with the school corporation or special education cooperative solely for purposes of making an employment determination. The exchange may be made only for the official use of the officials with authority to make the employment determination. The exchange is subject to the restrictions on dissemination imposed under P.L.92-544, (86 Stat. 1115) (1972). 
+(h) 
+This subsection applies to a qualified entity (as defined in IC 10-13-3-16) that is a public agency under IC 5-14-1.5-2(a)(1). After receiving the results of a national criminal history background check from the Federal Bureau of Investigation, the department shall provide a copy to the public agency. Except as permitted by federal law, the public agency may not share the information contained in the national criminal history background check with a private agency. 
+
+(i) This subsection applies to a qualified entity that is a: 
+(1) home health agency licensed under IC 16-27-1; or 
+
+(2) 
+personal services agency licensed under IC 16-27-4. After receiving the results of a national criminal history background check from the Federal Bureau of Investigation, the department shall make a determination whether the applicant has been convicted of an offense described in IC 16-27-2-5(a) and convey the determination to the requesting qualified entity. 
+
+
+(j) The department: 
+(1) 
+may permanently retain an applicant's fingerprints submitted under this section; and 
+
+(2) 
+shall retain the applicant's fingerprints separately from fingerprints collected under section 24 of this chapter. 
+
+
+As added by P.L.2-2003, SEC.4. Amended by P.L.1-2005, SEC.120; P.L.234-2005, SEC.11; P.L.138-2007, SEC.2; P.L.197-2007, SEC.2; 
+P.L.3-2008, SEC.85; P.L.155-2011, SEC.3; P.L.104-2015, SEC.1. 
+
+IC 10-13-3-40 Appropriation of excess handgun license fees 
+Sec. 40. If the amount of money that is deposited in the state general fund during a state fiscal year from handgun license fees (as described in IC 35-47-2-4) exceeds one million one hundred thousand dollars ($1,100,000), the excess is appropriated from the state general fund to the department. An appropriation under this section is subject to allotment by the budget agency. As added by P.L.190-2006, SEC.1. Amended by P.L.91-2014, SEC.33. 
+
+IC 10-13-4 Chapter 4. Juvenile History Information 
+IC 10-13-4-1 "Council" 
+Sec. 1. As used in this chapter, "council" refers to the security and privacy council established by IC 10-13-3-34. 
+As added by P.L.2-2003, SEC.4. 
+
+IC 10-13-4-2 
+"Criminal justice agency" 
+
+Sec. 2. As used in this chapter, "criminal justice agency" has the meaning set forth in IC 10-13-3-6. 
+As added by P.L.2-2003, SEC.4. 
+
+IC 10-13-4-3 "Inspection" 
+Sec. 3. As used in this chapter, "inspection" means visual perusal and includes the right to make memoranda abstracts of juvenile history data. 
+As added by P.L.2-2003, SEC.4. 
+
+IC 10-13-4-4 
+"Juvenile history data" 
+
+Sec. 4. As used in this chapter, "juvenile history data" means information collected by criminal or juvenile justice agencies or individuals about a child who is alleged to have committed a reportable act and consists of the following: 
+(1) 
+Descriptions and notations of events leading to the taking of the child into custody by a juvenile justice agency for a reportable act allegedly committed by the child. 
+
+(2) 
+A petition alleging that the child is a delinquent child. 
+
+(3) 
+Dispositional decrees concerning the child that are entered under IC 31-37-19 (or IC 31-6-4-15.9 before its repeal). 
+
+(4) 
+The findings of a court determined after a hearing is held under IC 31-37-20-2 or IC 31-37-20-3 (or IC 31-6-4-19(h) or IC 31-6-4-19(i) before their repeal) concerning the child. 
+
+(5) 
+Information: 
+
+(A) 
+regarding a child who has been adjudicated a delinquent child for committing an act that would be an offense described in IC 11-8-8-5 if committed by an adult; and 
+
+(B) 
+that is obtained through sex or violent offender registration under IC 11-8-8. 
+
+
+
+
+As added by P.L.2-2003, SEC.4. Amended by P.L.140-2006, SEC.7 and P.L.173-2006, SEC.7; P.L.216-2007, SEC.7. 
+IC 10-13-4-5 
+"Juvenile justice agency" 
+
+Sec. 5. As used in this chapter, "juvenile justice agency" means an agency or department of any level of government, the functions of which include juvenile justice activities included under IC 5-2-6-1. As added by P.L.2-2003, SEC.4. 
+
+IC 10-13-4-6 "Petition" 
+Sec. 6. As used in this chapter, "petition" means a petition filed under IC 31-37-10 (or IC 31-6-4-9 before its repeal) alleging that a child is a delinquent child. As added by P.L.2-2003, SEC.4. 
+
+IC 10-13-4-7 "Release" 
+Sec. 7. As used in this chapter, "release" means furnishing a copy or edited copy of juvenile history data. As added by P.L.2-2003, SEC.4. 
+
+IC 10-13-4-8 "Reportable act" 
+Sec. 8. As used in this chapter, "reportable act" means a delinquent act that would be a felony if committed by an adult. As added by P.L.2-2003, SEC.4. 
+
+IC 10-13-4-9 Official state central repository; duty to report delinquent acts to department 
+Sec. 9. (a) The department shall act as the official state central repository for juvenile history data. 
+(b) Juvenile justice agencies shall report to the department, on forms provided by the department, each incident in which a child is taken into custody for a reportable act allegedly committed by the child. As added by P.L.2-2003, SEC.4. 
+
+IC 10-13-4-10 Duty to furnish dispositional report to department 
+Sec. 10. (a) If a child for whom a report is required to be submitted under section 9 of this chapter is: 
+(1) transferred to the custody of another juvenile justice agency; or 
+(2) 
+released without having a petition filed with any court; a disposition report shall be furnished to the department by the agency from which custody of the child has been transferred or released. Disposition reports must be made on forms provided by the department. 
+
+(b) 
+If a petition is filed in any court, the clerk of the court shall furnish to the department, on forms provided by the department, a 
+
+
+report of the dispositional decree of the case entered under IC 31-37-19-5 (or IC 31-6-4-15.9 before its repeal). 
+(c) A report required under section 9 of this chapter or this section, whether by a juvenile justice agency or a court clerk, shall be sent to the department within thirty (30) days after the action necessitating the report occurs. As added by P.L.2-2003, SEC.4. 
+
+IC 10-13-4-11 Juvenile history data 
+Sec. 11. (a) A criminal or juvenile justice agency may: 
+(1) provide juvenile history data to; or 
+(2) receive juvenile history data from; another criminal or juvenile justice agency. 
+(b) The department shall provide juvenile history data to any criminal or juvenile justice agency asking for it if the council determines that the agency has complied with this chapter. As added by P.L.2-2003, SEC.4. 
+
+IC 10-13-4-12 Release of juvenile history data 
+Sec. 12. (a) Except as otherwise provided, any criminal or juvenile justice agency that maintains juvenile history data shall, upon request and proper identification of the person about whom juvenile history data is maintained, provide: 
+(1) 
+that person; or 
+
+(2) 
+the person's parent, guardian, or custodian if the person is 
+
+
+less than eighteen (18) years of age; with a copy of the person's juvenile history data for a reasonable fee. 
+(b) A person or the person's parent, guardian, or custodian, if the person is less than eighteen (18) years of age, may challenge the accuracy of information about the person filed with the department as juvenile history data. 
+(c) The department may not release or allow inspection of juvenile history data to any person or agency that is not authorized under this chapter to receive it. As added by P.L.2-2003, SEC.4. 
+
+IC 10-13-4-13 Sealing juvenile history data 
+Sec. 13. (a) When a person who is the subject of juvenile history data on file with the department becomes twenty-two (22) years of age, the department shall seal that person's juvenile history data. However, this subsection does not apply if, after the department receives juvenile history data about a person, the person is arrested for a felony required to be reported to the department under IC 10-13-3. 
+(b) Except as provided under subsection (c), the department may not release to or allow inspection of sealed juvenile history data by any agency or person other than the person who is the subject of the juvenile history data. 
+(c) A court may not order the release or inspection of sealed juvenile history data unless the person who is the subject of the sealed juvenile history data challenges its existence during a court proceeding. As added by P.L.2-2003, SEC.4. 
+
+IC 10-13-4-14 Rules; challenges to accuracy of information 
+Sec. 14. (a) The council shall adopt rules under IC 4-22-2 to do the following: 
+(1) 
+Assure the completeness and accuracy of juvenile history data. 
+
+(2) 
+Protect information from loss, alteration, destruction, or improper direct access to the information files. 
+
+(3) 
+Prevent unreasonable interference with the regular discharge of the duties of employees of law enforcement agencies. 
+
+(4) 
+Carry out this chapter. 
+
+
+(b) If a person makes a challenge under section 12(b) of this chapter, the department shall: 
+(1) 
+make the changes requested, if the department determines the data is in error; or 
+
+(2) 
+conduct a hearing under IC 4-21.5, if requested by the person making the challenge. 
+
+
+(c) The rules adopted under this chapter must provide for inspection and release of juvenile history data in a reasonable and timely manner. As added by P.L.2-2003, SEC.4. 
+
+IC 10-13-5 
+Chapter 5. Indiana Clearinghouse for InformationonMissing Children 
+IC 10-13-5-1 
+"Amber alert program" 
+
+Sec. 1. As used in this chapter, "Amber alert program" means a program under which the clearinghouse transmits information about a recently abducted child to broadcasters who: 
+(1) 
+have agreed to participate in the program; and 
+
+(2) 
+immediately and repeatedly broadcast the information to the general public. 
+
+
+As added by P.L.2-2003, SEC.4. 
+
+IC 10-13-5-2 "Broadcaster" 
+Sec. 2. As used in this chapter, "broadcaster" means the operator of a radio or television station. As added by P.L.2-2003, SEC.4. 
+
+IC 10-13-5-3 "Clearinghouse" 
+Sec. 3. As used in this chapter, "clearinghouse" refers to the Indiana clearinghouse for information on missing children and missing endangered adults established by section 5 of this chapter. As added by P.L.2-2003, SEC.4. Amended by P.L.43-2009, SEC.2. 
+
+IC 10-13-5-4 "Missing child" 
+Sec. 4. As used in this chapter, "missing child" means a person less than eighteen (18) years of age who: 
+(1) 
+is, or is believed to be: 
+
+(A) 
+a temporary or permanent resident of Indiana; 
+
+(B) 
+at a location that cannot be determined by the person's parent or legal custodian; and 
+
+(C) 
+reported missing to a law enforcement agency; or 
+
+
+
+(2) 
+is, or is believed to be: 
+
+(A) 
+a temporary or permanent resident of Indiana; and 
+
+(B) 
+a victim of the offense of criminal confinement (IC 35-42-3-3) or interference with custody (IC 35-42-3-4). 
+
+
+
+
+As added by P.L.2-2003, SEC.4. 
+
+IC 10-13-5-4.3 
+"Missing endangered adult" 
+
+Sec. 4.3. As used in this chapter, "missing endangered adult" means an adult who is a high risk missing person under the definition in IC 5-2-17-1. As added by P.L.43-2009, SEC.3. 
+
+IC 10-13-5-4.6 
+"Silver alert program" 
+
+Sec. 4.6. As used in this chapter, "silver alert program" means a program under which the clearinghouse transmits information about missing endangered adults to broadcasters who: 
+(1) 
+have agreed to participate in the program; and 
+
+(2) 
+immediately and repeatedly broadcast the information to the general public. 
+
+
+As added by P.L.43-2009, SEC.4. 
+
+IC 10-13-5-5 Establishment of clearinghouse 
+Sec. 5. The Indiana clearinghouse for information on missing children and missing endangered adults is established within the department. 
+As added by P.L.2-2003, SEC.4. Amended by P.L.43-2009, SEC.5. 
+
+IC 10-13-5-6 Duties of clearinghouse staff 
+Sec. 6. (a) The superintendent shall designate staff responsible for the operation of the clearinghouse. 
+(b) The staff's duties include the following: 
+(1) 
+Creation and operation of an intrastate network of communication designed for the speedy collection and processing of information concerning missing children and missing endangered adults. 
+
+(2) 
+Creation and operation of a central data storage, retrieval, and information distribution system designed for the exchange of information on missing children and missing endangered adults within and outside Indiana. The system must be capable of interacting with: 
+
+(A) 
+the Indiana data and communication system under IC 10-13-3-35; and 
+
+(B) 
+the National Crime Information Center. 
+
+
+
+(3) 
+Development of appropriate forms for the reporting of missing children and missing endangered adults that may be used by law enforcement agencies and private citizens to provide useful information about a missing child or a missing endangered adult to the clearinghouse. 
+
+(4) 
+Cooperation with the following agencies concerning the location of missing children and missing endangered adults: 
+
+(A) 
+State and local public and private nonprofit agencies involved with the location and recovery of missing persons. 
+
+(B) 
+Agencies of the federal government. 
+
+(C) 
+State and local law enforcement agencies within and outside Indiana. 
+
+
+
+(5) 
+Coordinating efforts to locate missing children and missing endangered adults with the agencies listed in subdivision (4). 
+
+(6) 
+Operation of the toll free telephone line created under section 7(a) of this chapter. 
+
+(7) 
+Publishing and updating, on a quarterly basis, a directory of missing children and missing endangered adults. 
+
+(8) 
+Compiling statistics on missing children and missing endangered adult cases handled by the clearinghouse, including the number of cases resolved each year. 
+
+
+As added by P.L.2-2003, SEC.4. Amended by P.L.43-2009, SEC.6. 
+
+IC 10-13-5-7 Powers and duties of clearinghouse; confidentiality of information collected 
+Sec. 7. (a) The clearinghouse shall do the following: 
+(1) 
+Collect, process, and maintain identification and investigative information to aid in finding missing children and missing endangered adults. 
+
+(2) 
+Establish a statewide, toll free telephone line for the reporting: 
+
+(A) 
+of missing children and missing endangered adults; and 
+
+(B) 
+of sightings of missing children and missing endangered adults. 
+
+
+
+(3) 
+Prescribe a uniform reporting form concerning missing children and missing endangered adults for use by law enforcement agencies within Indiana. 
+
+(4) 
+Assist in training law enforcement and other professionals on issues relating to missing children and missing endangered adults. 
+
+(5) 
+Operate a resource center of information regarding the prevention of: 
+
+(A) 
+the abduction of children; and 
+
+(B) 
+the sexual exploitation of children. 
+
+
+
+(6) 
+Distribute the quarterly directory prepared under section 6(b)(7) of this chapter to schools and hospitals. 
+
+(7) 
+Distribute the quarterly directory described in subdivision 
+
+(6) 
+to child care centers and child care homes that make an annual contribution of four dollars ($4) to the clearinghouse. The contributions must be used to help defray the cost of publishing the quarterly directory. 
+
+
+(b) 
+For a missing child who was born in Indiana, the clearinghouse shall notify the vital statistics division of the state department of health: 
+
+(1) 
+within fifteen (15) days after receiving a report under IC 31-36-1-3 (or IC 31-6-13-4 before its repeal) of a missing child less than thirteen (13) years of age; and 
+
+(2) 
+promptly after the clearinghouse is notified that a missing child has been found. 
+
+
+
+(c)
+ Upon receiving notification under subsection (b) that a child is missing or has been found, the vital statistics division of the state 
+
+
+department of health shall notify the local health department or the health and hospital corporation that has jurisdiction over the area where the child was born. 
+(d) Information collected, processed, or maintained by the clearinghouse under subsection (a) is confidential and is not subject to IC 5-14-3, but may be disclosed by the clearinghouse for purposes of locating missing children and missing endangered adults. As added by P.L.2-2003, SEC.4. Amended by P.L.43-2009, SEC.7. 
+
+IC 10-13-5-8 Authorization to operate Amber alert program and silver alert program; agreements with broadcaster 
+Sec. 8. (a) The clearinghouse shall operate an Amber alert program and the silver alert program. 
+(b) 
+Upon the establishment of an Amber alert program and the silver alert program, the clearinghouse may enter into an agreement with one (1) or more broadcasters to operate the Amber alert program and the silver alert program under this chapter. 
+
+(c) 
+The superintendent shall designate staff responsible for the operation of the Amber alert program and the silver alert program. 
+
+(d) 
+The department shall adopt guidelines governing the clearinghouse's operation of the Amber alert program and the silver alert program. The department's guidelines may require that staff, upon receiving a report that a child has been abducted or an endangered adult is missing, immediately send by facsimile (fax) transmission or other means of communication a description of the abducted child or missing endangered adult to one (1) or more broadcasters participating in the Amber alert program or the silver alert program. The guidelines must include criteria that the clearinghouse shall use in determining whether to issue a silver alert and the geographic area or region in which to issue the silver alert. 
+
+(e) 
+A broadcaster participating in the Amber alert program or the silver alert program shall immediately broadcast: 
+
+(1) 
+a description of the abducted child or missing endangered adult; and 
+
+(2) 
+other information that will assist in locating the abducted 
+
+
+
+
+child or missing endangered adult; to the general public in accordance with the Amber alert plan agreement or the silver alert plan agreement between the clearinghouse and the broadcaster. 
+(f) The department shall adopt guidelines governing the voluntary Amber alert program agreement and the voluntary silver alert program agreement between the clearinghouse and a broadcaster. The voluntary agreements between the clearinghouse and the broadcaster may include the following provisions: 
+(1) 
+Upon receiving a notification as part of the Amber alert program or the silver alert program, the broadcaster shall broadcast the information contained on the notice on an 
+
+intermittent basis for a period of time as provided in the agreements between the clearinghouse and the broadcaster. 
+
+(2) 
+The broadcaster shall treat the Amber alert notification or the silver alert notification as an emergency. 
+
+(3) 
+The broadcaster shall ensure that the facsimile (fax) transmission machine or other communications device used to receive an Amber alert notification or a silver alert notification is: 
+
+(A) 
+generallyavailable to receive an Amber alert notification or a silver alert notification; and 
+
+(B) 
+located such that the broadcaster will immediately become aware of an incoming Amber alert notification or silver alert notification. 
+
+
+
+
+As added by P.L.2-2003, SEC.4. Amended by P.L.43-2009, SEC.8. 
+
+IC 10-13-5-8.1 Amber alert program and silver alert program; agreement with electronic billboard operator 
+Sec. 8.1. (a) In addition to an agreement with a broadcaster under section 8 of this chapter, the clearinghouse may enter into an agreement with one (1) or more electronic billboard operators to display Amber alerts or silver alerts under this section. An agreement under this section may include a limitation on the days and times that the electronic billboard operator is required to have staff present to receive an Amber alert or a silver alert notification. 
+(b) 
+The department's guidelines adopted under section 8 of this chapter may require staff, upon receiving a report that a child has been abducted or an endangered adult is missing, to immediately send by facsimile (fax) transmission or other means of communication a description of the abducted child or missing endangered adult to one (1) or more electronic billboard operators participating in the Amber alert program or silver alert program if the Amber alert or silver alert occurs during a period when the electronic billboard operator has agreed to have staff present to receive an Amber alert notification or a silver alert notification. 
+
+(c) 
+An electronic billboard operator participating in the Amber alert program or silver alert program shall immediately display: 
+
+(1) 
+a description of the abducted child or missing endangered adult; and 
+
+(2) 
+other information that will assist in locating the abducted 
+
+
+
+
+child or missing endangered adult; to the general public in accordance with the Amber alert plan agreement or silver alert plan agreement between the clearinghouse and the electronic billboard operator. 
+(d) The department shall adopt guidelines governingthe voluntary Amber alert program and the voluntary silver alert program agreements between the clearinghouse and an electronic billboard operator. The voluntary agreements between the clearinghouse and the electronic billboard operator may include the following provisions: 
+(1) 
+Upon receiving a notification as part of the Amber alert program or the silver alert program, the electronic billboard operator shall display the information contained in the notice on an intermittent basis for a period of time as provided in the agreements between the clearinghouse and the electronic billboard operator. 
+
+(2) 
+The electronic billboard operator shall treat the Amber alert notification or the silver alert notification as an emergency. 
+
+(3) 
+The electronic billboard operator shall ensure that the facsimile (fax) transmission machine or other communications device used to receive an Amber alert notification or a silver alert notification is: 
+
+(A) 
+generally available to receive an Amber alert notification or a silver alert notification; and 
+
+(B) 
+located such that the electronic billboard operator will immediately become aware of an incoming Amber alert notification or a silver alert notification received during days and times when staff is present to receive an Amber alert notification or a silver alert notification. 
+
+
+
+
+As added by P.L.66-2007, SEC.6. Amended by P.L.43-2009, SEC.9. 
+
+IC 10-13-5-8.5 Civil immunity for Amber alert and silver alert participants 
+Sec. 8.5. (a) A broadcaster or electronic billboard operator that has agreed to participate in the Amber alert program or silver alert program and that: 
+(1) 
+receives an Amber alert notification or a silver alert notification from the department; and 
+
+(2) 
+broadcasts or displays: 
+
+(A) 
+a description of the abducted child or missing endangered adult contained in the notification; and 
+
+(B) 
+other information contained in the notification that will 
+
+
+
+
+assist in locating the child or missing endangered adult; is immune from civil liability based on the broadcast or display of the information received from the department. 
+(b) If: 
+(1) 
+a person enters into an agreement with the department to establish or maintain an Amber alert web site or a silver alert web site; and 
+
+(2) 
+the agreement provides that only the department has the 
+
+
+ability to place information on the web site; the person is immune from civil liability for the information placed on the web site by the department. However, this subsection does not affect the applicability of IC 34-13-3 to the department. As added by P.L.131-2003, SEC.1. Amended by P.L.66-2007, SEC.7; P.L.43-2009, SEC.10. 
+
+IC 10-13-5-9 Notification of law enforcement agency of located child 
+Sec. 9. If a missing child is found, the child's parent or legal custodian shall notify the law enforcement agency that received the missing child notification under IC 31-36 (or IC 31-6-13 before its repeal). As added by P.L.2-2003, SEC.4. 
+
+IC 10-13-5-10 Notification of clearinghouse of located child 
+Sec. 10. (a) Upon receiving notification from a parent or legal custodian that a missing child has been found, a law enforcement agency shall immediately notify the clearinghouse. 
+(b) Not later than sixty (60) days after the law enforcement agency described in subsection (a) complies with the requirements under federal law for periodic updates of the entries made to the National Crime Information Center (NCIC) concerning a missing child, the law enforcement agency described in subsection (a) shall review reports made to the clearinghouse and update the information. As added by P.L.2-2003, SEC.4. Amended by P.L.36-2004, SEC.1. 
+
+IC 10-13-5-11 Attaching notice to birth certificate of child reported missing 
+Sec. 11. (a) Upon receiving notification under section 7 of this chapter, the vital statistics division of the state department of health and the appropriate local health department or health and hospital corporation shall attach a notice to the child's birth certificate stating that the child has been reported missing. The notice must remain attached to the birth certificate until notification is received under section 7 of this chapter that the missing child has been found. 
+(b) 
+If a request for a copy of the birth certificate of a child is received, the vital statistics division and the appropriate local health department or health and hospital corporation shall require the person making the request to submit an application for the birth certificate that includes: 
+
+(1) 
+the date of the request; 
+
+(2) 
+the name, address, and telephone number of the person making the request; and 
+
+(3) 
+the signature of the person making the request. 
+
+
+
+(c) 
+If a notice that the child is missing has been attached to the birth certificate, the vital statistics division and the appropriate local health department or health and hospital corporation shall immediately notify the clearinghouse of the information contained in the application. 
+
+
+(d) A copy of the birth certificate of a missing child to which a notice has been attached under subsection (a) may not be issued without authorization from the clearinghouse. As added by P.L.2-2003, SEC.4. 
+
+IC 10-13-5-12 Federal emergency alert system 
+Sec. 12. This chapter does not authorize the use of the federal emergency alert system unless otherwise authorized by federal law. 
+As added by P.L.43-2009, SEC.11. 
+
+IC 10-13-6 Chapter 6. Indiana DNA Data Base 
+IC 10-13-6-1 
+"Combined DNA Index System" 
+
+Sec. 1. As used in this chapter, "Combined DNA Index System" refers to the Federal Bureau of Investigation's national DNA identification index system that allows the storage and exchange of DNA records submitted by state and local forensic DNA laboratories. As added by P.L.2-2003, SEC.4. 
+
+IC 10-13-6-2 "DNA" 
+Sec. 2. As used in this chapter, "DNA" means deoxyribonucleic acid that: 
+(1) 
+is located in the nucleated cells; 
+
+(2) 
+provides an individual's personal genetic blueprint; and 
+
+(3) 
+encodes genetic information that is the basis of human heredity and forensic identification. 
+
+
+As added by P.L.2-2003, SEC.4. 
+
+IC 10-13-6-3 "DNA analysis" 
+Sec. 3. As used in this chapter, "DNA analysis" means an identification process in which the unique genetic code of an individual that is carried by the individual's DNA is compared with the genetic codes of another individual. As added by P.L.2-2003, SEC.4. 
+
+IC 10-13-6-4 "DNA profile" 
+Sec. 4. As used in this chapter, "DNA profile" means the results of all DNA identification tests on an individual's DNA sample. As added by P.L.2-2003, SEC.4. 
+
+IC 10-13-6-5 "DNA record" 
+Sec. 5. As used in this chapter, "DNA record" refers to DNA identification information stored in the state DNA data base or the Combined DNA Index System for the purpose of generating investigative leads or supporting statistical interpretation of DNA test results that: 
+(1) 
+is the result obtained from DNA typing tests; and 
+
+(2) 
+is comprised of the characteristics of a DNA sample that are of value in establishing the identity of individuals. 
+
+
+As added by P.L.2-2003, SEC.4. 
+
+IC 10-13-6-6 "DNA sample" 
+Sec. 6. As used in this chapter, "DNA sample" means a blood, tissue, or other body fluid sample: 
+(1) 
+provided by a person with respect to offenses covered by this chapter; or 
+
+(2) 
+submitted to the state police laboratory under this chapter for analysis or storage, or both. 
+
+
+As added by P.L.2-2003, SEC.4. 
+
+IC 10-13-6-7 "Superintendent" 
+Sec. 7. As used in this chapter, "superintendent" includes the superintendent or the superintendent's designee. As added by P.L.2-2003, SEC.4. 
+
+IC 10-13-6-8 Establishment of DNA data base; mandatory and discretionary testing and analysis 
+Sec. 8. (a) The superintendent may establish a data base of DNA identification records of: 
+(1) 
+convicted criminals; 
+
+(2) 
+crime scene specimens; 
+
+(3) 
+unidentified missing persons; and 
+
+(4) 
+close biological relatives of missing persons. 
+
+
+(b) The superintendent shall maintain the Indiana DNA data base. 
+(c) 
+The superintendent may contract for services to perform DNA analysis of convicted offenders under section 10 of this chapter to assist federal, state, and local criminal justice and law enforcement agencies in the putative identification, detection, or exclusion of individuals who are subjects of an investigation or prosecution of a sex offense, a violent crime, or another crime in which biological evidence is recovered from the crime scene. 
+
+(d) The superintendent: 
+(1) 
+may perform or contract for performance of testing, typing, or analysis of a DNA sample collected from a person described in section 10 of this chapter at any time; and 
+
+(2) 
+shall perform or contract for the performance of testing, typing, or analysis of a DNA sample collected from a person described in section 10 of this chapter if federal funds become available for the performance of DNA testing, typing, or analysis. 
+
+
+
+(e) 
+The superintendent shall adopt rules under IC 4-22-2 necessary to administer and enforce the provisions and intent of this chapter. 
+
+(f) 
+The detention, arrest, or conviction of a person based on a data base match or data base information is not invalidated if a court determines that the DNA sample was obtained or placed in the 
+
+
+Indiana DNA data base by mistake. 
+As added by P.L.2-2003, SEC.4. Amended by P.L.69-2005, SEC.1 and P.L.142-2005, SEC.1. 
+
+IC 10-13-6-9 Duties of superintendent 
+Sec. 9. The superintendent shall ensure that the Indiana DNA data base: 
+(1) 
+supports development of a population statistics data base when personal identifying information is removed; 
+
+(2) 
+supports identification research and protocol development of forensic DNA analysis; 
+
+(3) 
+assists in achieving quality control; and 
+
+(4) 
+assists in the recovery or identification of human remains from mass disasters or for other humanitarian purposes, including identification of missing persons who may be alive. 
+
+
+As added by P.L.2-2003, SEC.4. 
+
+IC 10-13-6-9.5 DNA sample processing fund 
+Sec. 9.5. (a) The DNA sample processing fund is established for the purpose of funding the collection, shipment, analysis, and preservation of DNA samples and the conduct of a DNA data base program under this chapter. The fund shall be administered by the superintendent. 
+(b) 
+The expenses of administering the fund shall be paid from money in the fund. 
+
+(c) 
+The treasurer of state shall invest the money in the fund not currently needed to meet the obligations of the fund in the same manner as other public money may be invested. 
+
+(d) 
+Money in the fund at the end of a state fiscal year does not revert to the state general fund. 
+
+
+As added by P.L.176-2005, SEC.1. 
+
+IC 10-13-6-10 Persons required to provide DNA sample 
+Sec. 10. (a) This section applies to the following: 
+(1) 
+A person convicted of a felony under IC 35-42 (offenses against the person) or IC 35-43-2-1 (burglary): 
+
+(A) 
+after June 30, 1996, whether or not the person is sentenced to a term of imprisonment; or 
+
+(B) 
+before July 1, 1996, if the person is held in jail or prison on or after July 1, 1996. 
+
+
+
+(2) 
+A person convicted of a criminal law in effect before October 1, 1977, that penalized an act substantially similar to a felony described in IC 35-42 or IC 35-43-2-1 or that would have been an included offense of a felony described in IC 35-42 or IC 35-43-2-1 if the felony had been in effect: 
+
+(A) 
+after June 30, 1998, whether or not the person is sentenced to a term of imprisonment; or 
+
+(B) 
+before July 1, 1998, if the person is held in jail or prison on or after July 1, 1998. 
+
+
+
+(3) 
+A person convicted of a felony, conspiracy to commit a felony, or attempt to commit a felony: 
+
+(A) 
+after June 30, 2005, whether or not the person is sentenced to a term of imprisonment; or 
+
+(B) 
+before July 1, 2005, if the person is held in jail or prison on or after July 1, 2005. 
+
+
+
+
+(b) A person described in subsection (a) shall provide a DNA sample to the: 
+(1) 
+department of correction or the designee of the department of correction if the offender is committed to the department of correction; 
+
+(2) 
+county sheriff or the designee of the county sheriff if the offender is held in a county jail or other county penal facility, placed in a community corrections program (as defined in IC 35-38-2.6-2), or placed on probation; or 
+
+(3) 
+agency that supervises the person, or the agency's designee, if the person is on conditional release in accordance with IC 35-38-1-27. 
+
+
+A person is not required to submit a blood sample if doing so would present a substantial and an unreasonable risk to the person's health. 
+(c) The detention, arrest, or conviction of a person based on a data base match or data base information is not invalidated if a court determines that the DNA sample was obtained or placed in the Indiana DNA data base by mistake. As added by P.L.2-2003, SEC.4. Amended by P.L.69-2005, SEC.2 and P.L.142-2005, SEC.2; P.L.140-2006, SEC.8 and P.L.173-2006, SEC.8. 
+
+IC 10-13-6-11 Guidelines for DNA sample collection and shipment 
+Sec. 11. (a) The superintendent may issue specific guidelines relating to procedures for DNA sample collection and shipment within Indiana for DNA identification testing. 
+(b) The superintendent shall issue specific guidelines related to procedures for DNA sample collection and shipment by the: 
+(1) 
+county sheriff or designee of the county sheriff under section 10(b)(2) of this chapter; or 
+
+(2) 
+supervising agency or designee of the supervising agency 
+
+
+under section 10(b)(3) of this chapter. The superintendent shall provide each county sheriff and supervising agency with the guidelines issued under this subsection. A county sheriff and supervising agency shall collect and ship DNA samples in compliance with the guidelines issued under this subsection. 
+(c) The superintendent may delay the implementation of the collection of DNA samples under section 10(b)(2) or 10(b)(3) of this chapter in one (1) or more counties until the earlier of the following: 
+(1) 
+A date set by the superintendent. 
+
+(2) 
+The date funding becomes available by grant through the 
+
+
+criminal justice institute. If the superintendent delays implementation of section 10(b)(2) or 10(b)(3) of this chapter or terminates a delay under section 10(b)(2) or 10(b)(3) of this chapter in any county, the superintendent shall notify the county sheriff in writing of the superintendent's action. As added by P.L.2-2003, SEC.4. Amended by P.L.140-2006, SEC.9 and P.L.173-2006, SEC.9. 
+
+IC 10-13-6-12 Collection of samples 
+Sec. 12. DNA samples for the Indiana DNA data base must be collected in a medically approved manner by one (1) of the following: 
+(1) 
+A physician. 
+
+(2) 
+A registered nurse. 
+
+(3) 
+A licensed vocational nurse. 
+
+(4) 
+A licensed clinical laboratory technologist. 
+
+(5) 
+Any other person trained to collect DNA samples properly. 
+
+
+As added by P.L.2-2003, SEC.4. 
+
+IC 10-13-6-13 Purposes of testing 
+Sec. 13. (a) Tests performed on the DNA samples are for the following purposes: 
+(1) 
+To analyze and type the genetic markers contained in or derived from DNA. 
+
+(2) 
+For law enforcement identification purposes. 
+
+(3) 
+For research or administrative purposes, including: 
+
+(A) 
+development of a population statistics data base after personal identifying information is removed; 
+
+(B) 
+support of identification research and protocol development of forensic DNA analysis methods; 
+
+(C) 
+quality control; and 
+
+(D) 
+assisting in the recovery or identification of human remains from mass disasters or for other humanitarian purposes, including identification of missing persons who may be alive. 
+
+
+
+
+(b) Tests performed under this chapter must be conducted in a manner that produces compatible results with procedures specified by the Federal Bureau of Investigation Laboratory to ensure that DNA records are fully exchangeable between DNA laboratories. As added by P.L.2-2003, SEC.4. 
+IC 10-13-6-14 Adherence to nationally recognized standards 
+
+Sec. 14. (a) A laboratory conducting forensic DNA analysis in Indiana must implement and follow nationally recognized standards for DNA quality assurance and proficiency testing, such as those approved by the American Society of Crime Laboratory Directors Laboratory Accreditation Board. 
+(b) Quality assurance guidelines issued by the Technical Working Group on DNA Analysis Methods serve as the standard for DNA testing under this chapter until national standards are set. 
+(c) A laboratory conducting forensic DNA analysis in Indiana shall forward relevant DNA data base records to the state police laboratory. As added by P.L.2-2003, SEC.4. 
+
+IC 10-13-6-15 Disclosure of DNA samples and analysis 
+Sec. 15. A laboratory conducting forensic DNA analysis in Indiana may disclose or allow access to collected DNA samples and DNA analysis results only under the following circumstances: 
+(1) 
+To criminal justice agencies for law enforcement identification purposes. 
+
+(2) 
+To defense counsel for criminal defense purposes. 
+
+(3) 
+Upon authorization by a court or statute. 
+
+(4) 
+For a population statistics data base, identification research and protocol development, or quality control purposes, but only if personal identifying information is removed. 
+
+(5) 
+For purposes of postconviction DNA testing and analysis under IC 35-38-7. 
+
+
+As added by P.L.2-2003, SEC.4. 
+
+IC 10-13-6-16 Collection of information for certain purposes prohibited 
+Sec. 16. The information contained in the Indiana DNA data base may not be collected or stored to obtain information about human physical traits or predisposition for disease. As added by P.L.2-2003, SEC.4. 
+
+IC 10-13-6-17 Personal information limited 
+Sec. 17. Personal information stored in the Indiana DNA data base is limited to: 
+(1) 
+data necessary to: 
+
+(A) 
+generate investigative leads; and 
+
+(B) 
+support statistical interpretation of test results; and 
+
+
+
+(2) 
+any other information necessary to allow for the successful implementation of the Indiana DNA data base system. 
+
+
+As added by P.L.2-2003, SEC.4. 
+
+IC 10-13-6-18 Expungement of DNA profile 
+Sec. 18. (a) A person whose DNA profile has been included in the Indiana DNA data base may request expungement of the profile from the DNA data base on the grounds that the conviction on which the authority for inclusion in the Indiana DNA data base was founded has been reversed and the case has been dismissed. 
+(b) All identifiable information in the Indiana DNA data base pertaining to a person requesting expungement under subsection (a) shall be expunged, and all samples from the person shall be destroyed upon receipt of: 
+(1) 
+a written request for expungement under subsection (a); 
+
+(2) 
+a certified copy of the court order reversing and dismissing the conviction; and 
+
+(3) 
+any other information necessary to ascertain the validity of the request. 
+
+
+(c) Upon expungement of a person's DNA profile from the Indiana DNA data base, the superintendent shall request expungement of the person's DNA profile from the national DNA data base. As added by P.L.2-2003, SEC.4. 
+
+IC 10-13-6-19 Access to DNA data base 
+Sec. 19. (a) Access to the Indiana DNA data base is limited to federal, state, and local law enforcement agencies through their servicing forensic DNA laboratories. 
+(b) The superintendent shall take appropriate measures to ensure that the Indiana DNA data base is protected against unauthorized access. As added by P.L.2-2003, SEC.4. 
+
+IC 10-13-6-20 Denial of privileges due to failure to follow quality control and privacy standards 
+Sec. 20. The superintendent may deny the privilege of a laboratory performing forensic DNA analysis within Indiana to exchange DNA identification records with federal, state, or local criminal justice agencies if required quality control and privacy standards described in this chapter for the Indiana DNA data base are not met by the laboratory. As added by P.L.2-2003, SEC.4. 
+
+IC 10-13-6-21 Unlawful tampering 
+Sec. 21. A person who knowingly or intentionally without lawful authority tampers with or attempts to tamper with any DNA sample or a container collected under section 10 of this chapter commits a Level 6 felony. 
+As added by P.L.2-2003, SEC.4. Amended by P.L.158-2013, SEC.167. 
+
+IC 10-13-6-22 Unlawful use of data base information or DNA samples 
+Sec. 22. A person who knowingly or intentionally disseminates, receives, or otherwise uses or attempts to use information in the Indiana DNA data base or DNA samples used in DNA analyses, knowing that such dissemination, receipt, or use is for a purpose other than authorized by law, commits a Class A misdemeanor. As added by P.L.2-2003, SEC.4. 
+
+IC 10-13-7 Chapter 7. Emergency Alert System Advisory Committee 
+IC 10-13-7-1 "Committee" 
+Sec. 1. As used in this chapter, "committee" refers to the emergency alert system advisory committee established by section 3 of this chapter. 
+As added by P.L.137-2008, SEC.1. 
+
+IC 10-13-7-2 
+"Emergency alert system" 
+
+Sec. 2. As used in this chapter, "emergency alert system" refers to the system described in 47 CFR 11. 
+As added by P.L.137-2008, SEC.1. 
+
+IC 10-13-7-3 Emergency alert system advisory committee; establishment 
+Sec. 3. The emergency alert system advisory committee is established. 
+As added by P.L.137-2008, SEC.1. 
+
+IC 10-13-7-4 Composition of committee; terms 
+Sec. 4. (a) The committee consists of the following members: 
+(1) 
+The superintendent or the superintendent's designee. The superintendent or the superintendent's designee is the committee's chair. 
+
+(2) 
+The executive director of the department of homeland security or the executive director's designee. 
+
+(3) 
+The state health commissioner or the commissioner's designee. 
+
+(4) 
+An individual representing the National Weather Service, appointed by the governor. 
+
+(5) 
+Two (2) individuals representing television broadcasters in Indiana, appointed by the governor. 
+
+(6) 
+Two (2) individuals representing radio broadcasters in Indiana, appointed by the governor. 
+
+(7) 
+An individual representing an Indiana newspaper that maintains a twenty-four (24) hour web site, appointed by the governor. 
+
+(8) 
+An individual representing a video service provider that provides video service to Indiana consumers, appointed by the governor. 
+
+
+(b) The following apply to a committee member appointed under subsection (a)(4), (a)(5), (a)(6), (a)(7), or (a)(8): 
+(1) The term of a member begins on one (1) of the following dates, whichever applies, during the year in which the member is appointed: 
+(A) 
+July 1, if the member is appointed on or before July 1. 
+
+(B) 
+The day the member accepts the member's appointment, if the member is appointed after July 1. 
+
+
+(2) 
+The term of a member expires on July 1 of the fourth year after the year the member's term begins. 
+
+(3) 
+A member may be reappointed to serve a new term. 
+
+
+As added by P.L.137-2008, SEC.1. 
+
+IC 10-13-7-5 Duties of committee 
+Sec. 5. The committee shall do the following: 
+(1) 
+Develop, update, and monitor the effectiveness of the state emergency alert system plan. 
+
+(2) 
+Make recommendations concerning the acquisition of appropriate technology and equipment to make the emergency notification system effective on a timely basis in all parts of Indiana. 
+
+(3) 
+Through the department, purchase appropriate technology and equipment to equip local primary relaying stations with monitoring equipment. 
+
+(4) 
+Make applications for private, local, state, or federal grants to be used to enhance or improve the emergency alert system. 
+
+
+As added by P.L.137-2008, SEC.1. 
+
+IC 10-13-7-6 State police department to provide administrative and staff support 
+Sec. 6. The department shall provide administrative and staff support for the committee. 
+As added by P.L.137-2008, SEC.1. 
+
+IC 10-13-7-7 Payment of committee'sexpenses;appropriations; money received as grant or gift 
+Sec. 7. (a) The committee's expenses shall be paid from appropriations made by the general assembly. 
+(b) Money received by the committee as a grant or a gift is appropriated for purposes of the grant or the gift. 
+As added by P.L.137-2008, SEC.1. 
+
+IC 10-13-7-8 Committeemembers; reimbursementfor travel andotherexpenses 
+Sec. 8. (a) Each member of the committee who is not a state employee is not entitled to the minimum salary per diem provided by IC 4-10-11-2.1(b). The member is, however, entitled to reimbursement for travel expenses as provided in IC 4-13-1-4 and other expenses actually incurred in connection with the member's duties as provided in the state policies and procedures established by the Indiana department of administration and approved by the budget agency. 
+(b) Each member of the committee who is a state employee is entitled to reimbursement for travel expenses as provided under IC 4-13-1-4 and other expenses actually incurred in connection with the member's duties as provided in the state policies and procedures established by the Indiana department of administration and approved by the budget agency. As added by P.L.137-2008, SEC.1. 
+
+IC 10-13-7-9 Votes required for action 
+Sec. 9. The affirmative votes of a majority of the members on the committee are required for the committee to take action on any measure. As added by P.L.137-2008, SEC.1. 
+
+IC 10-13-8 Chapter 8. Blue Alert Program 
+IC 10-13-8-1 "Blue alert" 
+Sec. 1. As used in this chapter, "blue alert" means the transmission of information about a law enforcement officer who is killed, seriously injured, or missing in the line of duty under a blue alert program. As added by P.L.38-2013, SEC.1. 
+
+IC 10-13-8-2 
+"Blue alert program" 
+
+Sec. 2. As used in this chapter, "blue alert program" means a program in which the department transmits information about a law enforcement officer who is killed, seriously injured, or missing in the line of duty to broadcasters and electronic billboard operators who: 
+(1) 
+have agreed to participate in the program; and 
+
+(2) 
+immediately and repeatedly broadcast the information to the general public. 
+
+
+As added by P.L.38-2013, SEC.1. 
+
+IC 10-13-8-3 "Broadcaster" 
+Sec. 3. As used in this chapter, "broadcaster" means the operator of a radio or television station. As added by P.L.38-2013, SEC.1. 
+
+IC 10-13-8-4 
+"Law enforcement agency" 
+
+Sec. 4. As used in this chapter, "law enforcement agency" means an agency or department of the state or a political subdivision that: 
+(1) 
+has jurisdiction over the search for a suspect in a case involving the death or serious injury of a law enforcement officer; or 
+
+(2) 
+employs a law enforcement officer who is missing in the line of duty. 
+
+
+As added by P.L.38-2013, SEC.1. 
+IC 10-13-8-5 
+"Law enforcement officer" 
+
+Sec. 5. As used in this chapter, "law enforcement officer" means any of the following: 
+(1) 
+A state police officer. 
+
+(2) 
+A county sheriff. 
+
+(3) 
+A county police officer. 
+
+(4) 
+A correctional officer. 
+
+(5) 
+An excise police officer. 
+
+(6) 
+A county police reserve officer. 
+
+(7) 
+A city police officer. 
+
+(8) 
+A city police reserve officer. 
+
+(9) 
+A conservation enforcement officer. 
+
+(10)
+ A town marshal. 
+
+(11)
+ A deputy town marshal. 
+
+(12)
+ A probation officer. 
+
+(13) 
+A state educational institution police officer appointed under IC 21-39-4. 
+
+(14)
+ A gaming agent of the Indiana gaming commission. 
+
+(15)
+ A person employed by a political subdivision (as defined in IC 36-1-2-13) and appointed as a special deputy under IC 36-8-10-10.6. 
+
+(16) 
+A school corporation police officer appointed under IC 20-26-16. 
+
+(17) 
+A police officer of a public or private postsecondary educational institution whose board of trustees has established a police department under IC 21-17-5-2 or IC 21-39-4-2. 
+
+
+As added by P.L.38-2013, SEC.1. 
+
+IC 10-13-8-6 Operation of blue alert program 
+Sec. 6. The department shall operate a blue alert program. 
+As added by P.L.38-2013, SEC.1. 
+
+IC 10-13-8-7 Authority to issue blue alert 
+Sec. 7. A blue alert may be issued by the department if: 
+(1) 
+requested by a law enforcement agency; and 
+
+(2) 
+the department makes the determination required under section 8 of this chapter. 
+
+
+As added by P.L.38-2013, SEC.1. 
+
+IC 10-13-8-8 Grounds for issuing blue alert 
+Sec. 8. (a) The department may issue a blue alert only if the department determines that: 
+(1) 
+a law enforcement officer: 
+
+(A) 
+has been killed or seriously injured while in the line of duty and: 
+
+(i)
+ the suspect has not been apprehended; and 
+
+(ii) 
+the suspect poses an imminent threat to the public or other law enforcement personnel; or 
+
+
+
+(B) 
+is missing while in the line of duty under circumstances warranting concern for the officer's safety; 
+
+
+
+(2) 
+disseminating information to the public may assist in: 
+
+(A) 
+identifying and apprehending the suspect; or 
+
+(B) 
+locating the missing law enforcement officer; and 
+
+
+
+(3) 
+there is sufficient information for dissemination to the public regarding: 
+
+(A) 
+the missing law enforcement officer's last known location; and 
+
+(B) 
+the physical description of any: 
+
+(i)
+ suspect; or 
+
+(ii) 
+vehicle involved or the vehicle's license plate number. 
+
+
+
+
+
+
+(b) 
+The department shall determine the geographic boundaries of the area in which the blue alert shall be issued. 
+
+(c) 
+Before a blue alert may be issued, the law enforcement agency requesting the alert shall provide information to the department that is required by the guidelines adopted by the department under section 10 of this chapter. 
+
+
+As added by P.L.38-2013, SEC.1. 
+
+IC 10-13-8-9 Agreements with program participants 
+Sec. 9. (a) The department may enter into an agreement with one 
+(1) 
+or more: 
+
+(1) broadcasters; or 
+
+(2) 
+electronic billboard operators; to issue blue alerts under a blue alert program established under this chapter. 
+
+(b) 
+The superintendent shall designate staff responsible for the operation of the blue alert program. 
+
+
+As added by P.L.38-2013, SEC.1. 
+
+IC 10-13-8-10 Program operating guidelines 
+Sec. 10. The department shall adopt guidelines for the operation and administration of the blue alert program, includingthe following: 
+(1) 
+Procedures for a law enforcement agency to notify the department of the circumstances described in section 8(a)(1) of this chapter. 
+
+(2) 
+The information that a law enforcement agency must provide to the department before issuing a blue alert. 
+
+(3) 
+Procedures for the department to follow in confirming a law enforcement agency's information and reportingthe information to each designated broadcaster or electronic billboard operator. 
+
+(4) 
+Guidelines governing the voluntary blue alert program agreement between the department and a broadcaster. The agreement may include the following provisions: 
+
+(A) 
+Upon receiving a notification as part of the blue alert program, the broadcaster shall broadcast the information contained in the notice on an intermittent basis for a period of time as provided in the agreement between the department and the broadcaster. 
+
+(B) 
+The broadcaster shall treat the blue alert notification as 
+
+an emergency. 
+
+(C) 
+The broadcaster shall ensure that the facsimile transmission machine or other communication device used to receive a blue alert notification is: 
+
+(i)
+ generally available to receive a blue alert notification; and 
+
+(ii) 
+located such that the broadcaster will immediately become aware of an incoming blue alert notification. 
+
+
+
+
+
+(5) 
+Guidelines governing the voluntary blue alert program agreement between the department and an electronic billboard operator. The agreement may include the following provisions: 
+
+(A) 
+Upon receiving a notification as part of the blue alert program, the electronic billboard operator shall display the information contained in the notice on an intermittent basis for a period of time as provided in the agreement between the department and the electronic billboard operator. 
+
+(B) 
+The electronic billboard operator shall treat the blue alert notification as an emergency. 
+
+(C) 
+The electronic billboard operator shall ensure that the facsimile transmission machine or other communication device used to receive a blue alert notification is: 
+
+(i)
+ generally available to receive a blue alert notification; and 
+
+(ii) 
+located such that the electronic billboard operator will immediately become aware of an incoming blue alert notification received during days and times when staff is present to receive a blue alert notification. 
+
+
+
+(D) 
+A limitation on the days and times that the electronic billboard operator is required to have staff present to receive a blue alert notification. 
+
+
+
+(6) 
+The guidelines may require department staff, upon a determination by the department to issue a blue alert, to immediately send by facsimile transmission or other means of communication the information that the department considers necessary to one (1) or more electronic billboard operators participating in the blue alert program if the blue alert occurs during a period when the electronic billboard operator has agreed to have staff present to receive a blue alert notification. 
+
+(7) 
+Guidelines to ensure that releasing victim information is proper, as to avoid improper next of kin notification. 
+
+(8) 
+Guidelines to ensure that release of the information will not compromise the investigation. 
+
+
+As added by P.L.38-2013, SEC.1. 
+
+IC 10-13-8-11 Program participant duty to broadcast or display blue alert 
+Sec. 11. A broadcaster or an electronic billboard operator participating in the blue alert program shall immediately display the information that the department considers necessary to the general public in accordance with the blue alert program agreement between the department and the broadcaster or operator. 
+As added by P.L.38-2013, SEC.1. Amended by P.L.2-2014, SEC.52. 
+
+IC 10-13-8-12 Civil immunity for broadcast or display of blue alert 
+Sec. 12. (a) A broadcaster or electronic billboard operator that has agreed to participate in the blue alert program and that: 
+(1) 
+receives a blue alert notification from the department; and 
+
+(2) 
+broadcasts or displays information contained in the 
+
+
+notification that the department considers necessary; is immune from civil liability based on the broadcast or display of the information received from the department. 
+(b) If: 
+(1) 
+a person enters into an agreement with the department to establish or maintain a blue alert web site; and 
+
+(2) 
+the agreement provides that only the department has the 
+
+
+ability to place information on the web site; the person is immune from civil liability for the information placed on the web site by the department. However, this subsection does not affect the applicability of IC 34-13-3 to the department. 
+As added by P.L.38-2013, SEC.1. 
+
+IC 10-13-8-13 Notifying department of apprehension of suspect or location of missing officer 
+Sec. 13. A law enforcement agency that locates or apprehends the suspect or locates the missing law enforcement officer described in section 8(a)(1) of this chapter shall notify the department as soon as practicable. 
+As added by P.L.38-2013, SEC.1. Amended by P.L.2-2014, SEC.53. 
+
+IC 10-13-8-14 Grounds for terminating a blue alert 
+Sec. 14. The department shall terminate a blue alert if: 
+(1) 
+the suspect or missing law enforcement officer is located or the incident is otherwise resolved; or 
+
+(2) 
+the department determines that the blue alert system is no longer an effective tool for locating the suspect or the missing law enforcement officer. 
+
+
+As added by P.L.38-2013, SEC.1. 
+
+IC 10-13-8-15 Report to National Crime Information Center 
+Sec. 15. When a blue alert is issued, the law enforcement agency that requests the blue alert shall report information regarding the circumstances described in section 8(a)(1) of this chapter to the National Crime Information Center (NCIC) data base. 
+As added by P.L.38-2013, SEC.1. 
+
+IC 10-13-8-16 Federal emergency alert system 
+Sec. 16. This chapter does not authorize the use of the federal emergency alert system unless otherwise authorized by federal law. 
+As added by P.L.38-2013, SEC.1. 
+
+

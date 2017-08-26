@@ -1,0 +1,113 @@
+IC 6-3.1-15 Chapter 15. Tax Credit for Computer Equipment Donations 
+IC 6-3.1-15-1 Repealed 
+(As added by P.L.43-1992, SEC.11. Amended by P.L.1-2005, SEC.95; P.L.133-2012, SEC.54. Repealed by P.L.286-2013, SEC.4.) 
+
+IC 6-3.1-15-2 
+"Qualified computer equipment" 
+
+Sec. 2. As used in this chapter, "qualified computer equipment" means computer equipment, including hardware and software, specified by the state board under section 11 of this chapter. As added by P.L.43-1992, SEC.11. 
+
+IC 6-3.1-15-3 "Service center" 
+Sec. 3. As used in this chapter, "service center" means an educational service center established under IC 20-20-1. As added by P.L.43-1992, SEC.11. Amended by P.L.1-2005, SEC.96. 
+
+IC 6-3.1-15-4 "State board" 
+Sec. 4. As used in this chapter, "state board" refers to the Indiana state board of education. As added by P.L.43-1992, SEC.11. 
+
+IC 6-3.1-15-5 "State tax liability" 
+Sec. 5. As used in this chapter, "state tax liability" means a taxpayer's total tax liability incurred under: 
+(1) 
+IC 6-3-1 through IC 6-3-7 (the adjusted gross income tax); 
+
+(2) 
+IC 6-5.5 (the financial institutions tax); and 
+
+
+(3) IC 27-1-18-2 (the insurance premiums tax); as computed after the application of the credits that under IC 6-3.1-1-2 are to be applied before the credit provided by this chapter. As added by P.L.43-1992, SEC.11. Amended by P.L.70-1993, SEC.7; P.L.192-2002(ss), SEC.107. 
+
+IC 6-3.1-15-6 "Taxpayer" 
+Sec. 6. As used in this chapter, "taxpayer" means any person, corporation, limited liability company, partnership, or entity that has any state tax liability. As added by P.L.43-1992, SEC.11. Amended by P.L.8-1993, SEC.90. 
+IC 6-3.1-15-7 
+
+Taxpayers entitledto credit; credit notallowedfor donations made in a taxable year beginning after December 31, 2015; expiration 
+Sec. 7. (a) A taxpayer that has donated during the taxable year qualified computer equipment to a service center is entitled to a tax credit as provided in section 8 of this chapter. 
+(b) A taxpayer is not entitled to a credit under this chapter for a donation made in a taxable year beginning after December 31, 2015. 
+(c) This chapter expires January 1, 2018. As added by P.L.43-1992, SEC.11. Amended by P.L.250-2015, SEC.26. 
+
+IC 6-3.1-15-8 Amount of credit 
+Sec. 8. The department shall grant a tax credit of one hundred dollars ($100) against the state tax liability of a taxpayer who qualifies for the tax credit under this chapter for each unit of qualified computer equipment that is donated under section 7 of this chapter. As added by P.L.43-1992, SEC.11. Amended by P.L.62-1997, SEC.2. 
+
+IC 6-3.1-15-9 Applications for credit 
+Sec. 9. A taxpayer that desires to claim a tax credit under this chapter shall file with the department, in the form that the department prescribes, a tax credit application that includes a certification from: 
+(1) 
+the applicant stating that the applicant is a taxpayer; and 
+
+(2) 
+a service center, that is issued under section 11 of this chapter, stating that the applicant donated qualified computer equipment in accordance with this chapter. 
+
+
+As added by P.L.43-1992, SEC.11. 
+
+IC 6-3.1-15-10 Minimum standards for equipment; certification 
+Sec. 10. The state board shall establish minimum standards for qualified computer equipment. Upon receipt of computer equipment, a service center shall promptly inspect the equipment. If the computer equipment meets the minimumstandards established by the state board, the service center shall accept the computer equipment as qualified computer equipment and shall, subject to section 11(b) of this chapter, promptly send a certification to the computer equipment owner for the tax credit available under this chapter. As added by P.L.43-1992, SEC.11. Amended by P.L.1-2005, SEC.97; P.L.133-2012, SEC.55. 
+
+IC 6-3.1-15-11 Remittance of tax credits; defective equipment 
+Sec. 11. (a) Before September 1 of each year, the department shall send to the state board a statement of the aggregate tax credits approved by the department for the preceding state fiscal year, listing the amount of credits approved from each service center. Within thirty (30) days following receipt of the department's notice, the state board shall direct each service center to remit to the department the entire amount of credits specified in the department's notice and attributable to the service center. Each service center shall remit the payment required under this section to the department within thirty 
+(30) days after receipt of the state board notice. 
+(b) If a service center determines within thirty (30) days of receipt of a unit of computer equipment that the equipment is defective or otherwise fails to meet the minimum standards for qualified computer equipment, the service center may refuse to issue a tax credit certification under section 10 of this chapter. If the service center elects not to issue a tax credit certification for a particular unit of computer equipment, the service center shall promptly notify the donor of the equipment and allow the donor thirty (30) days to retrieve the equipment. Upon the expiration of the thirty (30) day period, the service center may retain the equipment for any purpose. As added by P.L.43-1992, SEC.11. 
+
+IC 6-3.1-15-12 Sale of equipment 
+Sec. 12. (a) A service center may sell qualified computer equipment received by taxpayers under this chapter only to the following: 
+(1) 
+Public or private elementary or secondary schools. 
+
+(2) 
+The parent or guardian of a student enrolled in grade 1 through 12 that is enrolled in a school's computer education program. 
+
+
+(b) A service center may sell qualified computer equipment under this chapter to schools, parents, or guardians located outside the service center's normal service area, but not outside Indiana. 
+(c) A school that purchases qualified computer equipment from a service center may sell the qualified computer equipment to a parent or guardian of a child who is enrolled in the school's computer education program. As added by P.L.43-1992, SEC.11. Amended by P.L.62-1997, SEC.3; P.L.286-2013, SEC.5; P.L.233-2015, SEC.20. 
+
+IC 6-3.1-15-13 Price for resale of equipment 
+Sec. 13. A service center shall establish a price for the resale of qualified computer equipment that equals: 
+(1) 
+the amount of the service center's payment to the department under section 11 of this chapter in the preceding year and as anticipated for the current year; and 
+
+(2) 
+the service center's actual operating expenses in purchasing, inspecting, testing, refurbishing, and reselling qualified 
+
+
+computer equipment under this chapter, including a reasonable allowance for operating overhead. 
+As added by P.L.43-1992, SEC.11. Amended by P.L.1-1993, SEC.40; P.L.62-1997, SEC.4. 
+
+IC 6-3.1-15-14 Projections of anticipated demand for equipment; refusal to issue credit 
+Sec. 14. (a) Each service center shall develop a two (2) year projection of the anticipated demand for the purchase of qualified computer equipment. Each service center shall submit the service center's projection to the state board by January 10 of each calendar year. 
+(b) A service center may refuse to issue tax credit certification under section 10 of this chapter when the demand for qualified computer equipment, determined under subsection (a), is equal to or less than the anticipated supply of qualified computer equipment. As added by P.L.43-1992, SEC.11. 
+
+IC 6-3.1-15-15 Notification of schools 
+Sec. 15. Before July 1 of each year, the state department of education shall notify each school that complies with the minimum instructional days required by IC 20-30-2-3 for the preceding school year that the program created by this chapter exists, including how the school may participate in the program. As added by P.L.43-1992, SEC.11. Amended by P.L.1-2005, SEC.98. 
+
+IC 6-3.1-15-16 Rules 
+Sec. 16. The state board shall adopt rules under IC 4-22-2 to implement this chapter, including rules that: 
+(1) 
+assure equitable allocation and nondiscrimination in the distribution of qualified computer equipment to authorized purchasers under section 12(a) of this chapter; 
+
+(2) 
+require inter-regional cooperation amongthe service centers in complying with this chapter; and 
+
+(3) 
+provide for annual audits of the service centers by the state board to determine compliance with this chapter. 
+
+
+As added by P.L.43-1992, SEC.11. 
+
+IC 6-3.1-15-17 Annual reports 
+Sec. 17. The state board shall perform an annual review of the program implemented by this chapter and before September 1 of each year file an annual report with the budget committee for review by the budget committee and approval of the budget agency. The report must include the following: 
+(1) 
+A listing of the schools that participated in the program including the school's location, whether the school is a private or public school, and a description of the demographics of the students of each school. 
+
+(2) 
+The board's opinion regarding the success of the program. 
+
+
+(3) The amount of tax credits granted to donors. As added by P.L.43-1992, SEC.11. Amended by P.L.62-1997, SEC.5; P.L.286-2013, SEC.6. 
+

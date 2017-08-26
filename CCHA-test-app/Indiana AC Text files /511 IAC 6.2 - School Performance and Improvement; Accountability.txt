@@ -1,0 +1,2154 @@
+Rule 1. Applicability 
+511 IAC 6.2-1-1 Applicability to schools 
+Authority: IC 20-31-10-1 
+Affected: IC 20-19-2-8; IC 20-31-7; IC 20-31-9 
+Sec. 1. The provisions in this article concerning schools apply only to the following: 
+(1) 
+Public schools. 
+
+(2) 
+Except asprovided in IC 20-31-7andIC20-31-9, nonpublicschoolsthatvoluntarilybecomeaccredited under IC 20-1-1­
+
+
+6 [IC 20-1 was repealed by P.L.1-2005, SECTION 240, effective July 1, 2005. See IC 20-19-2-8.]. (Indiana State Board of Education; 511 IAC 6.2-1-1; filed Jun 28, 2001, 4:15 p.m.: 24 IR 3648; errata filed Jul 11, 2005, 10:00 a.m.: 28 IR 3307; readopted filed Nov 20, 2007, 11:36 a.m.: 20071219-IR-511070386RFA; readopted filed Dec 2, 2013, 3:26 p.m.: 20140101-IR-511130419RFA) 
+Rule 2. Definitions 
+
+511 IAC 6.2-2-1 Applicability 
+Authority: IC 20-31-10-1 
+Affected: IC 20-31 
+Sec. 1. The definitions in this rule apply throughout this article. (Indiana State Board of Education; 511 IAC 6.2-2-1; filed Jun 28, 2001, 4:15 p.m.: 24 IR 3648; readopted filed Nov 20, 2007, 11:36 a.m.: 20071219-IR-511070386RFA; readopted filed Dec 2, 2013, 3:26 p.m.: 20140101-IR-511130419RFA) 
+
+511 IAC 6.2-2-2 "Annual report" defined 
+Authority: IC 20-31-10-1 
+Affected: IC 20-20-8; IC 20-31 
+Sec. 2. "Annual report" refers to the school corporation annual performance report required by IC 20-20-8. (Indiana State Board of Education; 511 IAC 6.2-2-2; filed Jun 28, 2001, 4:15 p.m.: 24 IR 3648; errata filed Jul 11, 2005, 10:00 a.m.: 28 IR 3307; readopted filed Nov 20, 2007, 11:36 a.m.: 20071219-IR-511070386RFA; readopted filed Dec 2, 2013, 3:26 p.m.: 20140101-IR­511130419RFA) 
+
+511 IAC 6.2-2-3 "Board" defined 
+Authority: IC 20-31-10-1 
+Affected: IC 20-18-2-9; IC 20-31 
+Sec. 3. "Board" has the meaning set forth in IC 20-10.1-1-17 [IC 20-10.1 was repealed by P.L.1-2005, SECTION 240, effective July 1, 2005. See IC 20-18-2-9.]. (Indiana State Board of Education; 511 IAC 6.2-2-3; filed Jun 28, 2001, 4:15 p.m.: 24 IR 3648; readopted filed Nov 20, 2007, 11:36 a.m.: 20071219-IR-511070386RFA; readopted filed Dec 2, 2013, 3:26 p.m.: 20140101-IR-511130419RFA) 
+
+511 IAC 6.2-2-4 "Department" defined 
+Authority: IC 20-31-10-1 
+Affected: IC 20-18-2-3; IC 20-31 
+Sec. 4. "Department" has the meaning set forth in IC 20-18-2-3. (Indiana State Board of Education; 511 IAC 6.2-2-4; filed Jun 28, 2001, 4:15 p.m.: 24 IR 3648; errata filed Jul 11, 2005, 10:00 a.m.: 28 IR 3307; readopted filed Nov 20, 2007, 11:36 a.m.: 20071219-IR-511070386RFA; readopted filed Dec 2, 2013, 3:26 p.m.: 20140101-IR-511130419RFA) 
+
+511 IAC 6.2-2-5 "Governing body" defined 
+Authority: IC 20-31-10-1 
+Affected: IC 20-18-2-5; IC 20-31 
+Sec. 5. "Governing body" has the meaning set forth in IC 20-18-2-5. (Indiana State Board of Education; 511 IAC 6.2-2-5; filed Jun 28, 2001, 4:15 p.m.: 24 IR 3648; errata filed Jul 11, 2005, 10:00 a.m.: 28 IR 3307; readopted filed Nov 20, 2007, 11:36 a.m.: 20071219-IR-511070386RFA; readopted filed Dec 2, 2013, 3:26 p.m.: 20140101-IR-511130419RFA) 
+
+511 IAC 6.2-2-6 "Nonpublic school" defined 
+Authority: IC 20-31-10-1 
+Affected: IC 20-18-2-12; IC 20-31 
+Sec. 6. "Nonpublic school" has the meaning set forth in IC 20-18-2-12. (Indiana State Board of Education; 511 IAC 6.2-2-6; filed Jun 28, 2001, 4:15 p.m.: 24 IR 3648; errata filed Jul 11, 2005, 10:00 a.m.: 28 IR 3307; readopted filed Nov 20, 2007, 11:36 a.m.: 20071219-IR-511070386RFA; readopted filed Dec 2, 2013, 3:26 p.m.: 20140101-IR-511130419RFA) 
+
+511 IAC 6.2-2-7 "Parent" defined 
+Authority: IC 20-31-10-1 
+Affected: IC 20-18-2-13; IC 20-31 
+Sec. 7. "Parent" has the meaning set forth in IC 20-18-2-13. (Indiana State Board of Education; 511 IAC 6.2-2-7; filed Jun 28, 2001, 4:15 p.m.: 24 IR 3648; errata filed Jul 11, 2005, 10:00 a.m.: 28 IR 3307; readopted filed Nov 20, 2007, 11:36 a.m.: 20071219-IR-511070386RFA; readopted filed Dec 2, 2013, 3:26 p.m.: 20140101-IR-511130419RFA) 
+
+511 IAC 6.2-2-8 "Plan" defined 
+Authority: IC 20-31-10-1 
+Affected: IC 20-31-5 
+Sec. 8. "Plan" refers to a strategic and continuous school improvement and achievement plan established under IC 20-31-5 for a school or a school corporation. (Indiana State Board of Education; 511 IAC 6.2-2-8; filed Jun 28, 2001, 4:15 p.m.: 24 IR 3648; errata filed Jul 11, 2005, 10:00 a.m.: 28 IR 3307; readopted filed Nov 20, 2007, 11:36 a.m.: 20071219-IR-511070386RFA; readopted filed Dec 2, 2013, 3:26 p.m.: 20140101-IR-511130419RFA) 
+
+511 IAC 6.2-2-9 "Public school" defined 
+Authority: IC 20-31-10-1 
+Affected: IC 20-18-2-15; IC 20-31 
+Sec. 9. "Public school" has the meaning set forth in IC 20-18-2-15. (Indiana State Board of Education; 511 IAC 6.2-2-9; filed Jun 28, 2001, 4:15 p.m.: 24 IR 3648; errata filed Jul 11, 2005, 10:00 a.m.: 28 IR 3307; readopted filed Nov 20, 2007, 11:36 a.m.: 20071219-IR-511070386RFA; readopted filed Dec 2, 2013, 3:26 p.m.: 20140101-IR-511130419RFA) 
+
+511 IAC 6.2-2-10 "School" defined 
+Authority: IC 20-31-10-1 
+Affected: IC 20-31 
+Sec. 10. "School" refers to a public or an accredited nonpublic school. (Indiana State Board of Education; 511 IAC 6.2-2-10; filed Jun 28, 2001, 4:15 p.m.: 24 IR 3648; readopted filed Nov 20, 2007, 11:36 a.m.: 20071219-IR-511070386RFA; readopted filed Dec 2, 2013, 3:26 p.m.: 20140101-IR-511130419RFA) 
+
+511 IAC 6.2-2-11 "School corporation" defined 
+Authority: IC 20-31-10-1 
+Affected: IC 20-18-2-16; IC 20-31 
+Sec. 11. "School corporation" has the meaning set forth in IC 20-18-2-16. (Indiana State Board of Education; 511 IAC 6.2-2­11; filed Jun 28, 2001, 4:15 p.m.: 24 IR 3648; errata filed Jul 11, 2005, 10:00 a.m.: 28 IR 3307; readopted filed Nov 20, 2007, 
+11:36 a.m.: 20071219-IR-511070386RFA; readopted filed Dec 2, 2013, 3:26 p.m.: 20140101-IR-511130419RFA) 
+
+511 IAC 6.2-2-12 "Superintendent" defined 
+Authority: IC 20-31-10-1 
+Affected: IC 20-18-2-21; IC 20-31 
+Sec. 12. "Superintendent" has the meaning set forth in IC 20-18-2-21. (Indiana State Board of Education; 511 IAC 6.2-2-12; filed Jun 28, 2001, 4:15 p.m.: 24 IR 3648; errata filed Jul 11, 2005, 10:00 a.m.: 28 IR 3307; readopted filed Nov 20, 2007, 11:36 a.m.: 20071219-IR-511070386RFA; readopted filed Dec 2, 2013, 3:26 p.m.: 20140101-IR-511130419RFA) 
+Rule 2.5. Graduation Rate Determination 511 IAC 6.2-2.5-1 "Cohort" defined (Expired) 
+Sec. 1. (Expired under IC 4-22-2.5, effective January 1, 2011.) 
+
+511 IAC 6.2-2.5-2 "Enrollment" defined (Expired) 
+Sec. 2. (Expired under IC 4-22-2.5, effective January 1, 2011.) 
+
+511 IAC 6.2-2.5-3 "Expected graduation year" defined (Expired) 
+Sec. 3. (Expired under IC 4-22-2.5, effective January 1, 2011.) 
+
+511 IAC 6.2-2.5-4 "Graduation" defined 
+Authority: IC 20-31-10-1 
+Affected: IC 20-26-13; IC 20-31; IC 20-32-5 
+Sec. 4. As used in this rule, "graduation" means the successful completion by a student of: 
+(1) a sufficient number of academic credits, or the equivalent of academic credits; and 
+(2) the graduation examination or waiver process required under IC 20-32-5; resulting in the awarding of a high school diploma or an academic honors diploma. The term does not include the granting of a general educational development diploma under IC 20-20-6 [IC 20-20-6 was repealed by P.L.7-2011, SECTION 26, effective April 1, 2011.]. (Indiana State Board of Education; 511 IAC 6.2-2.5-4; filed Jul 14, 2004, 9:30 a.m.: 27 IR 4008; errata filed Jul 11, 2005, 10:00 a.m.: 28 IR 3307; readopted filed Nov 28, 2011, 3:20 p.m.: 20111228-IR-511110558RFA) 
+511 IAC 6.2-2.5-5 "Graduation rate" defined (Expired) 
+Sec. 5. (Expired under IC 4-22-2.5, effective January 1, 2011.) 
+511 IAC 6.2-2.5-6 "Reporting year" defined (Expired) 
+Sec. 6. (Expired under IC 4-22-2.5, effective January 1, 2011.) 
+
+511 IAC 6.2-2.5-7 "Retention" defined (Expired) 
+Sec. 7. (Expired under IC 4-22-2.5, effective January 1, 2011.) 
+
+511 IAC 6.2-2.5-8 Determination of graduation rate (Expired) 
+Sec. 8. (Expired under IC 4-22-2.5, effective January 1, 2011.) 
+
+511 IAC 6.2-2.5-9 Calculation of graduation rate 
+Authority: IC 20-31-10-1 
+Affected: IC 20-26-13; IC 20-31; IC 20-33-2-28 
+
+Sec. 9. The graduation rate for a cohort in a high school is the percentage determined under STEP SEVEN of the following 
+formula: STEP ONE: Determine the grade 9 enrollment at the beginning of the reporting year three (3) years before the reporting year for which the graduation rate is being determined. STEP TWO: Add: 
+(A) 
+the number determined under STEP ONE; and 
+
+(B) 
+the number of students who: 
+
+
+(i) have enrolled in the high school after the date on which the number determined under STEP ONE was determined; and 
+(ii) have the same expected graduation year as the cohort. 
+STEP THREE: Add: 
+
+(A) 
+the sum determined under STEP TWO; and 
+
+(B) 
+the number of retained students from earlier cohorts who became members of the cohort for whom the graduation 
+
+
+rate is being determined. 
+STEP FOUR: Add: 
+
+(A) 
+the sum determined under STEP THREE; and 
+
+(B) 
+the number of students who: 
+
+
+(i) began the reporting year in a cohort that expects to graduate during a future reporting year; and 
+(ii) graduate during the current reporting year. STEP FIVE: Subtract from the sum determined under STEP FOUR the number of students who have left the cohort for any of the following reasons: 
+(A) 
+Transfer to another public or nonpublic school. 
+
+(B) 
+Removal by the student's parents under IC 20-33-2-28 to provide instruction equivalent to that given in the public schools. 
+
+(C) 
+Withdrawal because of a long term medical condition or death. 
+
+(D) 
+Detention by a law enforcement agency or the department of correction. 
+
+(E) 
+Placement by a court order or the division of family and children. 
+
+(F) 
+Enrollment in a virtual school. 
+
+(G) 
+Graduation before the beginning of the reporting year. 
+
+(H) 
+Students who have attended school in Indiana for less than one (1) year and whose location cannot be determined. 
+
+(I) 
+Students who cannot be located within the boundaries of the school corporation and have been reported to the 
+
+
+Indiana clearinghouse for missing and exploited children. 
+STEP SIX: Determine the total number of students who have graduated during the current reporting year. 
+STEP SEVEN: Divide: 
+
+(A) 
+the number determined under STEP SIX; by 
+
+(B) 
+the remainder determined under STEP FIVE. 
+
+
+(Indiana State Board of Education; 511 IAC 6.2-2.5-9; filed Jul 14, 2004, 9:30 a.m.: 27 IR 4009; errata filed Jul 11, 2005, 10:00 a.m.: 28 IR 3307; readopted filed Nov 28, 2011, 3:20 p.m.: 20111228-IR-511110558RFA) 
+Rule 3. Strategic and Continuous School Improvement and Achievement Plan 
+
+511 IAC 6.2-3-1 Plan objectives 
+Authority: IC 20-31-10-1 
+Affected: IC 20-31; IC 20-32-5 
+
+Sec. 1. (a) A plan: 
+(1) 
+shall lay out objectives for a three (3) year period; and 
+
+(2) 
+must be annually reviewed and revised to accomplish the achievement objectives of the school. 
+
+
+(b) 
+A plan must establish objectives for the school to achieve. These achievement objectives must be consistent with academic standards and include improvement in at least the following areas: 
+
+(1) 
+Attendance rate. 
+
+(2) 
+The percentage of students meeting academic standards under the Indiana statewide testing for educational progress (ISTEP) program (IC 20-32-5). 
+
+(3) 
+For a secondary school, graduation rate. 
+
+
+
+(c) 
+A plan must specify how and to what extent the school expects to make continuous improvement in all areas of the education system where results are measured by setting benchmarks for progress on an individual school basis. 
+
+(d) 
+A plan must note specific areas where improvement is needed immediately. (Indiana State Board of Education; 511 IAC 6.2-3-1; filed Jun 28, 2001, 4:15 p.m.: 24 IR 3648; errata filed Jul 11, 2005, 10:00 a.m.: 28 IR 3307; readopted filed Nov 20, 2007, 11:36 a.m.: 20071219-IR-511070386RFA; readopted filed Dec 2, 2013, 3:26 p.m.: 20140101-IR-511130419RFA) 
+
+
+
+511 IAC 6.2-3-2 Waivers 
+Authority: IC 20-31-10-1 
+Affected: IC 20-31 
+
+Sec. 2. (a) A plan may include a request for a waiver of applicability of a rule or statute to a school. 
+(b) 
+The governing body may waive any rule adopted by the board for which a waiver is requested in a plan, except for a rule that is characterized as follows: 
+
+(1) 
+The rule relates to the health or safety of students or school personnel. 
+
+(2) 
+The rule is a special education rule under 511 IAC 7. 
+
+(3) 
+Suspension of the rule brings the school into noncompliance with federal statutes or regulations. 
+
+(4) 
+The rule concerns curriculum or textbooks. 
+
+
+
+(c) 
+Upon request of the governing body and pursuant to a plan, the board may waive for a school or a school corporation any statute or rule relating to the following: 
+
+(1) 
+Curriculum. 
+
+(2) 
+Textbook selection. 
+
+
+
+
+(Indiana State Board of Education; 511 IAC 6.2-3-2; filed Jun 28, 2001, 4:15 p.m.: 24 IR 3649; readopted filed Nov 20, 2007, 
+11:36 a.m.: 20071219-IR-511070386RFA; readopted filed Dec 2, 2013, 3:26 p.m.: 20140101-IR-511130419RFA) 
+
+511 IAC 6.2-3-3 Plan components 
+Authority: IC 20-31-10-1 
+Affected: IC 20-19-2-11; IC 20-31 
+
+Sec. 3. (a) A plan must contain the following components for the school: 
+(1) 
+A list of the statutes and rules that the school wishes to have suspended from operation for the school. 
+
+(2) 
+A description of the curriculum and information concerning the location of a copy of the curriculum that is available for inspection by members of the public. 
+
+(3) 
+A description and name of the assessments that will be used in the school in addition to Indiana statewide testing for educational progress (ISTEP) assessments. 
+
+(4) 
+A plan to be submitted to the governing body and made available to all interested members of the public in an easily understood format. 
+
+(5) 
+A provision to maximize parental participation in the school. 
+
+(6) 
+For a secondary school, a provision to do the following: 
+
+(A) 
+Offer courses that allow all students to become eligible to receive an academic honors diploma. 
+
+(B) 
+Encourage all students to earn an academic honors diploma or complete the Core 40 curriculum. 
+
+
+
+(7) 
+A provision to maintain a safe and disciplined learning environment for students and teachers. 
+
+(8) 
+A provision for the coordination of technology initiatives. 
+
+(9) 
+A professional development program pursuant to IC 20-19-2-11 and IC 20-20-31 [IC 20-20-31 was repealed by P.L.233­2015, SECTION 44, effective July 1, 2015.]. The professional development program should include the following: 
+
+(A) 
+A narrative that includes the following: 
+
+(i) 
+A summary of analysis of data regarding student learning. 
+
+(ii) 
+Strategies, programs, and services to address student learning needs. 
+
+
+(iii) Activities to implement the strategies, programs, and services. 
+(iv) Evaluation that will be conducted of the impact of the activities. 
+
+(B) 
+An assurance that the program complies with the board's core principles for professional development. 
+
+
+
+(10) 
+The professional development program must be signed by the exclusive representative as indication of support only for the professional development program component of the plan. 
+
+
+(b) If, for a purpose other than a plan under this rule, a school has developed materials that are substantially similar to a component listed in subsection (a), the school may substitute those materials for the component listed in subsection (a). (Indiana State Board of Education; 511 IAC 6.2-3-3; filed Jun 28, 2001, 4:15 p.m.: 24 IR 3649; errata filed Jul 11, 2005, 10:00 a.m.: 28 IR 3307; readopted filed Nov 20, 2007, 11:36 a.m.: 20071219-IR-511070386RFA; readopted filed Dec 2, 2013, 3:26 p.m.: 20140101-IR-511130419RFA) 
+
+511 IAC 6.2-3-4 Additional information 
+Authority: IC 20-31-10-1 
+Affected: IC 20-31 
+
+Sec. 4. In order to have a more complete strategic planning process and a written plan that is free from gaps, a school may include, but is not required to include, additional information, including, without limitation, the following: 
+(1) 
+A narrative description of the school, the community, and the educational programs. 
+
+(2) 
+A statement of mission, vision, and beliefs. 
+
+(3) 
+Data, including graphs, from the annual performance report. 
+
+(4) 
+Data related to performance indicators other than those included in the annual performance report. 
+
+(5) 
+Other information about educational programming and the learning environment. 
+
+(6) 
+Information about how the school's curriculum and instructional strategies support the achievement of Indiana academic standards. 
+
+(7) 
+Analysis of student achievement based on Indiana statewide testing for educational progress plus (ISTEP+) and other assessment strategies. 
+
+(8) 
+Proposed interventions based on school improvement goals. 
+
+
+(Indiana State Board of Education; 511 IAC 6.2-3-4; filed Jun 28, 2001, 4:15 p.m.: 24 IR 3649; readopted filed Nov 20, 2007, 
+11:36 a.m.: 20071219-IR-511070386RFA; readopted filed Dec 2, 2013, 3:26 p.m.: 20140101-IR-511130419RFA) 
+
+511 IAC 6.2-3-5 Plan development 
+Authority: IC 20-31-10-1 
+Affected: IC 20-31 
+
+Sec. 5. (a) A plan must be submitted to the department by June 30 of the school year before the year of implementation. 
+(b) The department shall act as a clearinghouse for plans and make effective plans available to school corporations as models to use in developing and carrying out plans. (Indiana State Board of Education; 511 IAC 6.2-3-5; filed Jun 28, 2001, 4:15 p.m.: 24 IR 3650; readopted filed Nov 20, 2007, 11:36 a.m.: 20071219-IR-511070386RFA; readopted filed Dec 2, 2013, 3:26 p.m.: 20140101-IR-511130419RFA) 
+Rule 3.1. Reading Plan 
+
+511 IAC 6.2-3.1-1 Definitions 
+Authority: IC 20-19-2-8; IC 20-32-8.5-4 
+Affected: IC 20-31; IC 20-32-8.5 
+Sec. 1. The following definitions apply throughout this rule: 
+(1) "Core reading program" means a scientifically-based program that provides a scope and sequence that scaffolds instruction in accordance with state academic standards. 
+(2)"Dedicatedtime"meansthatscientifically-basedreadingresearch istheprimarybasisfor theinstruction providedduring that time period. 
+(3) 
+"Differentiated instruction" means the process of matching instruction to meet the different needs of students. 
+
+(4) 
+"English learner" means a student whose native language is not English and who is classified as a Level 1-4 limited English proficient or Level 5 fluent English proficient based on the LAS Links English proficiency assessment. 
+
+(5) 
+"Individual learning plan" means the record keeping document developed for each English learner, outlining the student's level of English proficiency and instructional and assessment adaptations. 
+
+(6) 
+"IREAD-3" is the reading test approved by the board to test reading proficiency. 
+
+(7) 
+"Job-embedded time" means professional development that occurs during the course of the work day. 
+
+(8) 
+"Parent-guided home reading program" means a guidebook on how to promote reading at home. 
+
+(9) 
+"Principles of response to instruction" means the systemic process of meeting the educational needs of all students through the following: 
+
+(A) 
+Professional accountability to ensure delivery of scientific research-based core curriculum and instruction. 
+
+(B) 
+Ongoing monitoring of student data to assess instruction effectiveness. 
+
+
+
+(C) 
+Determination and delivery of targeted and intensive individualized student supports. 
+Response to instruction guidance is available at the department's website. 
+
+
+(10) 
+"Reading deficiency" means reading at a level not equivalent to grade-level reading proficiency. 
+
+(11) 
+"Reading instruction" means instruction on the five (5) components of scientifically-based reading, which includes the following: 
+
+(A) 
+Phonics. 
+
+(B) 
+Phonemic awareness. 
+
+(C) 
+Fluency. 
+
+(D) 
+Vocabulary. 
+
+(E) 
+Comprehension. 
+
+
+
+(12) 
+"Scaffolding" means instruction that builds on a student's prior knowledge and internalizes new information. 
+
+(13) 
+"Scientifically-based reading research" means research that includes the following: 
+
+(A) 
+Scientific methods with an emphasis on experimental control or comparison groups. 
+
+(B) 
+Replication of results, using multiple studies by different investigators. 
+
+(C) 
+Ability to generalize results from one (1) sample to other children in the general population. 
+
+(D) 
+Fulfillment of rigorous standards with an emphasis on peer review. 
+
+(E) 
+Consistency of results between studies. 
+
+
+
+
+(Indiana State Board of Education; 511 IAC 6.2-3.1-1; filed Mar 25, 2011, 10:26 a.m.: 20110420-IR-511100635FRA) 
+
+511 IAC 6.2-3.1-2 Applicability 
+Authority: IC 20-19-2-8; IC 20-32-8.5-4 
+Affected: IC 20-24-8-5; IC 20-26-15; IC 20-31; IC 20-32-8; IC 20-32-8.5; IC 20-35-5; IC 36-1-7 
+
+Sec. 2. (a) This rule applies to: 
+(1) 
+elementary schools, including charter schools as set forth under IC 20-24-8-5(18), with exemptions for charter schools noted; 
+
+(2) 
+elementary schools organized by an interlocal agreement under IC 36-1-7; 
+
+(3) 
+special education cooperative organized under IC 20-35-5; and 
+
+(4) 
+accredited nonpublic school under IC 20-26-15 or 511 IAC 6.1-1-1. 
+
+
+(b) 
+A school is an elementary school under this rule if any students in the school attend kindergarten, first, second, or third grade. 
+
+(c) 
+Each school shall submit the details of a reading plan that includes components set forth in section 3 of this rule to the department on the June 30 before the school year of implementation. 
+
+(d) 
+If an entity under subsection (a) receives funding under IC 20-32-8, the entity shall prioritize that funding on resources for students who have a reading deficiency in grades 1 through 3. (Indiana State Board of Education; 511 IAC 6.2-3.1-2; filed Mar 25, 2011, 10:26 a.m.: 20110420-IR-511100635FRA; filed Mar 21, 2012, 11:28 a.m.: 20120418-IR-511110561FRA) 
+
+
+
+511 IAC 6.2-3.1-3 Reading plan; components 
+Authority: IC 20-19-2-8; IC 20-32-8.5-4 
+Affected: IC 20-31; IC 20-32-8.5 
+
+Sec. 3. (a) A reading plan includes the following: 
+(1) 
+Membership of the reading leadership team. 
+
+(2) 
+Measurable student achievement goals for each grade level. 
+
+(3) 
+Reading instruction in accordance with section 4 of this rule. 
+
+(4) 
+Details of the manner in which the school plans to use formative and summative assessments for the following: 
+
+(A) 
+Students in kindergarten through grade 2 that measure the following: 
+
+(i) 
+Phonemic awareness. 
+
+(ii) 
+Phonics. 
+
+
+(iii) Fluency. 
+(iv) 
+Vocabulary. 
+
+(v) 
+Comprehension. 
+
+
+
+(B) 
+Students in grade 3 and higher that measure vocabulary and comprehension in relation to content knowledge. 
+
+
+
+(5) 
+Intervention in accordance with section 5 of this rule. 
+
+(6) 
+A requirement that all students taking ISTEP and IMAST assessments take the IREAD-3 assessment. 
+
+(7) 
+Beginning with the 2012-2013 school year, retention of a student in grade 3 if the student does not achieve a passing score on the IREAD-3 assessment during the previous school year or during a subsequent attempt at passing IREAD-3. The student shall not be retained if one (1) of the following applies to the student: 
+
+(A) 
+The student has been retained two (2) times prior to promotion to grade 4. 
+
+(B) 
+The student has a disability and a case conference committee has determined that promotion is appropriate. 
+
+(C) 
+The student is an English learner and a committee consisting of: 
+
+(i) 
+the student's parent; 
+
+(ii) 
+a building level administrator or designee; 
+
+
+(iii) a classroom teacher of service; 
+(iv) an English learner teacher, if one exists; and 
+
+(v) 
+an English learner district administrator, if one exists; determines that promotion is appropriate based on the implementation of researched-based instructional practices outlined in the student's individual learning plan. 
+
+
+
+(8) 
+Promotion of students retained under subdivision (6) when the student achieves grade-level reading proficiency as demonstrated by passing IREAD-3. 
+
+(9) 
+Professional development for teachers that includes the following: 
+
+(A) 
+Utilizing assessment data to target the measurable student achievement goals for each grade level. 
+
+(B) 
+Development differentiated for teachers based on classroom data. 
+
+(C) 
+Development of model classrooms within the school. 
+
+(D) 
+When possible, job-embedded time for professional development and collaboration. 
+
+
+
+(10) 
+A monitoring plan that evaluates the implementation of the reading plan. 
+
+
+(b) A reading plan for a charter school will be collected by a charter school's sponsor, and must include the general information required in this section, but does not need to meet the form prescribed by the department. (Indiana State Board of Education; 511 IAC 6.2-3.1-3; filed Mar 25, 2011, 10:26 a.m.: 20110420-IR-511100635FRA; filed Mar 21, 2012, 11:28 a.m.: 20120418-IR-511110561FRA) 
+511 IAC 6.2-3.1-4 Reading plan; instruction Authority: IC 20-19-2-8; IC 20-32-8.5-4 Affected: IC 20-31; IC 20-32-8.5 
+Sec. 4. (a) Reading instruction for all students in kindergarten through third grade must include the following: 
+(1) 
+A research-based core reading program that provides a scope and sequence in order to scaffold the instruction of scientifically-based reading, including the following: 
+
+(A) 
+Phonemic awareness. 
+
+(B) 
+Phonics. 
+
+(C) 
+Fluency. 
+
+(D) 
+Vocabulary 
+
+(E) 
+Comprehension. 
+
+
+
+(2) 
+A dedicated, uninterrupted minimum ninety (90) minute block of time daily to all students. The time must include whole group instruction using a core reading program and small-group differentiated instruction. Half-day kindergarten programs must provide ninety (90) minutes of instruction but do not have to provide the instruction during an uninterrupted block of time. The following exemptions apply: 
+
+(A) 
+charter schools are exempt from this subdivision; and 
+
+(B) 
+public schools and accredited nonpublic schools in which ninety percent (90%) of students pass IREAD-3 are exempt from this subdivision. 
+
+
+
+(b) 
+A school is not required to offer a research-based core reading program under subsection (a)(1) if: 
+
+(1) 
+the state board determines that the school falls within one (1) of the top two (2) performance categories under 511 IAC 6.2-6-5; and 
+
+
+(2)ninetypercent(90%)ofstudentspassIREAD-3duringtheschoolyear immediatelyprecedingthesubmission oftheplan. 
+(c) A sponsor of a charter school whose students do not pass IREAD-3 at ninety percent (90%) or higher shall require that charter school to implement scientifically-based reading instruction. (Indiana State Board of Education; 511 IAC 6.2-3.1-4; filed Mar 25, 2011, 10:26 a.m.: 20110420-IR-511100635FRA; filed Mar 21, 2012, 11:28 a.m.: 20120418-IR-511110561FRA) 
+511 IAC 6.2-3.1-5 Reading plan; intervention Authority: IC 20-19-2-8; IC 20-32-8.5-4 Affected: IC 20-31; IC 20-32-8.5 
+Sec. 5. (a) A school shall intervene with students who have reading deficiency as determined by assessment results. 
+(b) 
+Intervention for students prior to the retention determination under section 3(a)(6) [section 3(6)] ofthis rule must include, but is not limited to, the following types of remediation: 
+
+(1) 
+Research-based materials that address reading deficiencies as determined by the assessment results. 
+
+(2) 
+Principles of response to instruction. 
+
+
+
+(c) 
+If a school intervenes, the school shall notify and involve the student's parent or guardian. The notice must include the following: 
+
+(1) 
+A description and explanation of the deficiency. 
+
+(2) 
+Proposed supplemental instruction services. 
+
+(3) 
+Strategies for parents to use to assist the student. 
+
+(4) 
+Notice that the student will be retained if the student does not achieve a passing score on the IREAD-3 assessment. 
+
+
+
+(d) 
+Intervention for students retained under section 3(a)(6) [section 3(6)] of this rule must include, but is not limited to, the following types of remediation: 
+
+(1) 
+Scientifically-based reading strategies that meet the student's needs. 
+
+(2) 
+Instruction by an effective teacher as measured by student performance results. 
+
+(3) 
+At least ninety (90) minutes of reading instruction each school day. 
+
+(4) 
+At least one (1) of the following instructional options: 
+
+(A) 
+Tutoring before or after school. 
+
+(B) 
+Parent workshops and a parent-guided home reading program. 
+
+(C) 
+A mentor or tutor with specialized reading training and may include volunteers or school staff. 
+
+(D) 
+Extended-day programs. 
+
+(E) 
+Supplemental instruction services. 
+
+
+
+
+
+
+(Indiana State Board of Education; 511 IAC 6.2-3.1-5; filed Mar 25, 2011, 10:26 a.m.: 20110420-IR-511100635FRA) 
+Rule 4. Professional Development Program 
+
+511 IAC 6.2-4-1 "Program" defined 
+Authority: IC 20-19-2-11 
+Affected: IC 20-31-5 
+
+Sec. 1. As used in this rule, "program" refers to a professional development program developed pursuant to IC 20-19-2-11 and IC 20-20-31-1 [IC 20-20-31 was repealed by P.L.233-2015, SECTION 44, effective July 1, 2015.]. (Indiana State Board of Education; 511 IAC 6.2-4-1; filed Aug 28, 2001, 11:20 a.m.: 25 IR 82; errata filed Jul 11, 2005, 10:00 a.m.: 28 IR 3307; readopted filed Nov 20, 2007, 11:36 a.m.: 20071219-IR-511070386RFA; readopted filed Dec 2, 2013, 3:26 p.m.: 20140101-IR­511130419RFA) 
+
+511 IAC 6.2-4-2 Program approval 
+Authority: IC 20-19-2-11 
+Affected: IC 20-31-5-1 
+
+Sec. 2. (a) In approving a program, the board shall consider whether the governing body has done the following: 
+(1) 
+Approved a school's plan. 
+
+(2) 
+Demonstrated the support of the exclusive representative only for the professional development program component of the plan. 
+
+(b) 
+The following apply to a program developed under this section: 
+
+(1) 
+The program must emphasize improvement of student learning and performance. 
+
+(2) 
+The program must be developed by the committee that develops the school's strategic and continuous improvement and achievement plan under IC 20-31-5-1 and 511 IAC 6.2-3. 
+
+(3) 
+The program must be integrated with the school's strategic and continuous improvement and achievement plan developed under IC 20-31-5 and 511 IAC 6.2-3. 
+
+
+(c) The board may approve a school's program only if the program meets the board's core principles for professional development and the following additional criteria: 
+(1) 
+To ensure high quality professional development, the program: 
+
+(A) 
+is school based and collaboratively designed, and encourages participants to work collaboratively; 
+
+(B) 
+has a primary focus on state and local academic standards, including a focus on Core 40 subject areas; 
+
+(C) 
+enables teachers to improve expertise in subject knowledge and teaching strategies, uses of technologies, and other essential elements in teaching to high standards; 
+
+(D) 
+furthers the alignment of standards, curriculum, and assessments; and 
+
+(E) 
+includes measurement activities to ensure the transfer of new knowledge and skills to classroom instruction. 
+
+
+
+(2) 
+A variety of resources, including needs assessments, an analysis of data regarding student learning needs, professional literature, research, and school improvement programs, are used in developing the program. 
+
+(3) 
+The program supports professional development for all stakeholders. 
+
+(4) 
+The program includes ongoing professional growth experiences that provide adequate time and job embedded opportunities to support school improvement and student learning, including flexible time for professional development that provides professional development opportunities before, during, and after the regular school day and school year. 
+
+(5) 
+Under the program, teacher time for professional development sustains instructional coherence, participant involvement, and continuity for students. 
+
+(6) 
+The program includes effective, research-based strategies to support ongoing developmental activities. 
+
+(7) 
+The program supports experiences to increase the effective use of technology to improve teaching and learning. 
+
+(8) 
+The program encourages diverse techniques, including inquiry, reflection, action research, networking, study groups, coaching, and evaluation. 
+
+(9) 
+The program includes a means for evaluating the effectiveness of the program and activities under the program. 
+
+
+(Indiana State Board of Education; 511 IAC 6.2-4-2; filed Aug 28, 2001, 11:20 a.m.: 25 IR 82; errata filed Jul 11, 2005, 10:00 a.m.: 28 IR 3307; readopted filed Nov 20, 2007, 11:36 a.m.: 20071219-IR-511070386RFA; readopted filed Dec 2, 2013, 3:26 p.m.: 20140101-IR-511130419RFA) 
+
+511 IAC 6.2-4-3 Core principles of professional development 
+Authority: IC 20-19-2-11 
+Affected: IC 20-31-5 
+
+Sec. 3. The following are core principles of professional development: 
+(1) 
+Professional development programs will address issues that are relevant to the priorities of education improvement and reflect the knowledge base of the profession by doing the following: 
+
+(A) 
+Reflecting research-based approaches to effective adult learning, student learning, and organizational change to support ongoing developmental activities. While tapping educators' life experiences and drawing on the knowledge base from effective research, a variety of modes of learning are used to foster self-directed professional development opportunities. 
+
+(B) 
+Integrating education improvement priorities. Consistent and continuous links are made with the school improvement plan, the Indiana professional standards board, and the Indiana state board of education policy. 
+
+(C) 
+Incorporating both discipline-specific and interdisciplinary approaches to teaching, assessment, and preparation for the world of work. Professional growth experiences enhance educators' knowledge within and across subject areas and their ability to foster and assess students' problem solving and critical thinking skills. 
+
+(D) 
+Including explicit strategies for setting high expectations and meeting the diverse learning needs of all students. Training activities increase educators' capacity to implement developmentally-appropriate practices to establish challenging learning goals and respond to the uniqueness of each student. 
+
+(E) 
+Receiving adequate resources. Every public school in Indiana must receive the financial resources and support services needed to provide the most effective professional development program, as described within these principles. 
+
+
+
+(2) 
+Professional development program will engage educators in an effective learning process that impacts practice by doing the following: 
+
+(A) 
+Actively involving participants in program design, delivery, and implementation. Professional growth opportunities reflect educators' needs as determined from multiple data sources grounded in and linked with the school improvementplan.Allstakeholders shall beengagedin meaningfuljob-embeddedopportunitiestoeffectivelysupport practice that lead to improved student learning. 
+
+(B) 
+Promoting multiple strategies that model recommended strategies. Opportunities for professional development incorporate varied approaches, such as theory, demonstration, reflection, practice, mentoring, technologyapplications, and peer dialogue and coaching. 
+
+(C) 
+Incorporating follow-up activities that are sustained over time and provide educators with ongoing feedback. The professional development program provides a range of opportunities for staff to integrate the new strategies into their work with children through practice, feedback, and reflection. 
+
+(D) 
+Continuously evaluating impact on educators' practice and student learning. The effectiveness of professional development is determined by its impact on staff performance and student learning. 
+
+
+
+(3) 
+Professional development programs will contribute to developing an environment that support educators' professional growth by doing the following: 
+
+(A) 
+Fostering collegiality and collaboration. Professional growth opportunities encourage staff to build a community of educators, parents, business, and community partners who exchange ideas for innovation, cooperate in developing curricula, and discuss approaches to strengthening student learning by focusing on the school community as a culture of inquiry. 
+
+(B) 
+Building capacity through a continuum of ongoing improvement activities. Professional development activities maintain a focus on the improvement of practices that increase student learning and link to the school improvement plan and thestandards developedbytheIndianaprofessionalstandards board and theIndiana stateboard ofeducation policy. 
+
+(C) 
+Integrating staff development into educators' practice. The professional development program incorporates supports for staff to implement newly acquired strategies and assess them for their impact on student learning. 
+
+(D) 
+Encouraging innovation and risk-taking. As a result of staff development activities, the school community recognizes the need for action research which assists educators, leading toward innovations improving student learning. 
+
+
+
+
+(Indiana State Board of Education; 511 IAC 6.2-4-3; filed Aug 28, 2001, 11:20 a.m.: 25 IR 83; readopted filed Nov 20, 2007, 
+11:36 a.m.: 20071219-IR-511070386RFA; readopted filed Dec 2, 2013, 3:26 p.m.: 20140101-IR-511130419RFA) 
+
+511 IAC 6.2-4-4 Grant requirements 
+Authority: IC 20-19-2-11 
+Affected: IC 20-31-5 
+
+Sec. 4. A grant received under IC 20-20-31 [IC 20-20-31 was repealed by P.L.233-2015, SECTION 44, effective July 1, 2015.] and this rule: 
+(1) 
+shall be expended only for the conduct of activities specified in the program; and 
+
+(2) 
+shall be coordinated with other professional development programs and expenditures of the school and school corporation. 
+
+
+(Indiana State Board of Education; 511 IAC 6.2-4-4; filed Aug 28, 2001, 11:20 a.m.: 25 IR 84; errata filed Jul 11, 2005, 10:00 a.m.: 28 IR 3307; readopted filed Nov 20, 2007, 11:36 a.m.: 20071219-IR-511070386RFA; readopted filed Dec 2, 2013, 3:26 p.m.: 20140101-IR-511130419RFA) 
+Rule 5. (Reserved) 
+Rule 6. Assessing School Improvement and Performance (Voided) 
+NOTE: Voided by IC 20-31-8-5.4, effective March 1, 2016. 
+Rule 7. Adequate Yearly Progress 
+
+511 IAC 6.2-7-1 Elementary and secondary education act goals adopted 
+Authority: IC 20-19-2-8; IC 20-31-4-17; IC 20-31-10-1 
+Affected: IC 20-31 
+
+Sec. 1. The board adopts the elementary and secondary education act goals and indicators, including the goal that, by 2013­2014, all students will reach high standards, at a minimum attaining proficiency or better in English/language arts and mathematics. (Indiana State Board of Education; 511 IAC 6.2-7-1; filed Aug 26, 2003, 4:15 p.m.: 27 IR 163; readopted filed Nov 4, 2009, 12:03 p.m.: 20091202-IR-511090701RFA; readopted filed Sep 23, 2015, 12:13 p.m.: 20151021-IR-511150257RFA) 
+
+511 IAC 6.2-7-2 Adequate yearly progress integrated into state accountability system 
+Authority: IC 20-19-2-8; IC 20-31-4-17; IC 20-31-10-1 
+Affected: IC 20-31 
+Sec. 2. The board integrates adequate yearly progress, as defined by the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6301 et seq.) into the school accountability system created by IC 20-31 and this article. (Indiana State Board of Education; 511 IAC 6.2-7-2; filed Aug 26, 2003, 4:15 p.m.: 27 IR 163; errata filed Jul 11, 2005, 10:00 a.m.: 28 IR 3307; readopted filed Nov 4, 2009, 12:03 p.m.: 20091202-IR-511090701RFA; readopted filed Sep 23, 2015, 12:13 p.m.: 20151021-IR­511150257RFA) 
+
+511 IAC 6.2-7-3 Starting point determined 
+Authority: IC 20-19-2-8; IC 20-31-4-17; IC 20-31-10-1 
+Affected: IC 20-31 
+Sec. 3. The department, using data for the 2001-2002 school year, shall establish separate starting points for measuring the percentage of students meeting the pass level of academic achievement on the ISTEP+ English and mathematics assessments. Each starting point shall be based on the higher of the percentage of students at the pass level who are in: 
+(1) 
+the state's lowest achieving group of students described in section 6 of this rule; or 
+
+(2) 
+the school at the twentieth percentile in the state, based on enrollment, among all schools ranked by the percentage of students at the pass level. 
+
+
+(Indiana State Board of Education; 511 IAC 6.2-7-3; filed Aug 26, 2003, 4:15 p.m.: 27 IR 163; readopted filed Nov 4, 2009, 12:03 p.m.: 20091202-IR-511090701RFA; readopted filed Sep 23, 2015, 12:13 p.m.: 20151021-IR-511150257RFA) 
+
+511 IAC 6.2-7-4 Measurable annual objectives and intermediate goals 
+Authority: IC 20-19-2-8; IC 20-31-4-17; IC 20-31-10-1 
+Affected: IC 20-31 
+Sec. 4. (a) The objectives described in this section shall be the same for each of the following: 
+(1) 
+School corporation. 
+
+(2) 
+Public school. 
+
+(b) 
+The initial measurable objective shall be the starting point. 
+
+(c) 
+The annual measurable objective shall increase with each intermediate goal. 
+
+(d) 
+Equal increments in achievement, to ensure that all students become proficient by the 2013-2014 school year, shall be 
+
+
+calculated as follows: STEP ONE: Subtract the starting point from one hundred percent (100%). STEP TWO: Divide the remainder by six (6). 
+(e) Intermediate goals shall be determined by adding the STEP TWO of subsection (d) result to the initial measurable objective and to the resulting objective for the following school years: 
+(1) 
+2004-2005. 
+
+(2) 
+2007-2008. 
+
+(3) 
+2010-2011. 
+
+(4) 
+2011-2012. 
+
+(5) 
+2012-2013. 
+
+
+(Indiana State Board of Education; 511 IAC 6.2-7-4; filed Aug 26, 2003, 4:15 p.m.: 27 IR 164; readopted filed Nov 4, 2009, 12:03 p.m.: 20091202-IR-511090701RFA; readopted filed Sep 23, 2015, 12:13 p.m.: 20151021-IR-511150257RFA) 
+
+511 IAC 6.2-7-5 Annual improvement needed to make adequate yearly progress; participation in assessments; counting date 
+Authority: IC 20-19-2-8; IC 20-31-4-17; IC 20-31-10-1 
+Affected: IC 20-31 
+
+Sec. 5. (a) Beginning with data for the 2001-2002 school year and each subsequent year, for a school or school corporation to make adequate yearly progress under this section: 
+(1) 
+each group of students described in section 6 of this rule must meet or exceed the measurable objectives in English and the measurable objectives in mathematics under section 4 of this rule, except that if any group does not meet those objectives in any particular year, the school or school corporation shall be considered to have made adequate yearly progress if the percentage of students in that group who did not meet the pass level of academic achievement on ISTEP+ for that year decreased by ten percent (10%) of that percentage from the preceding school year and that group made progress on the other academic indicators described in section 8 of this rule; 
+
+(2) 
+the school or school corporation meets or exceeds the other academic indicators under section 8 of this rule; and 
+
+(3) 
+not less than ninety-five percent (95%) of each group of students described in section 6 of this rule who are enrolled in the school are required to take state assessments in English and not less than ninety-five percent (95%) of each group of students described in section 6 of this rule who are enrolled in the school are required to take state assessments in mathematics, including an alternate: 
+
+(A) assessment for students with disabilities; and 
+
+(B) 
+form of assessment for limited English proficient students; except that the ninety-five percent (95%) requirement shall not apply in a case in which the number of students in a group is fewer than forty (40). 
+
+(b) 
+The ninety-five percent (95%) requirement for each subject area shall be calculated using the number of students in the: 
+
+(1) 
+group who participated in the assessments as the numerator; and 
+
+(2) 
+group enrolled in the school or school corporation on the ADM count date established under 511 IAC 1-3-1. 
+
+
+(c) Consecutive years of failing to make adequate yearly progress shall be based on failing to meet the measurable annual objective in the same subject (English or mathematics) for consecutive years. If a school or school corporation in a given year fails to meet the annual objective in English but meets the objective in mathematics and in the next year one (1) or more student groups under section 6 of this rule fails to meet the objective in English, the school or school corporation has failed to make adequate yearly progress for two (2) consecutive years. If, however, the school or school corporation meets the annual objective in English for all student groups in the second year, then the timeline restarts. If the school or school corporation fails to meet the annual objective in mathematics, it has now failed to make adequate yearly progress for one (1) year. If the school or school corporation meets the annual objective in mathematics, the school or school corporation has no consecutive years of not making adequate yearly progress. (Indiana State Board of Education; 511 IAC 6.2-7-5; filed Aug 26, 2003, 4:15 p.m.: 27 IR 164; readopted filed Nov 4, 2009, 12:03 p.m.: 20091202-IR-511090701RFA; readopted filed Sep 23, 2015, 12:13 p.m.: 20151021-IR-511150257RFA) 
+
+511 IAC 6.2-7-6 Groups of students; minimum group size 
+Authority: IC 20-19-2-8; IC 20-31-4-17; IC 20-31-10-1 
+Affected: IC 20-31 
+
+Sec. 6. (a) The following groups of students are established for determining if a school or school corporation has made adequate yearly progress: 
+(1) 
+All students. 
+
+(2) 
+Economically disadvantaged students. 
+
+(3) 
+Students with disabilities as defined under Section 602(3) of the Individuals with Disabilities Education Act. 
+
+(4) 
+Limited English proficient students, who will be included as part of the group until they score at the proficient level on the test of English proficiency for two (2) consecutive years. 
+
+(5) 
+Students from the following groups: 
+
+(A) 
+American Indian. 
+
+(B) 
+Asian. 
+
+(C) 
+Black. 
+
+(D) 
+Hispanic. 
+
+(E) 
+White. 
+
+
+
+(b) 
+Disaggregation of data under subsection (a) is not required if: 
+
+(1) 
+a group has fewer than thirty (30) students; 
+
+(2) 
+the failure of the group of students to make adequate yearly progress is not statistically significant, as determined by a one-tailed binomial test of significance using an alpha level of .01. 
+
+
+(c) 
+Provisions of section 5 of this rule or this section notwithstanding, groups of students as small as ten (10) shall be reported for information purposes only. 
+
+(d) 
+To protect the confidentiality of individual data, percentages close to zero (0) shall be reported as "less than five percent (5%)" and percentages close to one hundred (100) shall be reported as "greater than ninety-five percent (95%)". (Indiana State Board of Education; 511 IAC 6.2-7-6; filed Aug 26, 2003, 4:15 p.m.: 27 IR 164; readopted filed Nov 4, 2009, 12:03 p.m.: 20091202-IR-511090701RFA; readopted filed Sep 23, 2015, 12:13 p.m.: 20151021-IR-511150257RFA) 
+
+
+
+511 IAC 6.2-7-7 Inclusion of students who have been enrolled for full academic year; full academic year defined 
+Authority: IC 20-19-2-8; IC 20-31-4-17; IC 20-31-10-1 
+Affected: IC 20-31 
+
+Sec. 7. (a) Adequate yearly progress shall be calculated using data for students who have been enrolled in a school corporation or charter school for a full academic year, but performance of students who have attended more than one (1) school in a school corporation in any academic year shall be used only in determining the progress of the school corporation. 
+(b) A full academic year for purposes of this section is one hundred sixty-two (162) days. (Indiana State Board of Education; 511 IAC 6.2-7-7; filed Aug 26, 2003, 4:15 p.m.: 27 IR 165; readopted filed Nov 4, 2009, 12:03 p.m.: 20091202-IR­511090701RFA; readopted filed Sep 23, 2015, 12:13 p.m.: 20151021-IR-511150257RFA) 
+
+511 IAC 6.2-7-8 Other indicators 
+Authority: IC 20-19-2-8; IC 20-31-4-17; IC 20-31-10-1 
+Affected: IC 20-31 
+
+Sec. 8. The following other academic indicators are established for the purposes described in section 5 of this rule: 
+(1) For high schools, graduation rate, as determined under: 
+(A) 
+511 IAC 6.1-1-2, for classes of students who graduate prior to the 2005-2006 school year; and 
+
+(B) 
+511 IAC 6.2-2.5-9, for classes of students who expect to graduate in the 2005-2006 school year and subsequent 
+
+
+school years; 
+that increases toward a rate of ninety-five percent (95%). 
+
+(2) For elementary and middle schools, attendance rate as determined under 511 IAC 1-3-3 [511 IAC 1-3-3 expired under 
+IC 4-22-2.5, effective January 1, 2008.], that increases toward a rate of ninety-five percent (95%). (Indiana State Board of Education; 511 IAC 6.2-7-8; filed Aug 26, 2003, 4:15 p.m.: 27 IR 165; filed Jul 14, 2004, 9:30 a.m.: 27 IR 4009; readopted filed Nov 4, 2009, 12:03 p.m.: 20091202-IR-511090701RFA; readopted filed Sep 23, 2015, 12:13 p.m.: 20151021-IR-511150257RFA) 
+
+511 IAC 6.2-7-9 Use of data; averaging procedure 
+Authority: IC 20-19-2-8; IC 20-31-4-17; IC 20-31-10-1 
+Affected: IC 20-31 
+
+Sec. 9. For the purpose of determining if schools and school corporations are making adequate yearly progress, data shall be used and averaged as follows: 
+(1) 
+Data shall be averaged across grades in a school. 
+
+(2) 
+The higher of the following shall be used to determine if a school or school corporation has made adequate yearly progress: 
+
+(A) 
+Data from the school year for which a determination is being made. 
+
+(B) 
+The average of data from the school year for which the determination is being made and the two (2) preceding school years. 
+
+
+
+
+(Indiana State Board of Education; 511 IAC 6.2-7-9; filed Aug 26, 2003, 4:15 p.m.: 27 IR 165; readopted filed Nov 4, 2009, 12:03 p.m.: 20091202-IR-511090701RFA; readopted filed Sep 23, 2015, 12:13 p.m.: 20151021-IR-511150257RFA) 
+
+511 IAC 6.2-7-10 Special rules for schools that do not include students at grades assessed under ISTEP+ and schools that do not meet the minimum student group size 
+Authority: IC 20-19-2-8; IC 20-31-4-17; IC 20-31-10-1 
+Affected: IC 20-31 
+
+Sec. 10. (a) Adequate yearly progress for schools that do not include students at grades assessed under ISTEP+ shall be determined as follows: 
+(1) 
+A school that includes a grade or grades below those for which there is ISTEP+ data shall be linked with the school that students attend after they leave the school for which there is no ISTEP data. The adequate yearly progress determination for the school for which there is ISTEP data shall apply to the feeder school. 
+
+(2) 
+High schools that include only grades above those for which there is ISTEP+ data shall be paired with the feeder school for which there is high school ISTEP+ data. 
+
+
+(b) If a school has a student group that does not meet the minimum size for disaggregation under section 6 of this rule, adequate yearly progress for the group shall be determined by aggregating data over consecutive years, if necessary, to meet the minimum group size. (Indiana State Board of Education; 511 IAC 6.2-7-10; filed Aug 26, 2003, 4:15 p.m.: 27 IR 165; readopted filed Nov 4, 2009, 12:03 p.m.: 20091202-IR-511090701RFA; readopted filed Sep 23, 2015, 12:13 p.m.: 20151021-IR­511150257RFA) 
+Rule 8. Consequences; Quality Review 
+
+511 IAC 6.2-8-1 Applicability 
+Authority: IC 20-19-2-8; IC 20-31-10-1 
+Affected: IC 20-31-9-3; IC 20-31-9-4 
+
+Sec. 1. This rule applies to schools subject to IC 20-31-9-3. (Indiana State Board of Education; 511 IAC 6.2-8-1; filed Jan 28, 2011, 3:08 p.m.: 20110223-IR-511100502FRA) 
+
+511 IAC 6.2-8-2 Quality review 
+Authority: IC 20-19-2-8; IC 20-31-10-1 
+Affected: IC 20-31-9-3; IC 20-31-9-4 
+
+Sec. 2. (a) The board shall direct that the department conduct a quality review of a school that is subject to IC 20-31-9-3. 
+(b) The board shall determine the scope of the review and appoint an expert team under IC 20-31-9-3. (Indiana State Board of Education; 511 IAC 6.2-8-2; filed Jan 28, 2011, 3:08 p.m.: 20110223-IR-511100502FRA) 
+
+511 IAC 6.2-8-3 Memorandum of agreement 
+Authority: IC 20-19-2-8; IC 20-31-10-1 
+Affected: IC 20-31-9-3; IC 20-31-9-4 
+
+Sec. 3. (a) Subsequent to a review conducted under section 2 of this rule, the department may offer the affected school corporation the opportunity to enter into a memorandum of agreement developed by the department. 
+(b) 
+The memorandum of agreement must include the following: 
+
+(1) 
+Student outcomes the school expects to achieve. 
+
+(2) 
+Specific improvement in performance measures determined by the department. 
+
+
+(Indiana State Board of Education; 511 IAC 6.2-8-3; filed Jan 28, 2011, 3:08 p.m.: 20110223-IR-511100502FRA) 
+Rule 9. Consequences; State Board Action 
+
+511 IAC 6.2-9-1 Applicability 
+Authority: IC 20-19-2-8; IC 20-31-10-1 
+Affected: IC 20-31-9-3; IC 20-31-9-4 
+Sec. 1. This rule applies to schools that become subject to state board action under IC 20-31-9-4. (Indiana State Board of Education; 511 IAC 6.2-9-1; filed Jan 28, 2011, 3:08 p.m.: 20110223-IR-511100502FRA) 
+
+511 IAC 6.2-9-2 Hearing 
+Authority: IC 20-19-2-8; IC 20-31-10-1 
+Affected: IC 20-31-9-3; IC 20-31-9-4 
+Sec. 2. The state board shall hold at least one (1) public hearing in the school corporation where the school is located to consider and hear testimony concerning options for providing a quality education to the affected students. (Indiana State Board of Education; 511 IAC 6.2-9-2; filed Jan 28, 2011, 3:08 p.m.: 20110223-IR-511100502FRA) 
+
+511 IAC 6.2-9-3 Options for improvement 
+Authority: IC 20-19-2-8; IC 20-31-10-1 
+Affected: IC 20-31-8; IC 20-31-9-3; IC 20-31-9-4 
+Sec. 3. If the state board determines, after conducting the public hearing described in section 2 of this rule, that intervention will improve the education received by the affected students, the state board may implement one (1) or more of the following options: 
+(1) 
+Merge the school with a nearby school that is in a higher category of school improvement under IC 20-31-8 and 511 IAC 6.2-6. 
+
+(2) 
+Assign a special management team to operate all or part of the school. 
+
+(3) 
+Implement the department's recommendations for improving the school. 
+
+(4) 
+Implement other options for school improvement expressed at the public hearing, including closing the school. 
+
+(5) 
+Revise the school's plan in any of the following areas: 
+
+(A) 
+School procedures or operations. 
+
+(B) 
+Professional development. 
+
+(C) 
+Intervention for individual teachers or administrators. 
+
+
+
+
+(Indiana State Board of Education; 511 IAC 6.2-9-3; filed Jan 28, 2011, 3:08 p.m.: 20110223-IR-511100502FRA) 
+
+511 IAC 6.2-9-4 Funding 
+Authority: IC 20-19-2-8; IC 20-31-10-1 
+Affected: IC 20-31-8; IC 20-31-9-3; IC 20-31-9-4; IC 20-43-4-1 
+Sec. 4. (a) The affected students shall remain eligible pupils under IC 20-43-4-1. 
+(b) The state board shall receive the recommendations of the department and determine the amounts of state support, local funds, and federal funds that are necessary to fund the option or options for improvement implemented by the state board. 
+(c) 
+The department shall do the following: 
+
+(1) 
+Withhold the amount determined under subsection (b) from state support and federal funds otherwise to be distributed to the school corporation on account of the affected students. 
+
+(2) 
+Enter into any contracts necessary to implement the option or options for improvement implemented by the state board, including contracts with a special management team. A contract with a special management team shall include, but is not limited to, the following provisions: 
+
+(A) 
+The length of the contract. 
+
+(B) 
+Consideration. 
+
+(C) 
+Performance goals, which shall not be less than those expected of a school under IC 20-31-8. 
+
+(D) 
+Cancellation procedures. 
+
+(E) 
+Renewal procedures. 
+
+
+
+(3) 
+Make payments under the contracts with funds withheld from the school corporation under this section. 
+
+(d) 
+The amount withheld under this section shall not exceed the total aggregate per pupil funding for the affected students. 
+
+
+(Indiana State Board of Education; 511 IAC 6.2-9-4; filed Jan 28, 2011, 3:08 p.m.: 20110223-IR-511100502FRA) 
+
+511 IAC 6.2-9-5 Special management team 
+Authority: IC 20-19-2-8; IC 20-31-10-1 
+Affected: IC 20-24-8; IC 20-26-11-6; IC 20-28-6-3; IC 20-31-9-3; IC 20-31-9-4; IC 20-43-4-1 
+Sec. 5. (a) This section applies if the state board assigns a special management team to operate all or part of an existing school subject to IC 20-31-9-4. 
+(b) 
+The special management team is not required to employteachers and administrators through teacher contracts established by the state superintendent of public instruction under IC 20-28-6-3. 
+
+(c) 
+The special management team may exercise any authority granted by the state board under IC 20-31-9. 
+
+(d) 
+The special management team must accept for enrollment a student who meets all of the following: 
+
+(1) 
+The student is enrolled in: 
+
+(A) one (1) of the grade levels served by the school, if the special management team operates the entire school; or 
+(B)thegradelevelor programoperatedbythespecialmanagementteam ifthespecial management team operatespart of the school. 
+
+(2) 
+The student has legal settlement within attendance area of the school as defined by the school corporation at the time the school becomes subject to intervention under IC 20-31-9-4. 
+
+
+
+(e) 
+Thespecialmanagementteammayacceptfor enrollment,withoutregardtoschoolattendanceareasdefinedbytheschool corporation, a student who meets all of the following: 
+
+(1) 
+The student is enrolled in one (1) of the grade levels served by the school. 
+
+(2) 
+The student has legal settlement within the school corporation. 
+
+(3) 
+The school corporation has a policy that allows students to transfer schools within the district. 
+
+
+
+
+(f)Thespecialmanagementteammayacceptastudentwhohaslegal settlement outsidethecorporation ifallofthefollowing are true: 
+(1) The student is enrolled in one (1) of the grade levels served by the school. 
+(2) Theschool corporation hasa policytoaccept students without payment oftransfer tuition aspermittedbyIC 20-26-11-6. A student who is accepted under this section is an eligible pupil under IC 20-43-4-1. (Indiana State Board of Education; 511 IAC 6.2-9-5; filed Jan 28, 2011, 3:08 p.m.: 20110223-IR-511100502FRA) 
+
+511 IAC 6.2-9-6 Special management team; debt service; transportation; food service; capital projects; other services 
+Authority: IC 20-19-2-8; IC 20-31-10-1 
+Affected: IC 20-26-12; IC 20-31-9-3; IC 20-31-9-4; IC 20-35 
+Sec. 6. (a) The corporation shall continue debt service payments on corporation debt attributable to the school. 
+(b) The department, the school corporation, and the special management team shall enter intoa contract specifying the length oftime, level ofservices,andentityresponsiblefor providingnecessaryservicestotheschool and students in theschool, including, but not limited to, the following services: 
+(1) 
+Transportation. 
+
+(2) 
+Food service. 
+
+(3) 
+Educational and administrative technology and technology support. 
+
+(4) 
+Special education services under IC 20-35 and 511 IAC 7. 
+
+(5) 
+Career and technical education services under IC 20-20 and 511 IAC 8. 
+
+(6) 
+Custodial, maintenance, groundskeeping, and other services. 
+
+(7) 
+Instructional services in a particular curriculum area. 
+
+(8) 
+Textbooks and supplemental materials under IC 20-20-5 [IC 20-20-5 was repealed by P.L.73-2011, SECTION 22, effective July 1, 2011.], IC 20-26-12, and 511 IAC 9. 
+
+(9) 
+Student services under 511 IAC 4. 
+
+(10) 
+Extracurricular activities. 
+
+(c) 
+The corporation and special management team may enter into a contract or contracts for additional services. 
+
+
+(d) The department shall resolve disputes that arise in negotiation or execution of the contract under subsection (b). The decision of the department shall be the final administrative decision. (Indiana State Board of Education; 511 IAC 6.2-9-6; filed Jan 28, 2011, 3:08 p.m.: 20110223-IR-511100502FRA) 
+
+511 IAC 6.2-9-7 Special management team; employment; employee benefits 
+Authority: IC 20-19-2-8; IC 20-31-10-1 
+Affected: IC 5-10.3; IC 5-10.4; IC 20-31-9-3; IC 20-31-9-4 
+Sec. 7. (a) The special management team shall employ teachers, other school personnel, and independent contractors that are: 
+(1) 
+described in the contract between the department and the special management team; and 
+
+(2) 
+necessary for the special management team to fulfill its responsibilities under this rule. 
+
+
+(b) Personnel employed by the special management team under this section are entitled to participate in insurance benefits offered by the special management team or offered to state employees. 
+(c) 
+Personnel employed by the special management team are entitled to participate in: 
+
+(1) 
+a retirement program offered by the special management team; 
+
+(2) 
+the state teachers' retirement fund created by IC 5-10.4; or 
+
+(3) 
+the public employees' retirement fund created by IC 5-10.3. 
+
+
+(Indiana State Board of Education; 511 IAC 6.2-9-7; filed Jan 28, 2011, 3:08 p.m.: 20110223-IR-511100502FRA) 
+
+511 IAC 6.2-9-8 Actions adverse to special management team; real and personal property; failure to fulfill requirements of rule 
+Authority: IC 20-19-2-8; IC 20-31-10-1 
+Affected: IC 20-31-9-3; IC 20-31-9-4 
+Sec. 8. (a) The school corporation shall take no action adverse to the special management team's operation of the school. 
+(b) 
+The school corporation shall take no action to dispose of or cloud the title of the real property on which the school is located. 
+
+(c) 
+The school corporation shall not remove or dispose of personal property located in the school or, if located outside the school, assigned to the school. 
+
+(d) 
+If the state board determines that the school corporation has: 
+
+(1) 
+taken an action or actions prohibited by subsections (a) through (c); or 
+
+
+
+(2) 
+refused without just cause to enter into the contract required under section 6(b) of this rule; the board may order the department to withhold additional state funds otherwise to be distributed to the school corporation in order topermitthespecialmanagementteamtooperatetheschoolnotwithstandingtheprohibitedor refusedaction. (Indiana State Board of Education; 511 IAC 6.2-9-8; filed Jan 28, 2011, 3:08 p.m.: 20110223-IR-511100502FRA) 
+
+
+
+511 IAC 6.2-9-9 Special management team; redistricting; assignment of students 
+Authority: IC 20-19-2-8; IC 20-31-10-1 
+Affected: IC 20-31-9-3; IC 20-31-9-4 
+
+Sec. 9. (a) The school corporation shall not, without the agreement of the special management team, change the assignment of students to schools in the school corporation in such a way that the number or grade level or levels of students assigned to the school are changed significantly. 
+(b) 
+If the special management team agrees to accept additional students as permitted in this rule, the state board, on application of the special management team, may determine that the special management team needs additional funds to operate the school. 
+
+(c) 
+The department shall withhold the amount determined under subsection (b) from state support and federal funds otherwise to be distributed to the school corporation. (Indiana State Board of Education; 511 IAC 6.2-9-9; filed Jan 28, 2011, 3:08 p.m.: 20110223-IR-511100502FRA) 
+
+
+
+511 IAC 6.2-9-10 Special management team; open meeting; public records; state board of accounts 
+Authority: IC 20-19-2-8; IC 20-31-10-1 
+Affected: IC 20-31-9-3; IC 20-31-9-4 
+
+Sec. 10. (a) The special management team shall comply with IC 5-14-1.5, the open door law, and IC 5-14-3, access to public records. 
+(b) The special management team shall comply with the financial reporting requirements established by the state board of accounts under IC 5-11-1. (Indiana State Board of Education; 511 IAC 6.2-9-10; filed Jan 28, 2011, 3:08 p.m.: 20110223-IR­511100502FRA) NOTE: Agency cited as 511 IAC 6.2-9-11, which was renumbered by the Publisher as 511 IAC 6.2-9-10. 
+Rule 10. Assessing School and School Corporation Growth and Performance 
+
+511 IAC 6.2-10-1 Definitions 
+Authority: IC 20-19-2-8; IC 20-31-4-17; IC 20-31-8-4; IC 20-31-10-1; IC 20-31-8-5.4 Affected: IC 20-18-2; IC 20-19-2-14.5; IC 20-26-13-3; IC 20-26-13-6; IC 20-31-2-8; IC 20-31-8; IC 20-32-4; IC 20-32-5­2; IC 20-36-3-2 
+Sec. 1. The following definitions apply throughout this rule: 
+(1) 
+"Accountable year" means the school year being assessed. 
+
+(2) 
+"Achievement" means successful accomplishment of the proficiency goals established by the board. 
+
+(3) 
+"Achievement gap" means the difference in academic performance between subgroups. 
+
+(4) 
+"Advanced placement examination" or "AP exam" has the meaning set forth in IC 20-36-3-2. 
+
+(5) 
+"Alternative assessment" means the alternative assessment instrument to the mandatory statewide annual assessment. 
+
+(6) 
+"Annual measurable objective" means the percentage of students who must be proficient in English/language arts and mathematics in a given year. 
+
+(7) 
+"Atypical school" means a school that lacks sufficient data points to calculate a final accountability category under this rule. 
+
+(8) 
+"Board" has the meaning set forth in IC 20-18-2-19. 
+
+(9) 
+"College and career readiness" has the meaning set forth in IC 20-19-2-14.5(a)(1). 
+
+(10) 
+"College and career readiness assessment" means an assessment approved by the board to measure college and career readiness. 
+
+(11) 
+"College and career readiness goal" means the goal established by the board for which a school receives full credit for college and career readiness. 
+
+
+(12)"Collegecredit"meanscreditawardedbyapostsecondaryinstitution accreditedbyanagencyrecognizedbythesecretary of the U.S. Department of Education. 
+(13) 
+"Cumulative aggregate" means the number of eligible students in the accountable year and in each school year immediately preceding the accountable year until the minimum student count necessary to award points under this rule is reached. 
+
+(14) 
+"Department" has the meaning set forth in IC 20-18-2-3. 
+
+(15) 
+"Eligible student" means a student who: 
+
+(A) 
+was enrolled at the school for at least one hundred sixty-two (162) days in the accountable year; 
+
+(B) 
+was tested on the mandatory statewide annual assessment, or the end of course assessment; 
+
+(C) 
+was not a limited English proficient student who had been enrolled in schools in the United States for less than twelve (12) months; and 
+
+(D) 
+obtained a valid test result. 
+
+
+
+(16) 
+"English/language arts" means the subject area required to be tested under IC 20-32-5-2(1) on the mandatory statewide annual assessment. 
+
+(17) 
+"Feeder school" means an elementary school having any combination of kindergarten, grade 1, or grade 2 only. 
+
+(18) 
+"Grade" means data for a cohort of students who are at the same class level in the same year. 
+
+(19) 
+"Grade 10 cohort" means the class of students who are in their second year of high school. 
+
+(20) 
+"Grade 11 cohort" means the class of students who are in their third year of high school. 
+
+(21) 
+"Grade span" means the range of grades within the same school. 
+
+(22) 
+"Graduation cohort" means a class of students that is: 
+
+(A) 
+considered to have entered grade 9 in the same year; and 
+
+(B) 
+expected to graduate three (3) years after completing grade 9. 
+
+
+
+(23) 
+"Graduation rate" has the meaning set forth in IC 20-26-13-6. 
+
+(24) 
+"Growth domain" means the points awarded for scores of an eligible student on the mandatory statewide annual assessment administered in the accountable year, as compared with the scores of the same eligible student on the mandatory statewide annual assessment administered during the school year immediately preceding the accountable year. 
+
+(25) 
+"Growth to proficiency" means the expected annual growth toward a target in English/language arts and mathematics, as established by the board under this rule. 
+
+(26) 
+"Industry-recognized credential" means a certification or credential that is: 
+
+(A) 
+developed or supported by business and industry to verify student mastery of technical skills competencies in an occupational area that aligns with Indiana's economic sectors; and 
+
+(B) 
+approved by the department of workforce development. 
+
+
+
+(27) 
+"International Baccalaureate examination" or "IB exam" means the examination created and administered by the International Baccalaureate, a nonprofit educational foundation headquartered at Route des Morillons 15, Grand-Saconnex, Geneva, CH-1218, Switzerland. 
+
+(28) 
+"Limited English proficient" as set forth in the definition provided in the No Child Left Behind Act of 2001, 20 U.S.C. 7801 (25) (2002), means an individual: 
+
+(A) 
+who is three (3) through twenty-one (21) years of age; 
+
+(B) 
+who is enrolled or preparing to enroll in an elementary or secondary school; 
+
+(C) 
+who was not born in the United States or whose native language is a language other than English; 
+
+(D) 
+who is a Native American or Alaska Native, or a native resident of the outlying areas and: 
+
+(i) 
+comes from an environment where a language other than English has had a significant impact on the individual's level of English language proficiency; or 
+
+(ii) 
+is migratory, whose native language is a language other than English, and who comes from an environment where a language other than English is dominant; and 
+
+
+
+(E) 
+whose difficulties in speaking, reading, writing, or understanding the English language may be sufficient to deny the individual: 
+
+(i) 
+the ability to meet the state's proficient level of achievement on state assessments described in 20 U.S.C. 6311(b)(3); 
+
+(ii) 
+the ability to successfully achieve in classrooms where the language of instruction is English; or 
+
+
+
+
+(iii) the opportunity to participate fully in society. 
+
+(29) 
+"Mandatory statewide annual assessment" means the assessment required under IC 20-32-5-2 and any alternatives to that assessment. 
+
+(30) 
+"Mathematics" means the subject area required to be tested under IC 20-32-5-2(2) on the mandatory statewide annual assessment. 
+
+(31) 
+"Multiple measures domain" means the points awarded for additional criteria as determined by the board, apart from performance and growth, by which school accountability is determined. 
+
+(32) 
+"Participation" means to complete and obtain a valid test result for the mandatory statewide annual assessment or the college and career readiness assessment option under this rule. 
+
+(33) 
+"Participation rate" means the percentage of students enrolled in the tested grades at the time of test administrations who completed the mandatory statewide annual assessment or the percentage of eligible students who completed the college and career readiness assessment option under this rule. 
+
+(34) 
+"Performance and growth category" means the letter grade awarded to a school or school corporation as determined by the results of the mandatory statewide annual assessment, and other criteria as set forth in this rule. 
+
+(35) 
+"Performance domain" means the points awarded for the pass rate of eligible students on the English/language arts and mathematics portions of the mandatory statewide annual assessment. 
+
+(36) 
+"Pupil enrollment" has the meaning of "enrollment" set forth in IC 20-26-13-3. 
+
+
+(37)"Rateofimprovement"meansthenumber ofstudentswho,for each subject,didnotpassthemandatorystatewideannual assessment by the end of grade 10 but passed the mandatory statewide annual assessment by the end of grade 12, divided by the number of graduates who did not pass the mandatory statewide annual assessment by the end of grade 10. 
+(38) 
+"Receiving school" means an elementary school or a high school that has at least thirty (30) students who were enrolled in: 
+
+(A) 
+a feeder school for at least one hundred sixty-two (162) days in the year preceding the year being assessed; and 
+
+(B) 
+a receiving school for at least one hundred sixty-two (162) days in the year being assessed. 
+
+
+
+(39) 
+"School" has the meaning set forth in IC 20-31-2-8. 
+
+(40) 
+"School corporation" has the meaning set forth in IC 20-18-2-16. 
+
+(41) 
+"School year" has the meaning set forth in IC 20-18-2-17. 
+
+(42) 
+"Small school" means the following: 
+
+(A) 
+An elementary school that has fewer than thirty (30) students who: 
+
+(i) 
+were enrolled for at least one hundred sixty-two (162) days in the year being assessed; 
+
+(ii) 
+were assessed on the mandatory statewide annual assessment in English/language arts and mathematics; 
+
+
+(iii) obtained a valid test result; and 
+(iv) were not excluded based on being a limited English proficient student that had been enrolled in school in the United States for less than twelve (12) months. 
+
+(B) 
+A high school that: 
+
+(i) 
+does not have data sufficient to calculate a score for grade 12; and 
+
+(ii) 
+has fewer than thirty (30) students in the grade 10 cohort who were: (AA) enrolled for at least one hundred sixty-two (162) days in the year being assessed; (BB) tested on the mandatory statewide annual assessment; 
+
+
+
+
+(CC) obtained a valid test result; and (DD) not excluded based on being a limited English proficient student that had been enrolled in school in the United States for less than twelve (12) months. 
+
+(43) 
+"State college and career readiness factor" means the quotient of: 
+
+(A) 
+the total achievable college and career readiness rate, one hundred percent (100%); and 
+
+(B) 
+the annual college and career readiness goal for the state as established by the board. 
+
+
+
+(44) 
+"State college and career readiness participation factor" means the quotient of: 
+
+(A) 
+the total achievable college and career readiness rate, one hundred percent (100%); and 
+
+(B) 
+the annual college and career readiness participation goal for the state as established by the board with sufficient notice to the graduation cohort. 
+
+
+
+(45) 
+"Subgroup" means a group of at least thirty (30) eligible students that falls into at least one of the categories under 34 
+
+
+CFR sec. 200.13(b)(7)(ii) (2015). 
+(Indiana State Board of Education; 511 IAC 6.2-10-1; filed Jun 15, 2015, 3:46 p.m.: 20150715-IR-511140447FRA, eff Mar 1, 2016) 
+
+511 IAC 6.2-10-2 Growth to proficiency table 
+Authority: IC 20-19-2-8; IC 20-31-4-17; IC 20-31-8-4; IC 20-31-10-1 
+Affected: IC 20-31-8 
+
+Sec. 2. (a) Growth domain points shall be based on a growth to proficiency table as approved and published by the board. 
+(b) 
+Prior to taking final action to approve the growth to proficiency table, the board shall do the following: 
+
+(1) 
+Provide public notice of the growth to proficiency table at least thirty (30) days prior to taking final action. 
+
+(2) 
+Accept and consider public comment. 
+
+
+(c) In taking final action to approve the growth to proficiency table, the board shall establish the date the growth to proficiency table is to take effect. (Indiana State Board of Education; 511 IAC 6.2-10-2; filed Jun 15, 2015, 3:46 p.m.: 20150715­IR-511140447FRA, eff Mar 1, 2016) 
+
+511 IAC 6.2-10-3 Placement of schools in categories; overall framework 
+Authority: IC 20-19-2-8; IC 20-31-4; IC 20-31-8-4; IC 20-31-10-1 
+Affected: IC 20-31-8 
+
+Sec. 3. (a) The board shall place a school in an accountability category annually. With the exception of schools that qualify for and elect the application of section 10 of this rule, placement shall be based on the results of the mandatory statewide annual assessment and other criteria as set forth in this rule. 
+(b) 
+Performance and growth categories shall be awarded by the letter grades A, B, C, D, and F. Placement in a category is determined by the weighted averages of the performance domain, growth domain, and multiple measures domain as set forth in this rule. The following scale shall be used to determine a school's performance and growth category placement: 
+
+(1) 
+90.0 – 100.0 points = A 
+
+(2) 
+80.0 – 89.9 points = B 
+
+(3) 
+70.0 – 79.9 points = C 
+
+(4) 
+60.0 – 69.9 points = D 
+
+(5) 
+0.0 – 59.9 points = F. 
+
+
+
+(c) 
+The accountability framework used to calculate a school's performance and growth category shall include the following designated domains, as set forth in this rule: 
+
+(1) 
+Performance. 
+
+(2) 
+Growth. 
+
+(3) 
+Multiple measures. 
+
+
+
+(d) 
+The weights of the performance, growth, and multiple measures domains, as set forth in this rule, shall be awarded as follows: 
+
+(1) 
+Pupil enrollment percentage shall be determined for the grade spans with associated data: 
+
+(A) 
+grade 3 through grade 8; and 
+
+(B) 
+grade 9 through grade 12. 
+
+
+
+(2) 
+The weight of the performance domain for a school or school corporation shall be the sum of the following: 
+
+(A) 
+The product of the pupil enrollment percentage for grades 3 through 8 and one (1) of the following: 
+
+(i) 
+Fifty percent (50%) for a school with sufficient data points to calculate the growth domain. 
+
+(ii) 
+One hundred percent (100%) for a school lacking sufficient data points to calculate growth domain. 
+
+
+
+(B) 
+The product of the pupil enrollment percentage for grades 9 through 12 and one (1) of the following: 
+
+(i) 
+Twenty percent (20%) for a school with sufficient data points to calculate the growth domain and multiple measures domain. 
+
+(ii) 
+Fifty percent (50%) for a school with sufficient data points to calculate the growth domain but lacks 
+
+
+
+
+sufficient data points to calculate the multiple measures domain. 
+(iii) Forty percent (40%) for a school with sufficient data points to calculate the multiple measures domain but that lacks sufficient data points to calculate the growth domain. 
+(iv) One hundred percent (100%) for a school lacking sufficient data points to calculate the growth domain and multiple measures domain. 
+
+(3) 
+The weight of the growth domain for a school or school corporation shall be determined by the following: 
+
+(A) 
+The product of the pupil enrollment percentage for grades 3 through 8 and fifty percent (50%) for a school with sufficient data points to calculate the performance domain and growth domain. 
+
+(B) 
+The product of the pupil enrollment percentage for grades 9 through 12 and one (1) of the following: 
+
+(i) 
+Twenty percent (20%) for a school with sufficient data points to calculate the multiple measures domain. 
+
+(ii) 
+Fifty percent (50%) for a school that lacks sufficient data points to calculate the multiple measures domain. 
+
+
+
+
+
+(4) 
+The weight of the multiple measures domain for a school or school corporation shall be determined as follows: 
+
+(A) 
+For graduation rate, the product of the pupil enrollment percentage for grades 9 through 12 and one (1) of the following: 
+
+(i) Fifty percent (50%) for a school lacking sufficient data points to calculate the performance and growth domains. 
+(ii)Thirtypercent(30%)for thegraduation ratefor a school with sufficient data points tocalculateperformance or growth domains. 
+
+(B) 
+For college and career readiness, the product of the pupil enrollment percentage for grades 9 through 12 and one 
+
+(1) 
+of the following: 
+
+(i) 
+Fifty percent (50%) for a school lacking sufficient data points to calculate performance and growth domains. 
+
+(ii) 
+Thirty percent (30%) for a school with sufficient data points to calculate performance or growth domains. 
+
+
+
+
+
+(e) 
+A school shall not be awarded a letter grade of A unless it reduces achievement gaps in each subgroup by: 
+
+(1) 
+meeting annual measurable objectives in each subgroup; or 
+
+(2) 
+showing improvement in performance in each subgroup as compared to prior year; or 
+
+(3) 
+showing improvement in growth in each subgroup as compared to prior year. 
+
+
+
+(f) 
+Schools that meet the criteria for a letter grade of A, but fail to reduce achievement gaps in each subgroup as required by subsection (e) of this rule, shall be awarded a letter grade of B. 
+
+(g) 
+If a school has too few students for an accountability category to be calculated, its accountability category shall be "null". A null designation by itself may not be used to intervene in the school or to impose financial or other consequences. (Indiana State Board of Education; 511 IAC 6.2-10-3; filed Jun 15, 2015, 3:46 p.m.: 20150715-IR-511140447FRA, eff Mar 1, 2016) 
+
+
+
+511 IAC 6.2-10-4 Performance domain 
+Authority: IC 20-19-2-8; IC 20-31-4-17; IC 20-31-8-4; IC 20-31-10-1 
+Affected: IC 20-31-8 
+Sec. 4. (a) The performance domain shall consist of an English/language arts indicator and a mathematics indicator. A school's final performance domain category placement shall be determined based on the weighted average of the awarded performance indicator points. The weight of the English/language arts indicator shall be fifty percent (50%) of the performance domain, and the weight of the mathematics indicator shall be fifty percent (50%) of the performance domain. Grades shall be assigned in accordance with the following points scale: 
+(1) 
+90.0 – 100.0 points = A 
+
+(2) 
+80.0 – 89.9 points = B 
+
+(3) 
+70.0 – 79.9 points = C 
+
+(4) 
+60.0 – 69.9 points = D 
+
+(5) 
+0.0 – 59.9 points = F. 
+
+(b) 
+The English/language arts indicator for performance shall be determined in accordance with the following: 
+
+(1) 
+Points shall be awarded for grades 3 through 10, respectively, where data are available. Points shall not be awarded for grades 11 and 12. 
+
+(2) 
+A school must have at least thirty (30) eligible students in the accountable year to obtain English/language arts points. 
+
+(3) 
+If a school does not have at least thirty (30) eligible students in the accountable year, the school's English/language arts points will be based on the results of the mandatory annual assessments of a cumulative aggregate of eligible students. 
+
+(4) 
+Pointsawarded for English/languageartsshall equal theproduct ofeligiblestudentsthatpassedthemandatorystatewide annual assessment for English/language arts and the assessment participation rate as follows: 
+
+(A) 
+If the assessment participation rate on the English/language arts portion of the mandatory annual assessments is greater than or equal to ninety-five percent (95%), then the participation rate shall be one (1). 
+
+(B) 
+If the assessment participation rate on the English/language arts portion of the mandatory annual assessments is less than ninety-five percent (95%), then the participation rate shall equal the participation rate in decimal form. 
+
+
+
+(c) 
+The mathematics indicator for performance shall be determined in accordance with the following: 
+
+(1) 
+Points shall be awarded for grades 3 through 10, respectively, where data are available. Points shall not be awarded for grades 11 and 12. 
+
+(2) 
+A school must have at least thirty (30) eligible students in the accountable year to obtain mathematics points. 
+
+(3) 
+If a school does not have at least thirty (30) eligible students in the accountable year, the school's mathematics points will be based on the results of the mandatory annual assessments of a cumulative aggregate of eligible students. 
+
+(4) 
+Points awarded for mathematics shall equal the product of eligible students that passed the mandatory statewide annual assessment for mathematics and the assessment participation rate as follows: 
+
+(A) 
+If the assessment participation rate on the mathematics portion of the mandatory annual assessments is greater than or equal to ninety-five percent (95%), then the participation rate shall be one (1). 
+
+(B) 
+If the assessment participation rate on the mathematics portion of the mandatory annual assessments is less than ninety-five percent (95%), then the participation rate shall equal the participation rate in decimal form. 
+
+
+
+
+(Indiana State Board of Education; 511 IAC 6.2-10-4; filed Jun 15, 2015, 3:46 p.m.: 20150715-IR-511140447FRA, eff Mar 1, 2016) 
+
+511 IAC 6.2-10-5 Growth domain 
+Authority: IC 20-19-2-8; IC 20-31-4-17; IC 20-31-8-4; IC 20-31-10-1 
+Affected: IC 20-31-8 
+Sec. 5. (a) The growth domain shall consist of an English/language arts indicator and a mathematics indicator. A school's final growth domain placement shall be determined based on the weighted average of the indicator points. The weight of the English/language arts indicator shall be fifty percent (50%) of the growth domain, and the weight of the mathematics indicator shall be fifty percent (50%) of the growth domain. Grades shall be assigned in accordance with the following points scale: 
+(1) 
+90.0 – 100.0 points = A 
+
+(2) 
+80.0 – 89.9 points = B 
+
+(3) 
+70.0 – 79.9 points = C 
+
+(4) 
+60.0 – 69.9 points = D 
+
+(5) 
+0.0 – 59.9 points = F. 
+
+(b) 
+The English/language arts indicator for growth shall be determined in accordance with the following: 
+
+(1) 
+Points shall be awarded for grades 4 through 10, and grade 12, where test data are available. 
+
+(2) 
+Points shall be awarded to grades 4 through 10 based on the average of the scores of all eligible students in the top seventy-five percent (75%) and the bottom twenty-five percent (25%) of each grade as follows: 
+
+(A) 
+A school must have at least forty (40) eligible students in the accountable year to obtain growth points for the top seventy-five percent (75%) and bottom twenty-five percent (25%) of students. 
+
+(B) 
+The bottom twenty-five percent (25%) must contain at least ten (10) of the forty (40) students. 
+
+(C) 
+If a school does not have at least forty (40) eligible students in the accountable year, the school's growth points shall be based on the results of the mandatory annual assessments of a cumulative aggregate of eligible students. 
+
+
+
+(3) 
+Points shall be awarded to grades 11 and 12 in a manner equal to the rate of improvement of students on the mandatory statewide annual assessment between the student's grade 10 cohort year and the student's expected graduation year. A school must have at least ten (10) students in the graduation cohort identified as not passing the mandatory statewide annual 
+
+
+assessment by the end of the student's grade 10 cohort year, and identified as passing the mandatory statewide annual assessment by the student's expected graduation year as follows: 
+(A) 
+Rate of improvement from grade 10 to grade 12 shall be calculated as follows: 
+
+(i) 
+Subtract the percentage of students in grade 10 that passed the English/language arts assessment from the percentage of this same cohort of students that passed by the end of grade 12. 
+
+(ii) 
+Multiply that value by 10. 
+
+
+
+(B) 
+If a school does not have at least ten (10) eligible students in its graduation cohort, the school's rate of improvement will be based on a cumulative aggregate of eligible students in its graduation cohort. 
+
+(C) 
+Regardless of where a student in grade 10 took the mandatory statewide annual assessment under subdivision (3) [this subdivision], the student's passing score in grade 12 shall apply to the points received by the school where the student graduates. 
+
+
+(4) 
+The overall points for English/language arts shall be the sum of all applicable grade span points. 
+
+(c) 
+The mathematics indicator for growth shall be determined in accordance with the following: 
+
+(1) 
+Points shall be awarded for grades 4 through 10, and grade 12, where test data are available. 
+
+(2) 
+Points shall be awarded to grades 4 through 10 based on the average of the scores of all eligible students in the top seventy-five percent (75%) and the bottom twenty-five percent (25%) of each grade as follows: 
+
+(A) 
+A school must have at least forty (40) eligible students in the accountable year to obtain growth points for the top seventy-five percent (75%) and bottom twenty-five percent (25%) of students. 
+
+(B) 
+The bottom twenty-five percent (25%) must contain at least ten (10) of the forty (40) students. 
+
+(C) 
+If a school does not have at least forty (40) eligible students in the accountable year, the school's growth points shall be based on the results of the mandatory annual assessments of a cumulative aggregate of eligible students. 
+
+
+
+(3) 
+Points shall be awarded to grades 11 and 12 in a manner equal to the rate of improvement of students on the mandatory statewide annual assessment between the student's grade 10 cohort year and the student's expected graduation. A school must have at least ten (10) students in the graduation cohort identified as not passing the mandatory statewide annual assessment by the end of the student's grade 10 cohort year, and identified as passing the mandatory statewide annual assessment by the student's expected graduation year as follows: 
+
+(A) 
+Rate of improvement from grade 10 to grade 12 mathematics shall be calculated as follows: 
+
+(i) 
+Subtract the percentage of students in grade 10 that passed the mathematics assessment from the percentage of this same cohort of students that passed by the end of grade 12. 
+
+(ii) 
+Multiply that value by 10. 
+
+
+
+(B) 
+If a school does not have at least ten (10) eligible students in its graduation cohort, the school's rate of improvement will be based on a cumulative aggregate of eligible students in its graduation cohort. 
+
+(C) 
+Regardless of where a student in grade 10 took the exam under subdivision (3) [this subdivision], the student's passing score in grade 12 shall apply to the points received by the school where the student graduates. 
+
+
+
+(4) 
+The overall points for mathematics shall be the sum of all applicable grade span points. 
+
+
+(Indiana State Board of Education; 511 IAC 6.2-10-5; filed Jun 15, 2015, 3:46 p.m.: 20150715-IR-511140447FRA, eff Mar 1, 2016) 
+
+511 IAC 6.2-10-6 Multiple measures domain 
+Authority: IC 20-19-2-8; IC 20-31-4-17; IC 20-31-8-4; IC 20-31-10-1 
+Affected: IC 20-31-8 
+
+Sec. 6. (a) The multiple measures domain shall consist of a college and career readiness indicator and a graduation indicator. The weight of the college and career readiness indicator shall be fifty percent (50%) of the multiple measures domain, and the weight of the graduation indicator shall be fifty percent (50%) of the multiple measures domain. Points shall be assigned in accordance with the following scale: 
+(1) 
+90.0 – 100.0 points = A 
+
+(2) 
+80.0 – 89.9 points = B 
+
+(3) 
+70.0 – 79.9 points = C 
+
+(4) 
+60.0 – 69.9 points = D 
+
+(5) 
+0.0 – 59.9 points = F. 
+
+
+(b) 
+The college and career readiness indicator for the multiple measures domain shall equal the product of the college and career readiness achievement score and the college and career readiness participation rate score. The maximum college and career readiness score is one hundred (100.0) points as follows: 
+
+(1) 
+The college and career readiness achievement score shall be the product of the college and career readiness achievement rate and the state college and career readiness factor as follows: 
+
+(A) 
+The graduation cohort, excluding any students who did not graduate in four (4) years or less, shall be used in determining a school's college and career readiness achievement score. 
+
+(B) 
+A school must have at least ten (10) students in the graduation cohort to obtain a college and career readiness achievement score. If a school does not have at least ten (10) students in its gradation [sic] cohort, the school's rate of improvement will be based on a cumulative aggregate of students in its graduation cohort. 
+
+(C) 
+A school's college and career readiness achievement rate shall be based on the percentage of students described in this subsection who accomplished any of the following: 
+
+(i) 
+Passed an AP exam with a score of 3, 4, or 5. 
+
+(ii) 
+Passed an IB exam with a score of 4, 5, 6, or 7. 
+
+
+
+
+(iii) Earned three (3) college credits as defined in section 1 of this rule. 
+(iv) Obtained an industry-recognized credential as defined in section 1 of this rule. 
+(D)Aschool'scollegeand career readiness factor isdetermined bydividing onehundred(100)bytheexpectedcollege and career readiness goal as defined by the board. 
+
+(2) 
+The college and career readiness participation rate score shall be determined only if a school has college and career readiness assessment data available at grade 11 to receive a college and career readiness participation rate score as follows: 
+
+(A) 
+The grade 11 cohort who were enrolled in the school for at least one hundred sixty-two (162) days of the school year shall be used in determining a school's college and career readiness participation rate score. 
+
+(B) 
+A school's college and career readiness participation percentage shall be based on the percent of students described in clause (A) who have participated in a college and career readiness assessment during the accountable year. 
+
+(C) 
+If the college and career readiness participation rate is greater than or equal to ninety-five percent (95%), then the participation rate shall be one (1). 
+
+(D) 
+If the college and career readiness participation rate is less than ninety-five percent (95%), then the participation rate shall equal the participation rate in decimal form. 
+
+(E) 
+If no college and career readiness participation rate data is available then the college and career readiness indictor [sic] shall equal the college and career readiness achievement score. 
+
+
+
+(c) 
+The graduation indicator for the multiple measures domain shall equal the sum of the graduation rate score and the five 
+
+
+
+(5) 
+year graduation rate score as follows: 
+
+(1) 
+The graduation rate score shall be determined based on the percentage of students that graduated from high school in four (4) years or less as follows: 
+
+(A) 
+A school must have at least ten (10) students in the most recently finalized graduation cohort to obtain a graduation rate score. If a school does not have at least ten (10) eligible students in its graduation cohort, the school's rate of improvement will be based on a cumulative aggregate of eligible students in its graduation cohort. 
+
+(B) 
+A school with a graduation rate that is at least ninety percent (90%) shall receive one hundred (100) points. A school with a graduation rate less than ninety percent (90%) shall receive points equal to the school's graduation rate. 
+
+
+
+(2) 
+The five (5) year graduation rate score shall be determined based on the difference in the four (4) year graduation rate and the five (5) year graduation rate for the graduation cohort. A school must have four (4) year graduation rate points available to receive a five (5) year graduation score as follows: 
+
+(A) 
+A school must have at least ten (10) students in the most recently finalized graduation cohort to obtain a five (5) year graduation rate score. 
+
+(B) 
+The graduation cohort immediately preceding the most recently finalized graduation cohort shall be used to determine a school's five (5) year graduation rate score. 
+
+(C) 
+Five (5) year graduation rate points shall be equal to the five (5) year graduation rate. 
+
+(D) 
+Five (5) year graduation improvement points are not required to calculate the graduation indicator of the multiple measures domain. 
+
+
+
+
+
+
+(Indiana State Board of Education; 511 IAC 6.2-10-6; filed Jun 15, 2015, 3:46 p.m.: 20150715-IR-511140447FRA, eff Mar 1, 2016) 
+
+511 IAC 6.2-10-7 Feeder schools 
+Authority: IC 20-19-2-8; IC 20-31-4-17; IC 20-31-8-4; IC 20-31-10-1 
+Affected: IC 20-31-8 
+
+Sec. 7. (a) A feeder school's accountability category shall be based on the performance domain only. 
+(b) 
+A feeder school's performance domain shall be based on the English/language arts and mathematics scores of the receiving school or schools. 
+
+(c) 
+If more than five (5) receiving schools are identified for the feeder school, the five (5) schools with the highest census of feeder school students will be used to determine the feeder school's performance domain. 
+
+(d) 
+A feeder school's English/language arts score is the percentage of eligible students that have passed the English/language arts exam in the receiving school or schools multiplied by one hundred (100). 
+
+(e) 
+A feeder school's mathematics score is the percentage of eligible students that have passed the mathematics exam in the receiving school or schools multiplied by one hundred (100). 
+
+(f) 
+Grades shall be assigned in accordance with the following points scale: 
+
+(1) 
+90.0 – 100.0 points = A 
+
+(2) 
+80.0 – 89.9 points = B 
+
+(3) 
+70.0 – 79.9 points = C 
+
+(4) 
+60.0 – 69.9 points = D 
+
+(5) 
+0.0 – 59.9 points = F. 
+
+
+
+
+(Indiana State Board of Education; 511 IAC 6.2-10-7; filed Jun 15, 2015, 3:46 p.m.: 20150715-IR-511140447FRA, eff Mar 1, 2016) 
+
+511 IAC 6.2-10-8 School corporations; performance category grade 
+Authority: IC 20-19-2-8; IC 20-31-4-17; IC 20-31-8-4; IC 20-31-10-1 
+Affected: IC 20-31-8 
+
+Sec. 8. (a) The board shall assign each school corporation an overall performance and growth category in accordance with section 3 of this rule. 
+(b) Not more than one percent (1%) of the total tested population of students in the corporation may be counted as proficient on the alternative assessment to the mandatorystatewide annual assessment. (Indiana State Board of Education; 511 IAC 6.2-10-8; filed Jun 15, 2015, 3:46 p.m.: 20150715-IR-511140447FRA, eff Mar 1, 2016) 
+
+511 IAC 6.2-10-9 School changes due to opening, reopening, reconfiguring, or redistributing students; new accountability baselines 
+Authority: IC 20-19-2-8; IC 20-31-4-17; IC 20-31-10-1 
+Affected: IC 20-31-8 
+
+Sec. 9. (a) This section applies to schools that: 
+(1) 
+open; 
+
+(2) 
+reopen; 
+
+(3) 
+reconfigure; or 
+
+(4) 
+redistribute students. 
+
+
+(b)Toobtain anewaccountabilitybaseline,aschooldescribedinsubsection(a)mustclearlydemonstrateallofthefollowing: 
+(1) 
+An increase or decrease of at least seventy percent (70%) in the student population from the previous year. 
+
+(2) 
+A significant change in educational philosophy, curriculum, or staffing. 
+
+(3) 
+A change is not being made to avoid accountability. 
+
+
+(Indiana State Board of Education; 511 IAC 6.2-10-9; filed Jun 15, 2015, 3:46 p.m.: 20150715-IR-511140447FRA, eff Mar 1, 2016) 
+
+511 IAC 6.2-10-10 New schools 
+Authority: IC 20-19-2-8; IC 20-31-4-17; IC 20-31-10-1 
+Affected: IC 20-31-8 
+
+Sec. 10. (a) Except as provided in subsection (b), this section applies to schools that have: 
+(1) 
+been open three (3) years or less; and 
+
+(2) 
+not elected application of section 3 of this rule. 
+
+(b) 
+This section does not apply to a feeder school or a small school. 
+
+
+(c) Section 5 of this rule shall be the exclusive means used in determining the school's final accountability category. (Indiana State Board of Education; 511 IAC 6.2-10-10; filed Jun 15, 2015, 3:46 p.m.: 20150715-IR-511140447FRA, eff Mar 1, 2016) 
+
+511 IAC 6.2-10-11 Review of category placement 
+Authority: IC 20-19-2-8; IC 20-31-4-17; IC 20-31-10-1 
+Affected: IC 20-31-8 
+
+Sec. 11. A school or school corporation may petition for review of its accountability category placement based on objective factors the school or school corporation considers relevant because the annual assessment data do not accurately reflect school performance,growth,or multiplemeasures,asapplicable.Objectivefactorsincludesignificantdemographicchangesin thestudent population, errors in data, or other significant issues including, but not limited to, errors in the application of this rule to determine an accountability category. (Indiana State Board of Education; 511 IAC 6.2-10-11; filed Jun 15, 2015, 3:46 p.m.: 20150715-IR­511140447FRA, eff Mar 1, 2016) 
+
+511 IAC 6.2-10-12 Atypical schools 
+Authority: IC 20-19-2-8; IC 20-31-4-17; IC 20-31-10-1 
+Affected: IC 20-31-8 
+
+Sec.12.(a)For each atypical school, thedepartmentshall,withoutwaitingfor arequestfromtheboard,immediatelyprovide to the board the following information for the grade levels served and available data: 
+(1) 
+Grade levels served by the school. 
+
+(2) 
+Data available. 
+
+(3) 
+Available models with current sample data for reference. 
+
+
+(b) Based on the findings of the department and any other information available to the board, the board shall determine the school's accountability category. (Indiana State Board of Education; 511 IAC 6.2-10-12; filed Jun 15, 2015, 3:46 p.m.: 20150715­IR-511140447FRA, eff Mar 1, 2016) 
+* 
+

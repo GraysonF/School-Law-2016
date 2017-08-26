@@ -1,0 +1,100 @@
+IC 20-43-5 
+Chapter 5. Determination of Complexity Index and Transition to Foundation Revenue Per ADM 
+IC 20-43-5-1 Transition to foundation revenue per adjusted ADM 
+Sec. 1. A school corporation's transition to foundation revenue per adjusted ADM for a state fiscal year is the amount determined under section 9 of this chapter. As added by P.L.2-2006, SEC.166. Amended by P.L.234-2007, SEC.241; P.L.205-2013, SEC.281. 
+
+IC 20-43-5-2 Componentsoftransitiontofoundationrevenue peradjustedADM 
+Sec. 2. The following amounts must be determined under this chapter to calculate a school corporation's transition to foundation revenue per adjusted ADM for a state fiscal year: 
+(1) 
+The school corporation's foundation amount for the state fiscal year under section 4 of this chapter. 
+
+(2) 
+The school corporation's previous year revenue foundation amount for the state fiscal year under section 5 of this chapter. 
+
+(3) 
+The school corporation's transition to foundation amount for the state fiscal year under section 6 of this chapter. 
+
+(4) 
+The school corporation's transition to foundation revenuefor the state fiscal year under section 7 of this chapter. 
+
+
+As added by P.L.2-2006, SEC.166. Amended by P.L.234-2007, SEC.242; P.L.205-2013, SEC.282; P.L.213-2015, SEC.216. 
+
+IC 20-43-5-3 Repealed 
+(As added by P.L.2-2006, SEC.166. Amended by P.L.234-2007, SEC.243; P.L.3-2008, SEC.125; P.L.182-2009(ss), SEC.333; P.L.229-2011, SEC.208. Repealed by P.L.213-2015, SEC.217.) 
+
+IC 20-43-5-4 Foundation amount specified 
+Sec. 4. A school corporation's foundation amount is the following: 
+(1) 
+In the state fiscal year beginning July 1, 2015, four thousand nine hundred sixty-seven dollars ($4,967). 
+
+(2) 
+In the state fiscal year beginning July 1, 2016, five thousand eighty-eight dollars ($5,088). 
+
+
+As added by P.L.2-2006, SEC.166. Amended by P.L.234-2007, SEC.244; P.L.182-2009(ss), SEC.334; P.L.229-2011, SEC.209; P.L.205-2013, SEC.283; P.L.213-2015, SEC.218. 
+IC 20-43-5-5 Calculation; previous year foundation amount 
+Sec. 5. A school corporation's previous year revenue foundation 
+ amount for a state fiscal year is equal to the result of: 
+(1) the school corporation's previous year revenue; divided by 
+(2) the school corporation's ADM of the previous year. As added by P.L.2-2006, SEC.166. Amended by P.L.182-2009(ss), SEC.335; P.L.205-2013, SEC.284. 
+
+IC 20-43-5-6 Foundation amount transition 
+Sec. 6. (a) A school corporation's transition to foundation amount for a state fiscal year is equal to the result determined under STEP TWO of the following formula: 
+STEP ONE: Determine the difference of: 
+(A) 
+the school corporation's foundation amount; minus 
+
+(B) 
+the school corporation's previous year revenue 
+
+
+foundation amount. STEP TWO: A school corporation's STEP TWO amount is the following: 
+(A) 
+For a charter school that has previous year revenue that is not greater than zero (0), the charter school's STEP TWO amount is the school corporation's foundation amount for the state fiscal year. 
+
+(B) 
+The STEP TWO amount for a school corporation that is not a charter school described in clause (A) is the following: 
+
+(i) 
+The school corporation's foundation amount for the state fiscal year if the STEP ONE amount is zero (0) or greater. 
+
+(ii) 
+The amount determined under subsection (b), if the school corporation's STEP ONE amount is less than zero (0). 
+
+
+
+
+(b) For the purposes of STEP TWO (B)(ii) in subsection (a) determine the result of: 
+(1) 
+the result determined for the school corporation under STEP ONE (B) of subsection (a); minus 
+
+(2) 
+the: 
+
+(A) 
+absolute value of the STEP ONE amount divided by three (3) in the state fiscal year beginning July 1, 2015; and 
+
+(B) 
+absolute value of the STEP ONE amount in the state fiscal year beginning July 1, 2016. 
+
+
+
+
+As added by P.L.2-2006, SEC.166. Amended by P.L.234-2007, SEC.245; P.L.182-2009(ss), SEC.336; P.L.229-2011, SEC.210; P.L.205-2013, SEC.285; P.L.213-2015, SEC.219. 
+
+IC 20-43-5-7 Calculation; transition to foundation revenue 
+Sec. 7. A school corporation's transition to foundation revenue for a state fiscal year is equal to the product of: 
+(1) the school corporation's transition to foundation amount for the state fiscal year; multiplied by 
+ 
+(2) the school corporation's current ADM. As added by P.L.2-2006, SEC.166. Amended by P.L.234-2007, SEC.246; P.L.3-2008, SEC.126; P.L.182-2009(ss), SEC.337; P.L.229-2011, SEC.211; P.L.205-2013, SEC.286. 
+
+IC 20-43-5-8 Repealed 
+(As added by P.L.2-2006, SEC.166. Repealed by P.L.234-2007, SEC.269.) 
+
+IC 20-43-5-9 Calculation; transition to foundation revenue per adjusted ADM 
+Sec. 9. A school corporation's transition to foundation revenue per adjusted ADM for a state fiscal year is the quotient of: 
+(1) the school corporation's transition to foundation revenue for the state fiscal year; divided by 
+(2) the school corporation's current adjusted ADM. As added by P.L.2-2006, SEC.166. Amended by P.L.234-2007, SEC.247; P.L.205-2013, SEC.287. 
+ 
+

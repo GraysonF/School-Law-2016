@@ -1,0 +1,687 @@
+IC 36-1-12 Chapter 12. Public Work Projects 
+IC 36-1-12-0.1 Application of certain amendments to chapter 
+Sec. 0.1. The following amendments to this chapter apply as follows: 
+(1) 
+The addition of section 21 of this chapter by P.L.20-1991 applies to public works contracts for which notices calling for sealed proposals for the work are published after June 30, 1991. 
+
+(2) 
+The amendments made to this chapter by P.L.133-2007 apply only to public works contracts entered into after June 30, 2007. 
+
+
+As added by P.L.220-2011, SEC.641. 
+
+IC 36-1-12-1 Application of chapter; alternatives to chapter 
+Sec. 1. (a) Except as provided in this section, this chapter applies to all public work performed or contracted for by: 
+(1) political subdivisions; and 
+(2) 
+their agencies; regardless of whether it is performed on property owned or leased by the political subdivision or agency. 
+
+(b) 
+This chapter does not apply to an officer or agent who, on behalf of a municipal utility, maintains, extends, and installs services of the utility if the necessary work is done by the employees of the utility. 
+
+(c) 
+This chapter does not apply to hospitals organized or operated under IC 16-22-1 through IC 16-22-5 or IC 16-23-1, unless the public work is financed in whole or in part with cumulative building fund revenue. 
+
+(d) 
+This chapter does not apply to tax exempt Indiana nonprofit corporations leasing and operating a city market owned by a political subdivision. 
+
+(e) 
+As an alternative to this chapter, the governing body of a political subdivision or its agencies may do the following: 
+
+(1) 
+Enter into a design-build contract as permitted under IC 5-30. 
+
+(2) 
+Participate in a utility efficiency program or enter into a guaranteed savings contract as permitted under IC 36-1-12.5. 
+
+
+
+(f) 
+This chapter does not apply to a person that has entered into an operating agreement with a political subdivision or an agency of a political subdivision under IC 5-23. 
+
+
+As added by Acts 1981, P.L.57, SEC.38. Amended by P.L.182-1985, SEC.16; P.L.214-1989, SEC.7; P.L.24-1993, SEC.5; P.L.2-1993, SEC.199; P.L.1-1994, SEC.173; P.L.82-1995, SEC.12; P.L.49-1997, SEC.73; P.L.168-2006, SEC.2; P.L.71-2009, SEC.4; P.L.99-2009, SEC.3; P.L.1-2010, SEC.145. 
+
+IC 36-1-12-1.2 Definitions 
+Sec. 1.2. The following definitions apply throughout this chapter: 
+(1) 
+"Board" means the board or officer of a political subdivision or an agency having the power to award contracts for public work. 
+
+(2) 
+"Contractor" means a person who is a party to a public work contract with the board. 
+
+(3) 
+"Subcontractor" means a person who is a party to a contract with the contractor and furnishes and performs labor on the public work project. The term includes material men who supply contractors or subcontractors. 
+
+(4) 
+"Escrowed income" means the value of all property held in an escrow account over the escrowed principal in the account. 
+
+(5) 
+"Escrowed principal" means the value of all cash and securities or other property placed in an escrow account. 
+
+(6) 
+"Operating agreement" has the meaning set forth in IC 5-23-2-7. 
+
+(7) 
+"Person" means any association, corporation, limited liability company, fiduciary, individual, joint venture, partnership, sole proprietorship, or any other legal entity. 
+
+(8) 
+"Property" means all: 
+
+(A) 
+personal property, fixtures, furnishings, inventory, and equipment; and 
+
+(B) 
+real property. 
+
+
+
+(9) 
+"Public fund" means all funds that are: 
+
+(A) 
+derived from the established revenue sources of a political subdivision or an agency of a political subdivision; and 
+
+(B) 
+deposited in a general or special fund of a municipal corporation, or another political subdivision or agency of a political subdivision. 
+
+
+
+
+The term does not include funds received by any person managing or operating a public project under a duly authorized operating agreement under IC 5-23 or proceeds of bonds payable exclusively by a private entity. 
+(10) 
+"Retainage" means the amount to be withheld from a payment to the contractor or subcontractor until the occurrence of a specified event. 
+
+(11) 
+"Specifications" means a description of the physical characteristics, functional characteristics, extent, or nature of any public work required by the board. 
+
+(12) 
+"Substantial completion" refers to the date when the construction of a structure is sufficiently completed, in accordance with the plans and specifications, as modified by any complete change orders agreed to by the parties, so that it can be occupied for the use for which it was intended. 
+
+
+As added by P.L.329-1985, SEC.9. Amended by P.L.82-1995, SEC.13; P.L.73-1995, SEC.3; P.L.49-1997, SEC.74; P.L.91-2014, SEC.34. 
+
+IC 36-1-12-1.4 Repealed 
+(Repealed by P.L.82-1995, SEC.20.) 
+
+IC 36-1-12-1.6 Repealed 
+(Repealed by P.L.82-1995, SEC.20.) 
+
+IC 36-1-12-2 "Public work" defined 
+Sec. 2. As used in this chapter, "public work" means the construction, reconstruction, alteration, or renovation of a public building, airport facility, or other structure that is paid for out of a public fund or out of a special assessment. The term includes the construction, alteration, or repair of a highway, street, alley, bridge, sewer, drain, or other improvement that is paid for out of a public fund or out of a special assessment. The term also includes any public work leased by a political subdivision under a lease containing an option to purchase. As added by Acts 1981, P.L.57, SEC.38. Amended by Acts 1981, P.L.56, SEC.2; P.L.329-1985, SEC.12; P.L.337-1987, SEC.1. 
+
+IC 36-1-12-2.2 Repealed 
+(Repealed by P.L.82-1995, SEC.20.) 
+
+IC 36-1-12-2.4 Repealed 
+(Repealed by P.L.82-1995, SEC.20.) 
+
+IC 36-1-12-2.6 Repealed 
+(Repealed by P.L.82-1995, SEC.20.) 
+
+IC 36-1-12-3 Public work projects 
+Sec. 3. (a) The board may purchase or lease materials in the manner provided in IC 5-22 and perform any public work, by means of its own workforce, without awarding a contract whenever the cost of that public work project is estimated to be less than two hundred fifty thousand dollars ($250,000). Before a board may perform any work under this section by means of its own workforce, the political subdivision or agency must have a group of employees on its staff who are capable of performing the construction, maintenance, and repair applicable to that work. For purposes of this subsection, the cost of a public work project includes: 
+(1) 
+the actual cost of materials, labor, equipment, and rental; 
+
+(2) 
+a reasonable rate for use of trucks and heavy equipment owned; and 
+
+(3) 
+all other expenses incidental to the performance of the project. 
+
+
+(b) This subsection applies only to a municipality or a county. The workforce of a municipality or county may perform a public work described in subsection (a) only if: 
+(1) 
+the workforce, through demonstrated skills, training, or expertise, is capable of performing the public work; and 
+
+(2) 
+for a public work project under subsection (a) whose cost is estimated to be more than one hundred thousand dollars ($100,000), the board: 
+
+(A) 
+publishes a notice under IC 5-3-1 that: 
+
+(i) 
+describes the public work that the board intends to perform with its own workforce; and 
+
+(ii) 
+sets forth the projected cost of each component of the public work as described in subsection (a); and 
+
+
+
+(B) 
+determines at a public meeting that it is in the public interest to perform the public work with the board's own workforce. 
+
+
+
+
+A public work project performed by a board's own workforce must be inspected and accepted as complete in the same manner as a public work project performed under a contract awarded after receiving bids. 
+(c) 
+When the project involves the rental of equipment with an operator furnished by the owner, or the installation or application of materials by the supplier of the materials, the project is considered to be a public work project and subject to this chapter. However, an annual contract may be awarded for equipment rental and materials to be installed or applied during a calendar or fiscal year if the proposed project or projects are described in the bid specifications. 
+
+(d) 
+A board of aviation commissioners or an airport authority board may purchase or lease materials in the manner provided in IC 5-22 and perform any public work by means of its own workforce and owned or leased equipment, in the construction, maintenance, and repair of any airport roadway, runway, taxiway, or aircraft parking apron whenever the cost of that public work project is estimated to be less than one hundred thousand dollars ($100,000). 
+
+(e) 
+Municipal and county hospitals must comply with this chapter for all contracts for public work that are financed in whole or in part with cumulative building fund revenue, as provided in section 1(c) of this chapter. However, if the cost of the public work is estimated to be less than fifty thousand dollars ($50,000), as reflected in the board minutes, the hospital board may have the public work done without receiving bids, by purchasing the materials and performing 
+
+
+the work by means of its own workforce and owned or leased equipment. 
+(f) If a public works project involves a structure, an improvement, or a facility under the control of a department (as defined in IC 4-3-19-2(2)), the department may not artificially divide the project to bring any part of the project under this section. As added by Acts 1981, P.L.57, SEC.38. Amended by Acts 1981, P.L.56, SEC.3; P.L.329-1985, SEC.16; P.L.337-1987, SEC.2; P.L.66-1987, SEC.29; P.L.12-1991, SEC.6; P.L.21-1995, SEC.146; P.L.82-1995, SEC.14; P.L.49-1997, SEC.75; P.L.172-2011, SEC.138; P.L.252-2015, SEC.42; P.L.213-2015, SEC.263. 
+
+IC 36-1-12-3.5 Contracts for engineering, architectural, or accounting services; applicability of restrictions of general statutes 
+Sec. 3.5. When any public work is proposed to be performed and the board determines by a two-thirds (2/3) vote that it is expedient and in the best public interest to employ professional engineering, architectural, or accounting services for the planning and financing of the public work and the preparation of plans and specifications, then the limitations and restrictions in the general statutes with respect to invalidity of contracts without an appropriation therefor, payment of fees solely from the proceeds of bonds or assessments when and if issued, and payment of fees solely from a special fund or funds to be provided in the future, do not apply to contracts for those professional services to the extent that such limitations and restrictions might otherwise prevent the payment of fees for services actually rendered in connection with those contracts or affect the obligation to pay those fees. As added by Acts 1982, P.L.33, SEC.16. 
+
+IC 36-1-12-4 Biddingprocedures for projects costing more thancertainamounts 
+Sec. 4. (a) This section applies whenever the cost of a public work project will be: 
+(1) 
+except as provided in subdivision (2), at least one hundred fifty thousand dollars ($150,000); or 
+
+(2) 
+in the case of a board of aviation commissioners or an airport authority board, at least one hundred thousand dollars ($100,000). 
+
+
+(b) The board must comply with the following procedure: 
+(1) 
+The board shall prepare general plans and specifications describing the kind of public work required, but shall avoid specifications which might unduly limit competition. If the project involves the resurfacing (as defined by IC 8-14-2-1) of a road, street, or bridge, the specifications must show how the weight or volume of the materials will be accurately measured and verified. 
+
+(2) 
+The board shall file the plans and specifications in a place reasonably accessible to the public, which shall be specified in the notice required by subdivision (3). 
+
+(3) 
+Upon the filing of the plans and specifications, the board shall publish notice in accordance with IC 5-3-1 calling for sealed proposals for the public work needed. 
+
+(4) 
+The notice must specify the place where the plans and specifications are on file and the date fixed for receiving bids. 
+
+(5) 
+The period of time between the date of the first publication and the date of receiving bids shall be governed by the size of the contemplated project in the discretion of the board. The period of time between the date of the first publication and receiving bids may not be more than: 
+
+(A) 
+six (6) weeks if the estimated cost of the public works project is less than twenty-five million dollars ($25,000,000); and 
+
+(B) 
+ten (10) weeks if the estimated cost of the public works project is at least twenty-five million dollars ($25,000,000). 
+
+
+
+(6) 
+The board shall require the bidder to submit a financial statement, a statement of experience, a proposed plan or plans for performing the public work, and the equipment that the bidder has available for the performance of the public work. The statement shall be submitted on forms prescribed by the state board of accounts. 
+
+(7) 
+The board may not require a bidder to submit a bid before the meeting at which bids are to be received. The meeting for receiving bids must be open to the public. All bids received shall be opened publicly and read aloud at the time and place designated and not before. Notwithstanding any other law, bids may be opened after the time designated if both of the following apply: 
+
+(A) 
+The board makes a written determination that it is in the best interest of the board to delay the opening. 
+
+(B) 
+The day, time, and place of the rescheduled opening are announced at the day, time, and place of the originally scheduled opening. 
+
+
+
+(8) 
+Except as provided in subsection (c), the board shall: 
+
+(A) 
+award the contract for public work or improvements to the lowest responsible and responsive bidder; or 
+
+(B) 
+reject all bids submitted. 
+
+
+
+(9) 
+If the board awards the contract to a bidder other than the lowest bidder, the board must state in the minutes or memoranda, at the time the award is made, the factors used to determine which bidder is the lowest responsible and responsive bidder and to justify the award. The board shall keep a copy of the minutes or memoranda available for public inspection. 
+
+(10) 
+In determining whether a bidder is responsive, the board 
+
+
+may consider the following factors: 
+(A) 
+Whether the bidder has submitted a bid or quote that conforms in all material respects to the specifications. 
+
+(B) 
+Whether the bidder has submitted a bid that complies specifically with the invitation to bid and the instructions to bidders. 
+
+(C) 
+Whether the bidder has complied with all applicable statutes, ordinances, resolutions, or rules pertaining to the award of a public contract. 
+
+
+(11) 
+In determining whether a bidder is a responsible bidder, the board may consider the following factors: 
+
+(A) 
+The ability and capacity of the bidder to perform the work. 
+
+(B) 
+The integrity, character, and reputation of the bidder. 
+
+(C) 
+The competence and experience of the bidder. 
+
+
+
+(12)
+ The board shall require the bidder to submit an affidavit: 
+
+(A) 
+that the bidder has not entered into a combination or agreement: 
+
+(i)
+ relative to the price to be bid by a person; 
+
+(ii) 
+to prevent a person from bidding; or 
+
+
+(iii) to induce a person to refrain from bidding; and 
+
+(B) 
+that the bidder's bid is made without reference to any other bid. 
+
+
+
+
+(c) Notwithstanding subsection (b)(8), a county may award sand, gravel, asphalt paving materials, or crushed stone contracts to more than one (1) responsible and responsive bidder if the specifications allow for bids to be based upon service to specific geographic areas and the contracts are awarded by geographic area. The geographic areas do not need to be described in the specifications. As added by Acts 1981, P.L.57, SEC.38. Amended by Acts 1981, P.L.56, SEC.4; P.L.329-1985, SEC.17; P.L.213-1986, SEC.4; P.L.252-1993, SEC.3; P.L.82-1995, SEC.15; P.L.22-2001, SEC.1; P.L.169-2006, SEC.48; P.L.113-2010, SEC.108; P.L.139-2011, SEC.6; P.L.172-2011, SEC.139; P.L.6-2012, SEC.241; P.L.17-2012, SEC.2; P.L.67-2012, SEC.2. 
+
+IC 36-1-12-4.5 Bond or certified check; filing by bidders 
+Sec. 4.5. (a) The political subdivision or agency: 
+(1) 
+shall require a bond or a certified check to be filed with each bid by a bidder in the amount determined and specified by the board in the notice of the letting if the cost of the public work is estimated to be more than two hundred thousand dollars ($200,000); and 
+
+(2) 
+may require a bond or a certified check to be filed with each bid by a bidder in the amount determined and specified by the board in the notice of the letting if the cost of the public work is estimated to be not more than two hundred thousand dollars 
+
+
+($200,000). 
+(b) The amount of the bond or certified check may not be set at more than ten percent (10%) of the contract price. The bond or certified check shall be made payable to the political subdivision or agency. 
+(c) All checks of unsuccessful bidders shall be returned to them by the board upon selection of successful bidders. Checks of successful bidders shall be held until delivery of the performance bond, as provided in section 14(e) of this chapter. As added by P.L.329-1985, SEC.18. Amended by P.L.133-2007, SEC.12. 
+
+IC 36-1-12-4.7 Procedures for inviting quotes; applicable dollar amounts 
+Sec. 4.7. (a) This section applies whenever a public work project is estimated to cost: 
+(1) 
+except as provided in subdivision (2), at least fifty thousand dollars ($50,000) and less than one hundred fifty thousand dollars ($150,000); or 
+
+(2) 
+in the case of a board of aviation commissioners or an airport authority board, at least fifty thousand dollars ($50,000) and less than one hundred thousand dollars ($100,000). 
+
+
+(b) The board must proceed under the following provisions: 
+(1) 
+The board shall invite quotes from at least three (3) persons known to deal in the class of work proposed to be done by mailing them a notice stating that plans and specifications are on file in a specified office. The notice must be mailed not less than seven (7) days before the time fixed for receiving quotes. 
+
+(2) 
+The board may not require a person to submit a quote before the meeting at which quotes are to be received. The meeting for receiving quotes must be open to the public. All quotes received shall be opened publicly and read aloud at the time and place designated and not before. 
+
+(3) 
+The board shall award the contract for the public work to the lowest responsible and responsive quoter. 
+
+
+(4) The board may reject all quotes submitted. As added by P.L.82-1995, SEC.16. Amended by P.L.22-2001, SEC.2; P.L.1-2002,SEC.154; P.L.169-2006, SEC.49; P.L.195-2007, SEC.7; P.L.172-2011, SEC.140; P.L.17-2012, SEC.3; P.L.67-2012, SEC.3. 
+
+IC 36-1-12-4.9 Alternate procedures for projects costing less than $150,000 
+Sec. 4.9. (a) This section applies to a public work for the routine operation, routine repair, or routine maintenance of existing structures, buildings, or real property if the cost of the public work is estimated to be less than one hundred fifty thousand dollars ($150,000). 
+(b) The board may award a contract for public work described in subsection (a) in the manner provided in IC 5-22. 
+As added by P.L.176-2009, SEC.24. 
+
+IC 36-1-12-5 Procedures for inviting quotes; small projects 
+Sec. 5. (a) This section applies whenever a public work project is estimated to cost less than fifty thousand dollars ($50,000). Except as provided in subsection (g) for local boards of aviation commissioners and local airport authorities, if a contract is to be awarded, the board may proceed under section 4 of this chapter or under subsection (b) or (c). 
+(b) The board must proceed under the following provisions: 
+(1) 
+The board shall invite quotes from at least three (3) persons known to deal in the class of work proposed to be done by mailing them a notice stating that plans and specifications are on file in a specified office. The notice must be mailed not less than seven (7) days before the time fixed for receiving quotes. 
+
+(2) 
+The board may not require a person to submit a quote before the meeting at which quotes are to be received. The meeting for receiving quotes must be open to the public. All quotes received shall be opened publicly and read aloud at the time and place designated and not before. 
+
+(3) 
+The board shall award the contract for the public work to the lowest responsible and responsive quoter. 
+
+(4) 
+The board may reject all quotes submitted. 
+
+(5) 
+If the board rejects all quotes under subdivision (4), the board may negotiate and enter into agreements for the work in the open market without inviting or receiving quotes if the board establishes in writing the reasons for rejecting the quotes. 
+
+
+(c) 
+The board may not proceed under subsection (b) for the resurfacing (as defined in IC 8-14-2-1) of a road, street, or bridge, unless: 
+
+(1) 
+the weight or volume of the materials in the project is capable of accurate measurement and verification; and 
+
+(2) 
+the specifications define the geographic points at which the project begins and ends. 
+
+
+
+(d) 
+For the purposes of this section, if contiguous sections of a road, street, or bridge are to be resurfaced in a calendar year, all of the work shall be considered to comprise a single public work project. 
+
+(e) 
+The board may purchase or lease supplies in the manner provided in IC 5-22 and perform the public work by means of its own workforce without awarding a public work contract. 
+
+(f) 
+Before the board may perform any work under this section by means of its own workforce, the political subdivision or agency must have a group of employees on its staff who are capable of performing the construction, maintenance, and repair applicable to that work. 
+
+
+(g) This subsection applies to local boards of aviation commissioners operating under IC 8-22-2 and local airport authorities operating under IC 8-22-3. If the contract is to be awarded by a board to which this subsection applies, or to a designee of the board under subsection (h), the board or its designee may proceed under section 4 of this chapter or under the following provisions. The board or its designee may invite quotes from at least three (3) persons known to deal in the class of work proposed to be done by mailing the persons a copy of the plans and specifications for the work not less than seven (7) days before the time fixed for receiving quotes. If the board or its designee receives a satisfactory quote, the board or its designee shall award the contract to the lowest responsible and responsive quoter for the class of work required. The board or its designee may reject all quotes submitted and, if no valid quotes are received for the class of work, contract for the work without further invitations for quotes. 
+(h) 
+The board may delegate its authority to award a contract for a public works project that is estimated to cost less than fifty thousand dollars ($50,000) to the airport personnel in charge of airport public works projects. 
+
+(i) 
+Quotes for public works projects costing less than twenty-five thousand dollars ($25,000) may be obtained by soliciting at least three (3) quotes by telephone or facsimile transmission. The seven 
+
+(7) 
+day waiting period required by subsection (b)(1) does not apply to quotes solicited under this subsection. 
+
+
+As added by Acts 1981, P.L.57, SEC.38. Amended by Acts 1981, P.L.56, SEC.5; P.L.329-1985, SEC.19; P.L.85-1991, SEC.4; P.L.21-1995, SEC.147; P.L.82-1995,SEC.17; P.L.49-1997, SEC.76; P.L.195-2007, SEC.8; P.L.172-2011, SEC.141; P.L.17-2012, SEC.4; P.L.67-2012, SEC.4. 
+
+IC 36-1-12-6 Contracts; notice toproceed; failuretoawardandexecutecontract and to issue notice; election by bidder to reject contract 
+Sec. 6. (a) Except as provided in subsections (b) and (c), the board shall award the contract and shall provide the successful bidder with written notice to proceed within sixty (60) days after the date on which bids are opened. 
+(b) 
+If general obligation bonds are to be sold to finance the construction that is the subject of the bid, the board shall allow the bidder ninety (90) days. 
+
+(c) 
+If revenue bonds are to be issued, when approved by the utility regulatory commission, or if special taxing district, special benefit, or revenue bonds are to be issued and sold to finance the construction, the board shall allow the bidder one hundred fifty (150) days. 
+
+(d) 
+A failure to award and execute the contract and to issue notice within the time required by this section entitles the successful bidder to: 
+
+
+(1) 
+reject the contract and withdraw his bid without prejudice; or 
+
+(2) 
+extend the time to award the contract and provide notice to 
+
+
+proceed at an agreed later date. If the successful bidder elects to reject the contract and withdraw his bid, notice of that election must be given to the board in writing within fifteen (15) days of the sixty (60) day expiration date or any other extension date. As added by Acts 1981, P.L.57, SEC.38. Amended by P.L.23-1988, SEC.116. 
+
+IC 36-1-12-7 Public buildings; approval of plans and specifications by licensed architect or engineer 
+Sec. 7. Public work performed or contracted for on a public building, the cost of which is more than one hundred thousand dollars ($100,000) may be undertaken by the board only in accordance with plans and specifications approved by an architect or engineer licensed under IC 25-4 or IC 25-31. As added by Acts 1981, P.L.57, SEC.38. Amended by P.L.3-1989, SEC.225; P.L.312-1995, SEC.1. 
+
+IC 36-1-12-8 Road, street, or bridge work; open price provisions; price adjustments of materials; limitations 
+Sec. 8. The board may award a public work contract for road, street, or bridge work subject to the open price provisions of IC 26-1-2-305. The contract may provide that prices for construction materials are subject to price of materials adjustment. When price adjustments are part of the contract, the method of price adjustments shall be specified in the contract. However, this section does not authorize the expenditure of money above the total amount of money appropriated by the political subdivision or agency for road, street, or bridge contracts. As added by Acts 1981, P.L.57, SEC.38. Amended by P.L.329-1985, SEC.20. 
+
+IC 36-1-12-9 Emergencies; contracts by invitation 
+Sec. 9. (a) The board, upon a declaration of emergency, may contract for a public work project without advertising for bids if bids or quotes are invited from at least two (2) persons known to deal in the public work required to be done. 
+(b) The minutes of the board must show the declaration of emergency and the names of the persons invited to bid or provide quotes. As added by Acts 1981, P.L.57, SEC.38. Amended by P.L.329-1985, SEC.21. 
+
+IC 36-1-12-10 Plans and specifications; approval by various agencies 
+Sec. 10. All plans and specifications for public buildings must be approved by the state department of health, the division of fire and building safety, and other state agencies designated by statute. As added by Acts 1981, P.L.57, SEC.38. Amended by P.L.8-1984, SEC.123; P.L.2-1992, SEC.886; P.L.1-2006, SEC.553. 
+
+IC 36-1-12-11 Completion of project; procedure 
+Sec. 11. (a) The board must, within sixty (60) days after the completion of the public work project, file in the division of fire and building safety a complete set of final record drawings for the public work project. However, this requirement does not apply to a public work project constructed at a cost less than one hundred thousand dollars ($100,000). In addition, the filing of the drawings is required only if the project involves a public building. 
+(b) The division of fire and building safety shall provide a depository for all final record drawings filed, and retain them for inspection and loan under regulated conditions. The fire prevention and building safety commission may designate the librarian of Indiana as the custodian of the final record drawings. The librarian shall preserve the final record drawings in the state archives as public documents. As added by Acts 1981, P.L.57, SEC.38. Amended by P.L.8-1984, SEC.124; P.L.329-1985, SEC.22; P.L.1-2006, SEC.554. 
+
+IC 36-1-12-12 Final payment; requirements; claims by subcontractors, laborers, or suppliers; disputes 
+Sec. 12. (a) When a public work project is to be performed, the board shall withhold final payment to the contractor until the contractor has paid the subcontractors, material suppliers, laborers, and those furnishing services. However, if there is not a sufficient sum owed to the contractor to pay those bills, the sum owed to the contractor shall be prorated in payment of the bills among the claimants entitled to payment. 
+(b) 
+To receive payment a subcontractor, material supplier, laborer, or person furnishing services must file a claim with the board not later than sixty (60) days after that person performed the last labor, furnished the last material, or performed the last service as provided in section 13 of this chapter. 
+
+(c) 
+If there is no dispute among the claimants, the board shall pay the claim from the money due the contractor and deduct the amount of the claims from the contract price. The board shall take a receipt for each payment made on a claim. 
+
+(d) 
+If there is a dispute among the claimants, the board shall retain sufficient money to pay the claims until the dispute is settled and the 
+
+correct amount is determined. However, the board may make a final and complete settlement with the contractor after thirty (30) days after the date of the completion and acceptance of the public work if the contractor has materially fulfilled all of its obligations under the public works contract. 
+
+(e) 
+If the board receives a claim from a subcontractor or a material supplier under this section, the board shall withhold the amount of the claim until the claim is resolved under this section. 
+
+(f) 
+A claim form must be signed by an individual from the political subdivision or agency who is directly responsible for the project and who can verify: 
+
+(1) 
+the quantity of a purchased item; or 
+
+(2) 
+the weight or volume of the material applied, in the case of a road, street, or bridge project. 
+
+
+
+
+As added by Acts 1981, P.L.57, SEC.38. Amended by P.L.329-1985, SEC.23; P.L.75-2012, SEC.9. 
+
+IC 36-1-12-13 Contract provision for payment of subcontractors, laborers, or suppliers 
+Sec. 13. A contract for public work must contain a provision for the payment of subcontractors, laborers, material suppliers, and those performing services. The board shall withhold money from the contract price in a sufficient amount to pay the subcontractors, laborers, material suppliers, and those furnishing services. As added by Acts 1981, P.L.57, SEC.38. Amended by P.L.337-1987, SEC.3. 
+
+IC 36-1-12-13.1 Payment bond for public work projects in excess of $200,000; claims; suits on bond; waiver of payment bond 
+Sec. 13.1. (a) Except as provided in subsection (e), the appropriate political subdivision or agency: 
+(1) 
+shall require the contractor to execute a payment bond to the appropriate political subdivision or agency, approved by and for the benefit of the political subdivision or agency, in an amount equal to the contract price if the cost of the public work is estimated to be more than two hundred thousand dollars ($200,000); and 
+
+(2) 
+may require the contractor to execute a payment bond to the appropriate political subdivision or agency, approved by and for the benefit of the political subdivision or agency, in an amount equal to the contract price if the cost of the public work is estimated to be not more than two hundred thousand dollars ($200,000). 
+
+
+The payment bond is binding on the contractor, the subcontractor, and their successors and assigns for the payment of all indebtedness to a person for labor and service performed, material furnished, or services rendered. The payment bond must state that it is for the benefit of the subcontractors, laborers, material suppliers, and those performing services. 
+(b) The payment bond shall be deposited with the board. The payment bond must specify that: 
+(1) 
+a modification, omission, or addition to the terms and conditions of the public work contract, plans, specifications, drawings, or profile; 
+
+(2) 
+a defect in the public work contract; or 
+
+(3) 
+a defect in the proceedings preliminary to the letting and 
+
+
+awarding of the public work contract; does not discharge the surety. The surety of the payment bond may not be released until one (1) year after the board's final settlement with the contractor. 
+(c) 
+A person to whom money is due for labor performed, material furnished, or services provided must, not later than sixty (60) days after that person completed the labor or service or after that person furnished the last item of material: 
+
+(1) file with the board signed duplicate statements of the amount due; and 
+
+(2) 
+deliver a copy of the statement to the contractor. The board shall forward to the surety of the payment bond one (1) of the signed duplicate statements. However, failure of the board to forward a signed duplicate statement does not affect the rights of a person to whom money is due. In addition, a failure of the board to forward the statement does not operate as a defense for the surety. 
+
+(d) An action may not be brought against the surety before thirty 
+
+(30)
+ days after: 
+
+(1) the filing of the signed duplicate statements with the board; and 
+
+(2) 
+delivery of a copy of the statement to the contractor. If the indebtedness is not paid in full at the end of that thirty (30) day period the person may bring an action in court. The court action must be brought not later than sixty (60) days after the date of the final completion and acceptance of the public work. 
+
+(e) 
+This subsection applies to contracts for a capital improvement entered into by, for, or on behalf of the Indiana stadium and convention building authority created by IC 5-1-17-6. The board awarding the contract for the capital improvement project may waive any payment bond requirement if the board, after public notice and hearing, determines: 
+
+(1) 
+that: 
+
+(A) 
+an otherwise responsive and responsible bidder is unable to provide the payment bond; or 
+
+(B) 
+the cost or coverage of the payment bond is not in the best interest of the project; and 
+
+
+
+(2) 
+that an adequate alternative is provided through a letter of credit, additional retainage of at least ten percent (10%) of the 
+
+
+
+
+contract amount, a joint payable check system, or other sufficient protective mechanism. 
+As added by P.L.337-1987, SEC.4. Amended by P.L.82-1995, SEC.18; P.L.120-2006, SEC.4; P.L.133-2007, SEC.13; P.L.75-2012, SEC.10. 
+IC 36-1-12-14 Contracts in excess of $200,000; retaining portions of payments; escrow agreements; performance bonds; payment on substantial completion; actions against surety contracts less than $250,000 
+Sec. 14. (a) This section applies to public work contracts in excess of two hundred thousand dollars ($200,000) for projects other than highways, roads, streets, alleys, bridges, and appurtenant structures situated on streets, alleys, and dedicated highway rights-of-way. A board may require a contractor and subcontractor to include contract provisions for retainage as set forth in this section for contracts that are not more than two hundred thousand dollars ($200,000). This section also applies to a lessor corporation qualifying under IC 20-47-2 or IC 20-47-3 or any other lease-back arrangement containing an option to purchase, notwithstanding the statutory provisions governing those leases. 
+(b) 
+A board that enters into a contract for public work, and a contractor who subcontracts parts of that contract, shall include in their respective contracts provisions for the retainage of portions of payments by the board to contractors, by contractors to subcontractors, and for the payment of subcontractors. At the discretion of the contractor, the retainage shall be held by the board or shall be placed in an escrow account with a bank, savings and loan institution, or the state as the escrow agent. The escrow agent shall be selected by mutual agreement between board and contractor or contractor and subcontractor under a written agreement among the bank or savings and loan institution and: 
+
+(1) the board and the contractor; or 
+
+(2) 
+the subcontractor and the contractor. The board shall not be required to pay interest on the amounts of retainage that it holds under this section. 
+
+(c) 
+To determine the amount of retainage to be withheld, the board shall: 
+
+(1) 
+withhold no more than ten percent (10%) nor less than six percent (6%) of the dollar value of all work satisfactorily completed until the public work is fifty percent (50%) completed, and nothing further after that; or 
+
+(2) 
+withhold no more than five percent (5%) nor less than three percent (3%) of the dollar value of all work satisfactorily completed until the public work is substantially completed. 
+
+
+
+
+If upon substantial completion of the public work minor items remain uncompleted, an amount computed under subsection (f) shall be withheld until those items are completed. 
+(d) The escrow agreement must contain the following provisions: 
+(1) 
+The escrow agent shall invest all escrowed principal in obligations selected by the escrow agent. 
+
+(2) 
+The escrow agent shall hold the escrowed principal and income until receipt of notice from the board and the contractor, or the contractor and the subcontractor, specifying the part of the escrowed principal to be released from the escrow and the person to whom that portion is to be released. After receipt of the notice, the escrow agent shall remit the designated part of escrowed principal and the same proportion of then escrowed income to the person specified in the notice. 
+
+(3) 
+The escrow agent shall be compensated for the agent's services. The parties may agree on a reasonable fee comparable with fees being charged for the handling of escrow accounts of similar size and duration. The fee shall be paid from the escrowed income. 
+
+
+The escrow agreement may include other terms and conditions consistent with this subsection, including provisions authorizing the escrow agent to commingle the escrowed funds with funds held in other escrow accounts and limiting the liability of the escrow agent. 
+(e) Except as provided by subsections (i) and (h), the contractor shall furnish the board with a performance bond equal to the contract price. If acceptable to the board, the performance bond may provide for incremental bonding in the form of multiple or chronological bonds that, when taken as a whole, equal the contract price. The surety on the performance bond may not be released until one (1) year after the date of the board's final settlement with the contractor. The performance bond must specify that: 
+(1) 
+a modification, omission, or addition to the terms and conditions of the public work contract, plans, specifications, drawings, or profile; 
+
+(2) 
+a defect in the public work contract; or 
+
+(3) 
+a defect in the proceedings preliminary to the letting and 
+
+
+awarding of the public work contract; does not discharge the surety. 
+(f) 
+The board or escrow agent shall pay the contractor within sixty-one (61) days after the date of substantial completion, subject to sections 11 and 12 of this chapter. Payment by the escrow agent shall include all escrowed principal and escrowed income. If within sixty-one (61) days after the date of substantial completion there remain uncompleted minor items, an amount equal to two hundred percent (200%) of the value of each item as determined by the architect-engineer shall be withheld until the item is completed. Required warranties begin not later than the date of substantial completion. 
+
+(g) 
+Actions against a surety on a performance bond must be brought within one (1) year after the date of the board's final settlement with the contractor. 
+
+(h) 
+This subsection applies to public work contracts of less than two hundred fifty thousand dollars ($250,000). The board may waive the performance bond requirement of subsection (e) and accept from a contractor an irrevocable letter of credit for an equivalent amount from an Indiana financial institution approved by the department of financial institutions instead of a performance bond. Subsections (e) through (g) apply to a letter of credit submitted under this subsection. 
+
+(i) 
+This subsection applies to the Indiana stadium and convention building authority created by IC 5-1-17-6. The board awarding the contract for a capital improvement project may waive any performance bond requirement if the board, after public notice and hearing, determines: 
+
+(1) 
+that: 
+
+(A) 
+an otherwise responsive and responsible bidder is unable to provide the performance bond; or 
+
+(B) 
+the cost or coverage of the performance bond is not in the best interest of the project; and 
+
+
+
+(2) 
+that an adequate alternative is provided through a letter of credit, additional retainage of at least ten percent (10%) of the contract amount, a joint payable check system, or other sufficient protective mechanism. 
+
+
+
+
+As added by Acts 1981, P.L.57, SEC.38. Amended by P.L.70-1989, SEC.3; P.L.43-2003, SEC.1; P.L.120-2006, SEC.5; P.L.2-2006, SEC.189; P.L.1-2007, SEC.239; P.L.133-2007, SEC.14. 
+
+IC 36-1-12-15 Contractor requirements; antidiscrimination provisions 
+Sec. 15. (a) A contract by the board for public work must conform to IC 5-16-13. 
+(b) A contract by the board for public work must conform with the antidiscrimination provisions of IC 5-16-6. The board may consider a violation of IC 5-16-6 a material breach of the contract, as provided in IC 22-9-1-10. 
+As added by Acts 1981, P.L.57, SEC.38. Amended by P.L.252-2015, SEC.43. 
+
+IC 36-1-12-16 Necessity of compliance with chapter 
+Sec. 16. A contract for public work by a political subdivision or agency is void if it is not let in accordance with this chapter. 
+As added by Acts 1981, P.L.57, SEC.38. 
+
+IC 36-1-12-17 Road or street work contracts; timely payment of claims; final payment; interest for late payment 
+Sec. 17. (a) A contract for road or street work must contain a provision for the timely payment of claims made by the contractor. 
+(b) Each contract must provide for final payment within one hundred twenty (120) days after final acceptance and completion of the contract. Final payment may not be made on any amount that is in dispute, but final payment may be made on that part of a contract or those amounts that are not in dispute. 
+(c) For each day after one hundred twenty (120) days, the board shall pay to the contractor interest for late payment of money due to the contractor. However, interest may not be paid for those days that the delay in payment is not directly attributable to the board. The annual percentage rate of interest that the board shall pay on the unpaid balance is twelve percent (12%). As added by P.L.340-1983, SEC.1. 
+
+IC 36-1-12-18 Change or alteration of specifications; change orders 
+Sec. 18. (a) If, in the course of the construction, reconstruction, or repair of a public work project, it becomes necessary to change or alter the original specifications, a change order may be issued to add, delete, or change an item or items in the original contract. The change order becomes an addendum to the contract and must be approved and signed by the board and the contractor. 
+(b) 
+If a licensed architect or engineer is assigned to the public work project, the change order must be prepared by that person. 
+
+(c) 
+A change order may not be issued before commencement of the actual construction, reconstruction, or repairs except in the case of an emergency. In that case, the board must make a declaration, and the board's minutes must show the nature of the emergency. 
+
+(d) 
+The total of all change orders issued that increase the scope of the project may not exceed twenty percent (20%) of the amount of the original contract. A change order issued as a result of circumstances that could not have been reasonably foreseen does not increase the scope of the project. 
+
+(e) 
+All change orders must be directly related to the original public work project. 
+
+
+(f) If additional units of materials included in the original contract are needed, the cost of these units in the change order must be the same as those shown in the original contract. As added by P.L.329-1985, SEC.24. 
+
+IC 36-1-12-19 Dividing cost of a single public work project into two or more projects; prohibition; penalty 
+Sec. 19. (a) For purposes of this section, the cost of a public work project includes the cost of materials, labor, equipment rental, and all other expenses incidental to the performance of the project. 
+(b) The cost of a single public work project may not be divided into two (2) or more projects for the purpose of avoiding the requirement to solicit bids. 
+(c) A bidder or quoter or a person who is a party to a public work contract who knowingly violates this section commits a Class A infraction and may not be a party to or benefit from any contract under this chapter for two (2) years from the date of the conviction. 
+(d) Any board member or officer of a political subdivision or agency who knowingly violates this section commits a Class A infraction. As added by P.L.216-1986, SEC.1. 
+
+IC 36-1-12-20 Trench safety systems; cost recovery 
+Sec. 20. (a) This section applies to a public works project that may require creation of a trench of at least five (5) feet in depth. 
+(b) 
+IOSHA regulations 29 C.F.R. 1926, Subpart P, for trench safety systems shall be incorporated into the contract documents for a public works project. 
+
+(c) 
+The contract documents for a public works project shall provide that the cost for trench safety systems shall be paid for: 
+
+(1) 
+as a separate pay item; or 
+
+(2) 
+in the pay item of the principal work with which the safety systems are associated. 
+
+
+
+
+As added by P.L.26-1989, SEC.21. 
+
+IC 36-1-12-21 Plumbing installations; proof of licensure 
+Sec. 21. (a) A person who submits a bid for a public works contract under this chapter that involves the installation of plumbing must submit evidence that the person is a licensed plumbing contractor under IC 25-28.5-1. 
+(b) If a public works contract under this chapter is awarded to a person who does not meet the requirements of subsection (a), the contract is void. As added by P.L.20-1991, SEC.13. 
+
+IC 36-1-12-22 Repealed 
+(As added by P.L.172-2011, SEC.142. Repealed by P.L.17-2012, SEC.5; P.L.67-2012, SEC.5.) 
+
+IC 36-1-12-23 Application of IC 5-22-16.5 to award of contracts under article 
+Sec. 23. (a) IC 5-22-16.5 (Disqualification of Contractors Dealing with the Government of Iran) applies to the awarding of contracts, including contracts for professional services, under this chapter. 
+(b) For purposes of applying IC 5-22-16.5 to contracts awarded under this chapter, the following apply: 
+(1) A reference to an "offer" in IC 5-22-16.5 refers to: 
+(A) 
+a bid for a contract; or 
+
+(B) 
+a proposal to provide professional services; 
+
+
+under this chapter. 
+(2) 
+A person may not be awarded a contract under this chapter if the person would be disqualified from being awarded a contract under IC 5-22-16.5. 
+
+(3) 
+The procedures, rights, and application of penalties described in IC 5-22-16.5 shall be applied in the context of this chapter so that the public policy of IC 5-22-16.5 and this chapter are both implemented. 
+
+
+As added by P.L.21-2012, SEC.8. 
+
+IC 36-1-12-24 Drug testing of employees of public works contractors 
+Sec. 24. (a) As used in this section, "contractor" includes a subcontractor of a contractor. 
+(b) IC 4-13-18, regarding drug testing of employees of public works contractors, applies to a public works contract: 
+(1) 
+if the estimated cost of the public works contract is at least one hundred fifty thousand dollars ($150,000); and 
+
+(2) 
+that is awarded under this chapter after June 30, 2016. 
+
+
+As added by P.L.252-2015, SEC.44. Amended by P.L.213-2015, SEC.264. 
+

@@ -1,0 +1,82 @@
+IC 6-1.1-21.5 Chapter 21.5. Loans to Qualified Taxing Units 
+IC 6-1.1-21.5-1 "Qualified taxing unit" 
+Sec. 1. As used in this chapter, "qualified taxing unit" means each of the following: 
+(1) 
+A city having a population of more than twenty-nine thousand six hundred (29,600) but less than twenty-nine thousand nine hundred (29,900). 
+
+(2) 
+The sanitary district of a city described in subdivision (1). 
+
+(3) 
+The library district of a city described in subdivision (1). 
+
+(4) 
+The school corporation located in a city described in subdivision (1). 
+
+
+As added by P.L.380-1987(ss), SEC.5. Amended by P.L.12-1992, SEC.23; P.L.170-2002, SEC.21; P.L.119-2012, SEC.35. 
+
+IC 6-1.1-21.5-2 "Board" 
+Sec. 2. As used in this chapter, "board" refers to the state board of finance. As added by P.L.380-1987(ss), SEC.5. 
+
+IC 6-1.1-21.5-3 Loan application; prerequisites to grant of loan 
+Sec. 3. Before January 1, 2002, a qualified taxing unit may apply to the board for a loan from the counter-cyclical revenue and economic stabilization fund. The board may make a loan from the fund to the taxing unit if: 
+(1) 
+a taxpayer with tangible property subject to taxation by the qualified taxing unit has filed a petition to reorganize under the federal bankruptcy code; 
+
+(2) 
+the taxpayer has defaulted on one (1) of its property tax payments; 
+
+(3) 
+the qualified taxing unit has experienced and will continue to experience a significant revenue shortfall as a result of the default; and 
+
+(4) 
+the taxpayer is a steel manufacturer that owns at least eighteen percent (18%) of the assessed value within the taxing unit. 
+
+
+As added by P.L.380-1987(ss), SEC.5. Amended by P.L.291-2001, SEC.207. 
+
+IC 6-1.1-21.5-4 Maximum amount of loan 
+Sec. 4. The maximum amount that the board may loan to a qualified taxing unit under this chapter is set forth in the following table: 
+ MAXIMUM 
+TYPE OF TAXING UNIT LOAN 
+City......................... $ 5,500,000 
+Sanitary District............... $ 1,900,000 
+Library District................ $ 800,000 
+School Corporation. . . . . . . . . . . . $ 8,000,000 
+
+As added by P.L.380-1987(ss), SEC.5. Amended by P.L.291-2001, SEC.208. 
+
+IC 6-1.1-21.5-5 Terms of loan; interest; repayment; depository 
+Sec. 5. (a) The board shall determine the terms of a loan made under this chapter. However, interest may not be charged on the loan, and the loan must be repaid not later than ten (10) years after the date on which the loan was made. 
+(b) 
+The loan shall be repaid only from property tax revenues of the qualified taxing unit that are subject to the levy limitations imposed by IC 6-1.1-18.5. The payment of any installment of principal constitutes a first charge against such property tax revenues as collected by the qualified taxing unit during the calendar year the installment is due and payable. 
+
+(c) 
+The obligation to repay the loan is not a basis for the qualified taxing unit to obtain an excessive tax levy under IC 6-1.1-18.5. 
+
+(d) 
+Whenever the board receives a payment on a loan made under this chapter, the board shall deposit the amount paid in the counter-cyclical revenue and economic stabilization fund. 
+
+(e) 
+This section may not be construed to prevent the qualified taxing unit from repaying a loan made under this chapter before the date specified in subsection (a) if a taxpayer described in section 3 of this chapter resumes paying property taxes to the qualified taxing unit. 
+
+
+As added by P.L.380-1987(ss), SEC.5. Amended by P.L.291-2001, SEC.209; P.L.2-2006, SEC.59; P.L.146-2008, SEC.242. 
+
+IC 6-1.1-21.5-6 Loan proceeds and delinquent tax payments; levy excess 
+Sec. 6. (a) The receipt by the qualified taxing unit of the loan proceeds is not considered to be part of the ad valorem property tax levy actually collected by the qualified taxing unit for taxes first due and payable during a particular calendar year for the purpose of calculating the levy excess under IC 6-1.1-18.5-17 and IC 20-44-3. The receipt by the qualified taxing unit of any payment of delinquent tax owed by a taxpayer in bankruptcy is considered to be part of the ad valorem property tax levy actually collected by the qualified taxing unit for taxes first due and payable during a particular calendar year for the purpose of calculating the levy excess under IC 6-1.1-18.5-17 and IC 20-44-3. 
+(b) The loan proceeds and any payment of delinquent tax may be 
+ expended by the qualified taxing unit only to pay debts of the qualified taxing unit that have been incurred pursuant to duly adopted appropriations approved by the department of local government finance for operating expenses. 
+(c) In the event the sum of the receipts of the qualified taxing unit that are attributable to: 
+(1) 
+the loan proceeds; and 
+
+(2) 
+the payment of property taxes owed by a taxpayer in a bankruptcy proceeding initially filed in 2000 and payable in 2001; 
+
+
+exceeds sixteen million dollars ($16,000,000), the excess as received during any calendar year or years shall be set aside and treated for the calendar year when received as a levy excess subject to IC 6-1.1-18.5-17 or IC 20-44-3. In calculating the payment of property taxes as provided in subdivision (2), the amount of property tax credit finally allowed under IC 6-1.1-21-5 (before its repeal) in respect to such taxes is considered a payment of such property taxes. 
+(d) As used in this section, "delinquent tax" means any tax owed by a taxpayer in a bankruptcy proceeding initially filed in 2000 and that is not paid during the calendar year for which it was first due and payable. As added by P.L.380-1987(ss), SEC.5. Amended by P.L.291-2001, SEC.210; P.L.90-2002, SEC.202; P.L.2-2006, SEC.60; P.L.146-2008, SEC.243. 
+ 
+

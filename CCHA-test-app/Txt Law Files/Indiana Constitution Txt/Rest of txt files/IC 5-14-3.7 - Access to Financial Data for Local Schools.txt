@@ -1,0 +1,188 @@
+IC 5-14-3.7 Chapter 3.7. Access to Financial Data for Local Schools 
+IC 5-14-3.7-1 "Department" 
+Sec. 1. As used in this chapter, "department" means the department of education established by IC 20-19-3-1. As added by P.L.172-2011, SEC.17. 
+
+IC 5-14-3.7-2 "Political subdivision" 
+Sec. 2. As used in this chapter, "public school" has the meaning set forth in IC 20-18-2-15. As added by P.L.172-2011, SEC.17. 
+
+IC 5-14-3.7-2.5 "School corporation" 
+Sec. 2.5. As used in this chapter, "school corporation" has the meaning set forth in IC 36-1-2-17. As added by P.L.84-2014, SEC.2. 
+
+IC 5-14-3.7-3 Version a Department posting informationonIndiana transparencywebsite 
+Note: This version of section effective until 1-1-2017. See also following version of this section, effective 1-1-2017. 
+Sec. 3. (a) The department, working with the office of technology established by IC 4-13.1-2-1 or another organization that is part of a state educational institution, the state board of accounts established by IC 5-11-1-1, the department of local government finance established under IC 6-1.1-30-1.1, and the office of management and budget established by IC 4-3-22-3, shall post on the Indiana transparency Internet web site a data base that lists expenditures and fund balances, including expenditures for contracts, grants, and leases, for public schools. The web site must be electronically searchable by the public. 
+(b) The data base must include for public schools: 
+(1) 
+the amount, date, payer, and payee of expenditures; 
+
+(2) 
+a listing of expenditures by: 
+
+(A) 
+personal services; 
+
+(B) 
+other operating expenses; or 
+
+(C) 
+total operating expenses; 
+
+
+
+(3) 
+a listing of fund balances; 
+
+(4) 
+a listing of real and personal property owned by the public school; 
+
+(5) 
+the report required under IC 6-1.1-33.5-7; and 
+
+(6) 
+information for evaluating the fiscal health of each school corporation in the format required by section 16(b) of this chapter. 
+
+
+As added by P.L.172-2011, SEC.17. Amended by P.L.84-2014, SEC.3. 
+
+IC 5-14-3.7-3 Version b Department posting informationonIndiana transparencywebsite 
+Note: This version of section effective 1-1-2017. See also preceding version of this section, effective until 1-1-2017. 
+Sec. 3. (a) The department, working with the office of technology established by IC 4-13.1-2-1 or another organization that is part of a state educational institution, the state board of accounts established by IC 5-11-1-1, the department of local government finance established under IC 6-1.1-30-1.1, and the office of management and budget established by IC 4-3-22-3, shall post on the Indiana transparency Internet web site a data base that lists expenditures and fund balances, including expenditures for contracts, grants, and leases, for public schools. The web site must be electronically searchable by the public. 
+(b) The data base must include for public schools: 
+(1) 
+the amount, date, payer, and payee of expenditures; 
+
+(2) 
+a listing of expenditures specifically identifying those for: 
+
+(A) 
+personal services; 
+
+(B) 
+other operating expenses or total operating expenses; and 
+
+(C) 
+debt service, including lease payments, related to debt; 
+
+
+
+(3) 
+a listing of fund balances, specifically identifying balances in funds that are being used for accumulation of money for future capital needs; 
+
+(4) 
+a listing of real and personal property owned by the public school; 
+
+(5) 
+the report required under IC 6-1.1-33.5-7; and 
+
+(6) 
+information for evaluating the fiscal health of each school corporation in the format required by section 16(b) of this chapter. 
+
+
+As added by P.L.172-2011, SEC.17. Amended by P.L.84-2014, SEC.3; P.L.208-2016, SEC.2. 
+
+IC 5-14-3.7-4 Presentation of information 
+Sec. 4. To the extent possible, the department shall present information in the data base established under this chapter in a manner that is searchable and intuitive to users. As added by P.L.172-2011, SEC.17. 
+
+IC 5-14-3.7-5 Public access not allowed for certain information 
+Sec. 5. (a) The department may not allow public access under this section to: 
+(1) 
+a payee's address; 
+
+(2) 
+personal information that is protected under state or federal law or rule; or 
+
+(3) 
+information that is protected as a trade secret under state or federal law or by rule. 
+
+
+(b) The department may make information protected under subsection (a) available in an aggregate format only. As added by P.L.172-2011, SEC.17. 
+
+IC 5-14-3.7-6 Immunity from civil liability 
+Sec. 6. Employees of the state are immune from any civil liability for posting confidential information under section 5 of this chapter if an employee of the state posted the information in reliance on a determination made by a public school about the confidentiality of information relating to the educational institution's expenditures or fund balances. As added by P.L.172-2011, SEC.17. 
+
+IC 5-14-3.7-7 Information to be provided to the department by public schools 
+Sec. 7. To the extent any information required to be in the data base is collected or maintained by a public school, the public school shall provide that information to the department for inclusion in the data base. As added by P.L.172-2011, SEC.17. 
+
+IC 5-14-3.7-8 Fee for access prohibited 
+Sec. 8. The department may not charge a fee for access to the data base. As added by P.L.172-2011, SEC.17. 
+
+IC 5-14-3.7-9 Public schools required to cooperate and provide information to the department 
+Sec. 9. Except as provided in section 10 of this chapter, a public school shall cooperate with and provide information to the department as necessary to implement and administer this chapter. As added by P.L.172-2011, SEC.17. 
+
+IC 5-14-3.7-10 Recording information or expending resources for computer programming not required 
+Sec. 10. This chapter does not require a public school or state agency to record information or expend resources for the purpose of computer programming to make information reportable under this chapter. This section does not waive requirements under any law that a prescribed form must be submitted electronically. 
+As added by P.L.172-2011, SEC.17. 
+
+IC 5-14-3.7-11 Links on state web site and public school web sites 
+Sec. 11. The office of technology established by IC 4-13.1-2-1 shall work with the department to include a link on the Internet web site established under this chapter to the Internet web site of each Internet web site operated by: 
+(1) 
+the state; or 
+
+(2) 
+a public school. 
+
+
+As added by P.L.172-2011, SEC.17. 
+
+IC 5-14-3.7-12 Links on public school web sites 
+Sec. 12. Each public school shall include a link on the public school's Internet web site to the Internet web site established under this chapter. As added by P.L.172-2011, SEC.17. 
+
+IC 5-14-3.7-13 Design of web site and establishing and posting information 
+Sec. 13. The department and the office of technology shall initially complete the design of the Internet web site and establish and post the information required under this chapter for all public schools. As added by P.L.172-2011, SEC.17. 
+
+IC 5-14-3.7-14 Report by the department 
+Sec. 14. Not later than November 15, 2011, the department shall provide a report to the state board of finance and the legislative council on the progress the office has made to comply with this chapter. The report to the legislative council must be in an electronic format under IC 5-14-6. As added by P.L.172-2011, SEC.17. 
+
+IC 5-14-3.7-15 Forms submitted in an electronic format 
+Sec. 15. In order to comply with this chapter, the department may require that forms required to be submitted under this chapter be submitted in an electronic format. As added by P.L.172-2011, SEC.17. 
+
+IC 5-14-3.7-16 Development of fiscal health indicators; publication on Internet dashboard 
+Sec. 16. (a) The department of local government finance shall develop indicators of fiscal health for evaluating the fiscal health of a school corporation. The department of local government finance may consider including any of the following in the indicators developed under this subsection: 
+(1) 
+The cash balance of a school corporation. 
+
+(2) 
+The debt to revenue ratio of a school corporation. 
+
+(3) 
+The condition of a school corporation's property tax base as measured by both the assessed value of the school corporation and the amount of per capita revenue generated from the school corporation's tax base. 
+
+(4) 
+The per capita amount of a school corporation's general fund operating revenue. 
+
+(5) 
+Any trends in the amount of a school corporation's tax revenue. 
+
+(6) 
+Whether a school corporation maintains a structural deficit or a structural surplus. 
+
+(7) 
+The extent that the school corporation is affected by tax increment financing districts. 
+
+(8) 
+The extent that the school corporation's property tax base is affected by exempt properties. 
+
+(9) 
+The school corporation's bond rating. 
+
+(10) 
+The amount of retiree benefits paid by the school corporation. 
+
+(11) 
+The amount of pension contributions paid on behalf of the school corporation's employees. 
+
+(12)
+ Any other factor that the department of local government finance considers relevant to evaluating the fiscal health of a school corporation. 
+
+
+(b) 
+The department of local government finance shall use the indicators developed under subsection (a) and the associated fiscal data to present the information for evaluating the fiscal health of each school corporation on the Indiana transparency Internet web site. The information must be presented in a manner that: 
+
+(1) can be conveniently and easily accessed from a single web page; and 
+
+(2) 
+is commonly known as an Internet dashboard. The information must be available on the Indiana transparency Internet web site in the format required by this subsection before July 1, 2015. 
+
+
+(c) Neither the department of local government finance nor any other state agency may use the fiscal health indicators developed under this section to assign a school corporation a summative grade. As added by P.L.84-2014, SEC.4. 
+

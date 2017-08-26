@@ -1,0 +1,6 @@
+framework module Pods_CCHA_test_app {
+  umbrella header "Pods-CCHA-test-app-umbrella.h"
+
+  export *
+  module * { export * }
+}

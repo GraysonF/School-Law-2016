@@ -1,0 +1,241 @@
+Rule 1. Adoption of Internal Revenue Code Section 415 
+35 IAC 16-1-1 Compliance with Internal Revenue Code Section 415 for Limitations on Contributions and Benefits 
+Authority: IC 5-10.5-4-2 
+Affected: IC 5-10.2-2-1.5; IC 5-10.4; IC 5-10.5 
+Sec. 1. (a) Notwithstanding any other provisions to the contrary, pursuant to IC 5-10.2-2-1.5(7), the member contributions paid to and retirement benefits paid from the plan shall be limited to such extent as may be necessary to conform to the requirements of Section 415 of the Internal Revenue Code for a qualified governmental pension plan. For purposes of these limitations, the limitation year shall be the fiscal year. 
+(b) 
+The 415(b) limit with respect to any member who at any time has been a member in any other defined benefit plan as defined in Section 414(j) of the Internal Revenue Code maintained by the member's employer in this plan shall apply as if the total benefits payable under all such defined benefit plans in which the member has been a member were payable from one (1) plan. 
+
+(c) 
+The 415(c) limit with respect to any member who at any time has been a member in any other defined contribution plan as defined in Section 414(i) of the Internal Revenue Code maintained by the member's employer in this plan shall apply as if the total annual additions under all such defined contribution plans in which the member has been a member were payable from one 
+
+(1) 
+plan. 
+
+(d) 
+Before July 1, 1995, a member may not receive an annual benefit that exceeds the limits specified in Section 415(b) of the Internal Revenue Code, subject to the applicable adjustments in that section. On and after July 1, 1995, a member may not receive an annual benefit that exceeds the dollar amount specified in Section 415(b)(1)(A) of the Internal Revenue Code, subject to the applicable adjustments in Section 415(b) of the Internal Revenue Code and subject to any additional limits that may be specified in the retirement system. In no event shall a member's benefit payable under the plan in any limitation year be greater than the limit applicable at the annuity starting date, as increased in subsequent years pursuant to Section 415(d) of the Internal Revenue Code and the regulations thereunder. 
+
+(e) 
+For purposes of Section 415(b) of the Internal Revenue Code, the "annual benefit" means a benefit payable annually in the form of a straight life annuity (with no ancillary benefits) without regard to the benefit attributable to after-tax employee contributions (except pursuant to Section 415(n) of the Internal Revenue Code) and to rollover contributions (as defined in Section 415(b)(2)(A) of the Internal Revenue Code). The "benefit attributable" shall be determined in accordance with Treasury Regulations. 
+
+(f) 
+If the benefit under the plan is other than the form specified in subsection (e), then the benefit shall be adjusted so that it is the equivalent of the annual benefit, using factors prescribed in Treasury Regulations. 
+
+(1) 
+If the form of benefit without regard to the automatic benefit increase feature is not a straight life annuity or a qualified joint and survivor annuity, then the preceding sentence is applied by either reducing the Section 415(b) of the Internal Revenue Code limit applicable at the annuity starting date or adjusting the form of benefit to an actuarially equivalent amount (determined using the assumptions specified in Treasury Regulation Section 1.415(b)-1(c)(2)(ii)) that takes into account the additional benefits under the form of benefit as follows: 
+
+(2) 
+For a benefit paid in a form to which Section 417(e)(3) of the Internal Revenue Code does not apply (a monthly benefit), the actuarially equivalent straight life annuity benefit that is the greater of (or the reduced limit applicable at the annuity starting date which is the lesser of when adjusted in accordance with the following assumptions): 
+
+(A) 
+the annual amount of the straight life annuity (if any) payable to the member under the plan commencing at the same annuity starting date as the form of benefit to the member; or 
+
+(B) 
+the annual amount of the straight life annuity commencing at the same annuity starting date that has the same actuarial present value as the form of benefit payable to the member, computed using a five percent (5%) interest assumption (or the applicable statutory interest assumption) and: 
+
+(i) 
+for years prior to January 1, 2009, the applicable mortality tables described in Treasury Regulation Section 1.417(e)-1(d)(2) (Revenue Ruling 2001-62 or anysubsequent revenue ruling modifying the applicable provisions of Revenue Ruling 2001-62); and 
+
+(ii) 
+for years after December 31, 2008, the applicable mortality tables described in Section 417(e)(3)(B) of the Internal Revenue Code (Notice 2008-85 or any subsequent Internal Revenue Service guidance implementing Section 417(e)(3)(B) of the Internal Revenue Code); or 
+
+
+
+
+
+(3) 
+For a benefit paid in a form to which Section 417(e)(3) of the Internal Revenue Code applies (a lump-sum benefit), the actuarially equivalent straight life annuity benefit that is the greatest of (or the reduced Section 415(b) of the Internal Revenue Code limit applicable at the annuity starting date which is the least of when adjusted in accordance with the following assumptions): 
+
+(A) 
+the annual amount of the straight life annuity commencing at the annuity starting date that has the same actuarial present value as the particular form of benefit payable, computed using the interest rate and mortality table, or tabular factor, specified in the plan for actuarial experience; 
+
+(B) 
+the annual amount of the straight life annuity commencing at the annuity starting date that has the same actuarial present value as the particular form of benefit payable, computed using a five-point-five percent (5.5%) interest assumption (or the applicable statutory interest assumption) and: 
+
+(i) 
+for years prior to January 1, 2009, the applicable mortality table for the distribution under Treasury Regulation Section 1.417(e)-1(d)(2)(themortalitytablespecifiedinRevenueRuling2001-62or anysubsequent revenue ruling modifying the applicable provisions of Revenue Ruling 2001-62); and 
+
+(ii) 
+for years after December 31, 2008, the applicable mortality tables described in Section 417(e)(3)(B) of the Internal Revenue Code (Notice 2008-85 or any subsequent Internal Revenue Service guidance implementing Section 417(e)(3)(B) of the Internal Revenue Code); or 
+
+
+
+(C) 
+the annual amount of the straight life annuity commencing at the annuity starting date that has the same actuarial present value as the particular form of benefit payable (computed using the applicable interest rate for the distribution under Treasury Regulation Section 1.417(e)-1(d)(3) (the thirty (30) year treasury rate (prior to July 1, 2007, using the rate in effect for the month prior to retirement, and on and after July 1, 2007, using the rate in effect for the first day of the plan year with a one (1) year stabilization period)) and: 
+
+(i) 
+for years prior to January 1, 2009, the applicable mortality tables for the distribution under Treasury Regulation Section 1.417(e)-1(d)(2)(themortalitytablespecifiedin RevenueRuling2001-62oranysubsequent revenue ruling modifying the applicable provisions of Revenue Ruling 2001-62); and 
+
+(ii) 
+for years after December 31, 2008, the applicable mortality tables described in Section 417(e)(3)(B) of the Internal Revenue Code (Notice 2008-85 or any subsequent Internal Revenue Service guidance implementing Section 417(e)(3)(B) of the Internal Revenue Code), divided by one and five-hundredths (1.05). 
+
+
+
+
+
+(g) 
+For purposes of this section, the following benefits shall not be taken into account in applying these limits: 
+
+(1) 
+Any ancillary benefit which is not directly related to retirement income benefits. 
+
+(2) 
+That portion of any joint and survivor annuity that constitutes a qualified joint and survivor annuity. 
+
+(3) 
+Any other benefit not required under Section 415(b)(2) of the Internal Revenue Code and Treasury Regulations thereunder to be taken into account for purposes of the limitation of Section 415(b)(1) of the Internal Revenue Code. 
+
+
+
+(h) 
+In the event the member's retirement benefits become payable before age sixty-two (62), the limit prescribed by this section shall be reduced in accordance with treasury regulations pursuant to the provisions of Section 415(b) of the Internal Revenue Code, so that such limit (as so reduced) equals an annual straight life benefit (when such retirement income benefit begins) which is equivalent to a one hundred sixty thousand dollar ($160,000) (as adjusted) annual benefit beginning at age sixty-two (62). 
+
+(1) 
+In the event the member's benefit is based on at least fifteen (15) years of military service, the adjustments provided for in subsection (a) shall not apply. 
+
+(2) 
+The reductions provided for in subsection (a) shall not be applicable to preretirement disability benefits or preretirement death benefits. 
+
+
+
+(i) 
+The maximum retirement benefits payable under this subsection (i) to any member who has completed less than ten (10) years of service shall be the amount determined under subsection (d) as adjusted under subsection (f) or (h), or both, multiplied by a fraction, the numerator of which is the number of the member's years of service and the denominator of which is ten (10). The reduction provided by this subsection (i) cannot reduce the maximum benefit below ten percent (10%) of the limit determined without regard to this subsection (i). The reduction provided for in this subsection shall not be applicable to preretirement disability benefits or preretirement death benefits. 
+
+(j) 
+Notwithstanding anything in this section to the contrary, the retirement benefit payable with respect to a member shall be deemed not to exceed the limit set forth in subsection (j) [this subsection] if the benefits payable, with respect to such member under this plan and under all other qualified defined benefit pension plans to which the member's employer contributes, do not exceed ten thousand dollars ($10,000) for the applicable limitation year and for any prior limitation year and the employer has not at any time maintained a qualified defined contribution plan in which the member participated; provided, however, that if the member has completed less than ten (10) years of service with the employer, the limit under this subsection (j) shall be a reduced limit equal to ten thousand dollars ($10,000) multiplied by a fraction, the numerator of which is the number of the member's years of service and the denominator of which is ten (10). 
+
+(k) 
+Effective on and after July 1, 2009, for purposes of applying the limits under Section 415(b) of the Internal Revenue Code (the "Limit") to a member with no lump-sum benefit, the following will apply: 
+
+(1) 
+a member's applicable Limit will be applied to the member's annual benefit in the member's first limitation year without regard to any cost of living adjustments under IC 5-10.4; 
+
+(2) 
+to the extent that the member's annual benefit equals or exceeds the Limit, the member will no longer be eligible for cost of living increases until such time as the benefit plus the accumulated increases are less than the Limit; and 
+
+(3) 
+thereafter, in any subsequent limitation year, a member's annual benefit, including any cost of living increases under IC 5-10.4, shall be tested under the then applicable benefit Limit including any adjustment to the Section 415(b)(1)(A) of the Internal Revenue Code dollar limit under Section 415(d) of the Internal Revenue Code, and the regulations thereunder. 
+
+
+
+(l) 
+On and after July 1, 2009, with respect to a member who receives a portion of the member's annual benefit in a lump sum, a member's applicable limit will be applied taking into consideration cost of living increases as required by Section 415(b) of the Internal Revenue Code and applicable Treasury Regulations. 
+
+(m) 
+After-tax member contributions or other annual additions with respect to a member may not exceed the lesser of forty thousand dollars ($40,000) (as adjusted pursuant to Section 415(d) of the Internal Revenue Code) or one hundred percent (100%) of the member's compensation. 
+
+(1) 
+Annual additions are defined to mean the sum (for any year) of employer contributions to a defined contribution plan, member contributions, and forfeitures credited to a member's individual account. Member contributions are determined without regard to rollover contributions and to picked up employee contributions that are paid to a defined benefit plan. 
+
+(2) 
+For purposes of applying Section 415(c) of the Internal Revenue Code and for no other purpose, the definition of compensation where applicable will be compensation actually paid or made available during a limitation year, except as noted below and as permitted by Treasury Regulation Section 1.415(c)-2, or successor regulation; provided, however, that member contributions picked up under Section 414(h) of the Internal Revenue Code shall not be treated as compensation. 
+
+(3) 
+Compensation will be defined as wages within the meaning of Section 3401(a) of the Internal Revenue Code and all other payments of compensation to an employee by an employer for which the employer is required to furnish the employee a written statement under Sections 6041(d), 6051(a)(3) and 6052 of the Internal Revenue Code and will be determined without regard to any rules under Section 3401(a) of the Internal Revenue Code that limit the remuneration included in wages based on the nature or location of the employment or the services performed (such as the exception for agricultural labor in Section 3401(a)(2) of the Internal Revenue Code). 
+
+(A) 
+However, for limitation years beginning after December 31, 1997, compensation will also include amounts that would otherwise be included in compensation but for an election under Section 125(a), 402(e)(3), 402(h)(1)(B), 402(k), or457(b)oftheInternalRevenueCode.Forlimitationyearsbeginningafter December 31,2000,compensation shall also include any elective amounts that are not includible in the gross income of the member by reason of Section 132(f)(4) of the Internal Revenue Code. 
+
+(B) 
+For limitation years beginning on and after July 1, 2009, compensation for the limitation year shall also include compensation paid by the later of two and one-half (2 1/2) months after a member's severance from employment or the end of the limitation year that includes the date of the member's severance from employment if: 
+
+(i) 
+the payment is regular compensation for services during the member's regular working hours, or compensation for services outside the member's regular working hours (such as overtime or shift differential), commissions, bonuses or other similar payments, and, absent a severancefrom employment, the payments would have been paid to the member while the member continued in employment with the employer; or 
+
+(ii) 
+the payment is for unused accrued bona fide sick, vacation, or other leave that the member would have been 
+
+
+
+
+
+
+
+
+able to use if employment had continued. However, compensation under subsection (m)(3)(B) this clause which is received from the employer in contemplation of the member's retirement, including severance pay, termination pay, retirement bonus, or commutation of unused sick leave or personal leave, shall be limited to no more than two thousand dollars ($2,000); 
+(iii) payments pursuant to a nonqualified unfunded deferred compensation plan, but only if the payments would have been paid to the member at the same time if the member had continued employment with the employer and only to the extent that the payment is includible in the member's gross income. 
+Any payments not described in this clause are not considered compensation if paid after severance from employment, even if they are paid within two and one-half (2 1/2) months following severance from employment, except for payments to the individual who does not currently perform services for the employer by reason of qualified military service (within the meaning of Section 414(u)(1) of the Internal Revenue Code) to the extent these payments do not exceed the amounts the individual would have received if the individual had continued to perform services for the employer rather than entering qualified military service. An employee who is in qualified military service (within the meaning of Section 414(u)(1) of the Internal Revenue Code) shall be treated as receiving compensation from the employer duringsuch periodofqualifiedmilitaryserviceequaltothecompensation theemployeewouldhavereceived during such period if the employee were not in qualified military service, determined based on the rate of pay the employee would have received from the employer but for the absence during the period of qualified military service, or, if the compensation the employee would have received during such period was not reasonably certain, the employee's average compensation from the employer during the twelve (12) month period immediately preceding the qualified military service (or, if shorter, the period of employment immediately preceding the qualified military service). 
+(C) Back pay, within the meaning of Treasury Regulation Section 1.415(c)-2(g)(8), shall be treated as compensation for the limitation year to which the back pay relates to the extent the back pay represents wages and compensation that would otherwise be included under this definition. 
+(4) For limitation years beginning on or after July 1, 2009, a member's compensation for purposes of subsection (m) this subsection shall not exceed the annual limit under Section 401(a)(17) of the Internal Revenue Code. 
+(n) 
+Any repayment of contributions (including interest thereon) to the plan with respect to an amount previously refunded upon a forfeiture of service credit under the plan or another governmental plan maintained by the retirement system shall not be taken into account for purposes of Section 415 of the Internal Revenue Code, in accordance with applicable treasury regulations. 
+
+(o) 
+Reduction of benefits and/or contributions to all plans, where required, shall be accomplished by first reducing the member's benefit under any defined benefit plans in which the member participated, such reduction to be made first with respect to the plan in which the member most recently accrued benefits and thereafter in such priority as shall be determined by the plan and the plan administrator of such other plans, and next, by reducing or allocating excess forfeitures for defined contribution plans in which the member participated, such reduction to be made first with respect to the plan in which the member most recently accrued benefits and thereafter in such priority as shall be established by the plan and the plan administrator for such other plans provided, however, that necessaryreductions maybemadein a different manner and prioritypursuanttotheagreement oftheplan and the plan administrator of all other plans covering such member. 
+
+(p) 
+Effective for permissive service credit contributions made in limitation years beginning after December 31, 1997, if a member makes one (1) or more contributions to purchase permissive service credit under the plan, then the requirements of Section 415(n) of the Internal Revenue Code will be treated as met only if: 
+
+(1) 
+the requirements of Section 415(b) of the Internal Revenue Code are met, determined by treating the accrued benefit derived from all such contributions as an annual benefit for purposes of Section 415(b) of the Internal Revenue Code; or 
+
+(2) 
+the requirements of Section 415(c) of the Internal Revenue Code are met, determined by treating all such contributions as annual additions for purposes of Section 415(c) of the Internal Revenue Code. 
+
+(3) 
+For purposes of applying this section, the system will not fail to meet the reduced limit under Section 415(b)(2)(C) of the Internal Revenue Code solely by reason of this subdivision and will not fail to meet the percentage limitation under Section 415(c)(1)(B) of the Internal Revenue Code solely by reason of this section. 
+
+(4) 
+For purposes of this section, the term "permissive service credit" means service credit: 
+
+(A) 
+recognized by the system for purposes of calculating a member's benefit under the system; 
+
+(B) 
+which such member has not received under the system; and 
+
+(C) 
+which such member may receive only by making a voluntary additional contribution, in an amount determined under the system, which does not exceed the amount necessary to fund the benefit attributable to such service credit. 
+
+(D) 
+Effective for permissive service credit contributions made in limitation years beginning after December 31, 1997, such term may include service credit for periods for which there is no performance of service, and, notwithstanding clause (B), may include service credited in order to provide an increased benefit for service credit which a member is receiving under the system. 
+
+
+
+(5) 
+The system will fail to meet the requirements of this section if: 
+
+(A) more than five (5) years of nonqualified service credit are taken into account for purposes of this clause; or 
+(B)anynonqualifiedservicecredit istaken intoaccount under thissection beforethemember hasatleastfive(5)years of participation under the system. 
+
+(6) 
+For purposes of subdivision (5), effective for permissive service credit contributions made in limitation years beginning after December 31, 1997, the term "nonqualified service credit" means permissive service credit other than that allowed with respect to: 
+
+(A) 
+service (including parental, medical, sabbatical, and similar leave) as an employee of the government of the United States, any state or political subdivision thereof, or any agency or instrumentality of any of the foregoing (other than military service or service for credit which was obtained as a result of a repayment described in Section 415(k)(3) of the Internal Revenue Code); 
+
+(B) 
+service (including parental, medical, sabbatical, and similar leave) as an employee (other than as an employee described in clause (A)) of an education organization described in Section 170(b)(1)(A)(ii) of the Internal Revenue Codewhich isa public, private, or sectarian school which provideselementaryor secondaryeducation (through grade 12), or a comparable level of education, as determined under the applicable law of the jurisdiction in which the service was performed; 
+
+(C) 
+service as an employee of an association of employees who are described in clause (A); or 
+
+(D) 
+military service (other than qualified military service under Section 414(u) of the Internal Revenue Code) recognized by the system. 
+
+(E) 
+In the case of service described in clause (A), (B), or (C), such service will be nonqualified service if recognition of such service would cause a member to receive a retirement benefit for the same service under more than one (1) plan. 
+
+
+
+(7) 
+In the case of a trustee-to-trustee transfer after December 31, 2001, to which Section 403(b)(13)(A) of the Internal Revenue Code or Section 457(e)(17)(A) of the Internal Revenue Code applies (without regard to whether the transfer is made between plans maintained by the same employer): 
+
+(A) 
+the limitations of subdivision (5) will not apply in determining whether the transfer is for the purchase of permissive service credit; and 
+
+(B) 
+the distribution rules applicable under federal law to the system will apply to such amounts and any benefits attributable to such amounts. 
+
+
+
+(8) 
+For an eligible member, the limitation of Section 415(c)(1) of the Internal Revenue Code shall not be applied to reduce the amount of permissive service credit which may be purchased to an amount less than the amount which was allowed to be purchased under the terms of a plan as in effect on August 5, 1997. For purposes of this subdivision, an eligible member is an individual who first became a member in the system before July 1, 1999. 
+
+
+
+
+(Board of Trustees of the Indiana Public Retirement System; 35 IAC 16-1-1; adopted Dec 16, 2009: 20100106-IR-550090990ONA; errata filed Jan 19, 2010, 12:48 p.m.: 20100203-IR-550100043ACA; adopted Jun 29, 2012: 20120718-IR-035120397ONA)NOTE: Transferred from the Board of Trustees of the Indiana State Teachers' Retirement Fund (550 IAC 4.5-1-1) to the Board of Trustees of the Indiana Public Retirement System (35 IAC 16-1-1) by P.L.23-2011, SECTION 22, effective July 1, 2011. 
+* 
+
+

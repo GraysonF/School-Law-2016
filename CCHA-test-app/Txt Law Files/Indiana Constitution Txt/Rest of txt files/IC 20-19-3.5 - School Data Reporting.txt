@@ -1,0 +1,136 @@
+IC 20-19-3.5 Chapter 3.5. School Data Reporting 
+IC 20-19-3.5-1 "Committee" 
+Sec. 1. As used in this chapter, "committee" refers to the committee on school data reporting established in section 3 of this chapter. As added by P.L.233-2015, SEC.38. 
+
+IC 20-19-3.5-2 "Qualified data" 
+Sec. 2. As used in this chapter, "qualified data" means any data collection, report, survey, or other method used by a state agency to collect data regarding assessments, performance, course enrollment, demographics, or any other information from schools or school corporations that is not specifically authorized by statute to be collected by the department or the state board. As added by P.L.233-2015, SEC.38. 
+
+IC 20-19-3.5-3 Committee on qualified data reporting established; membership; committee administration 
+Sec. 3. (a) The committee on school data reporting is established to review all regulations or forms required or proposed by any state agency that seek to require a school to report data to a state agency or to the public. 
+(b) The committee consists of the following members: 
+(1) 
+The state superintendent or the state superintendent's designee. 
+
+(2) 
+One (1) member who is a member of the state board selected by the state board. 
+
+(3) 
+One (1) member who is a current school corporation administrator selected by the Indiana Association of Public School Superintendents. 
+
+(4) 
+One (1) member who is a representative of school boards selected by the Indiana School Boards Association. 
+
+(5) 
+One (1) member who is a representative of school business officials who is selected by the Indiana Association of School Business Officials. 
+
+(6) 
+One (1) member who is a representative of accredited nonpublic schools who is selected by the Indiana Non-Public Education Association. 
+
+(7) 
+One (1) member who is a representative of charter schools selected by an organization representing charter schools. 
+
+(8) 
+One (1) member who is a teacher employed by a school corporation selected by the state superintendent. 
+
+(9) 
+The chief information officer or designee of the office of 
+
+technology established by IC 4-13.1-2-1. 
+
+(10) 
+One (1) member representing state government that has knowledge of school reporting requirements to state agencies other than the department, appointed by the governor. 
+
+
+(c) 
+Each member appointed under subsection (b) shall serve at the will and pleasure of the member's respective appointing authority. Vacancies in the appointments to the committee shall be filled in like manner as if appointment to such vacant offices were being made originally. 
+
+(d) A quorum consists of six (6) members of the committee. 
+
+(e)
+ The member described in subsection (b)(1) shall serve as the chairperson of the committee. 
+
+
+(f) The state board shall designate staff and administrative support for the committee. As added by P.L.233-2015, SEC.38. 
+
+IC 20-19-3.5-4 Salary per diem; reimbursement of travel expenses 
+Sec. 4. (a) Each member of the committee who is not a state employee is entitled to the minimum salary per diem provided by IC 4-10-11-2.1(b) and reimbursement for traveling expenses as provided under IC 4-13-1-4 and other expenses actually incurred in connection with the member's duties as provided in the state policies and procedures established by the Indiana department of administration and approved by the budget agency. 
+(b) Each member of the committee who is a state employee is entitled to reimbursement for traveling expenses as provided under IC 4-13-1-4 and other expenses actually incurred in connection with the member's duties as provided in the state policies and procedures established by the Indiana department of administration and approved by the budget agency. As added by P.L.233-2015, SEC.38. 
+
+IC 20-19-3.5-5 Committee meetings 
+Sec. 5. The committee shall meet at least once every six (6) months and at the call of the chairperson. A member of the committee may participate in a committee meeting using an electronic communication in the manner prescribed in IC 5-14-1.5-3.6. As added by P.L.233-2015, SEC.38. 
+
+IC 20-19-3.5-6 State board approval of qualified data collections 
+Sec. 6. (a) After July 31, 2015, all qualified data collections must be expressly approved by the state board after it is has been reviewed by the committee under subsection (c) before schools and school corporations are required to submit the information to the state board or the department. The department may not require schools or school corporations to submit any qualified data collection unless the qualified data collection is approved by the state board under this subsection. The department shall maintain on its Internet web site a list of all qualified data collections approved by the state board and the deadline by which each school or school corporation shall submit the information. 
+(b) 
+After July 31, 2015, the state board and the department may not sanction, penalize, or in any way hold a school or school corporation accountable for failing to submit a qualified data collection report if the qualified data collection was not approved by the state board under subsection (a). 
+
+(c) 
+Not later than August 1, 2015, the committee, in consultation with the department, shall review current collection of: 
+
+(1) 
+qualified data from accredited schools; and 
+
+(2) 
+data collection by another public agency (as defined in 
+
+
+
+
+IC 5-14-1.5-2) of the state from accredited schools. Based on the committee's review, the committee shall make recommendations to the state board whether to continue the qualified data collection and ways or methods to streamline qualified data collection and data collection by another public agency of the state from schools, including the development of a standardized school improvement plan template for use by school corporations to prepare school improvement plans. After submitting the committee's initial recommendations regarding current qualified data and data collections to the state board, the committee shall review qualified data collection requests made by the department and the state board after July 31, 2015, and make recommendations to the state board as to whether the qualified data collection is necessary or ways to streamline the qualified data collection. In addition, the committee shall review and make recommendations to the state board under subsection (d) regarding methods to streamline school safety and discipline reporting requirements as well as establishing a streamlined method to uniformly and consistently report instances of bullying throughout Indiana. The committee may not change the data reporting requirements for data used by the state board to place each school in a category or designation of school performance under IC 20-31-8-4. 
+(d) 
+The committee shall submit its recommendations under subsection (c) to the state board. Upon receipt of the committee's recommendations, the state board shall vote to either approve or disapprove the qualified data request or recommendations. The decision of the state board is final. The state board shall consider the committee's recommendations at the state board's next meeting after receiving the committee's recommendations under subsection (c). 
+
+(e) 
+The committee may recommend the collection of qualified data under subsection (c) and the state board may approve the recommendation under subsection (d) only if the: 
+
+
+(1) 
+qualified data is not available to the public agency requesting the information from any other source; and 
+
+(2) 
+benefit from the collection of the qualified data is greater than the overall administrative cost of collecting the qualified data. 
+
+
+As added by P.L.233-2015, SEC.38. 
+
+IC 20-19-3.5-7 Committee review of statutory reporting requirements; report 
+Sec. 7. (a) Before December 1, 2015, the state board, in consultation with the department and based upon recommendations by the committee, shall review all statutory reporting requirements and qualified data collection and data collection by various public agencies (as defined in IC 5-14-1.5-2) of the state and shall submit a report to the governor and, in an electronic format under IC 5-14-6, to the general assembly. The report must include the following: 
+(1) 
+A detailed description of actions that will be taken by the state board and the department to reduce the amount of information schools or school corporations must report to the state. 
+
+(2) 
+A detailed summary describing the actions taken by the department and the state board to combine, streamline, or eliminate duplicative data or information requests from schools and school corporations. 
+
+(3) 
+A detailed description of how the state board is working with other public agencies of the state to minimize or streamline data collection by those agencies. 
+
+(4) 
+Specific legislative recommendations to the general assembly necessary to eliminate duplicative data reporting and any recommended legislative changes that would make school data reporting to various public agencies of the state more efficient and cost effective. 
+
+
+(b) Before December 1, 2016, the state board shall submit an updated report to the governor and, in an electronic format under IC 5-14-6, to the general assembly containing the progress of the state board and the department to eliminate duplicative data reporting and information requests to schools of any additional recommended legislative changes that would streamline school data reporting to the state that was not included in the state board's report submitted under subsection (a). As added by P.L.233-2015, SEC.38. 
+
+IC 20-19-3.5-8 Consolidated quarterly electronic reporting to public agencies 
+Sec. 8. (a) After June 30, 2015, all reports required to be submitted to a public agency (as defined in IC 5-14-1.5-2) of the state by accredited schools must be collected electronically and must be collected through one (1) regularly scheduled consolidated report that is collected no more frequently than on a quarterly basis through an electronic database administered by the department established by rule under IC 4-22-2. 
+(b) This section does not apply to: 
+(1) 
+any collection of data if the office of management and budget has approved a waiver of the application of this section; 
+
+(2) 
+tax reporting; 
+
+(3) 
+an investigation authorized by federal or state statute or regulation; or 
+
+(4) 
+testing material. 
+
+
+As added by P.L.233-2015, SEC.38. 
+
+IC 20-19-3.5-9 Administrative rules 
+Sec. 9. The state board shall establish rules under IC 4-22-2 necessary to administer this chapter. As added by P.L.233-2015, SEC.38. 
+IC 20-19-3.5-10 Expiration 
+Sec. 10. This chapter expires July 1, 2017. 
+As added by P.L.233-2015, SEC.38. 
+

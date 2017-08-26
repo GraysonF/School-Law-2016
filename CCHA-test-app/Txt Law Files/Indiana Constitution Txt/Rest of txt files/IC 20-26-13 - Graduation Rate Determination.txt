@@ -1,0 +1,198 @@
+IC 20-26-13 Chapter 13. Graduation Rate Determination 
+IC 20-26-13-1 Applicability 
+Sec. 1. This chapter applies to: 
+(1) 
+a public high school; and 
+
+(2) 
+an accredited nonpublic high school. 
+
+
+As added by P.L.1-2005, SEC.10. 
+
+IC 20-26-13-2 "Cohort" 
+Sec. 2. As used in this chapter, "cohort" refers to a class of students who: 
+(1) 
+attend the same high school; and 
+
+(2) 
+are first considered to have entered grade 9 in the same year. 
+
+
+As added by P.L.1-2005, SEC.10. Amended by P.L.229-2007, SEC.3. 
+
+IC 20-26-13-3 "Enrollment" 
+Sec. 3. As used in this chapter, "enrollment" means the total number of students within a grade that is reported to the department annually on: 
+(1) 
+October 1; or 
+
+(2) 
+a date specified by the department. 
+
+
+As added by P.L.1-2005, SEC.10. 
+
+IC 20-26-13-4 
+"Expected graduation year" 
+
+Sec. 4. As used in this chapter, "expected graduation year" means the reporting year beginning three (3) years after the reporting year in which a student is first considered by a school corporation to have entered grade nine. As added by P.L.1-2005, SEC.10. 
+
+IC 20-26-13-5 "Graduation" 
+Sec. 5. (a) As used in this chapter, "graduation" means the successful completion by a student of: 
+(1) 
+a sufficient number of academic credits, or the equivalent of academic credits; and 
+
+(2) 
+the graduation examination or waiver process required 
+
+
+under IC 20-32-3 through IC 20-32-5; resulting in the awarding of a high school diploma or an academic honors diploma. 
+(b) The term does not include the granting of a general educational development diploma under IC 20-20-6 (before its repeal) or IC 22-4.1-18. 
+As added by P.L.1-2005, SEC.10. Amended by P.L.7-2011, SEC.9; P.L.286-2013, SEC.82. 
+
+IC 20-26-13-6 "Graduation rate" 
+Sec. 6. As used in this chapter, "graduation rate" means the percentage of students within a cohort who graduate during their expected graduation year. As added by P.L.1-2005, SEC.10. 
+
+IC 20-26-13-7 "Reporting year" 
+Sec. 7. As used in this chapter, "reporting year" refers to the period beginning October 1 of a year and ending September 30 of the following year. As added by P.L.1-2005, SEC.10. 
+
+IC 20-26-13-8 "Retention" 
+Sec. 8. As used in this chapter, "retention" refers to the reclassification by a school corporation of a student that places the student into a cohort that has an expected graduation year after the expected graduation year of the student's initial cohort. As added by P.L.1-2005, SEC.10. 
+
+IC 20-26-13-9 Graduation rate determination by department 
+Sec. 9. Beginning with the class of students who are expected to graduate in the 2005-2006 school year, the department shall determine the graduation rate of high school students under this chapter. As added by P.L.1-2005, SEC.10. 
+
+IC 20-26-13-10 Formula to determine four year graduation rate 
+Sec. 10. Except as provided in section 11 of this chapter, the four 
+(4) year graduation rate for a cohort in a high school is the 
+percentage determined under STEP FIVE of the following formula: STEP ONE: Determine the grade 9 enrollment at the beginning of the reporting year three (3) years before the reporting year for which the graduation rate is being determined. STEP TWO: Add: 
+(A) 
+the number determined under STEP ONE; and 
+
+(B) 
+the number of students who: 
+
+(i) 
+have enrolled in the high school after the date on which the number determined under STEP ONE was determined; and 
+
+(ii) 
+have the same expected graduation year as the cohort. 
+
+
+
+
+STEP THREE: Subtract from the sum determined under STEP TWO the number of students who have left the cohort for any of the following reasons: 
+(A) 
+Transfer to another public or nonpublic school. 
+
+(B) 
+Except as provided in IC 20-33-2-28.6, removal by the student's parents under IC 20-33-2-28 to provide instruction equivalent to that given in the public schools. 
+
+(C) 
+Withdrawal because of a long term medical condition or death. 
+
+(D) 
+Detention by a law enforcement agency or the department of correction. 
+
+(E) 
+Placement by a court order or the department of child services. 
+
+(F) 
+Enrollment in a virtual school. 
+
+(G) 
+Leaving school, if the student attended school in Indiana for less than one (1) school year and the location of the student cannot be determined. 
+
+(H) 
+Leaving school, if the location of the student cannot be determined and the student has been reported to the Indiana clearinghouse for information on missing children and missing endangered adults. 
+
+(I) 
+Withdrawing from school before graduation, if the student is a high ability student (as defined in IC 20-36-1-3) who is a full-time student at an accredited institution of higher education during the semester in which the cohort graduates. 
+
+
+STEP FOUR: Determine the total number of students determined under STEP TWO who have graduated during the current reporting year or a previous reporting year. STEP FIVE: Divide: 
+(A) 
+the number determined under STEP FOUR; by 
+
+(B) 
+the remainder determined under STEP THREE. 
+
+
+As added by P.L.1-2005, SEC.10. Amended by P.L.242-2005, SEC.11; P.L.145-2006, SEC.151; P.L.229-2007, SEC.4; P.L.45-2008, SEC.1; P.L.43-2009, SEC.17; P.L.268-2013, SEC.1. 
+
+IC 20-26-13-10.2 Formula to determine five year graduation rate 
+Sec. 10.2. In the reporting year immediately following the determination of a cohort's four (4) year graduation rate under section 10 of this chapter, the department shall calculate a five (5) year graduation rate for the cohort using the following formula: 
+STEP ONE: Determine the number determined under STEP FOUR of the formula established in section 10 of this chapter. STEP TWO: Add: 
+(A) 
+the number determined under STEP ONE; and 
+
+(B) 
+the number of students in the cohort who have graduated during the current reporting year. 
+
+
+STEP THREE: Divide: 
+(A) 
+the sum determined under STEP TWO; by 
+
+(B) 
+the remainder determined under STEP THREE of the formula established in section 10 of this chapter. 
+
+
+As added by P.L.229-2007, SEC.5. 
+
+IC 20-26-13-10.5 Formula to determine six or subsequent year graduation rate 
+Sec. 10.5. In the reporting year immediately following the determination of a cohort's five (5) year graduation rate under section 
+10.2 of this chapter and each subsequent reporting year, the department shall calculate a six (6) or subsequent year graduation rate for the cohort using the following formula: 
+STEP ONE: Determine the number determined under STEP TWO of the formula established in section 10.2 of this chapter. STEP TWO: Add: 
+(A) 
+the number determined under STEP ONE; and 
+
+(B) 
+the number of students in the cohort who have graduated 
+
+
+during the current reporting year. 
+STEP THREE: Divide: 
+
+(A) 
+the sum determined under STEP TWO; by 
+
+(B) 
+the remainder determined under STEP THREE of the formula established in section 10 of this chapter. 
+
+
+As added by P.L.229-2007, SEC.6. 
+
+IC 20-26-13-10.7 Student included in only one graduation year 
+Sec. 10.7. For purposes of determining a graduation rate under sections 10, 10.2, and 10.5 of this chapter, a student may be counted as a member of only one (1) cohort and as graduating during only one (1) reporting year. As added by P.L.229-2007, SEC.7. Amended by P.L.45-2008, SEC.2. 
+
+IC 20-26-13-11 Student who has left school; responsibility of state attendance officer 
+Sec. 11. (a) A student who has left school is not included in clauses (A) through (I) of STEP THREE of the formula established in section 10 of this chapter unless the school corporation can provide written proof that the student has left the school for one (1) of the reasons set forth in clauses (A) through (I) of STEP THREE of section 10 of this chapter. If the location of the student is unknown to the school, the principal of the school shall send a certified letter to the last known address of the student, inquiring about the student's whereabouts and status. If the student is not located after the certified letter is delivered or if no response is received, the principal may submit the student's information, including last known address, parent or guardian name, student testing number, and other pertinent data to the state attendance officer. The state attendance officer, using all available state data and any other means available, shall attempt to locate the student and report the student's location and school enrollment status to the principal so that the principal can appropriately send student records to the new school or otherwise document the student's status. 
+(b) If a school corporation cannot provide written proof that a student should be included in clauses (A) through (I) of STEP THREE of section 10 of this chapter, the student is considered a dropout. As added by P.L.242-2005, SEC.12. Amended by P.L.229-2007, SEC.8. 
+
+IC 20-26-13-12 Estimated graduation rate 
+Sec. 12. For each high school, the department shall calculate an estimated graduation rate that is determined by the total number of graduates for the reporting year divided by the total number of students enrolled in grade 9 at the school three (3) years before the reporting year. For any school where the difference between the estimated graduation rate and the number determined under STEP FIVE of section 10 of this chapter is more than five percent (5%), the department shall request the data used in determining that the missing students are classified under one (1) or more of clauses (A) through (I) of STEP THREE of section 10 of this chapter. As added by P.L.242-2005, SEC.13. Amended by P.L.229-2007, SEC.9; P.L.45-2008, SEC.3. 
+
+IC 20-26-13-13 Corrected graduation rate 
+Sec. 13. For any school that cannot provide written proof supporting the school's determination to include a student under any one (1) of clauses (A) through (I) of STEP THREE of section 10 of this chapter, the department shall require the publication of the corrected graduation rate in the next school year's report required under IC 20-20-8-3. As added by P.L.242-2005, SEC.14. Amended by P.L.229-2007, SEC.10. 
+
+IC 20-26-13-14 Report; contents 
+Sec. 14. (a) Each reporting year, the department shall determine and report the following for each cohort: 
+(1) 
+A four (4) year graduation rate determined under section 10 of this chapter. 
+
+(2) 
+A five (5) year graduation rate determined under section 
+
+
+10.2 of this chapter. 
+(3) A six (6) and subsequent year graduation rate determined under section 10.5 of this chapter. 
+(b) Except for the correction of calculation errors, a four (4) year and five (5) year graduation rate may not be altered after the rates are initially reported. As added by P.L.229-2007, SEC.11. 
+
+IC 20-26-13-15 Deadline for schools to report graduation information; report date for four year graduation rate 
+Sec. 15. (a) The provisions of sections 12 and 13 of this chapter must be completed before the release of the reports required under section 14 of this chapter. The department shall establish deadlines for each school to provide the information required under section 13 of this chapter. 
+(b) Notwithstanding subsection (a), the department shall report the four (4) year graduation rates for each cohort not later than January 15 following the cohort's expected graduation rate. As added by P.L.229-2007, SEC.12. 
+
+IC 20-26-13-16 Graduation rate determination under National Governors' Association guidelines 
+Sec. 16. In addition to any other determination required under this chapter, the department shall determine and report a statewide graduation rate that is consistent with guidelines developed by the National Governors' Association. If the guidelines are unclear or allow flexibility in determination, the requirements of this chapter apply to the determination of a statewide graduation rate. However, cohort members who leave after less than one (1) year of attendance in an Indiana school and whose location cannot be determined may not be subtracted in the calculation of a statewide graduation rate. As added by P.L.229-2007, SEC.13. 
+

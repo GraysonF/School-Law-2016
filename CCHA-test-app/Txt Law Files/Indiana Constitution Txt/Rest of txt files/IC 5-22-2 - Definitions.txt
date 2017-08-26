@@ -1,0 +1,272 @@
+IC 5-22-2 Chapter 2. Definitions 
+IC 5-22-2-0.1 Application of certain amendments to chapter 
+Sec. 0.1. The amendments made to section 1 of this chapter in the 2005 regular session of the general assembly apply only to a contract entered into or renewed after May 6, 2005. As added by P.L.220-2011, SEC.101. Amended by P.L.13-2013, SEC.11. 
+
+IC 5-22-2-1 Applicability of definitions 
+Sec. 1. Except as otherwise provided, the definitions in this chapter apply throughout this article. As added by P.L.49-1997, SEC.1. Amended by P.L.165-2005, SEC.2 and P.L.222-2005, SEC.25. 
+
+IC 5-22-2-1.3 "Affiliate" 
+Sec. 1.3. "Affiliate" means a business entity that effectively controls or is controlled by a contractor or is associated with a contractor under common ownership or control, whether by shareholdings or other means, including a subsidiary, parent, or sibling of a contractor. As added by P.L.165-2005, SEC.3 and P.L.222-2005, SEC.26. Amended by P.L.1-2006, SEC.123. 
+
+IC 5-22-2-2 "Change order" 
+Sec. 2. "Change order" means a written order that: 
+(1) 
+is signed by the purchasing agent; and 
+
+(2) 
+directs the contractor to make changes that the contract authorizes the purchasing agent to order without the consent of the contractor. 
+
+
+As added by P.L.49-1997, SEC.1. 
+
+IC 5-22-2-2.5 "Consolidated purchase" 
+Sec. 2.5. "Consolidated purchase" means the purchase of multiple supplies or services from one (1) vendor. As added by P.L.46-2007, SEC.1. 
+
+IC 5-22-2-2.7 "Committee" 
+Sec. 2.7. "Committee" refers to the committee for the purchase of products and services established under IC 16-32-2-2. As added by P.L.46-2007, SEC.2. 
+
+IC 5-22-2-3 
+"Contract modification" 
+
+Sec. 3. "Contract modification" means a written alteration: 
+(1) 
+in a specification, delivery point, rate of delivery, period of performance, price, quantity, or another provision of a contract; and 
+
+(2) 
+accomplished by mutual action of the parties to the contract. 
+
+
+As added by P.L.49-1997, SEC.1. 
+
+IC 5-22-2-4 "Contractor" 
+Sec. 4. "Contractor" refers to a person who has a contract with a governmental body. As added by P.L.49-1997, SEC.1. 
+
+IC 5-22-2-5 
+"Cost reimbursement contract" 
+
+Sec. 5. "Cost reimbursement contract" means a contract that entitles a contractor to receive: 
+(1) 
+reimbursement for costs that are allowable and allocable in accordance with the contract terms and the provisions of this article; and 
+
+(2) 
+a fee, if any. 
+
+
+As added by P.L.49-1997, SEC.1. 
+
+IC 5-22-2-6 "Data" 
+Sec. 6. "Data" means recorded information, regardless of its form or characteristics. As added by P.L.49-1997, SEC.1. 
+
+IC 5-22-2-7 Repealed 
+(As added by P.L.49-1997, SEC.1. Repealed by P.L.177-2005, SEC.47.) 
+
+IC 5-22-2-8 "Designee" 
+Sec. 8. "Designee" means an authorized representative. 
+As added by P.L.49-1997, SEC.1. 
+
+IC 5-22-2-9 
+"Established catalog price" 
+
+Sec. 9. "Established catalog price" refers to the price included in a catalog, price list, schedule, or other form that: 
+(1) 
+is regularly maintained by the manufacturer or contractor; 
+
+(2) 
+is either published or otherwise available for inspection by customers; and 
+
+(3) 
+states prices at which sales are currently or were last made to a significant number of any category of buyers, or buyers constituting the general buying public, for the supplies or services involved. 
+
+
+As added by P.L.49-1997, SEC.1. 
+
+IC 5-22-2-10 "Executive branch" 
+Sec. 10. "Executive branch" refers to the department of state government provided in Articles 5 and 6 of the Constitution of the State of Indiana. As added by P.L.49-1997, SEC.1. 
+
+IC 5-22-2-11 "Fiscal body" 
+Sec. 11. "Fiscal body" means the following: 
+(1) 
+For a state agency, the term refers to the budget agency. 
+
+(2) 
+For a political subdivision, the term has the meaning set forth in IC 36-1-2-6. 
+
+(3) 
+For a governmental body not described in subdivision (1) or (2), the term means the person that has primary responsibility for the fiscal affairs of the governmental body. 
+
+
+As added by P.L.49-1997, SEC.1. 
+
+IC 5-22-2-12 "Gift" 
+Sec. 12. "Gift" includes a bequest, cooperative agreement, and grant. As added by P.L.49-1997, SEC.1. 
+
+IC 5-22-2-13 "Governmental body" 
+Sec. 13. "Governmental body" means an agency, a board, a branch, a bureau, a commission, a council, a department, an institution, an office, or another establishment of any of the following: 
+(1) 
+The executive branch. 
+
+(2) 
+The judicial branch. 
+
+(3) 
+The legislative branch. 
+
+(4) 
+A political subdivision. 
+
+
+As added by P.L.49-1997, SEC.1. 
+
+IC 5-22-2-13.2 
+"Office of technology" 
+
+Sec. 13.2. "Office of technology" refers to the office of technology established by IC 4-13.1-2-1. As added by P.L.177-2005, SEC.21. 
+
+IC 5-22-2-13.5 "Internet" 
+Sec. 13.5. "Internet" means the international computer network of both federal and nonfederal interoperable packet switched data networks, including the graphical subnetwork called the world wide web. As added by P.L.93-2004, SEC.4. 
+
+IC 5-22-2-13.7 
+"Internet purchasing site" 
+
+Sec. 13.7. "Internet purchasing site" means an open and interactive electronic environment that is designed to facilitate the purchase of supplies by means of the Internet. The term includes an Internet purchasing site developed under IC 4-13-17. As added by P.L.93-2004, SEC.5. 
+
+IC 5-22-2-13.9 Repealed 
+(As added by P.L.31-2002, SEC.1. Repealed by P.L.177-2005, SEC.47.) 
+
+IC 5-22-2-14 "Invitation for bids" 
+Sec. 14. "Invitation for bids" means all documents, whether attached or incorporated by reference, used for soliciting bids. As added by P.L.49-1997, SEC.1. 
+
+IC 5-22-2-15 "Judicial branch" 
+Sec. 15. "Judicial branch" refers to the department of state government provided in Article 7 of the Constitution of the State of Indiana. As added by P.L.49-1997, SEC.1. 
+
+IC 5-22-2-16 "Legislative branch" 
+Sec. 16. "Legislative branch" refers to the department of state government provided in Article 4 of the Constitution of the State of Indiana. As added by P.L.49-1997, SEC.1. 
+
+IC 5-22-2-17 "Offer" 
+Sec. 17. (a) "Offer" means a response to a solicitation. 
+(b) The term includes a bid, proposal, and quote. 
+As added by P.L.49-1997, SEC.1. 
+IC 5-22-2-18 "Offeror" 
+
+Sec. 18. "Offeror" means a person that submits an offer to a governmental body. As added by P.L.49-1997, SEC.1. 
+
+IC 5-22-2-19 "Operating agreement" 
+Sec. 19. "Operating agreement" has the meaning set forth in IC 5-23-2-7. As added by P.L.49-1997, SEC.1. 
+
+IC 5-22-2-20 "Person" 
+Sec. 20. "Person" includes an association, a business, a committee, a corporation, a fiduciary, an individual, a joint stock company, a joint venture, a limited liability company, a partnership, a sole proprietorship, a trust, or another legal entity, organization, or group of individuals. As added by P.L.49-1997, SEC.1. 
+
+IC 5-22-2-21 "Policy" 
+Sec. 21. "Policy" refers to a governmental body's or purchasing agency's written statement of: 
+(1) purchasing procedure; or 
+(2) substantive purchasing purposes;
+ that does not have the force and effect of law. 
+
+As added by P.L.49-1997, SEC.1. 
+
+IC 5-22-2-22 "Political subdivision" 
+Sec. 22. "Political subdivision" has the meaning set forth in IC 36-1-2-13. As added by P.L.49-1997, SEC.1. 
+
+IC 5-22-2-23 "Public funds" 
+Sec. 23. (a) "Public funds" means money: 
+(1) 
+derived from the revenue sources of the governmental body; and 
+
+(2) 
+deposited into the general or a special fund of the governmental body. 
+
+
+(b) The term does not include either of the following: 
+(1) 
+Money received by any person managing or operating a public facility under an authorized operating agreement under IC 5-23. 
+
+(2) 
+Proceeds of bonds payable exclusively by a private entity. 
+
+
+As added by P.L.49-1997, SEC.1. 
+
+IC 5-22-2-24 "Purchase" 
+Sec. 24. (a) "Purchase" includes buy, procure, rent, lease, or otherwise acquire. 
+(b) The term includes the following activities: 
+(1) 
+Description of requirements. 
+
+(2) 
+Solicitation or selection of sources. 
+
+(3) 
+Preparation and award of contract. 
+
+(4) 
+All phases of contract administration. 
+
+(5) 
+All functions that pertain to purchasing. 
+
+
+As added by P.L.49-1997, SEC.1. 
+
+IC 5-22-2-25 "Purchasing agency" 
+Sec. 25. "Purchasing agency" means a governmental body that is authorized to enter into contracts by this article, rules adopted under this article, or by another law. As added by P.L.49-1997, SEC.1. 
+
+IC 5-22-2-26 "Purchasing agent" 
+Sec. 26. "Purchasing agent" means an individual authorized by a purchasing agency to act as an agent for the purchasing agency in the administration of the duties of the purchasing agency. As added by P.L.49-1997, SEC.1. 
+
+IC 5-22-2-27 "Purchase description" 
+Sec. 27. (a) "Purchase description" means the words used in a solicitation to describe the supplies or services to be purchased. 
+(b) The term includes specifications attached to, or made a part of, the solicitation. As added by P.L.49-1997, SEC.1. 
+
+IC 5-22-2-28 
+"Request for proposals" or "RFP" 
+
+Sec. 28. "Request for proposals" or "RFP" means all documents, whether attached or incorporated by reference, used for soliciting proposals. As added by P.L.49-1997, SEC.1. 
+
+IC 5-22-2-28.5 "Reverse auction" 
+Sec. 28.5. "Reverse auction" means a method of purchasing in which offerors submit offers in an open and interactive environment through the Internet. As added by P.L.93-2004, SEC.6. 
+
+IC 5-22-2-29 "Rule" 
+Sec. 29. "Rule" refers to the following: 
+(1) 
+With respect to an agency of the executive branch, a rule adopted under IC 4-22-2. 
+
+(2) 
+With respect to a governmental body not described in subdivision (1), an order, an ordinance, a resolution, or another procedure by which the governmental body is authorized by law to adopt a policy that has the force and effect of law. 
+
+
+As added by P.L.49-1997, SEC.1. 
+
+IC 5-22-2-30 "Services" 
+Sec. 30. "Services" means the furnishing of labor, time, or effort by a person, not involving the delivery of specific supplies other than printed documents or other items that are merely incidental to the required performance. As added by P.L.49-1997, SEC.1. 
+
+IC 5-22-2-31 "Social services" 
+Sec. 31. "Social services" means services obtained from funds covered by IC 31-25-2-8. As added by P.L.49-1997, SEC.1. Amended by P.L.128-2012, SEC.3. 
+
+IC 5-22-2-32 "Solicitation" 
+Sec. 32. (a) "Solicitation" means the procedure by which a governmental body invites persons to submit an offer to enter into a contract with the governmental body for the purchase or sale of supplies by the governmental body. 
+(b) The term includes an invitation for bids, a request for proposals, and a request for quotes. As added by P.L.49-1997, SEC.1. 
+
+IC 5-22-2-33 "Special fund" 
+Sec. 33. "Special fund", as used with respect to the state, means a dedicated fund. As added by P.L.49-1997, SEC.1. 
+
+IC 5-22-2-34 "Special purchase" 
+Sec. 34. "Special purchase" refers to a purchase authorized under IC 5-22-10. As added by P.L.49-1997, SEC.1. 
+IC 5-22-2-35 "Specification" 
+
+Sec. 35. (a) "Specification" means a description of the physical or functional characteristics of a supply or service or the nature of a supply or service. 
+(b) The term includes a description of any requirements for inspecting, testing, or preparing a supply or service for delivery. As added by P.L.49-1997, SEC.1. 
+
+IC 5-22-2-36 "State agency" 
+Sec. 36. "State agency" has the meaning set forth in IC 4-13-1-1. 
+As added by P.L.49-1997, SEC.1. 
+
+IC 5-22-2-37 Repealed 
+(As added by P.L.49-1997, SEC.1. Repealed by P.L.2-2007, SEC.390.) 
+
+IC 5-22-2-38 "Supplies" 
+Sec. 38. (a) "Supplies" means any property. 
+(b) The term includes equipment, goods, and materials. The term does not include an interest in real property. As added by P.L.49-1997, SEC.1. 
+
+IC 5-22-2-39 "Using agency" 
+Sec. 39. "Using agency" means a governmental body that uses supplies or services purchased under this article. As added by P.L.49-1997, SEC.1. 
+

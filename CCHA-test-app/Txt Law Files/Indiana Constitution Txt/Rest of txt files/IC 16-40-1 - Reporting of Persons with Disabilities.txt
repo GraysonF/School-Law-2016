@@ -1,0 +1,201 @@
+IC 16-40 
+ARTICLE 40. OTHER REPORTING REQUIREMENTS 
+IC 16-40-1 Chapter 1. Reporting of Persons With Disabilities 
+IC 16-40-1-1 Legislative intent and purpose 
+Sec. 1. (a) It is the intent of the state to develop, within the limits of the state's capabilities and resources, a program that gives the greatest assurance of enabling a person with a disability to achieve the person's maximum potential and the highest degree of independence possible. 
+(b) The purpose of this chapter is to create a procedure by which to locate and identify persons with disabilities. As added by P.L.2-1993, SEC.23. Amended by P.L.23-1993, SEC.78. 
+
+IC 16-40-1-2 Persons required to make report 
+Sec. 2. (a) Except as provided in subsection (b), each: 
+(1) 
+physician; 
+
+(2) 
+superintendent of a hospital; 
+
+(3) 
+director of a local health department; 
+
+(4) 
+director of a local office of the department of child services; 
+
+(5) 
+director of the division of disability and rehabilitative services; 
+
+(6) 
+superintendent of a state institution serving individuals with a disability; or 
+
+
+(7) superintendent of a school corporation; who diagnoses, treats, provides, or cares for a person with a disability shall report the disabling condition to the state department within sixty (60) days. 
+(b) Each: 
+(1) physician holding an unlimited license to practice medicine; or 
+(2) optometrist licensed under IC 25-24-1; shall file a report regarding a person who is blind or has a visual impairment with the office of the secretary of family and social services in accordance with IC 12-12-9. As added by P.L.2-1993, SEC.23. Amended by P.L.4-1993, SEC.246; P.L.5-1993, SEC.259; P.L.23-1993, SEC.79; P.L.1-1994, SEC.90; P.L.104-2003, SEC.5; P.L.141-2006, SEC.92; P.L.99-2007, SEC.160; P.L.146-2008, SEC.449. 
+IC 16-40-1-3 Forms 
+Sec. 3. A report made under this chapter shall be made in the manner and upon forms prescribed by and furnished by the state department. 
+As added by P.L.2-1993, SEC.23. 
+
+IC 16-40-1-4 Birth defects reports 
+Sec. 4. The reports filed under this chapter by hospitals must include birth defects. As added by P.L.2-1993, SEC.23. 
+
+IC 16-40-1-5 School children 
+Sec. 5. The reports filed under this chapter by school corporations must include children excluded from school because of a disability as well as children with disabilities attending regular or special programs of education. As added by P.L.2-1993, SEC.23. Amended by P.L.23-1993, SEC.80. 
+
+IC 16-40-1-6 Confidentiality 
+Sec. 6. The contents of a report made under this chapter are solely for the use of departments of state government in the performance of their duties under law and of organizations having a legitimate interest in the information. The reports shall not be open to public inspection and are not public records. As added by P.L.2-1993, SEC.23. 
+
+IC 16-40-1-7 Transmission of reports to state department; tabulation, compilation, and analysis 
+Sec. 7. All reports filed under this chapter shall be transmitted to the state department. The state department shall tabulate, compile, and analyze the reports and provide information to state departments and organizations having a legitimate interest in the information. As added by P.L.2-1993, SEC.23. 
+
+IC 16-40-2 Repealed 
+(Repealed by P.L.104-2003, SEC.10.) 
+
+IC 16-40-3 Expired 
+(Expired 6-30-2010 by P.L.196-2005, SEC.3.) 
+
+IC 16-40-4 Chapter 4. Health Care Quality Indicator Data Program 
+IC 16-40-4-1 
+"Health care quality indicator data" 
+
+Sec. 1. As used in this chapter, "health care quality indicator data" means information concerning the provision of health care services that may be collected and used to measure and compare quality of health care services. 
+As added by P.L.95-2005, SEC.5. 
+
+IC 16-40-4-2 
+"Health coverage provider" 
+
+Sec. 2. As used in this chapter, "health coverage provider" means any of the following: 
+(1) 
+An insurer (as defined in IC 27-1-2-3) that issues or delivers a policy of accident and sickness insurance (as defined in IC 27-8-5-1). 
+
+(2) 
+A health maintenance organization (as defined in IC 27-13-1-19). 
+
+(3) 
+The administrator of a program of self-insurance established, implemented, or maintainedtoprovide coverage for health care services to the extent allowed by the federal Employee Retirement Income Security Act of 1974 (29 U.S.C. 1001 et seq.). 
+
+(4) 
+The state Medicaid program (IC 12-15). 
+
+(5) 
+The children's health insurance program (IC 12-17.6). 
+
+(6) 
+The Indiana comprehensive health insurance association (IC 27-8-10). 
+
+(7) 
+A person that is designated to maintain the records of a person described in subdivisions (1) through (6). 
+
+
+As added by P.L.95-2005, SEC.5. 
+
+IC 16-40-4-3 "Program" 
+Sec. 3. As used in this chapter, "program" refers to the health care quality indicator data program developed and implemented under sections 4 and 5 of this chapter. 
+As added by P.L.95-2005, SEC.5. 
+
+IC 16-40-4-4 Development of program plan 
+Sec. 4. The state department shall, in compliance with state and federal law, develop a plan for a health care quality indicator data program. The plan shall be completed by December 31, 2006, and include the following: 
+(1) 
+A list of health care quality indicators for which data will be collected concerning health care services provided to 
+
+individuals who reside or receive health care services in Indiana. The state department shall seek the assistance of health coverage providers and health care providers in developing the list under this subdivision. 
+
+(2) 
+A methodology for health care quality indicator data collection, analysis, distribution, and use. 
+
+(3) 
+The inclusion of data concerning ethnicity and minority status, as allowed by the individuals about whom health care quality indicator data is collected. 
+
+(4) 
+A methodology to provide for a case mix system or other scientific criteria to develop and adjust health quality indicators, including infection rates, that may be affected by risks and variables. 
+
+
+As added by P.L.95-2005, SEC.5. 
+
+IC 16-40-4-5 Authorization to develop and implement program 
+Sec. 5. The state department of health is authorized to develop and implement a health care quality indicator program as provided for in this chapter and to include the following: 
+(1) 
+Criteria listed under section 4 of this chapter. 
+
+(2) 
+Health care quality indicator data collected from a health coverage provider or health care provider under this chapter must be obtainable from electronic records developed and maintained in the health coverage provider's or health care provider's ordinary course of business. 
+
+(3) 
+Health coverage providers and health care providers are not required to establish or amend medical record systems or other systems to conform to the program. 
+
+
+As added by P.L.95-2005, SEC.5. 
+
+IC 16-40-4-6 Compliance with data collection requirements 
+Sec. 6. The following shall comply with the data collection requirements of the program: 
+(1) 
+A health coverage provider. 
+
+(2) 
+A health care provider. 
+
+(3) 
+An out-of-state health coverage provider that: 
+
+(A) 
+provides health coverage; 
+
+(B) 
+administers health coverage provided; or 
+
+
+
+(C) 
+maintains records concerning health coverage provided; to an individual who resides or receives health care services in Indiana. 
+
+(4) 
+An out-of-state health care provider that: 
+
+(A) 
+provides health care services; or 
+
+(B) 
+maintains records concerning health care services 
+
+
+
+
+provided; to an individual who resides or receives health care services in Indiana. 
+As added by P.L.95-2005, SEC.5. 
+
+IC 16-40-4-7 Confidentiality of information 
+Sec. 7. (a) Health care quality indicator data and other information collected under this chapter, or resulting from the program, from which the identity of a person, including: 
+(1) 
+an individual; 
+
+(2) 
+a health coverage provider; or 
+
+
+(3) a health care provider; may be ascertained is confidential and, unless otherwise specified under state or federal law, may not be released to any person without the written consent of the identified person. 
+(b) Communications, including printed documents, by: 
+(1) 
+an employee; 
+
+(2) 
+an officer; 
+
+(3) 
+a governing board member; or 
+
+
+(4) an agent; of a hospital (licensed under IC 16-21) for the purpose of collecting, identifying, reviewing, or producing data for a health care quality indicator data program under this chapter are confidential. As added by P.L.95-2005, SEC.5. 
+
+IC 16-40-4-8 Confidentiality of financial information 
+Sec. 8. Financial information that: 
+(1) is collected under this chapter; or 
+(2) results from the program; is confidential. As added by P.L.95-2005, SEC.5. 
+
+IC 16-40-4-9 Rules 
+Sec. 9. The state department shall adopt rules under IC 4-22-2 to implement this chapter. As added by P.L.95-2005, SEC.5. 
+
+IC 16-40-4-10 Records confidential under chapter remain confidential after chapter expires 
+Sec. 10. Any information that is confidential under IC 16-40-5 (expired June 30, 2010) remains confidential after IC 16-40-5 expires. As added by P.L.220-2011, SEC.318. Amended by P.L.63-2012, SEC.22. 
+
+IC 16-40-5 Expired 
+(Expired 6-30-2010 by P.L.101-2007, SEC.3.) 
+
+

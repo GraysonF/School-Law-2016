@@ -1,0 +1,189 @@
+IC 20-43-4 
+Chapter 4. Determination of Pupil Enrollment; ADM; Adjusted ADM 
+IC 20-43-4-1 Determination; eligible pupils 
+Sec. 1. (a) An individual is an eligible pupil if the individual is a pupil enrolled in a school corporation and: 
+(1) 
+the school corporation has the responsibility to educate the pupil in its public schools without the payment of tuition; 
+
+(2) 
+subject to subdivision (5), the school corporation has the responsibility to pay transfer tuition under IC 20-26-11 because the pupil is: 
+
+(A) 
+transferred for education to another school corporation; or 
+
+(B) 
+placed in an out-of-state institution or facility by or with the consent of the department of child services; 
+
+
+
+(3) 
+the pupil is enrolled in a school corporation as a transfer student under IC 20-26-11-6 or entitled to be counted for ADM purposes as a resident of the school corporation when attending its schools under any other applicable law or regulation; 
+
+(4) 
+the state is responsible for the payment of transfer tuition to the school corporation for the pupil under IC 20-26-11; or 
+
+(5) 
+all of the following apply: 
+
+(A) 
+The school corporation is a transferee corporation. 
+
+(B) 
+The pupil does not qualify as a qualified pupil in the transferee corporation under subdivision (3) or (4). 
+
+(C) 
+The transferee corporation's attendance area includes a state licensed private or public health care facility or child care facility where the pupil was placed: 
+
+(i) 
+by or with the consent of the department of child services; 
+
+(ii) 
+by a court order; 
+
+
+
+
+
+
+(iii) by a child placing agency licensed by the department of child services; 
+(iv)
+ by a parent or guardian under IC 20-26-11-8; or 
+
+(v) 
+by or with the consent of the department under IC 20-35-6-2. 
+
+
+(b) For purposes of a career and technical education grant, an eligible pupil includes a student enrolled in a charter school. As added by P.L.2-2006, SEC.166. Amended by P.L.159-2007, SEC.4; P.L.234-2007, SEC.136; P.L.3-2008, SEC.124; P.L.146-2008, SEC.487. 
+
+IC 20-43-4-2 Version a Determination of ADM; adjustments; estimates 
+Note: This version of section effective until 1-1-2017. See also following version of this section, effective 1-1-2017. 
+Sec. 2. (a) A school corporation's ADM is the number of eligible pupils enrolled in: 
+(1) the school corporation; or 
+(2) 
+a transferee corporation; on the days fixed in September and in February by the state board for a count of students under section 3 of this chapter and as subsequently adjusted not later than the date specified under the rules adopted by the state board. The state board may adjust the school's count of eligible pupils if the state board determines that the count is unrepresentative of the school corporation's enrollment. In addition, a school corporation may petition the state board to make an adjusted count of students enrolled in the school corporation if the corporation has reason to believe that the count is unrepresentative of the school corporation's enrollment. 
+
+(b) 
+Each school corporation shall in June of 2013 and in May of each year thereafter provide to the department an estimate of the school corporation's ADM that will result from the count of eligible pupils in the following September. The department may update and adjust the estimate as determined appropriate by the department. 
+
+
+(c) A new charter school shall submit an enrollment estimate to the department before April 1 of the year the new charter school will be open for enrollment. The department shall use the new charter school's enrollment estimate as the basis for the new charter school's distribution beginning in July and until actual ADM is available, subject to section 9 of this chapter. However, if the new charter school's enrollment estimate is greater than eighty percent (80%) of the new charter school's authorized enrollment cap, the department may use that enrollment estimate if the department has requested and reviewed other enrollment data that support that enrollment estimate. However, if the enrollment data requested and reviewed by the department does not support the enrollment estimate submitted by the new charter school, the department shall determine the estimated ADM based on the enrollment data requested and reviewed by the department. As added by P.L.2-2006, SEC.166. Amended by P.L.205-2013, SEC.275; P.L.186-2016, SEC.2. 
+
+IC 20-43-4-2 Version b Determination of ADM; adjustments; estimates 
+Note: This version of section effective 1-1-2017. See also preceding version of this section, effective until 1-1-2017. 
+Sec. 2. (a) A school corporation's ADM is the number of eligible pupils enrolled in: 
+(1) the school corporation; or 
+(2) 
+a transferee corporation; on the days fixed in September and in February by the state board for a count of students under section 3 of this chapter and as subsequently adjusted not later than the date specified under the rules 
+
+adopted by the state board. The state board may adjust the school's count of eligible pupils if the state board determines that the count is unrepresentative of the school corporation's enrollment. In addition, a school corporation may petition the state board to make an adjusted count of students enrolled in the school corporation if the corporation has reason to believe that the count is unrepresentative of the school corporation's enrollment. 
+
+(b) 
+Each school corporation shall, before April 1 of each year, provide to the department an estimate of the school corporation's ADM that will result from the count of eligible pupils in the following September. The department may update and adjust the estimate as determined appropriate by the department. In each odd-numbered year, the department shall provide the updated and adjusted estimate of the school corporation's ADM to the legislative services agency before April 10 of that year. 
+
+
+(c) A new charter school shall submit an enrollment estimate to the department before April 1 of the year the new charter school will be open for enrollment. The department shall use the new charter school's enrollment estimate as the basis for the new charter school's distribution beginning in July and until actual ADM is available, subject to section 9 of this chapter. However, if the new charter school's enrollment estimate is greater than eighty percent (80%) of the new charter school's authorized enrollment cap, the department may use that enrollment estimate if the department has requested and reviewed other enrollment data that support that enrollment estimate. However, if the enrollment data requested and reviewed by the department does not support the enrollment estimate submitted by the new charter school, the department shall determine the estimated ADM based on the enrollment data requested and reviewed by the department. In each odd-numbered year, the department shall provide the new charter school's estimated ADM to the legislative services agency before April 10 of that year. As added by P.L.2-2006, SEC.166. Amended by P.L.205-2013, SEC.275; P.L.186-2016, SEC.2; P.L.151-2016, SEC.3; P.L.186-2016, SEC.3. 
+
+IC 20-43-4-3 Fixing day to determine ADM 
+Sec. 3. (a) Subject to subsection (b), the state board shall make an ADM count of the eligible pupils enrolled in each school corporation two (2) times each school year, with one (1) count date occurring in each of the following periods: 
+(1) 
+The fall count of ADM shall be made on a day during September fixed by the state board. 
+
+(2) 
+The spring count of ADM shall be made on a day during February fixed by the state board. 
+
+
+(b) However, if extreme patterns of: 
+(1) 
+student in-migration; 
+
+(2) 
+illness; 
+
+(3) 
+natural disaster; or 
+
+(4) 
+other unusual conditions in a particular school corporation's 
+
+
+enrollment; on either a count day fixed by the state board or the subsequent adjustment date cause the enrollment to be unrepresentative of the school corporation's enrollment, the state board may designate another day for determining the school corporation's enrollment. 
+As added by P.L.2-2006, SEC.166. Amended by P.L.144-2012, SEC.6. 
+
+IC 20-43-4-4 Adjusted count; children with disabilities; count for purposes of the special education grant 
+Sec. 4. (a) The state board shall monitor changes that occur after the fall count of ADM in the number of students enrolled in programs for children with disabilities. The state board shall: 
+(1) before December 2 of that same year; and 
+(2) 
+before April 2 of the following calendar year; make an adjusted count of students enrolled in programs for children with disabilities. The state superintendent shall certify the December adjusted count to the budget committee before February 5 of the following year and the April adjusted count not later than May 31 immediately after the date of the April adjusted count. The state board may adjust the school's count of students enrolled in programs for children with disabilities if the state board determines that the count is unrepresentative of the school corporation's enrollment. 
+
+(b) 
+The department shall distribute special education grants under IC 20-43-7 using only the count specified in IC 20-43-7-1. 
+
+
+As added by P.L.2-2006, SEC.166. Amended by P.L.205-2013, SEC.276. 
+
+IC 20-43-4-4.6 Count for career and technical education grants 
+Sec. 4.6. IC 20-43-8-1 applies to a count of students for career and technical education grants. 
+As added by P.L.205-2013, SEC.277. 
+
+IC 20-43-4-5 Counting kindergarten pupils 
+Sec. 5. In determining ADM, each kindergarten pupil shall be counted as: 
+(1) 
+one (1) pupil, if the pupil is enrolled in a full-day kindergarten program; or 
+
+(2) 
+one-half (1/2) pupil, if the pupil is enrolled in a half-day 
+
+
+kindergarten program. If a school corporation commences kindergarten in a school year, the ADM of the current and prior calendar years shall be adjusted to reflect the enrollment of the kindergarten pupils. 
+As added by P.L.2-2006, SEC.166. Amended by P.L.213-2015, SEC.213. 
+
+IC 20-43-4-6 Determination; full-time equivalency basis 
+Sec. 6. (a) In determining ADM, each pupil enrolled in a public school, including a charter school, and a nonpublic school is to be counted on a full-time equivalency basis if the pupil: 
+(1) 
+is enrolled in a public school and a nonpublic school; 
+
+(2) 
+has legal settlement in a school corporation; and 
+
+(3) 
+receives instructional services from the school corporation. 
+
+
+(b) For purposes of this section, full-time equivalency is 
+calculated as follows: STEP ONE: Determine the result of: 
+(A) the number of days instructional services will be provided to the pupil, not to exceed one hundred eighty (180); divided by 
+(B) one hundred eighty (180). 
+STEP TWO: Determine the result of: 
+
+(A) 
+the pupil's public school instructional time (as defined in IC 20-30-2-1); divided by 
+
+(B) 
+the actual public school regular instructional day (as 
+
+
+defined in IC 20-30-2-2). 
+STEP THREE: Determine the result of: 
+
+(A) the STEP ONE result; multiplied by 
+(B) the STEP TWO result. STEP FOUR: Determine the lesser of one (1) or the result of: 
+(A) the STEP THREE result; multiplied by 
+(B) one and five hundredths (1.05). However, the state board may, by rules adopted under IC 4-22-2, specify an equivalent formula if the state board determines that the equivalent formula would more accurately reflect the instructional services provided by a school corporation during a period that a particular ADM count is in effect for the school corporation. As added by P.L.2-2006, SEC.166. Amended by P.L.234-2007, SEC.239; P.L.205-2013, SEC.278; P.L.169-2016, SEC.18. 
+
+IC 20-43-4-7 "Adjusted ADM" 
+Sec. 7. For purposes of this article, a school corporation's "adjusted ADM" for the current year is the school corporation's current ADM. As added by P.L.2-2006, SEC.166. Amended by P.L.234-2007, SEC.240; P.L.182-2009(ss), SEC.332; P.L.229-2011, SEC.207; P.L.205-2013, SEC.279; P.L.213-2015, SEC.214. 
+IC 20-43-4-8 Treatment of postsecondary enrollment opportunity programs 
+
+Sec. 8. A student who participates in a postsecondary enrollment opportunity under IC 21-43-4 is considered a student enrolled in the school corporation where the student has legal settlement for the purposes of computing ADM. As added by P.L.2-2007, SEC.241. Amended by P.L.234-2007, SEC.63; P.L.125-2013, SEC.2. 
+
+IC 20-43-4-9 Version a Calculation of state tuition support distributions based on current ADM; adjusted ADM counts; payment reconciliation 
+Note: This version of section effective until 1-1-2017. See also following version of this section, effective 1-1-2017. 
+Sec. 9. (a) Subject to subsection (b), this subsection applies to the calculation of state tuition support distributions that are based on the current ADM of a school corporation. The fall count of ADM, as adjusted by the state board under section 2 of this chapter, shall be used to compute state tuition support distributions made in the first six (6) months of the current state fiscal year, and the spring count of ADM, as adjusted by the state board under section 2 of this chapter, shall be used to compute state tuition support distributions made in the second six (6) months of the state fiscal year. 
+(b) If the state board adjusts a count of ADM after a distribution is made under this article, the adjusted count retroactively applies to the amount of state tuition support distributed to a school corporation affected by the adjusted count. The department shall settle any overpayment or underpayment of state tuition support resulting from an adjusted count of ADM on the schedule determined by the department and approved by the budget agency. As added by P.L.205-2013, SEC.280. Amended by P.L.213-2015, SEC.215. 
+
+IC 20-43-4-9 Version b Calculation of state tuition support distributions based on current ADM; adjusted ADM counts; payment reconciliation 
+Note: This version of section effective 1-1-2017. See also preceding version of this section, effective until 1-1-2017. 
+Sec. 9. (a) Subject to subsections (b) and (c), this subsection applies to the calculation of state tuition support distributions that are based on the current ADM of a school corporation. The fall count of ADM, as adjusted by the state board under section 2 of this chapter, shall be used to compute state tuition support distributions made in the first six (6) months of the current state fiscal year, and the spring count of ADM, as adjusted by the state board under section 2 of this chapter, shall be used to compute state tuition support distributions made in the second six (6) months of the state fiscal year. 
+(b) This subsection applies to a school corporation that does not provide the estimates required by section 2(b)(2) of this chapter before the deadline. For monthly state tuition support distributions made before the fall count of ADM is finalized, the department shall determine the distribution amount for such a school corporation for a state fiscal year of the biennium, using data that were used by the general assembly in determining the state tuition support appropriation for the budget act for that state fiscal year. The department may adjust the data used under this subsection for errors. 
+(c) If the state board adjusts a count of ADM after a distribution is made under this article, the adjusted count retroactively applies to the amount of state tuition support distributed to a school corporation affected by the adjusted count. The department shall settle any overpayment or underpayment of state tuition support resulting from an adjusted count of ADM on the schedule determined by the department and approved by the budget agency. As added by P.L.205-2013, SEC.280. Amended by P.L.213-2015, SEC.215; P.L.151-2016, SEC.4. 
+

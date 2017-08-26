@@ -1,0 +1,1053 @@
+IC 31-16-15 Chapter 15. Child Support Income Withholding Orders 
+IC 31-16-15-0.3 Application 
+Sec. 0.3. This chapter applies to child support ordered in any proceeding, including a dissolution of marriage and a paternity action. As added by P.L.80-2010, SEC.37. 
+
+IC 31-16-15-0.5 Income withholding orders; stay 
+Sec. 0.5. (a) Except as provided in subsection (c), in any proceeding in which a court has ordered, modified, or enforced periodic payments of child support, the court shall include a provision ordering that child support payments be immediately withheld from the income of the obligor in an amount necessary to comply with the support order, including amounts for current child support obligations, child support arrearage, medical support, interest, and fees. 
+(b) 
+Except as provided in subsection (c), a court or Title IV-D agency shall implement an order for immediate income withholding under subsection (a): 
+
+(1) 
+if the address of the obligor's income payor is known, not more than fifteen (15) calendar days after the date of the issuance of a support order; or 
+
+(2) 
+if the address of the obligor's income payor is not known, not more than fifteen (15) calendar days after the date the address of the obligor's income payor becomes known. 
+
+
+
+(c) 
+A court may stay implementation of an income withholding order only if one (1) or more of the following occurs: 
+
+(1) 
+One (1) of the parties demonstrates and the court finds good cause not to order immediate income withholding by finding all of the following: 
+
+(A) 
+A stay of implementation of the income withholding order is in the best interests of the child. 
+
+(B) 
+The obligor has a history of substantially uninterrupted, full, and timely child support payments, other than payments made through an income withholding order or another mandatory process of previously ordered child support, during the previous twelve (12) months. 
+
+(C) 
+The court issues a written finding that an income withholding order would cause an extraordinary hardship on the obligor. 
+
+
+
+(2) 
+The parties submit a written agreement that: 
+
+(A) 
+meets the requirements under subsection (d); 
+
+(B) 
+is approved by the court; and 
+
+(C) 
+is entered into the record of the court. 
+
+
+
+
+
+(d) 
+A written agreement described in subsection (c)(2) must meet the following requirements: 
+
+(1) 
+Contain the following: 
+
+(A) 
+A statement that an income withholding order is not implemented immediately but that an income withholding order will be implemented if the: 
+
+(i) 
+obligor's child support and arrearage payments become delinquent; or 
+
+(ii) 
+obligor requests implementation of the income withholding order. 
+
+
+
+(B) 
+A detailed description of an alternative payment arrangement between the parties to ensure the timely payment of child support. 
+
+
+
+(2) 
+Contain a provision that the obligor shall provide current information to the court concerning the following: 
+
+(A) 
+The name, address, and telephone number of the obligor's place of employment. 
+
+(B) 
+Any health coverage available to the obligor as a benefit of employment or maintained by the obligor, including information on the: 
+
+(i)
+ name of the carrier (as defined in IC 27-8-10-1); 
+
+(ii) 
+health insurance policy, certificate, or contract number; and 
+
+
+
+
+
+
+(iii) if applicable, names and birth dates of the persons for whose benefit the obligor maintains health coverage under the health insurance policy, certificate, or contract. 
+
+(e) 
+If possible, the court shall specify the date on which a stay of implementation of the income withholding order terminates automatically. 
+
+(f) 
+In Title IV-D cases in which periodic payments of child support are ordered, modified, or enforced, the court shall order the obligor to inform the Title IV-D agency of the: 
+
+(1) 
+name and address of the obligor's current income payor; 
+
+(2) 
+obligor's access to health insurance coverage; and 
+
+
+
+
+(3) if applicable, obligor's health insurance policy information. As added by P.L.103-2007, SEC.23. Amended by P.L.80-2010, SEC.38. 
+
+IC 31-16-15-1 Repealed 
+(As added by P.L.1-1997, SEC.8. Amended by P.L.234-2005, SEC.85; P.L.148-2006, SEC.18. Repealed byP.L.103-2007, SEC.51.) 
+
+IC 31-16-15-2 Lifting stay of implementation of income withholding order 
+Sec. 2. A court shall lift a stay of implementation of an income withholding order granted under section 0.5(c) of this chapter upon occurrence of one (1) or more of the following: 
+(1) 
+The obligor's support payment becomes delinquent. 
+
+(2) 
+The obligor requests implementation of the income withholding order. 
+
+
+As added by P.L.1-1997, SEC.8. Amended by P.L.103-2007, SEC.24. 
+
+IC 31-16-15-2.5 Income withholding order issued by Title IV-D agency; implementation 
+Sec. 2.5. (a) If, in a Title IV-D case, an income withholding order has not been issued with a support order under section 0.5 of this chapter, a Title IV-D agency shall: 
+(1) 
+issue an income withholding order as required under IC 31-25-4-17 unless the court has stayed the implementation of the income withholding order under section 0.5(c) of this chapter; and 
+
+(2) 
+provide notice under section 3.5 of this chapter to the obligor. 
+
+
+(b) In a Title IV-D case in which the implementation of an income withholding order was stayed under section 0.5(c) of this chapter, the Title IV-D agency shall: 
+(1) 
+provide notice under section 3.5 of this chapter and lift the stay by issuing an income withholding order if the obligor's child support and arrearage payments are delinquent; or 
+
+(2) 
+lift the stay by issuing an income withholding order if the obligor requests implementation of the income withholding order. 
+
+
+(c) In a Title IV-D case, if: 
+(1) 
+an income withholding order was stayed under section 0.5(c) of this chapter; and 
+
+(2) 
+an obligor requests the implementation of the income 
+
+
+withholding order; the Title IV-D agency is not required to give notice under section 3.5 of this chapter when implementing the income withholding order. 
+(d) 
+An income withholding order issued under subsection (a) or (b): 
+
+(1) has the same force and effect; and 
+
+(2) 
+is enforceable in the same manner; as an income withholding order issued by a court. 
+
+(e) 
+The total amount required to be withheld under an income withholding order implemented under this section is the sum of: 
+
+(1) 
+the obligor's current child support obligation; plus 
+
+(2) 
+the amount of arrearage payment ordered by the court; plus 
+
+(3) 
+an additional amount as determined under subsection (f) for: 
+
+(A) 
+any arrearage that has not been adjudicated, if no arrearage has been adjudicated previously; or 
+
+(B) 
+any additional arrearage that: 
+
+(i)
+ has not been adjudicated; and 
+
+(ii) 
+accrues since the last adjudication of arrearage by the 
+
+
+
+
+
+
+
+
+court. 
+(f) 
+If an obligor subject to an income withholding order is in arrears, unless otherwise ordered by a court, the Title IV-D agency or its agent may increase the weekly amount withheld as follows: 
+
+(1) 
+If the arrearages are at least ten dollars ($10) and less than five hundred dollars ($500), an additional amount of up to ten dollars ($10). 
+
+(2) 
+If the arrearages are at least five hundred dollars ($500) and less than three thousand dollars ($3,000), an additional amount of up to twenty dollars ($20). 
+
+(3) 
+If the arrearages are at least three thousand dollars ($3,000) and less than five thousand dollars ($5,000), an additional amount of up to twenty-five dollars ($25). 
+
+(4) 
+If the arrearages are at least five thousand dollars ($5,000) and less than ten thousand dollars ($10,000), an additional amount of up to thirty dollars ($30). 
+
+(5) 
+If the arrearages are at least ten thousand dollars ($10,000) and less than fifteen thousand dollars ($15,000), an additional amount of up to thirty-five dollars ($35). 
+
+(6) 
+If the arrearages are at least fifteen thousand dollars ($15,000) and less than twenty thousand dollars ($20,000), an additional amount of up to forty dollars ($40). 
+
+(7) 
+If the arrearages are at least twenty thousand dollars ($20,000) and less than twenty-five thousand dollars ($25,000), an additional amount of up to forty-five dollars ($45). 
+
+(8) 
+If the arrearages are at least twenty-five thousand dollars ($25,000), an additional amount of up to fifty dollars ($50). 
+
+
+
+(g) 
+A court is not bound by and is not required to consider the additional amounts described in subsection (f) when ordering, modifying, or enforcing periodic payments of child support. 
+
+
+As added by P.L.103-2007, SEC.25. Amended by P.L.123-2014, SEC.5. 
+
+IC 31-16-15-2.6 Income withholding order; payment in full 
+Sec. 2.6. An income withholding order issued under this chapter remains in effect until a child support obligation, including current child support, child support arrearage, medical support, interest, and fees, is paid in full. 
+As added by P.L.103-2007, SEC.26. 
+
+IC 31-16-15-2.7 Income withholding order; forms 
+Sec. 2.7. (a) The bureau shall: 
+(1) 
+prescribe standard forms for: 
+
+(A) 
+an income withholding order; and 
+
+(B) 
+a notice form; and 
+
+
+
+(2) 
+make the forms listed in subdivision (1) available to: 
+
+
+(A) 
+a court; 
+
+(B) 
+a private attorney; 
+
+(C) 
+an obligor; and 
+
+(D) 
+an obligee. 
+
+
+(b) 
+An income withholding order under this chapter must be issued in a form substantially similar to the form prescribed under subsection (a)(1)(A). 
+
+(c) 
+An income withholding order form under subsection (a)(1)(A) must contain the following: 
+
+(1) 
+The amount of income to be withheld. 
+
+(2) 
+A statement that the total amount of income to be withheld is the sum of the following: 
+
+(A) 
+The obligor's current child support obligation. 
+
+(B) 
+The amount of any child support arrearage ordered by the court. 
+
+(C) 
+An additional amount as determined under section 2.5(f) of this chapter for: 
+
+(i) 
+any arrearage that has not been adjudicated, if no arrearage has been adjudicated previously; or 
+
+(ii) 
+any additional arrearage that has not been adjudicated and accrues since the last adjudication of arrearage by the court. 
+
+
+
+(D) 
+A fee of two dollars ($2) that must be paid at the income payor's option to the income payor each time the income payor forwards income to the state central collection unit. 
+
+
+
+(3) 
+A statement that the total amount withheld under the income withholding order plus the fee under subdivision (2)(D) may not exceed the maximum amount permitted under 15 U.S.C. 1673(b). 
+
+(4) 
+A statement that an income payor shall: 
+
+(A) 
+begin withholding income not later than the first pay date after fourteen (14) days following the date the income withholding order is received by the income payor; and 
+
+(B) 
+report to the state central collection unit the date on which the income was withheld from the obligor's income. 
+
+
+
+(5) 
+A statement that if an income payor is required to withhold income from more than one (1) obligor, the income payor may combine the withheld amount of income into a single payment for all obligors who are required to make payments to the state central collection unit if the income payor identifies the part of the single payment that is attributable to each individual obligor. 
+
+(6) 
+A statement that if the obligor has: 
+
+(A) 
+more than one (1) income withholding order against the obligor; and 
+
+(B) 
+insufficient disposable earnings to pay the amount of 
+
+
+
+
+
+
+income withholding for all income withholding orders; an income payor shall honor all withholdings to the extent that the total amount withheld does not exceed limits imposed under 15 U.S.C. 1673(b). 
+(7) 
+A statement that the income payor shall distribute the withheld income pro rata among the persons entitled to receive income under the income withholding orders, giving priority to orders for current child support. 
+
+(8) 
+A statement that the income payor may not distribute income as described under subdivision (7) in a manner that would result in one (1) of the current child support obligations not being honored. 
+
+(9) 
+A statement that the income payor shall forward the amount withheld for current support and any arrears to the state central collection unit with a statement identifying the: 
+
+(A) 
+cause number for the obligee; 
+
+(B) 
+name of the obligor; 
+
+(C) 
+name of the obligee with the applicable income withheld for each obligee forwarded from the income payor; and 
+
+(D) 
+Indiana support enforcement tracking system (ISETS) or its successor statewide automated support enforcement system number for each obligee. 
+
+
+
+(10)
+ A statement that the income withholding order is binding upon the income payor until further notice by the Title IV-D agency. 
+
+(11)
+ A statement that if an income payor: 
+
+(A) 
+discharges the obligor from employment; 
+
+(B) 
+refuses to employ the obligor; 
+
+(C) 
+takes disciplinary action against the obligor employed by the income payor; or 
+
+
+
+(D) 
+otherwise discriminates against the obligor; because of the existence of an income withholding order or the obligations imposed upon the income payor by the income withholding order, the income payor is subject to a penalty of not more than five thousand dollars ($5,000) payable to the state and recoverable in a civil action. 
+
+(12) 
+A statement that if an income payor fails to withhold income in accordance with the income withholding order, the income payor is liable for: 
+
+(A) 
+the accumulated amount the income payor should have withheld from the obligor's income; and 
+
+(B) 
+any interest, attorney's fees, and costs. 
+
+
+
+(13) 
+A statement that an income withholding order under this chapter has priority over any secured or unsecured claim on income, except for claims for federal, state, and local taxes. 
+
+(14)
+ A statement that an income payor must: 
+
+(A) 
+notify the Title IV-D agency if the obligor: 
+
+(i) ceases employment with; or 
+
+(ii) 
+no longer receives income from; the income payor, not later than ten (10) days after the date 
+
+the obligor's employment or income ceases; and 
+
+(B) 
+provide the obligor's last known address and the name and address of the obligor's new income payor, if known, to the Title IV-D agency. 
+
+
+
+
+As added by P.L.103-2007, SEC.27. Amended by P.L.80-2010, SEC.39; P.L.128-2012, SEC.39. 
+
+IC 31-16-15-3 Repealed 
+(As added by P.L.1-1997, SEC.8. Repealed by P.L.103-2007, SEC.51.) 
+
+IC 31-16-15-3.5 Notice to withhold income 
+Sec. 3.5. (a) Except as provided under section 2.5(c) of this chapter, a Title IV-D agency shall issue a notice to withhold income to an obligor when the Title IV-D agency implements an income withholding order under section 2.5(a) or 2.5(b) of this chapter. The notice is sufficient for all future income withholding until the child support obligation is fully satisfied. 
+(b) The notice under subsection (a) must contain the following: 
+(1) 
+A statement that income withholding has commenced, and if the notice is provided for an income withholding order issued under section 2.5(b) of this chapter, that the stay has been lifted. 
+
+(2) 
+A statement that an income withholding order will be sent to all current and future income payors. 
+
+(3) 
+If applicable, the amount of child support that the obligor is in arrears. 
+
+(4) 
+A statement that the income shall be: 
+
+(A) 
+withheld by a current and future income payor from the obligor's income for the payment of child support; and 
+
+(B) 
+forwarded to the state central collection unit with a statement identifying the: 
+
+(i)
+ cause number for the obligee; 
+
+(ii) 
+name of the obligor; 
+
+
+
+
+(iii) name of the obligee with the applicable income withheld for each obligee forwarded from the income payor; and 
+(iv) Indiana support enforcement tracking system (ISETS) or its successor statewide automated support enforcement system number for each obligee. 
+
+(5) 
+A statement that the total amount of income to be withheld by the Title IV-D agency under the income withholding order is the sum of: 
+
+(A) 
+the obligor's current child support obligation; plus 
+
+(B) 
+the amount of any arrearage payment ordered by the court; plus 
+
+(C) 
+an additional amount as determined under section 2.5(f) 
+
+
+
+
+of this chapter for: 
+(i) 
+any arrearage that has not been adjudicated, if no arrearage has been adjudicated previously; or 
+
+(ii) 
+any additional arrearage that has not been adjudicated and accrues since the last adjudication of arrearage by the court; plus 
+
+
+(D) a fee of two dollars ($2), which must be paid at the income payor's option to the income payor each time the income payor forwards income to the state central collection unit. 
+(6) A statement that: 
+(A) 
+the total amount withheld under the income withholding order may not exceed the maximum amount permitted under 15 U.S.C. 1673(b); 
+
+(B) 
+the income withholding order applies to the receipt of any current or subsequent income from a current or future income payor; 
+
+(C) 
+the obligor may contest the Title IV-D agency's determination to implement an income withholding order by making written application to the Title IV-D agency not more than twenty (20) days after the date the notice under this section is mailed to the obligor; 
+
+(D) 
+the only basis for contesting the implementation of an income withholding order is a mistake of fact; 
+
+(E) 
+if the obligor contests the Title IV-D agency's determination to implement the income withholding order, the Title IV-D agency shall schedule an administrative hearing; 
+
+(F) 
+an income payor shall: 
+
+(i) 
+begin withholding income not later than the first pay date after fourteen (14) days following the date the income withholding order is received by the income payor; and 
+
+(ii) 
+report to the state central collection unit the date on which the income was withheld from the obligor's income; 
+
+
+
+(G) 
+if an income payor is required to withhold income from more than one (1) obligor, the income payor may combine the withheld amount of income into a single payment for all obligors who are required to make payments to the state central collection unit if the income payor identifies the part of the single payment that is attributable to each individual obligor; 
+
+(H) 
+if the obligor has: 
+
+(i) 
+more than one (1) income withholding order against the obligor; and 
+
+(ii) 
+insufficient disposable earnings to pay the amount of 
+
+
+
+
+income withholding for all income withholding orders; an income payor shall distribute the withheld income pro rata among the persons entitled to receive income under the income withholding orders, giving priority to a current income withholding order; 
+(I) 
+an income payor shall honor all withholdings to the extent that the total amount withheld does not exceed limits imposed under 15 U.S.C. 1673(b); 
+
+(J) 
+the income withholding order is binding upon the income payor until further notice by the Title IV-D agency; 
+
+(K)
+ an income payor that: 
+
+(i)
+ discharges the obligor from employment; 
+
+(ii) 
+refuses to employ the obligor; 
+
+
+(iii) takes disciplinary action against the obligor employed by the income payor; or 
+
+(iv)
+ otherwise discriminates against the obligor; because of the existence of an income withholding order or the obligations imposed upon the income payor by the income withholding order is subject to a penalty not to exceed five thousand dollars ($5,000) payable to the state and recoverable in a civil action; 
+
+(L) 
+if an income payor fails to withhold income in accordance with the income withholding order, the income payor is liable for: 
+
+(i) 
+the accumulated amount the income payor should have withheld from the obligor's income; and 
+
+(ii) 
+any interest, attorney's fees, and costs; 
+
+
+
+(M) 
+an income withholding order under this chapter has priority over any secured or unsecured claim on income, except for claims for federal, state, and local taxes; and 
+
+(N) 
+the income payor must notify the Title IV-D agency if the obligor: 
+
+(i) ceases employment with; or 
+
+(ii) 
+no longer receives income from; the income payor, not later than ten (10) days after the date the obligor's employment or income ceases, and provide the obligor's last known address and the name and address of the obligor's new income payor, if known, to the Title IV-D agency. 
+
+
+(c) If the Title IV-D agency issues a notice to withhold income to the obligor under this section, the Title IV-D agency is not required to provide further notice to continue to implement or amend the income withholding order unless the income withholding order is stayed by the court under section 0.5(c) of this chapter. As added by P.L.103-2007, SEC.28. Amended by P.L.128-2012, SEC.40; P.L.123-2014, SEC.6. 
+
+IC 31-16-15-4 Repealed 
+(As added by P.L.1-1997, SEC.8. Amended by P.L.234-2005, SEC.86; P.L.148-2006, SEC.19. Repealed by P.L.103-2007, SEC.51.) 
+
+IC 31-16-15-4.3 Income withholding order; contesting implementation 
+Sec. 4.3. (a) An obligor may contest a Title IV-D agency's determination to implement an income withholding order under section 2.5(a) or 2.5(b) of this chapter by making a written application to the Title IV-D agency not more than twenty (20) days after the date the notice is mailed to the obligor. 
+(b) The only basis on which an obligor may contest the implementation of an income withholding order under section 2.5(a) or 2.5(b) of this chapter is mistake of fact. 
+(c) A Title IV-D agency shall: 
+(1) 
+not more than twenty-five (25) days after an obligor makes written application to contest an income withholding order under subsection (a), hold a hearing to review the Title IV-D agency's determination to implement the income withholding order; and 
+
+(2) 
+make a determination on the implementation of the income withholding order at the hearing. 
+
+
+As added by P.L.103-2007, SEC.29. Amended by P.L.123-2014, SEC.7. 
+
+IC 31-16-15-4.5 National Medical Support Notice 
+Sec. 4.5. (a) The bureau shall send notice to an employer, using the National Medical Support Notice described in 45 CFR 303.32, that: 
+(1) 
+a parent ordered to pay support has been ordered to provide insurance coverage as part of the parent's employee benefit plan under IC 31-16-6-4; or 
+
+(2) 
+an obligation to provide insurance coverage under subdivision (1) is no longer in effect. 
+
+
+(b) Upon receipt of the notice under subsection (a), the employer shall: 
+(1) 
+respond to the notice in a timely fashion; 
+
+(2) 
+transfer the National Medical Support Notice to the employer's health insurance plan within twenty (20) days after the date of the National Medical Support Notice; and 
+
+(3) 
+abide by the terms of establishing insurance coverage as required by the notice. 
+
+
+As added by P.L.86-2002, SEC.12. Amended by P.L.145-2006, SEC.239; P.L.103-2007, SEC.30; P.L.80-2010, SEC.40. 
+
+IC 31-16-15-5 Repealed 
+(As added by P.L.1-1997, SEC.8. Repealed by P.L.103-2007, SEC.51.) 
+
+IC 31-16-15-5.5 Income withholding order; lifting stay of implementation 
+Sec. 5.5. (a) An obligor or an obligee may file a petition to lift a stay of implementation of an income withholding order. 
+(b) If an obligee files a petition under subsection (a), the court shall: 
+(1) 
+set a date for a hearing on the petition; and 
+
+(2) 
+send a written notice of the hearing to lift the stay of implementation of the income withholding order to the obligor in accordance with subsection (c). 
+
+
+The court must set a date for the hearing that is not more than twenty 
+(20) days after the date the petition is filed. 
+(c) The notice under subsection (b)(2) must include the following: 
+(1) 
+A statement as to whether the obligor is delinquent in the payment of child support. 
+
+(2) 
+If applicable, the amount of child support the obligor is in arrears. 
+
+(3) 
+A statement that if the petition is granted, the obligor's income shall be: 
+
+(A) 
+withheld by the court for the payment of child support; and 
+
+(B) 
+forwarded to the state central collection unit with a statement identifying: 
+
+(i)
+ the cause number for each obligee; 
+
+(ii) 
+the name of each obligor; 
+
+
+
+
+(iii) the name of each obligee with the amount of the withheld income forwarded by the income payor; 
+(iv)
+ the Social Security number of each obligor; and 
+
+(v) 
+the Indiana support enforcement tracking system (ISETS) or its successor statewide automated support enforcement system number for each obligee. 
+
+
+
+(4) 
+The following statements: 
+
+(A) 
+That the total amount of income to be withheld under an income withholding order from the obligor's income is the sum of: 
+
+(i)
+ the obligor's current child support obligation; plus 
+
+(ii) 
+the amount of arrearage payment ordered by the court; plus 
+
+
+(iii) a fee of two dollars ($2), which must be paid at the income payor's option to the income payor each time the income payor forwards income to the state central collection unit. 
+
+(B) 
+That the total amount of income withheld may not exceed the maximum amount permitted by 15 U.S.C. 1673(b). 
+
+(C) 
+That the income withholding order applies to the receipt of any current or subsequent income. 
+
+(D) 
+That the only basis for contesting the petition to lift the 
+
+stay of implementation of the income withholding order is a mistake of fact. 
+
+(E) 
+That an obligor may contest the court's lifting the stay of the income withholding order by appearing at the hearing scheduled by the court on the petition to lift the stay. 
+
+(F) 
+That if the obligor does not appear at the hearing, the court shall implement the income withholding order. 
+
+(G) 
+That an income payor shall: 
+
+(i) 
+begin withholding income not later than the first pay date after fourteen (14) days following the date the income withholding order is received by the income payor; and 
+
+(ii) 
+report to the state central collection unit the date on which the income was withheld from the obligor's income. 
+
+
+
+(H) 
+That if an income payor is required to withhold income from more than one (1) obligor, the income payor may combine the withheld amount of income into a single payment for all obligors who are required to make payments to the state central collection unit if the income payor identifies the part of the single payment that is attributable to each individual obligor. 
+
+(I)
+ That if an obligor has: 
+
+(i) 
+more than one (1) income withholding order against the obligor; and 
+
+(ii) 
+insufficient disposable earnings to pay the amount of 
+
+
+
+
+
+
+income withholding for all income withholding orders; the income payor shall distribute the withheld income pro rata among the persons entitled to receive income under the income withholding orders, giving priority to a current income withholding order. 
+(J)
+ That an income payor shall honor all withholding to the extent that the total amount withheld does not exceed limits imposed under 15 U.S.C. 1673(b). 
+
+(K) 
+That the income withholding is binding upon the income payor until further notice by the court. 
+
+(L) 
+That an income payor that: 
+
+(i)
+ discharges the obligor from employment; 
+
+(ii) 
+refuses to employ the obligor; 
+
+
+(iii) takes disciplinary action against the obligor employed by the income payor; or 
+
+(iv)
+ otherwise discriminates against the obligor; because of the existence of an income withholding order or the obligations imposed upon the income payor by the income withholding order, is subject to a penalty not to exceed five thousand dollars ($5,000) payable to the state and recoverable in a civil action. 
+
+(M) 
+That if the income payor fails to withhold income in accordance with the income withholding order, the income payor is liable for: 
+
+(i) 
+the accumulated amount the income payor should have withheld from the obligor's income; and 
+
+(ii) 
+any interest, attorney's fees, and costs. 
+
+
+
+(N) 
+That an income withholding order under this chapter has priority over any secured or unsecured claim on income, except for claims for federal, state, and local taxes. 
+
+(O) 
+That the income payor must notify the court if the obligor: 
+
+(i) ceases employment with; or 
+
+(ii) 
+no longer receives income from; the income payor not later than ten (10) days after the date the obligor's employment or income ceases and provide the obligor's last known address and the name and address of the obligor's new income payor, if known, to the court. 
+
+
+(d) 
+At a hearing under this section, the court shall grant the petition to lift the stay of implementation of the income withholding order if the obligor has failed to comply with the provisions of the support order, unless the court finds that the conditions under section 0.5(c)(2) of this chapter have been met. 
+
+(e) 
+If the obligor files a petition to lift the stay of implementation of the income withholding order: 
+
+(1) 
+a hearing is not required; and 
+
+(2) 
+the court shall grant the petition. 
+
+
+
+(f) 
+If the court grants the petition to lift the stay of implementation of the income withholding order, the court shall: 
+
+(1) 
+implement the income withholding order; and 
+
+(2) 
+send the income withholding order to the obligor's income payor. 
+
+
+
+
+As added by P.L.103-2007, SEC.31. Amended by P.L.128-2012, SEC.41. 
+
+IC 31-16-15-6 Repealed 
+(As added by P.L.1-1997, SEC.8. Repealed by P.L.103-2007, SEC.51.) 
+
+IC 31-16-15-6.5 Serving an income withholding order 
+Sec. 6.5. A court or Title IV-D agency may serve an income withholding order on an income payor by: 
+(1) 
+first class mail; 
+
+(2) 
+facsimile transmission; or 
+
+(3) 
+other electronic means approved by the Title IV-D agency. 
+
+
+As added by P.L.103-2007, SEC.32. 
+IC 31-16-15-7 Repealed 
+(As added by P.L.1-1997, SEC.8. Amended by P.L.234-2005, 
+SEC.87; P.L.148-2006,SEC.20.Repealed byP.L.103-2007, SEC.51.) 
+
+IC 31-16-15-7.5 Income payor duties 
+Sec. 7.5. (a) An income payor that is required to withhold income under this chapter shall: 
+(1) 
+forward income withheld for the payment of current or past due child support as directed by an income withholding order to the state central collection unit at the time that an obligor is paid; 
+
+(2) 
+include a statement that identifies the: 
+
+(A) 
+cause number for each obligee; 
+
+(B) 
+Indiana support enforcement tracking system (ISETS) or its successor statewide automated support enforcement system case number for each obligee; 
+
+(C) 
+name of each obligor and the obligor's Social Security number; 
+
+(D) 
+name of each obligee with the amount of the withheld income forwarded by the income payor; and 
+
+(E) 
+date on which the amount was withheld from the obligor's income; and 
+
+
+
+(3) 
+begin withholding income not later than the first pay date after fourteen (14) days following the date the order for income withholding is received by the income payor. 
+
+
+(b) An income payor may retain, in addition to the amount of income forwarded to the state central collection unit, a fee of not more than two dollars ($2) each time the income payor forwards income to the state central collection unit. If an income payor retains a fee under this subsection, the income payor shall reduce the amount of income withheld for the payment of current and past due child support, if necessary to avoid exceeding the maximum amount permitted to be withheld under 15 U.S.C. 1673(b). As added by P.L.103-2007, SEC.33. Amended by P.L.80-2010, SEC.41; P.L.128-2012, SEC.42. 
+
+IC 31-16-15-8 Repealed 
+(As added by P.L.1-1997, SEC.8. Amended by P.L.234-2005, SEC.88; P.L.148-2006,SEC.21.Repealed byP.L.103-2007, SEC.51.) 
+
+IC 31-16-15-9 Repealed 
+(As added by P.L.1-1997, SEC.8. Repealed by P.L.103-2007, SEC.51.) 
+IC 31-16-15-10 Repealed 
+(As added by P.L.1-1997, SEC.8. Amended by P.L.138-2001, 
+SEC.12; P.L.234-2005, SEC.89; P.L.148-2006, SEC.22.Repealed by P.L.103-2007, SEC.51.) 
+
+IC 31-16-15-11 Repealed 
+(As added by P.L.1-1997, SEC.8. Repealed by P.L.103-2007, SEC.51.) 
+
+IC 31-16-15-12 Repealed 
+(As added by P.L.1-1997, SEC.8. Repealed by P.L.103-2007, SEC.51.) 
+
+IC 31-16-15-13 Repealed 
+(As added by P.L.1-1997, SEC.8. Repealed by P.L.103-2007, SEC.51.) 
+
+IC 31-16-15-14 Repealed 
+(As added by P.L.1-1997, SEC.8. Repealed by P.L.103-2007, SEC.51.) 
+
+IC 31-16-15-15 Repealed 
+(As added by P.L.1-1997, SEC.8. Amended by P.L.138-2001, SEC.13; P.L.234-2005, SEC.90; P.L.148-2006, SEC.23. Repealed by P.L.103-2007, SEC.51.) 
+
+IC 31-16-15-16 Combination of withheld amounts for multiple obligors in single payment; multiple withholdings paid electronically; civil penalty 
+Sec. 16. (a) Except as provided in subsection (b), if the income payor is required to withhold income from more than one (1) obligor under this chapter, the income payor may combine in a single payment the withheld amounts for all obligors who have been ordered to pay to the state central collection unit established by IC 31-25-3-1 if the income payor separately identifies the part of the single payment that is attributable to each individual obligor. 
+(b) If the income payor: 
+(1) is required to withhold income from more than one (1) obligor under this chapter; and 
+(2) employs more than fifty (50) employees; the income payor shall make payments to the state central collection unit established by IC 31-25-3-1 through electronic funds transfer or through electronic or Internet access made available by the state central collection unit. 
+(c) The department of child services shall assess a civil penalty of twenty-five dollars ($25) per obligor per pay period against an income payor that: 
+(1) 
+is required to make a payment under subsection (b); and 
+
+(2) 
+does not make the payment through electronic funds transfer 
+
+
+or other means described in subsection (b). The department shall deposit the penalties into the state general fund. As added by P.L.1-1997, SEC.8. Amended by P.L.86-2002, SEC.13; P.L.234-2005, SEC.91; P.L.148-2006, SEC.24; P.L.103-2007, SEC.34. 
+
+IC 31-16-15-17 Multiple withholding orders against single obligor; pro rata distribution of withheld earnings 
+Sec. 17. (a) If there is more than one (1) order for withholding against a single obligor under this chapter and the obligor has insufficient disposable earnings to pay the amount required by all the orders, the income payor shall: 
+(1) 
+honor all withholdings to the extent that the total amount withheld does not exceed the limits imposed under 15 U.S.C. 1673(b); and 
+
+(2) 
+distribute the withheld income pro rata among the persons entitled to receive income under the income withholding orders, giving priority to orders for current child support. 
+
+
+(b) The income payor may not distribute income under subsection 
+(a) in a manner that would result in one (1) of the current child support obligations not being honored. 
+As added by P.L.1-1997, SEC.8. Amended by P.L.103-2007, SEC.35; P.L.80-2010, SEC.42. 
+
+IC 31-16-15-18 Notice by income payor following cessation of employment or income 
+Sec. 18. The income payor shall: 
+(1) notify: 
+(A) 
+the Title IV-D agency in a case arising under section 2.5 of this chapter; or 
+
+(B) 
+the court in a case arising under section 0.5, 2, or 5.5 of 
+
+
+this chapter; when the obligor ceases to receive income not later than ten 
+(10)
+ days after the employment or income ceases; and 
+
+(2) 
+provide: 
+
+(A) 
+the obligor's last known address; and 
+
+(B) 
+the name and address of the obligor's new income payor if known. 
+
+
+
+
+As added by P.L.1-1997, SEC.8. Amended by P.L.103-2007, SEC.36. 
+IC 31-16-15-19 Severance pay, accumulated sick pay, vacation pay, accumulated commissions, bonuses, or other lump sum payments; withholding of support arrearages 
+
+Sec. 19. (a) If an obligor: 
+(1) is entitled to net income in the form of: 
+(A) 
+severance pay; 
+
+(B) 
+accumulated sick pay; 
+
+(C) 
+vacation pay; 
+
+(D) 
+accumulated commissions; 
+
+(E) 
+a bonus payment in addition to regular earned income; or 
+
+(F) 
+other lump sum payment; and 
+
+
+(2) owes an amount of child support that is in arrears; the income payor shall withhold the amount in arrears or the product computed under subsection (b), whichever is less, up to the maximum permitted under 15 U.S.C. 1673(b). 
+(b) The income payor shall multiply: 
+(1) 
+the amount of support the obligor is required to pay each week; by 
+
+(2) 
+the number of weeks represented by the lump sum payment. 
+
+
+As added by P.L.1-1997, SEC.8. Amended by P.L.103-2007, SEC.37. 
+
+IC 31-16-15-20 Payments by clerk or state central collection unit to persons entitled to receive child support 
+Sec. 20. (a) This subsection applies before January 1, 2007. The clerk of the court shall: 
+(1) 
+pay the income forwarded by the income payor to the person entitled to receive child support payments; and 
+
+(2) 
+maintain records to monitor and document the receipt and payment of income under this chapter. 
+
+
+(b) Beginning January 1, 2007, the clerk of the court, for cash payments, and the state central collection unit, for noncash payments, shall: 
+(1) 
+pay the income forwarded by the income payor to the person entitled to receive child support payments; and 
+
+(2) 
+maintain records to monitor and document the receipt and payment of income under this chapter. 
+
+
+As added by P.L.1-1997, SEC.8. Amended by P.L.148-2006, SEC.25. 
+
+IC 31-16-15-21 Repealed 
+(As added by P.L.1-1997, SEC.8. Repealed by P.L.103-2007, SEC.51.) 
+
+IC 31-16-15-22 Termination of income withholding 
+Sec. 22. (a) An income withholding order under section 0.5 or 2.5 of this chapter (or IC 31-2-10-7 before its repeal) terminates when both of the following occur: 
+(1) 
+The duty to support a child ceases under IC 31-14 or IC 31-16-2 through IC 31-16-12. 
+
+(2) 
+No child support arrearage exists. 
+
+
+(b) A court or Title IV-D agency may terminate income withholding when the whereabouts of the child and the child's custodial parent are unknown, preventing the forwarding of child support payments. As added by P.L.1-1997, SEC.8. Amended by P.L.103-2007, SEC.38. 
+
+IC 31-16-15-23 Liability of income payors 
+Sec. 23. (a) If an income payor fails to forward the money required by an income withholding order, the Title IV-D agency shall send the income payor, by certified mail, a notice of failure to comply. If the income payor fails to forward the money required by an income withholding order within thirty (30) days after receipt of the notice of failure to comply, the income payor is liable for the amount the income payor fails to forward. 
+(b) 
+An income payor described in subsection (a) is liable to the: 
+
+(1) 
+obligee for the amount of income not paid in compliance with the income withholding order, including an amount the obligor is required to pay for health insurance coverage; and 
+
+(2) 
+obligor for: 
+
+(A) 
+the amount of income withheld and not paid as required under the income withholding order; 
+
+(B) 
+an amount equal to the interest that accrues according to the interest percentage that accrues on judgments; and 
+
+(C) 
+reasonable attorney's fees and court costs. 
+
+
+
+
+
+(c)
+ An income payor that: 
+
+
+(1) receives an income withholding order from a court or Title IV-D agency; and 
+(2) fails to comply with the income withholding order; may be liable for contempt of court. 
+(d) If an obligor has filed a claim for worker's compensation, the income payor of the obligor shall send a copy of the income withholding order to the income payor's insurance carrier if the income payor has an insurance carrier with whom the claim has been filed in order to continue the ordered withholding of income. As added by P.L.1-1997, SEC.8. Amended by P.L.103-2007, SEC.39. 
+
+IC 31-16-15-23.5 Normal pay and distribution cycles unaffected 
+Sec. 23.5. An income payor is not required to vary the income payor's normal pay and distribution cycles in order to comply with this chapter. As added by P.L.80-2010, SEC.43. 
+
+IC 31-16-15-23.7 Immunity from civil liability 
+Sec. 23.7. An income payor is not subject to civil liability for income withheld and paid to an obligee, the Title IV-D agency, or a state central collection unit in accordance with an income withholding order that appears regular on its face. As added by P.L.80-2010, SEC.44. 
+
+IC 31-16-15-24 Repealed 
+(As added by P.L.1-1997, SEC.8. Repealed by P.L.103-2007, SEC.51.) 
+
+IC 31-16-15-25 Income payor penalties 
+Sec. 25. (a) An income payor that: 
+(1) 
+discharges from employment an obligor; 
+
+(2) 
+refuses to employ an obligor; 
+
+(3) 
+takes disciplinary action against an obligor employed by the income payor; or 
+
+
+(4) otherwise discriminates against an obligor; because of the existence of an income withholding order or the obligations imposed upon the income payor by the income withholding order, is subject to a penalty not to exceed five thousand dollars ($5,000) payable to the state and recoverable in a civil action. An obligor or the Title IV-D agency may bring an action to enforce a penalty under this subsection. 
+(b) The collection of money under this section does not affect: 
+(1) the obligor's right to damages under IC 24-4.5-5-202; or 
+(2) any other legal remedy available to the obligor; because of discharge from employment, refusal of employment, or disciplinary action. As added by P.L.1-1997, SEC.8. Amended by P.L.103-2007, SEC.40. 
+
+IC 31-16-15-26 New income payor 
+Sec. 26. If the Title IV-D agency or the court becomes aware that the obligor has a new income payor after income withholding has been implemented: 
+(1) 
+if the order is an income withholding order implemented under section 2.5 of this chapter, the Title IV-D agency; or 
+
+(2) 
+if the order is an income withholding order implemented under section 0.5 of this chapter or an income withholding order implemented after a stay has been lifted under section 5.5 of this chapter, the court or the Title IV-D agency; 
+
+
+shall send the income withholding order to the new income payor. 
+As added by P.L.1-1997, SEC.8. Amended by P.L.103-2007, SEC.41. 
+
+IC 31-16-15-27 Priority of order over other claims 
+Sec. 27. An income withholding order under this chapter has priority over any secured or unsecured claim on income except claims for federal, state, and local taxes that are required to be withheld for the calendar year in which the income is subject to a withholding order. As added by P.L.1-1997, SEC.8. 
+
+IC 31-16-15-28 Full faith and credit 
+Sec. 28. The courts and the Title IV-D agency shall give full faith and credit to income withholding orders that are issued in other states. As added by P.L.1-1997, SEC.8. 
+
+IC 31-16-15-29 Registration of foreign support orders 
+Sec. 29. (a) The registration of a foreign support order as provided in IC 31-18.5-6 is sufficient for the implementation of an income withholding order by the Title IV-D agency. 
+(b) The Title IV-D agency shall issue a notice in accordance with section 3.5 of this chapter of the implementation of a foreign support order to the obligor. As added by P.L.103-2007, SEC.42. Amended by P.L.206-2015, SEC.51. 
+
+IC 31-16-15-30 Title IV-D agency civil liability 
+Sec. 30. A Title IV-D agency or an agent of a Title IV-D agency acting within the scope of the agent's employment is not subject to any civil liability for income withheld and paid to an obligee, the Title IV-D agency, or the state central collection unit in accordance with an income withholding order. As added by P.L.103-2007, SEC.43. 
+

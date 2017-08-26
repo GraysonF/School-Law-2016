@@ -1,0 +1,832 @@
+IC 35-37-4 Chapter 4. Evidence and Protection of Certain Witnesses 
+IC 35-37-4-1 Competency of witness 
+Sec. 1. A person who is competent to testify in civil actions is also competent to testify in criminal proceedings. 
+As added by Acts 1981, P.L.298, SEC.6. 
+
+IC 35-37-4-2 Credibility; general moral character 
+Sec. 2. In all questions affecting the credibility of a witness, his general moral character may be given in evidence. 
+As added by Acts 1981, P.L.298, SEC.6. 
+
+IC 35-37-4-3 Depositions 
+Sec. 3. The state and the defendant may take and use depositions of witnesses in accordance with the Indiana Rules of Trial Procedure. 
+As added by Acts 1981, P.L.298, SEC.6. 
+
+IC 35-37-4-4 Sex crimes; admissibility of evidence of past sexual conduct; procedure 
+Sec. 4. (a) In a prosecution for a sex crime as defined in IC 35-42-4: 
+(1) 
+evidence of the victim's past sexual conduct; 
+
+(2) 
+evidence of the past sexual conduct of a witness other than the accused; 
+
+(3) 
+opinion evidence of the victim's past sexual conduct; 
+
+(4) 
+opinion evidence of the past sexual conduct of a witness other than the accused; 
+
+(5) 
+reputation evidence of the victim's past sexual conduct; and 
+
+(6) 
+reputation evidence of the past sexual conduct of a witness 
+
+
+other than the accused; may not be admitted, nor may reference be made to this evidence in the presence of the jury, except as provided in this chapter. 
+(b) Notwithstanding subsection (a), evidence: 
+(1) 
+of the victim's or a witness's past sexual conduct with the defendant; 
+
+(2) 
+which in a specific instance of sexual activity shows that some person other than the defendant committed the act upon which the prosecution is founded; or 
+
+(3) 
+that the victim's pregnancy at the time of trial was not 
+
+
+caused by the defendant; may be introduced if the judge finds, under the procedure provided in subsection (c) of this section, that it is material to a fact at issue in the case and that its inflammatory or prejudicial nature does not outweigh its probative value. 
+(c) If the defendant or the state proposes to offer evidence described in subsection (b) of this section, the following procedure must be followed: 
+(1) 
+The defendant or the state shall file a written motion not less than ten (10) days before trial stating that it has an offer of proof concerning evidence described in subsection (b) and its relevancy to the case. This motion shall be accompanied by an affidavit in which the offer of proof is stated. 
+
+(2) 
+If the court finds that the offer of proof is sufficient, the court shall order a hearing out of the presence of the jury, and at the hearing allow the questioning of the victim or witness regarding the offer of proof made by the defendant or the state. 
+
+
+At the conclusion of the hearing, if the court finds that evidence proposed to be offered by the defendant or the state regarding the sexual conduct of the victim or witness is admissible under subsection (b) of this section, the court shall make an order stating what evidence may be introduced by the defendant or the state and the nature of the questions to be permitted. The defendant or the state may then offer evidence under the order of the court. 
+(d) 
+If new information is discovered within ten (10) days before trial or during the course of the trial that might make evidence described in subsection (b) of this chapter admissible, the judge shall order a hearing out of the presence of the jury to determine whether the proposed evidence is admissible under this chapter. 
+
+(e) 
+This section does not limit the right of either the state or the accused to impeach credibility by a showing of prior felony convictions. 
+
+
+(f) If: 
+(1) 
+a defendant files a motion under subsection (c)(1) concerning evidence described in subsection (b)(3); and 
+
+(2) 
+the state acknowledges that the victim's pregnancy is not due 
+
+
+to the conduct of the defendant; the court shall instruct the jury that the victim's pregnancy is not due to the conduct of the defendant. However, other evidence concerning the pregnancy may not be admitted, and further reference to the pregnancy may not be made in the presence of the jury. As added by Acts 1981, P.L.298, SEC.6. Amended by P.L.322-1983, SEC.1. 
+
+IC 35-37-4-5 Evidence unlawfully obtained by officer in good faith; exclusion 
+Sec. 5. (a) In a prosecution for a crime or a proceeding to enforce an ordinance or a statute defining an infraction, the court may not grant a motion to exclude evidence on the grounds that the search or seizure by which the evidence was obtained was unlawful if the evidence was obtained by a law enforcement officer in good faith. 
+(b) For purposes of this section, evidence is obtained by a law enforcement officer in good faith if: 
+(1) 
+it is obtained pursuant to: 
+
+(A) 
+a search warrant that was properly issued upon a determination of probable cause by a neutral and detached magistrate, that is free from obvious defects other than nondeliberate errors made in its preparation, and that was reasonably believed by the law enforcement officer to be valid; or 
+
+(B) 
+a state statute, judicial precedent, or court rule that is later declared unconstitutional or otherwise invalidated; and 
+
+
+
+(2) 
+the law enforcement officer, at the time he obtains the evidence, has satisfied applicable minimum basic training requirements established by rules adopted by the law enforcement training board under IC 5-2-1-9. 
+
+
+(c) This section does not affect the right of a person to bring a civil action against a law enforcement officer or a governmental entity to recover damages for the violation of his rights by an unlawful search and seizure. As added by P.L.323-1983, SEC.1. 
+
+IC 35-37-4-6 Version a Application of section; "protected person"; admissibility of statement or videotape; notice to defendant; jury instructions 
+Note: This version of section effective until 7-1-2016. See also following version of this section, effective 7-1-2016. 
+Sec. 6. (a) This section applies to a criminal action involving the following offenses where the victim is a protected person under subsection (c)(1) or (c)(2): 
+(1) 
+Sex crimes (IC 35-42-4). 
+
+(2) 
+Battery upon a child less than fourteen (14) years of age (IC 35-42-2-1). 
+
+(3) 
+Kidnapping and confinement (IC 35-42-3). 
+
+(4) 
+Incest (IC 35-46-1-3). 
+
+(5) 
+Neglect of a dependent (IC 35-46-1-4). 
+
+(6) 
+Human and sexual trafficking crimes (IC 35-42-3.5). 
+
+(7) 
+An attempt under IC 35-41-5-1 for an offense listed in subdivisions (1) through (6). 
+
+
+(b) 
+This section applies to a criminal action involving the following offenses where the victim is a protected person under subsection (c)(3): 
+
+(1) 
+Exploitation of a dependent or endangered adult (IC 35-46-1-12). 
+
+(2) 
+A sex crime (IC 35-42-4). 
+
+(3) 
+Battery (IC 35-42-2-1). 
+
+(4) 
+Kidnapping, confinement, or interference with custody (IC 35-42-3). 
+
+(5) 
+Home improvement fraud (IC 35-43-6). 
+
+(6) 
+Fraud (IC 35-43-5). 
+
+(7) 
+Identity deception (IC 35-43-5-3.5). 
+
+(8) 
+Synthetic identity deception (IC 35-43-5-3.8). 
+
+(9) 
+Theft (IC 35-43-4-2). 
+
+(10)
+ Conversion (IC 35-43-4-3). 
+
+(11)
+ Neglect of a dependent (IC 35-46-1-4). 
+
+(12)
+ Human and sexual trafficking crimes (IC 35-42-3.5). 
+
+
+(c)
+ As used in this section, "protected person" means: 
+
+(1) 
+a child who is less than fourteen (14) years of age; 
+
+(2) 
+an individual with a mental disability who has a disability attributable to an impairment of general intellectual functioning or adaptive behavior that: 
+
+(A) 
+is manifested before the individual is eighteen (18) years of age; 
+
+(B) 
+is likely to continue indefinitely; 
+
+(C) 
+constitutes a substantial impairment of the individual's ability to function normally in society; and 
+
+(D) 
+reflects the individual's need for a combination and sequence of special, interdisciplinary, or generic care, treatment, or other services that are of lifelong or extended duration and are individually planned and coordinated; or 
+
+
+
+(3) 
+an individual who is: 
+
+(A) 
+at least eighteen (18) years of age; and 
+
+(B) 
+incapable by reason of mental illness, intellectual disability, dementia, or other physical or mental incapacity of: 
+
+(i) 
+managing or directing the management of the individual's property; or 
+
+(ii) 
+providing or directing the provision of self-care. 
+
+
+
+
+
+
+
+(d) 
+A statement or videotape that: 
+
+(1) 
+is made by a person who at the time of trial is a protected person; 
+
+(2) 
+concerns an act that is a material element of an offense listed in subsection (a) or (b) that was allegedly committed against the person; and 
+
+
+
+
+
+(3) 
+is not otherwise admissible in evidence; is admissible in evidence in a criminal action for an offense listed in subsection (a) or (b) if the requirements of subsection (e) are met. 
+
+(e) 
+A statement or videotape described in subsection (d) is admissible in evidence in a criminal action listed in subsection (a) or 
+
+(b) 
+if, after notice to the defendant of a hearing and of the defendant's right to be present, all of the following conditions are met: 
+
+
+(1) The court finds, in a hearing: 
+(A) 
+conducted outside the presence of the jury; and 
+
+(B) 
+attended by the protected person in person or by using closed circuit television testimony as described in section 8(f) and 8(g) of this chapter; 
+
+
+that the time, content, and circumstances of the statement or videotape provide sufficient indications of reliability. 
+(2) The protected person: 
+(A) 
+testifies at the trial; or 
+
+(B) 
+is found by the court to be unavailable as a witness for one (1) of the following reasons: 
+
+(i) 
+From the testimony of a psychiatrist, physician, or psychologist, and other evidence, if any, the court finds that the protected person's testifying in the physical presence of the defendant will cause the protected person to suffer serious emotional distress such that the protected person cannot reasonably communicate. 
+
+(ii) 
+The protected person cannot participate in the trial for medical reasons. 
+
+
+
+
+(iii) The court has determined that the protected person is incapable of understanding the nature and obligation of an oath. 
+(f) 
+If a protected person is unavailable to testify at the trial for a reason listed in subsection (e)(2)(B), a statement or videotape may be admitted in evidence under this section only if the protected person was available for cross-examination: 
+
+(1) 
+at the hearing described in subsection (e)(1); or 
+
+(2) 
+when the statement or videotape was made. 
+
+
+
+(g) 
+A statement or videotape may not be admitted in evidence under this section unless the prosecuting attorney informs the defendant and the defendant's attorney at least ten (10) days before the trial of: 
+
+(1) 
+the prosecuting attorney's intention to introduce the statement or videotape in evidence; and 
+
+(2) 
+the content of the statement or videotape. 
+
+
+
+(h) 
+If a statement or videotape is admitted in evidence under this section, the court shall instruct the jury that it is for the jury to determine the weight and credit to be given the statement or videotape and that, in making that determination, the jury shall consider the following: 
+
+(1) 
+The mental and physical age of the person making the statement or videotape. 
+
+(2) 
+The nature of the statement or videotape. 
+
+(3) 
+The circumstances under which the statement or videotape was made. 
+
+(4) 
+Other relevant factors. 
+
+
+
+(i) 
+If a statement or videotape described in subsection (d) is admitted into evidence under this section, a defendant may introduce 
+
+
+a: 
+(1) transcript; or 
+(2) videotape; of the hearing held under subsection (e)(1) into evidence at trial. As added by P.L.180-1984, SEC.1. Amended by P.L.316-1985, SEC.1; P.L.37-1990, SEC.22; P.L.23-1993,SEC.161; P.L.142-1994, SEC.7; P.L.43-2004, SEC.1; P.L.2-2005, SEC.120; P.L.173-2006, 
+SEC.48; P.L.99-2007, SEC.207; P.L.137-2009, SEC.10; P.L.28-2011, SEC.1; P.L.117-2015,SEC.54; P.L.238-2015, SEC.11; P.L.149-2016, SEC.89. 
+
+IC 35-37-4-6 Version b Application of section; "protected person"; admissibility of statement or videotape; notice to defendant; jury instructions 
+Note: This version of section effective 7-1-2016. See also preceding version of this section, effective until 7-1-2016. 
+Sec. 6. (a) This section applies to a criminal action involving the following offenses where the victim is a protected person under subsection (c)(1) or (c)(2): 
+(1) 
+Sex crimes (IC 35-42-4). 
+
+(2) 
+A battery offense included in IC 35-42-2 upon a child less than fourteen (14) years of age. 
+
+(3) 
+Kidnapping and confinement (IC 35-42-3). 
+
+(4) 
+Incest (IC 35-46-1-3). 
+
+(5) 
+Neglect of a dependent (IC 35-46-1-4). 
+
+(6) 
+Human and sexual trafficking crimes (IC 35-42-3.5). 
+
+(7) 
+An attempt under IC 35-41-5-1 to commit an offense listed in this subsection. 
+
+
+(b) 
+This section applies to a criminal action involving the following offenses where the victim is a protected person under subsection (c)(3): 
+
+(1) 
+Exploitation of a dependent or endangered adult (IC 35-46-1-12). 
+
+(2) 
+A sex crime (IC 35-42-4). 
+
+(3) 
+A battery offense included in IC 35-42-2. 
+
+(4) 
+Kidnapping, confinement, or interference with custody (IC 35-42-3). 
+
+(5) 
+Home improvement fraud (IC 35-43-6). 
+
+(6) 
+Fraud (IC 35-43-5). 
+
+(7) 
+Identity deception (IC 35-43-5-3.5). 
+
+(8) 
+Synthetic identity deception (IC 35-43-5-3.8). 
+
+(9) 
+Theft (IC 35-43-4-2). 
+
+(10)
+ Conversion (IC 35-43-4-3). 
+
+(11)
+ Neglect of a dependent (IC 35-46-1-4). 
+
+(12)
+ Human and sexual trafficking crimes (IC 35-42-3.5). 
+
+
+(c)
+ As used in this section, "protected person" means: 
+
+(1) 
+a child who is less than fourteen (14) years of age; 
+
+(2) 
+an individual with a mental disability who has a disability attributable to an impairment of general intellectual functioning or adaptive behavior that: 
+
+(A) 
+is manifested before the individual is eighteen (18) years of age; 
+
+(B) 
+is likely to continue indefinitely; 
+
+(C) 
+constitutes a substantial impairment of the individual's ability to function normally in society; and 
+
+(D) 
+reflects the individual's need for a combination and sequence of special, interdisciplinary, or generic care, treatment, or other services that are of lifelong or extended duration and are individually planned and coordinated; or 
+
+
+
+(3) 
+an individual who is: 
+
+(A) 
+at least eighteen (18) years of age; and 
+
+(B) 
+incapable by reason of mental illness, intellectual disability, dementia, or other physical or mental incapacity of: 
+
+(i) 
+managing or directing the management of the individual's property; or 
+
+(ii) 
+providing or directing the provision of self-care. 
+
+
+
+
+
+
+
+(d) 
+A statement or videotape that: 
+
+(1) 
+is made by a person who at the time of trial is a protected person; 
+
+(2) 
+concerns an act that is a material element of an offense listed in subsection (a) or (b) that was allegedly committed against the person; and 
+
+
+
+
+
+(3) 
+is not otherwise admissible in evidence; is admissible in evidence in a criminal action for an offense listed in subsection (a) or (b) if the requirements of subsection (e) are met. 
+
+(e) 
+A statement or videotape described in subsection (d) is admissible in evidence in a criminal action listed in subsection (a) or 
+
+(b) 
+if, after notice to the defendant of a hearing and of the defendant's right to be present, all of the following conditions are met: 
+
+
+(1) The court finds, in a hearing: 
+(A) 
+conducted outside the presence of the jury; and 
+
+(B) 
+attended by the protected person in person or by using closed circuit television testimony as described in section 8(f) and 8(g) of this chapter; 
+
+
+that the time, content, and circumstances of the statement or videotape provide sufficient indications of reliability. 
+(2) The protected person: 
+(A) 
+testifies at the trial; or 
+
+(B) 
+is found by the court to be unavailable as a witness for one (1) of the following reasons: 
+
+(i) 
+From the testimony of a psychiatrist, physician, or psychologist, and other evidence, if any, the court finds that the protected person's testifying in the physical presence of the defendant will cause the protected person to suffer serious emotional distress such that the protected person cannot reasonably communicate. 
+
+(ii) 
+The protected person cannot participate in the trial for medical reasons. 
+
+
+
+
+(iii) The court has determined that the protected person is incapable of understanding the nature and obligation of an oath. 
+(f) If a protected person is unavailable to testify at the trial for a reason listed in subsection (e)(2)(B), a statement or videotape may be admitted in evidence under this section only if the protected person was available for cross-examination: 
+(1) 
+at the hearing described in subsection (e)(1); or 
+
+(2) 
+when the statement or videotape was made. 
+
+
+(g) 
+A statement or videotape may not be admitted in evidence under this section unless the prosecuting attorney informs the defendant and the defendant's attorney at least ten (10) days before the trial of: 
+
+(1) 
+the prosecuting attorney's intention to introduce the statement or videotape in evidence; and 
+
+(2) 
+the content of the statement or videotape. 
+
+
+
+(h) 
+If a statement or videotape is admitted in evidence under this section, the court shall instruct the jury that it is for the jury to determine the weight and credit to be given the statement or videotape and that, in making that determination, the jury shall consider the following: 
+
+(1) 
+The mental and physical age of the person making the statement or videotape. 
+
+(2) 
+The nature of the statement or videotape. 
+
+(3) 
+The circumstances under which the statement or videotape was made. 
+
+(4) 
+Other relevant factors. 
+
+
+
+(i) 
+If a statement or videotape described in subsection (d) is admitted into evidence under this section, a defendant may introduce 
+
+
+a: 
+(1) transcript; or 
+(2) videotape; of the hearing held under subsection (e)(1) into evidence at trial. As added by P.L.180-1984, SEC.1. Amended by P.L.316-1985, SEC.1; P.L.37-1990,SEC.22; P.L.23-1993, SEC.161; P.L.142-1994, SEC.7; P.L.43-2004, SEC.1; P.L.2-2005, SEC.120; P.L.173-2006, SEC.48; P.L.99-2007, SEC.207; P.L.137-2009, SEC.10; P.L.28-2011, SEC.1; P.L.117-2015, SEC.54; P.L.238-2015, SEC.11; P.L.149-2016, SEC.89; P.L.65-2016, SEC.26. 
+
+IC 35-37-4-7 Pecuniary loss or gain; proof 
+Sec. 7. Whenever an element of an offense involves a pecuniary loss or a pecuniary gain, then the element shall be established by proof of the fair market value of the property at the time of the offense. As added by P.L.320-1985, SEC.2. 
+
+IC 35-37-4-8 Application of section; testimony of protected person; closed circuit television; videotape; notice to defendant 
+Sec. 8. (a) This section applies to a criminal action under the following: 
+(1) 
+Sex crimes (IC 35-42-4). 
+
+(2) 
+A battery offense included in IC 35-42-2 upon a child less than fourteen (14) years of age. 
+
+(3) 
+Kidnapping and confinement (IC 35-42-3). 
+
+(4) 
+Incest (IC 35-46-1-3). 
+
+(5) 
+Neglect of a dependent (IC 35-46-1-4). 
+
+(6) 
+Human and sexual trafficking crimes (IC 35-42-3.5). 
+
+(7) 
+An attempt under IC 35-41-5-1 for an offense listed in subdivisions (1) through (6). 
+
+
+(b) 
+As used in this section, "protected person" has the meaning set forth in section 6 of this chapter. 
+
+(c) 
+On the motion of the prosecuting attorney, the court may order that the testimony of a protected person be taken in a room other than the courtroom, and that the questioning of the protected person by the prosecution and the defense be transmitted using a two-way closed circuit television arrangement that: 
+
+(1) 
+allows the protected person to see the accused and the trier of fact; and 
+
+(2) 
+allows the accused and the trier of fact to see and hear the protected person. 
+
+
+
+(d) 
+On the motion of the prosecuting attorney or the defendant, the court may order that the testimony of a protected person be videotaped for use at trial. The videotaping of the testimony of a protected person under this subsection must meet the requirements of subsection (c). 
+
+(e) 
+The court may not make an order under subsection (c) or (d) unless: 
+
+
+(1) the testimony to be taken is the testimony of a protected person who: 
+(A) 
+is the alleged victim of an offense listed in subsection (a) for which the defendant is being tried or is a witness in a trial for an offense listed in subsection (a); and 
+
+(B) 
+is found by the court to be a protected person who should be permitted to testify outside the courtroombecause: 
+
+(i) 
+the court finds from the testimony of a psychiatrist, physician, or psychologist and any other evidence that the protected person's testifying in the physical presence of the defendant would cause the protected person to suffer serious emotional harm and the court finds that the protected person could not reasonably communicate in the physical presence of the defendant to the trier of fact; 
+
+(ii) 
+a physician has certified that the protected person cannot be present in the courtroom for medical reasons; or 
+
+
+
+
+(iii) evidence has been introduced concerning the effect of the protected person's testifying in the physical presence of the defendant, and the court finds that it is more likely than not that the protected person's testifying in the physical presence of the defendant creates a substantial likelihood of emotional or mental harm to the protected person; 
+(2) 
+the prosecuting attorney has informed the defendant and the defendant's attorney of the intention to have the protected person testify outside the courtroom; and 
+
+(3) 
+the prosecuting attorney informed the defendant and the defendant's attorney under subdivision (2) at least ten (10) days before the trial of the prosecuting attorney's intention to have the protected person testify outside the courtroom. 
+
+
+(f) 
+If the court makes an order under subsection (c), only the following persons may be in the same room as the protected person during the protected person's testimony: 
+
+(1) 
+A defense attorney if: 
+
+(A) 
+the defendant is represented by the defense attorney; and 
+
+(B) 
+the prosecuting attorney is also in the same room. 
+
+
+
+(2) 
+The prosecuting attorney if: 
+
+(A) 
+the defendant is represented by a defense attorney; and 
+
+(B) 
+the defense attorney is also in the same room. 
+
+
+
+(3) 
+Persons necessary to operate the closed circuit television equipment. 
+
+(4) 
+Persons whose presence the court finds will contribute to the protected person's well-being. 
+
+(5) 
+A court bailiff or court representative. 
+
+
+
+(g) 
+If the court makes an order under subsection (d), only the following persons may be in the same room as the protected person during the protected person's videotaped testimony: 
+
+(1) 
+The judge. 
+
+(2) 
+The prosecuting attorney. 
+
+(3) 
+The defendant's attorney (or the defendant, if the defendant is not represented by an attorney). 
+
+(4) 
+Persons necessary to operate the electronic equipment. 
+
+(5) 
+The court reporter. 
+
+(6) 
+Persons whose presence the court finds will contribute to the protected person's well-being. 
+
+(7) 
+The defendant, who can observe and hear the testimony of the protected person with the protected person being able to observe or hear the defendant. However, if the defendant is not represented by an attorney, the defendant may question the protected person. 
+
+
+
+(h) 
+If the court makes an order under subsection (c) or (d), only the following persons may question the protected person: 
+
+(1) 
+The prosecuting attorney. 
+
+(2) 
+The defendant's attorney (or the defendant, if the defendant is not represented by an attorney). 
+
+(3) 
+The judge. 
+
+
+
+
+As added by P.L.203-1986, SEC.2. Amended by P.L.37-1990, SEC.23; P.L.142-1994, SEC.8; P.L.2-2005, SEC.121; P.L.173-2006, 
+SEC.49; P.L.238-2015, SEC.12; P.L.65-2016, SEC.27. 
+
+IC 35-37-4-9 Certificates of title; certified copies as prima facie evidence of title 
+Sec. 9. (a) As used in this section, "certified copy of a certificate of title" means a document that is: 
+(1) 
+a copy of a certificate of title for a motor vehicle, by whatever name designated, that is issued by the bureau of motor vehicles or a governmental entity in another state; 
+
+(2) 
+prepared from a record of the governmental entity issuing the certificate of title; and 
+
+(3) 
+certified by the officer having legal custody of the record described in subdivision (2) or the officer's deputy. 
+
+
+(b) In a criminal proceeding, a certified copy of a certificate of title is prima facie evidence of the ownership of a motor vehicle. As added by P.L.136-1987, SEC.3. 
+
+IC 35-37-4-10 
+(Repealed by P.L.1-1991, SEC.192.) 
+
+IC 35-37-4-11 Safeguarding victim from contact with accused and relatives of accused; waiting areas 
+Sec. 11. (a) During court proceedings a court shall provide safeguards necessary to minimize the contact of the victim of an offense or delinquent act with: 
+(1) 
+a defendant accused of the offense or a juvenile accused of committing the delinquent act; and 
+
+(2) 
+the relatives and friends of: 
+
+(A) 
+a defendant accused of the offense; or 
+
+(B) 
+a juvenile accused of committing the delinquent act. 
+
+
+
+
+(b) The safeguards required under subsection (a) may include courthouse waiting areas for victims that are separated from those waiting areas specified for defendants, juveniles alleged to be delinquent children, and the relatives and friends of accused persons. 
+(c) A county is not required under this section, or by mandate of a court, to expend any funds to change the physical configuration of a courthouse in the county to meet the requirements of this section. As added by P.L.36-1990, SEC.10. 
+
+IC 35-37-4-12 Physical safety of victim or victim's family in danger; exclusion of evidence; disclosure to court 
+Sec. 12. (a) If the physical safety of a victim or the victim's immediate family is in danger, a victim may not be required to give personal information during the course of sworn testimony regarding the following: 
+(1) 
+Telephone numbers. 
+
+(2) 
+Place of employment. 
+
+(3) 
+Residential address. 
+
+
+(b) In any hearing to determine the introduction into evidence of the personal information specified in subsection (a), the court, if the court finds an actual danger to the victim or the victim's immediate family exists, may require the party possessing the personal information to disclose the personal information to the court for in camera review. As added by P.L.1-1991, SEC.193. 
+
+IC 35-37-4-13 "Forensic DNA analysis" defined; admissibility 
+Sec. 13. (a) As used in this section, "forensic DNA analysis" means an identification process in which the unique genetic code of an individual that is carried by the individual's deoxyribonucleic acid (DNA) is compared to genetic codes carried in DNA found in bodily substance samples obtained by a law enforcement agency in the exercise of the law enforcement agency's investigative function. 
+(b) In a criminal trial or hearing, the results of forensic DNA analysis are admissible in evidence without antecedent expert testimony that forensic DNA analysis provides a trustworthy and reliable method of identifying characteristics in an individual's genetic material. As added by P.L.1-1991, SEC.194. 
+
+IC 35-37-4-14 Evidence of a previous battery 
+Sec. 14. (a) This section applies even if no criminal charges were filed concerning the act that is the basis of the evidence of a previous battery. 
+(b) 
+As used in this section, "evidence of a previous battery" means evidence that a person charged with a crime described in subsection (c)(1) through (c)(5) committed a prior unrelated act of battery or attempted battery on the victim of a crime described in subsection (c)(1) through (c)(5) within five (5) years before the person allegedly committed the crime described in subsection (c)(1) through (c)(5). 
+
+(c) In a prosecution for: 
+(1) 
+battery (IC 35-42-2-1); 
+
+(2) 
+domestic battery (IC 35-42-2-1.3); 
+
+(3) 
+aggravated battery (IC 35-42-2-1.5); 
+
+(4) 
+murder (IC 35-42-1-1); or 
+
+
+
+(5) 
+voluntary manslaughter (IC 35-42-1-3); evidence of a previous battery is admissible into evidence in the state's case-in-chief for purposes of proving motive, intent, identity, or common scheme and design. 
+
+(d) 
+If the state proposes to offer evidence described in subsection (b), the following procedure must be followed: 
+
+(1) 
+The state shall file a written motion not less than ten (10) 
+
+days before trial stating that the state has an offer of proof concerning evidence described in subsection (b) and the relevancy of the evidence to the case. The motion must be accompanied by an affidavit in which the offer of proof is stated. 
+
+(2) 
+If the court finds that the offer of proof is sufficient, the court shall order a hearing out of the presence of the jury. At the hearing, the court shall allow the questioning of the victim or witness regarding the offer of proof made by the state. 
+
+
+
+
+At the conclusion of the hearing, if the court finds that evidence proposed to be offered by the state is admissible, the court shall make an order stating what evidence may be introduced by the state and the nature of the questions to be permitted. The state may then offer evidence under the order of the court. 
+(e) This section shall not be construed to limit the admissibility of evidence of a previous battery in any civil or criminal proceeding. 
+As added by P.L.213-1991, SEC.1. Amended by P.L.65-2016, SEC.28. 
+
+IC 35-37-4-15 Child molestation; evidence of prior acts 
+Sec. 15. (a) In a prosecution for child molesting under IC 35-42-4-3, a prosecution for incest under IC 35-46-1-3, or a prosecution for an attempt or a conspiracy to commit child molesting or incest, evidence that the defendant has committed another crime or act of child molesting or incest or attempted or conspired to commit another crime or act of child molesting or incest: 
+(1) 
+against the same victim; or 
+
+(2) 
+that involves a similar crime or act of child molesting or 
+
+
+incest against a different victim; is admissible. 
+(b) 
+If the state proposes to offer evidence described under subsection (a), the state must disclose the evidence to the defendant, including statements made by witnesses or a summary of the substance of any testimony that is expected to be offered at the defendant's trial: 
+
+(1) 
+at least fifteen (15) days before the date the defendant's trial is scheduled to begin; or 
+
+(2) 
+at a later date as determined by the court for good cause. 
+
+
+
+(c)
+ The court shall hold a hearing out of the presence of the jury regarding the admissibility of the evidence described under subsection (a). Even if the court determines that the evidence is relevant, the evidence may be excluded if the probative value of the evidence is substantially outweighed by: 
+
+(1) 
+the danger of: 
+
+(A) 
+unfair prejudice; 
+
+(B) 
+confusion of the issues; or 
+
+(C) 
+misleading the jury; or 
+
+
+
+(2) 
+considerations of: 
+
+(A) 
+undue delay; 
+
+(B) 
+waste of time; or 
+
+
+
+
+
+(C) 
+needless presentation of cumulative evidence. However, if the court finds that all or some of the evidence is admissible, the court shall enter an order stating what evidence may be introduced. 
+
+(d) 
+This section may not be construed to limit the right to introduce evidence at a trial that would otherwise be admissible to prove any of the following: 
+
+(1) 
+Motive. 
+
+(2) 
+Opportunity. 
+
+(3) 
+Intent. 
+
+(4) 
+Plan. 
+
+(5) 
+Knowledge. 
+
+(6) 
+Identity. 
+
+(7) 
+Absence of mistake or accident. 
+
+
+
+
+As added by P.L.232-1993, SEC.2. 
+

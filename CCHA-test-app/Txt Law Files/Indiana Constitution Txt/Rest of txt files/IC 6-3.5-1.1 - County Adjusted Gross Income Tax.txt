@@ -1,0 +1,2252 @@
+IC 6-3.5-1.1 Version a Chapter 1.1. County Adjusted Gross Income Tax 
+Note: This version of chapter effective until 1-1-2017. See also following repeal of this chapter, effective 1-1-2017. 
+
+IC 6-3.5-1.1-1 Version a Definitions 
+Note: This version of section effective until 1-1-2017. See also following repeal of this chapter, effective 1-1-2017. 
+Sec. 1. As used in this chapter: 
+"Adjusted gross income" has the same definition that the term is given in IC 6-3-1-3.5(a), except that in the case of a county taxpayer who is not a resident of a county that has imposed the county adjusted gross income tax, the term includes only adjusted gross income derived from the taxpayer's principal place of business or employment. 
+"Apartment complex" means real property consisting of at least five (5) units that are regularly used to rent or otherwise furnish residential accommodations for periods of at least thirty (30) days. 
+"Civil taxing unit" means any entity having the power to impose ad valorem property taxes except a school corporation. The term does not include a solid waste management district that is not entitled to a distribution under section 1.3 of this chapter. However, in the case of a consolidated city, the term "civil taxing unit" includes the consolidated city and all special taxing districts, all special service districts, and all entities whose budgets and property tax levies are subject to review under IC 36-3-6-9. 
+"County council" includes the city-county council of a consolidated city. 
+"County taxpayer" as it relates to a county for a year means any individual: 
+(1) 
+who resides in that county on the date specified in section 16 of this chapter; or 
+
+(2) 
+who maintains the taxpayer's principal place of business or employment in that county on the date specified in section 16 of this chapter and who does not on that same date reside in another county in which the county adjusted gross income tax, the county option income tax, or the county economic development income tax is in effect. 
+
+
+"Department" refers to the Indiana department of state revenue. "Homestead" has the meaning set forth in IC 6-1.1-12-37. "Nonresident county taxpayer" as it relates to a county for a year 
+means any county taxpayer for that county for that year who is not a resident county taxpayer of that county for that year. "Qualified residential property" refers to any of the following: 
+(1) 
+An apartment complex. 
+
+(2) 
+A homestead. 
+
+(3) 
+Residential rental property. 
+
+
+"Resident county taxpayer" as it relates to a county for a year means any county taxpayer who resides in that county on the date specified in section 16 of this chapter. 
+"Residential rental property" means real propertyconsistingof not more than four (4) units that are regularly used to rent or otherwise furnish residential accommodations for periods of at least thirty (30) days. 
+"School corporation" means any public school corporation established under Indiana law. As added by P.L.73-1983, SEC.2. Amended by P.L.44-1984, SEC.12; P.L.22-1988, SEC.3; P.L.96-1995, SEC.1; P.L.146-2008, SEC.326. 
+
+IC 6-3.5-1.1-1.1 Version a Determination of allocation amount 
+Note: This version of section effective until 1-1-2017. See also following repeal of this chapter, effective 1-1-2017. 
+Sec. 1.1. (a) For purposes of allocating the certified distribution made to a county under this chapter among the civil taxing units and school corporations in the county, the allocation amount for a civil taxing unit or school corporation is the amount determined using the following formula: 
+STEP ONE: Determine the sum of the total property taxes being 
+collected by the civil taxing unit or school corporation during 
+the calendar year of the distribution. 
+STEP TWO: Determine the sum of the following: 
+(A) 
+Amounts appropriated from property taxes to pay the principal of or interest on any debenture or other debt obligation issued after June 30, 2005, other than an obligation described in subsection (b). 
+
+(B) 
+Amounts appropriated from property taxes to make payments on any lease entered into after June 30, 2005, other than a lease described in subsection (c). 
+
+(C) 
+The proceeds of any property that are: 
+
+(i) 
+received as the result of the issuance of a debt obligation described in clause (A) or a lease described in clause (B); and 
+
+(ii) 
+appropriated from property taxes for any purpose other than to refund or otherwise refinance a debt obligation or lease described in subsection (b) or (c). 
+
+
+
+
+STEP THREE: Subtract the STEP TWO amount fromthe STEP 
+ONE amount. 
+STEP FOUR: Determine the sum of: 
+
+(A) 
+the STEP THREE amount; plus 
+
+(B) 
+the civil taxing unit's or school corporation's certified 
+
+
+distribution for the previous calendar year. The allocation amount is subject to adjustment as provided in IC 36-8-19-7.5. 
+(b) Except as provided in this subsection, an appropriation from property taxes to repay interest and principal of a debt obligation is not deducted from the allocation amount for a civil taxing unit or school corporation if: 
+(1) the debt obligation was issued; and 
+(2) 
+the proceeds appropriated from property taxes; to refund or otherwise refinance a debt obligation or a lease issued before July 1, 2005. However, an appropriation from property taxes related to a debt obligation issued after June 30, 2005, is deducted if the debt extends payments on a debt or lease beyond the time in which the debt or lease would have been payable if the debt or lease had not been refinanced or increases the total amount that must be paid on a debt or lease in excess of the amount that would have been paid if the debt or lease had not been refinanced. The amount of the deduction is the annual amount for each year of the extension period or the annual amount of the increase over the amount that would have been paid. 
+
+(c) 
+Except as provided in this subsection, an appropriation from property taxes to make payments on a lease is not deducted from the allocation amount for a civil taxing unit or school corporation if: 
+
+
+(1) the lease was issued; and 
+(2) the proceeds were appropriated from property taxes; to refinance a debt obligation or lease issued before July 1, 2005. However, an appropriation from property taxes related to a lease entered into after June 30, 2005, is deducted if the lease extends payments on a debt or lease beyond the time in which the debt or lease would have been payable if the debt or lease had not been refinanced or increases the total amount that must be paid on a debt or lease in excess of the amount that would have been paid if the debt or lease had not been refinanced. The amount of the deduction is the annual amount for each year of the extension period or the annual amount of the increase over the amount that would have been paid. As added by P.L.207-2005, SEC.1. Amended by P.L.182-2009(ss), SEC.209. 
+
+IC 6-3.5-1.1-1.3 Version a Districts not entitled to distribution 
+Note: This version of section effective until 1-1-2017. See also following repeal of this chapter, effective 1-1-2017. 
+Sec. 1.3. (a) This section applies to a county solid waste management district (as defined in IC 13-11-2-47) or a joint solid waste management district (as defined in IC 13-11-2-113). 
+(b) 
+A district may not receive a distribution under this chapter unless a majority of the members of each of the county fiscal bodies of the counties within the district passes a resolution approving the distribution. 
+
+(c) A resolution passed by a county fiscal body under subsection 
+
+(b) 
+may: 
+
+(1) 
+expire on a date specified in the resolution; or 
+
+(2) 
+remain in effect until the county fiscal body revokes or rescinds the resolution. 
+
+
+
+
+As added by P.L.96-1995, SEC.2. Amended by P.L.1-1996, SEC.47; P.L.70-2001, SEC.1. 
+
+IC 6-3.5-1.1-1.5 Version a Time withinwhichto adopt ordinance; effective date of ordinances 
+Note: This version of section effective until 1-1-2017. See also following repeal of this chapter, effective 1-1-2017. 
+Sec. 1.5. (a) Notwithstanding any other provision of this chapter, a power granted by this chapter to adopt an ordinance to: 
+(1) 
+impose, increase, decrease, or rescind a tax or tax rate; or 
+
+(2) 
+grant, increase, decrease, rescind, or change a homestead credit or property tax replacement credit authorized under this chapter; 
+
+
+may be exercised at any time in a year before November 1 of that year. 
+(b) 
+Notwithstanding any other provision of this chapter, an ordinance authorized by this chapter that imposes, increases, decreases, or rescinds a tax or a tax rate takes effect as follows: 
+
+(1) 
+An ordinance adopted after December 31 of the immediately preceding year and before September 1 of the current year takes effect on October 1 of the current year. 
+
+(2) 
+An ordinance adopted after August 31 and before November 1 of the current year takes effect on January 1 of the following year. 
+
+
+
+(c) 
+Notwithstanding any other provision of this chapter, an ordinance authorized by this chapter that grants, increases, decreases, rescinds, or changes a homestead credit or property tax replacement credit authorized under this chapter takes effect for and applies to property taxes first due and payable in the year immediately following the year in which the ordinance is adopted. 
+
+(d) 
+If the commissioner of the department determines that an ordinance described in subsection (b) was not adopted according to the requirements of this article or is otherwise not in compliance with this article: 
+
+(1) 
+the commissioner shall: 
+
+(A) 
+notify the county auditor that the ordinance was not adopted according to the requirements of this article or is not in compliance with this article; and 
+
+(B) 
+specify the corrective action that must be taken for the ordinance to be adopted according to the requirements of this article and to be in compliance with this article; and 
+
+
+
+(2) 
+the ordinance may not take effect until the corrective action is taken. 
+
+
+
+
+As added by P.L.113-2010, SEC.61. Amended by P.L.261-2013, SEC.2. 
+
+IC 6-3.5-1.1-2 Version a Authorization; rate of tax; form and adoption of ordinance 
+Note: This version of section amended by P.L.242-2015, SEC.25, effective until 1-1-2017. See also following version of this section amended by P.L.243-2015, SEC.2, effective until 1-1-2017, and following repeal of this chapter, effective 1-1-2017. 
+Sec. 2. (a) The county council of any county in which the county option income tax will not be in effect on December 1 of a year under an ordinance adopted during a previous calendar year may impose the county adjusted gross income tax on the adjusted gross income of county taxpayers of its county. 
+(b) 
+Except as provided in section 2.3, 2.5, 2.7, 2.8, 2.9, 3.3, 3.4, 3.5, 3.6, 3.7, 24, 25, or 26 of this chapter, the county adjusted gross income tax may be imposed at a rate of one-half of one percent (0.5%), three-fourths of one percent (0.75%), or one percent (1%) on the adjusted gross income of resident county taxpayers of the county. Any county imposing the county adjusted gross income tax must impose the tax on the nonresident county taxpayers at a rate of one-fourth of one percent (0.25%) on their adjusted gross income. If the county council elects to decrease the county adjusted gross income tax, the county council may decrease the county adjusted gross income tax rate in increments of one-tenth of one percent (0.1%). 
+
+(c) 
+To impose the county adjusted gross income tax, the county council must adopt an ordinance. The ordinance must substantially state the following: 
+
+"The ________ County Council imposes the county adjusted gross income tax on the county taxpayers of ________ County. The county adjusted gross income tax is imposed at a rate of _____ percent (_____%) on the resident county taxpayers of the county and one-fourth of one percent (0.25%) on the nonresident county taxpayers of the county.". 
+
+(d) 
+The auditor of a county shall record all votes taken on ordinances presented for a vote under the authority of this section and, not more than ten (10) days after the vote, send a certified copy of the results to the commissioner of the department, the director of the budget agency, and the commissioner of the department of local government finance in an electronic format approved by the director of the budget agency. 
+
+(e) 
+If the county adjusted gross income tax had previously been adopted by a county under IC 6-3.5-1 (before its repeal on March 15, 1983) and that tax was in effect at the time of the enactment of this chapter, then the county adjusted gross income tax continues in that county at the rates in effect at the time of enactment until the rates are modified or the tax is rescinded in the manner prescribed by this chapter. If a county's adjusted gross income tax is continued under this subsection, then the tax shall be treated as if it had been imposed under this chapter and is subject to rescission or reduction as 
+
+
+authorized in this chapter. 
+As added by P.L.73-1983, SEC.2. Amended by P.L.44-1984, SEC.13; P.L.3-1990, SEC.24; P.L.35-1990, SEC.12; P.L.42-1994, SEC.1; P.L.119-1998, SEC.6; P.L.135-2001, SEC.1; P.L.178-2002, SEC.52; P.L.42-2003, SEC.1; P.L.162-2006, SEC.27; P.L.224-2007, SEC.54; P.L.77-2011, SEC.1; P.L.137-2012, SEC.64; P.L.261-2013, SEC.3; P.L.242-2015, SEC.25. 
+
+IC 6-3.5-1.1-2 Version b Authorization; rate of tax; form and adoption of ordinance 
+Note: This version of section amended by P.L.243-2015, SEC.2, effective until 1-1-2017. See also preceding version of this section amended by P.L.242-2015, SEC.25, effective until 1-1-2017, and following repeal of this chapter, effective 1-1-2017. 
+Sec. 2. (a) The county council of any county in which the county option income tax will not be in effect on December 1 of a year under an ordinance adopted during a previous calendar year may impose the county adjusted gross income tax on the adjusted gross income of county taxpayers of its county. 
+(b) 
+Except as provided in section 2.3, 2.5, 2.7, 2.8, 2.9, 3.3, 3.5, 3.6, 3.7, 24, 25, or 26 of this chapter, the county adjusted gross income tax may be imposed at a rate of one-half of one percent (0.5%), three-fourths of one percent (0.75%), or one percent (1%) on the adjusted gross income of resident county taxpayers of the county. Any county imposing the county adjusted gross income tax must impose the tax on the nonresident county taxpayers at a rate of one-fourth of one percent (0.25%) on their adjusted gross income. If the county council elects to decrease the county adjusted gross income tax, the county council may decrease the county adjusted gross income tax rate in increments of one-tenth of one percent (0.1%). 
+
+(c) 
+To impose the county adjusted gross income tax, the county council must adopt an ordinance. The ordinance must substantially state the following: 
+
+"The ________ County Council imposes the county adjusted gross income tax on the county taxpayers of ________ County. The county adjusted gross income tax is imposed at a rate of _____ percent (_____%) on the resident county taxpayers of the county and one-fourth of one percent (0.25%) on the nonresident county taxpayers of the county.". 
+
+(d) 
+The auditor of a county shall record all votes taken on ordinances presented for a vote under the authority of this section and, not more than ten (10) days after the vote, send a certified copy of the results to the commissioner of the department, the director of the budget agency, and the commissioner of the department of local government finance in an electronic format approved by the director of the budget agency. 
+
+
+(e) If the county adjusted gross income tax had previously been adopted by a county under IC 6-3.5-1 (before its repeal on March 15, 1983) and that tax was in effect at the time of the enactment of this chapter, then the county adjusted gross income tax continues in that county at the rates in effect at the time of enactment until the rates are modified or the tax is rescinded in the manner prescribed by this chapter. If a county's adjusted gross income tax is continued under this subsection, then the tax shall be treated as if it had been imposed under this chapter and is subject to rescission or reduction as authorized in this chapter. 
+As added by P.L.73-1983, SEC.2. Amended by P.L.44-1984, SEC.13; P.L.3-1990, SEC.24; P.L.35-1990, SEC.12; P.L.42-1994, SEC.1; P.L.119-1998, SEC.6; P.L.135-2001, SEC.1; P.L.178-2002, SEC.52; P.L.42-2003, SEC.1; P.L.162-2006, SEC.27; P.L.224-2007, SEC.54; P.L.77-2011, SEC.1; P.L.137-2012, SEC.64; P.L.261-2013, SEC.3; P.L.243-2015, SEC.2. 
+
+IC 6-3.5-1.1-2.3 Version a Jasper County; additional tax rate for criminal justice facilities 
+Note: This version of section effective until 1-1-2017. See also following repeal of this chapter, effective 1-1-2017. 
+Sec. 2.3. (a) This section applies to Jasper County. 
+(b) 
+The county council may, by ordinance, determine that additional county adjusted gross income tax revenue is needed in the county to: 
+
+(1) 
+finance, construct, acquire, improve, renovate, or equip: 
+
+(A) 
+jail facilities; 
+
+(B) 
+juvenile court, detention, and probation facilities; 
+
+(C) 
+other criminal justice facilities; and 
+
+
+
+(D) 
+related buildings and parking facilities; located in the county, including costs related to the demolition of existing buildings and the acquisition of land; and 
+
+(2) 
+repay bonds issued or leases entered into for the purposes described in subdivision (1). 
+
+
+
+(c) 
+The county council may, by ordinance, determine that additional county adjusted gross income tax revenue is needed in the county to operate or maintain any of the facilities described in subsection (b)(1)(A) through (b)(1)(D) that are located in the county. The county council may make a determination under both this subsection and subsection (b). 
+
+(d) 
+In addition to the rates permitted by section 2 of this chapter, the county council may impose the county adjusted gross income tax at a rate of: 
+
+(1) 
+fifteen-hundredths percent (0.15%); 
+
+(2) 
+two-tenths percent (0.2%); or 
+
+
+
+(3) 
+twenty-five hundredths percent (0.25%); on the adjusted gross income of county taxpayers if the county council makes a finding and determination set forth in subsection (b) or (c). 
+
+(e) 
+If the county council imposes the tax under this section to pay for the purposes described in both subsections (b) and (c), when: 
+
+(1) 
+the financing, construction, acquisition, improvement, renovation, and equipping described in subsection (b) are completed; and 
+
+(2) 
+all bonds issued or leases entered into to finance the construction, acquisition, improvement, renovation, and equipping described in subsection (b) are fully paid; 
+
+
+
+
+the county council shall, subject to subsection (d), establish a tax rate under this section by ordinance such that the revenue from the tax does not exceed the costs of operating and maintaining the jail facilities described in subsection (b)(1)(A). The tax rate may not be imposed at a rate greater than is necessary to carry out the purposes described in subsections (b) and (c), as applicable. 
+(f) 
+The tax imposed under this section may be imposed only until the latest of the following: 
+
+(1) 
+The date on which the financing, construction, acquisition, improvement, renovation, and equipping described in subsection (b) are completed. 
+
+(2) 
+The date on which the last of any bonds issued or leases entered into to finance the construction, acquisition, improvement, renovation, and equipping described in subsection (b) are fully paid. 
+
+(3) 
+The date on which an ordinance adopted under subsection 
+
+(c)
+ is rescinded. 
+
+
+
+(g) 
+The term of the bonds issued (including any refunding bonds) or a lease entered into under subsection (b)(2) may not exceed twenty 
+
+(20)
+ years. 
+
+(h) 
+The county treasurer shall establish a criminal justice facilities revenue fund to be used only for purposes described in this section. County adjusted gross income tax revenues derived from the tax rate imposed under this section shall be deposited in the criminal justice facilities revenue fund before making a certified distribution under section 11 of this chapter. 
+
+(i) 
+County adjusted gross income tax revenues derived from the tax rate imposed under this section: 
+
+(1) 
+may be used only for the purposes described in this section; 
+
+(2) 
+may not be considered by the department of local government finance in determining the county's maximum permissible property tax levy limit under IC 6-1.1-18.5; and 
+
+(3) 
+may be pledged to the repayment of bonds issued or leases entered into for any or all the purposes described in subsection (b). 
+
+
+
+(j) 
+Notwithstanding any other law, money remaining in the criminal justice facilities revenue fund established under subsection 
+
+(h) 
+after the tax imposed by this section is terminated under subsection (f) shall be transferred to the county highway fund to be used for construction, resurfacing, restoration, and rehabilitation of 
+
+
+county highways, roads, and bridges. 
+As added by P.L.162-2006, SEC.28. Amended by P.L.1-2007, SEC.59; P.L.224-2007, SEC.55; P.L.77-2011, SEC.2. 
+
+IC 6-3.5-1.1-2.5 Version a Jackson County; additional tax for jail and juvenile detention center 
+Note: This version of section effective until 1-1-2017. See also following repeal of this chapter, effective 1-1-2017. 
+Sec. 2.5. (a) This section applies only to Jackson County. 
+(b) 
+The county council may, by ordinance, determine that additional county adjusted gross income tax revenue is needed in the county to fund the operation and maintenance of a jail and juvenile detention center opened after July 1, 1998. 
+
+(c) 
+Notwithstanding section 2 of this chapter, if the county council adopts an ordinance under subsection (b), the county council may impose the county adjusted gross income tax at a rate of one and one-tenth percent (1.1%) on adjusted gross income for calendar years ending before January 1, 2024. For calendar years beginning after December 31, 2023, the rate is reduced to one percent (1%). If the county council imposes the county adjusted gross income tax at a rate of one and one-tenth percent (1.1%), the county council may decrease the rate or rescind the tax in the manner provided under this chapter. 
+
+(d) 
+If the county imposes the county adjusted gross income tax at a rate of one and one-tenth percent (1.1%) under this section, the revenue derived from a tax rate of one-tenth percent (0.1%) on adjusted gross income: 
+
+(1) 
+shall be paid to the county treasurer; 
+
+(2) 
+may be used only to pay the costs of operating a jail and juvenile detention center opened after July 1, 1998; and 
+
+(3) 
+may not be considered by the department of local government finance in determining the county's maximum permissible property tax levy limit under IC 6-1.1-18.5. 
+
+
+
+
+As added by P.L.119-1998, SEC.7. Amended by P.L.89-2001, SEC.3; P.L.90-2002, SEC.289; P.L.184-2006, SEC.5; P.L.119-2012, SEC.37; P.L.293-2013(ts), SEC.15. 
+
+IC 6-3.5-1.1-2.6 Repealed 
+(As added by P.L.224-2007, SEC.56. Repealed by P.L.137-2012, SEC.65.) 
+
+IC 6-3.5-1.1-2.7 Version a Wayne County; additional county adjusted gross income tax 
+Note: This version of section effective until 1-1-2017. See also following repeal of this chapter, effective 1-1-2017. 
+Sec. 2.7. (a) This section applies to Wayne County. 
+(b) 
+The county council may, by ordinance, determine that additional county adjusted gross income tax revenue is needed in the county to: 
+
+(1) 
+finance, construct, acquire, improve, renovate, or equip the county jail and related buildings and parking facilities, including costs related to the demolition of existing buildings and the acquisition of land; and 
+
+(2) 
+repay bonds issued, or leases entered into, for constructing, acquiring, improving, renovating, and equipping the county jail and related buildings and parking facilities, including costs related to the demolition of existing buildings and the acquisition of land. 
+
+
+
+(c)
+ In addition to the rates permitted by section 2 of this chapter, the county council may impose the county adjusted gross income tax at a rate of: 
+
+(1) 
+fifteen-hundredths percent (0.15%); 
+
+(2) 
+two-tenths percent (0.2%); or 
+
+
+
+(3) 
+twenty-five hundredths percent (0.25%); on the adjusted gross income of county taxpayers if the county council makes the finding and determination set forth in subsection (b). The tax imposed under this section may be imposed only until the later of the date on which the financing on, acquisition, improvement, renovation, and equipping described in subsection (b) is completed or the date on which the last of any bonds issued or leases entered into to finance the construction, acquisition, improvement, renovation, and equipping described in subsection (b) are fully paid. The term of the bonds issued (including any refunding bonds) or a lease entered into under subsection (b)(2) may not exceed twenty (20) years. 
+
+(d) 
+If the county council makes a determination under subsection (b), the county council may adopt a tax rate under subsection (c). The tax rate may not be imposed at a rate greater than is necessary to pay the costs of financing, acquiring, improving, renovating, and equipping the county jail and related buildings and parking facilities, including costs related to the demolition of existing buildings and the acquisition of land. 
+
+(e) 
+The county treasurer shall establish a county jail revenue fund to be used only for purposes described in this section. County adjusted gross income tax revenues derived from the tax rate imposed under this section shall be deposited in the county jail revenue fund before making a certified distribution under section 11 of this chapter. 
+
+(f) 
+County adjusted gross income tax revenues derived from the tax rate imposed under this section: 
+
+(1) 
+may only be used for the purposes described in this section; 
+
+(2) 
+may not be considered by the department of local government finance in determining the county's maximum permissible property tax levy limit under IC 6-1.1-18.5; and 
+
+(3) 
+may be pledged to the repayment of bonds issued, or leases entered into, for purposes described in subsection (b). 
+
+
+
+(g) 
+Wayne County possesses unique economic development challenges due to underemployment in relation to similarly situated counties. Maintaining low property tax rates is essential to economic development and the use of county adjusted gross income tax revenues as provided in this chapter to pay any bonds issued or leases entered into to finance the construction, acquisition, improvement, renovation, and equipping described under subsection (b), rather than use of property taxes, promotes that purpose. 
+
+(h) 
+Notwithstanding any other law, funds accumulated from the county adjusted gross income tax imposed under this section after: 
+
+(1) 
+the redemption of bonds issued; or 
+
+(2) 
+the final payment of lease rentals due under a lease entered 
+
+
+
+
+into under this section; shall be transferred to the county highway fund to be used for construction, resurfacing, restoration, and rehabilitation of county highways, roads, and bridges. As added by P.L.135-2001, SEC.2. Amended by P.L.1-2002, SEC.33 and P.L.90-2002, SEC.290; P.L.119-2012, SEC.38. 
+IC 6-3.5-1.1-2.8 Version a Elkhart County, Marshall County; additional rate for criminal justice facilities; fund; use of additional revenue; balance transfer to county highway fund 
+Note: This version of section amended by P.L.242-2015, SEC.26, effective until 1-1-2017. See also following repeal of this chapter, effective 1-1-2017. 
+Sec. 2.8. (a) This section applies to the following counties: 
+(1) 
+Elkhart County. 
+
+(2) 
+Marshall County. 
+
+
+(b) 
+The county council may, by ordinance, determine that additional county adjusted gross income tax revenue is needed in the county to: 
+
+(1) 
+finance, construct, acquire, improve, renovate, or equip: 
+
+(A) 
+jail facilities; 
+
+(B) 
+juvenile court, detention, and probation facilities; 
+
+(C) 
+other criminal justice facilities; and 
+
+
+
+(D) 
+related buildings and parking facilities; located in the county, including costs related to the demolition of existing buildings and the acquisition of land; and 
+
+(2) 
+repay bonds issued or leases entered into for the purposes described in subdivision (1). 
+
+
+
+(c) 
+The county council may, by ordinance, determine that additional county adjusted gross income tax revenue is needed in the county to operate or maintain: 
+
+(1) 
+jail facilities; 
+
+(2) 
+juvenile court, detention, and probation facilities; 
+
+(3) 
+other criminal justice facilities; and 
+
+
+
+(4) 
+related buildings and parking facilities; located in the county. A county council of a county named in subsection (a)(1) or (a)(2) may make a determination under both this subsection and subsection (b). 
+
+(d) 
+In addition to the rates permitted by section 2 of this chapter, the county council may impose the county adjusted gross income tax at a rate of: 
+
+(1) 
+fifteen-hundredths percent (0.15%); 
+
+(2) 
+two-tenths percent (0.2%); or 
+
+
+
+(3) 
+twenty-five hundredths percent (0.25%); on the adjusted gross income of county taxpayers if the county council makes a finding and determination set forth in subsection (b) or (c). The tax rate may not be imposed at a rate greater than is necessary to carry out the purposes described in subsections (b) and (c), as applicable. 
+
+(e) 
+If the county council imposes the tax under this section to pay for the purposes described in both subsections (b) and (c), when: 
+
+(1) 
+the financing, construction, acquisition, improvement, renovation, and equipping described in subsection (b) are completed; and 
+
+(2) 
+all bonds issued (including any refunding bonds) or leases entered into to finance the construction, acquisition, improvement, renovation, and equipping described in subsection (b) are fully paid; 
+
+
+
+
+the county council shall, subject to subsection (d), establish a tax rate under this section by ordinance such that the revenue from the tax does not exceed the costs of operating and maintaining the jail facilities referred to in subsection (b)(1)(A). 
+(f) 
+The tax imposed under this section may be imposed only until the last of the following dates: 
+
+(1) 
+The date on which the financing, construction, acquisition, improvement, renovation, and equipping described in subsection (b) are completed. 
+
+(2) 
+The date on which the last of any bonds issued (including any refunding bonds) or leases entered into to finance the construction, acquisition, improvement, renovation, and equipping described in subsection (b) are fully paid. 
+
+(3) 
+The date on which an ordinance adopted under subsection 
+
+(c)
+ is rescinded. 
+
+
+
+(g) 
+The term of the bonds issued (including any refunding bonds) or a lease entered into under subsection (b)(2) may not exceed twenty 
+
+(20)
+ years. 
+
+(h) 
+The county treasurer shall establish a criminal justice facilities revenue fund to be used only for purposes described in this section. County adjusted gross income tax revenues derived from the tax rate imposed under this section shall be deposited in the criminal justice facilities revenue fund before making a certified distribution under 
+
+section 11 of this chapter. 
+
+(i) 
+County adjusted gross income tax revenues derived from the tax rate imposed under this section: 
+
+(1) 
+may be used only for the purposes described in this section; 
+
+(2) 
+may not be considered by the department of local government finance in determining the county's maximum permissible property tax levy limit under IC 6-1.1-18.5; and 
+
+(3) 
+may be pledged to the repayment of bonds issued or leases entered into for any or all the purposes described in subsection (b). 
+
+
+
+(j) 
+Notwithstanding any other law, money remaining in the criminal justice facilities revenue fund established under subsection 
+
+(h) 
+after the tax imposed by this section is terminated under subsection (f) shall be transferred to the county highway fund to be used for construction, resurfacing, restoration, and rehabilitation of county highways, roads, and bridges. 
+
+
+As added by P.L.178-2002, SEC.53. Amended by P.L.147-2006, SEC.1; P.L.119-2012, SEC.39; P.L.242-2015, SEC.26. 
+
+IC 6-3.5-1.1-2.9 Version a Daviess County; additional rate for county jail facilities; fund; use of additional revenue; balance transfer to county highway fund 
+Note: This version of section effective until 1-1-2017. See also following repeal of this chapter, effective 1-1-2017. 
+Sec. 2.9. (a) This section applies to Daviess County. 
+(b) 
+The county council may, by ordinance, determine that additional county adjusted gross income tax revenue is needed in the county to: 
+
+(1) 
+finance, construct, acquire, improve, renovate, remodel, or equip the county jail and related buildings and parking facilities, including costs related to the demolition of existing buildings, the acquisition of land, and any other reasonably related costs; and 
+
+(2) 
+repay bonds issued or leases entered into for constructing, acquiring, improving, renovating, remodeling, and equipping the county jail and related buildings and parking facilities, including costs related to the demolition of existing buildings, the acquisition of land, and any other reasonably related costs. 
+
+
+
+(c) 
+In addition to the rates permitted by section 2 of this chapter, the county council may impose the county adjusted gross income tax at a rate of: 
+
+(1) 
+fifteen-hundredths percent (0.15%); 
+
+(2) 
+two-tenths percent (0.2%); or 
+
+
+
+(3) 
+twenty-five hundredths percent (0.25%); on the adjusted gross income of county taxpayers if the county council makes the finding and determination set forth in subsection (b). The tax imposed under this section may be imposed only until the later of the date on which the financing on, acquisition, 
+
+improvement, renovation, remodeling, and equipping described in subsection (b) are completed or the date on which the last of any bonds issued or leases entered into to finance the construction, acquisition, improvement, renovation, remodeling, and equipping described in subsection (b) are fully paid. The term of the bonds issued (including any refunding bonds) or a lease entered into under subsection (b)(2) may not exceed twenty-five (25) years. 
+
+(d) 
+If the county council makes a determination under subsection (b), the county council may adopt a tax rate under subsection (c). The tax rate may not be imposed at a rate greater than is necessary to pay the costs of financing, acquiring, improving, renovating, remodeling, and equipping the county jail and related buildings and parking facilities, including costs related to the demolition of existing buildings, the acquisition of land, and any other reasonably related costs. 
+
+(e) 
+The county treasurer shall establish a county jail revenue fund to be used only for purposes described in this section. County adjusted gross income tax revenues derived from the tax rate imposed under this section shall be deposited in the county jail revenue fund before making a certified distribution under section 11 of this chapter. 
+
+(f) 
+County adjusted gross income tax revenues derived from the tax rate imposed under this section: 
+
+(1) 
+may be used only for the purposes described in this section; 
+
+(2) 
+may not be considered by the department of local government finance in determining the county's maximum permissible property tax levy limit under IC 6-1.1-18.5; and 
+
+(3) 
+may be pledged to the repayment of bonds issued or leases entered into for purposes described in subsection (b). 
+
+
+
+(g) 
+Daviess County possesses unique governmental and economic development challenges due to: 
+
+(1) 
+underemployment in relation to similarly situated counties and the loss of a major manufacturing business; 
+
+(2) 
+an increase in property taxes for taxable years after December 31, 2000, for the construction of a new elementary school; and 
+
+(3) 
+overcrowding of the county jail, the costs associated with housing the county's inmates outside the county, and the potential unavailability of additional housing for inmates outside the county. 
+
+
+
+
+The use of county adjusted gross income tax revenues as provided in this chapter is necessary for the county to provide adequate jail capacity in the county and to maintain low property tax rates essential to economic development. The use of county adjusted gross income tax revenues as provided in this chapter to pay any bonds issued or leases entered into to finance the construction, acquisition, improvement, renovation, remodeling, and equipping described in subsection (b), rather than the use of property taxes, promotes those purposes. 
+(h) Notwithstanding any other law, funds accumulated from the county adjusted gross income tax imposed under this section after: 
+(1) 
+the redemption of bonds issued; or 
+
+(2) 
+the final payment of lease rentals due under a lease entered 
+
+
+into under this section; shall be transferred to the county highway fund to be used for construction, resurfacing, restoration, and rehabilitation of county highways, roads, and bridges. 
+As added by P.L.178-2002, SEC.54. Amended by P.L.1-2003, SEC.39; P.L.119-2012, SEC.40. 
+
+IC 6-3.5-1.1-3 Version a Increase of tax rate; ordinance; requisites 
+Note: This version of section effective until 1-1-2017. See also following repeal of this chapter, effective 1-1-2017. 
+Sec. 3. (a) The county council may increase the county adjusted gross income tax rate imposed upon the resident county taxpayers of the county. To increase the rate, the county council must adopt an ordinance. The ordinance must substantially state the following: 
+"The ________ County Council increases the county adjusted gross income tax rate imposed upon the resident county taxpayers of the county from ________ percent (___%) to _______ percent (___%).". 
+(b) The auditor of a county shall record all votes taken on ordinances presented for a vote under the authority of this section and, not more than ten (10) days after the vote, send a certified copy of the results to the commissioner of the department, the director of the budget agency, and the commissioner of the department of local government finance in an electronic format approved by the director of the budget agency. 
+As added by P.L.73-1983, SEC.2. Amended by P.L.35-1990, SEC.13; P.L.224-2007, SEC.57; P.L.77-2011, SEC.3;P.L.137-2012, SEC.66; P.L.261-2013, SEC.4. 
+
+IC 6-3.5-1.1-3.1 Version a Decrease in tax rate; adoption of ordinance; procedures 
+Note: This version of section effective until 1-1-2017. See also following repeal of this chapter, effective 1-1-2017. 
+Sec. 3.1. (a) The county council may decrease the county adjusted gross income tax rate imposed upon the resident county taxpayers of the county. To decrease the rate, the county council must adopt an ordinance. The ordinance must substantially state the following: 
+"The ________ County Council decreases the county adjusted gross income tax rate imposed upon the resident county taxpayers of the county from _____ percent (___%) to _____ percent (___%).". 
+(b) A county council may not decrease the county adjusted gross income tax rate if the county or any commission, board, department, or authority that is authorized by statute to pledge the county adjusted gross income tax has pledged the county adjusted gross income tax for any purpose permitted by IC 5-1-14 or any other statute. 
+(c) 
+The auditor of a county shall record all votes taken on ordinances presented for a vote under the authority of this section and, not more than ten (10) days after the vote, send a certified copy of the results to the commissioner of the department, the director of the budget agency, and the commissioner of the department of local government finance in an electronic format approved by the director of the budget agency. 
+
+(d) 
+Notwithstanding IC 6-3.5-7, and except as provided in subsection (e), a county council that decreases the county adjusted gross income tax rate in a year may not in the same year adopt or increase the county economic development income tax under IC 6-3.5-7. 
+
+
+(e) This subsection applies only to LaPorte County. The county council may adopt or increase the county economic development income tax rate under IC 6-3.5-7 in the same year that the county council decreases the county adjusted gross income tax rate if the county economic development income tax rate plus the county adjusted gross income tax rate in effect after the county council decreases the county adjusted gross income tax rate is less than the county adjusted gross income tax rate in effect before the adoption of an ordinance under this section decreasing the rate of the county adjusted gross income tax. As added by P.L.42-1994, SEC.2. Amended by P.L.10-1997, SEC.13; P.L.170-2002, SEC.26; P.L.224-2007, SEC.58; P.L.77-2011, SEC.4; P.L.119-2012, SEC.41; P.L.137-2012, SEC.67; P.L.261-2013, SEC.5. 
+
+IC 6-3.5-1.1-3.3 Version a Additional rate for jail facilities in county subject to federal court order; use of additional revenues 
+Note: This version of section effective until 1-1-2017. See also following repeal of this chapter, effective 1-1-2017. 
+Sec. 3.3. (a) This section applies only to a county that: 
+(1) 
+operates a county jail that is subject to an order that: 
+
+(A) 
+was issued by a federal district court before January 1, 2003; and 
+
+(B) 
+has not been terminated; 
+
+
+
+(2) 
+operates a county jail that fails to meet: 
+
+(A) 
+American Correctional Association Jail Construction Standards; and 
+
+(B) 
+Indiana jail operation standards adopted by the department of correction; and 
+
+
+
+(3) 
+has insufficient revenue to finance the construction, 
+
+
+acquisition, improvement, renovation, and equipping of a county jail and related buildings and parking facilities. 
+(b) 
+For purposes of this section, "county jail" includes any other penal facility that is: 
+
+(1) located in; and 
+
+(2) 
+operated by; the county. 
+
+(c) 
+The county council may, by ordinance, determine that additional county adjusted gross income tax revenue is needed in the county to: 
+
+(1) 
+finance, construct, acquire, improve, renovate, or equip a county jail and related buildings and parking facilities, including costs related to the demolition of existing buildings and the acquisition of land; and 
+
+(2) 
+repay bonds issued or leases entered into for constructing, acquiring, improving, renovating, and equipping the county jail and related buildings and parking facilities, including costs related to the demolition of existing buildings and the acquisition of land. 
+
+
+
+(d) 
+In addition to the rates permitted by section 2 of this chapter, the county council may impose the county adjusted gross income tax at a rate of twenty-five hundredths percent (0.25%) on the adjusted gross income of county taxpayers if the county council makes the finding and determination set forth in subsection (c). The tax imposed under this section may be imposed only until the later of the date on whichthe financing on acquisition, improvement, renovation, and equipping described in subsection (c) is completed or the date on which the last of any bonds issued or leases entered into to finance the construction, acquisition, improvement, renovation, and equipping described in subsection (c) are fully paid. The term of the bonds issued (including any refunding bonds) or a lease entered into under subsection (c)(2) may not exceed thirty (30) years. 
+
+(e) 
+If the county council makes a determination under subsection (c), the county council may adopt a tax rate under subsection (d). The tax rate may not be imposed at a rate greater than is necessary to pay the costs of financing, acquiring, improving, renovating, and equipping the county jail and related buildings and parking facilities, including costs related to the demolition of existing buildings and the acquisition of land. 
+
+(f) 
+The county treasurer shall establish a county jail revenue fund to be used only for purposes described in this section. County adjusted gross income tax revenues derived from the tax rate imposed under this section shall be deposited in the county jail revenue fund before making a certified distribution under section 11 of this chapter. 
+
+(g)
+ County adjusted gross income tax revenues derived from the tax rate imposed under this section: 
+
+(1) 
+may only be used for purposes described in this section; 
+
+(2) 
+may not be considered by the department of local government finance in determining the county's maximum permissible property tax levy limit under IC 6-1.1-18.5; and 
+
+(3) 
+may be pledged to the repayment of bonds issued or leases entered into for purposes described in subsection (c). 
+
+
+
+(h) 
+A county described in subsection (a) possesses unique economic development challenges due to underemployment in relation to similarly situated counties. Maintaining low property tax rates is essential to economic development. The use of county adjusted gross income tax revenues as provided in this chapter, rather than use of property taxes, to pay any bonds issued or leases entered into to finance the construction, acquisition, improvement, renovation, and equipping described in subsection (c) promotes that purpose. 
+
+(i) 
+Notwithstanding any other law, funds accumulated from the county adjusted gross income tax imposed under this section after: 
+
+(1) 
+the redemption of bonds issued; or 
+
+(2) 
+the final payment of lease rentals due under a lease entered 
+
+
+
+
+into under this section; shall be transferred to the county general fund. 
+As added by P.L.42-2003, SEC.2. 
+
+IC 6-3.5-1.1-3.4 Version a Tipton County; additional rate for county jail and courthouse 
+Note: This version of section added by P.L.242-2015, SEC.27, effective until 1-1-2017. See also following repeal of this chapter, effective 1-1-2017. 
+Sec. 3.4. (a) This section applies only to Tipton County. 
+(b) 
+The county council may, by ordinance, determine that additional county adjusted gross income tax revenue is needed in the county to: 
+
+(1) 
+finance the: 
+
+(A) 
+construction, acquisition, and equipping of the county jail and related buildings and parking facilities, including costs related to the demolition of existing buildings, the acquisition of land, and any other reasonably related costs; and 
+
+(B) 
+improvement, renovation, remodeling, repair, and equipping of the courthouse to address security concerns and mitigate excess moisture in the courthouse; and 
+
+
+
+(2) 
+repay bonds issued or leases entered into for the purposes described in subdivision (1). 
+
+
+
+(c)
+ In addition to the rates permitted by section 2 of this chapter, the county council may impose the county adjusted gross income tax at a rate of: 
+
+(1) 
+fifteen-hundredths percent (0.15%); 
+
+(2) 
+two-tenths percent (0.2%); 
+
+(3) 
+twenty-five hundredths percent (0.25%); 
+
+(4) 
+three-tenths percent (0.3%); 
+
+(5) 
+thirty-five hundredths percent (0.35%); or 
+
+
+
+(6) 
+four-tenths percent (0.4%); on the adjusted gross income of county taxpayers if the county council makes the determination set forth in subsection (b). The tax imposed under this section may be imposed only until the later of the date on which the financing for constructing, acquisition, improvement, renovation, remodeling, and equipping described in subsection (b) is completed or the date on which the last of any bonds issued or leases entered into to finance the construction, acquisition, improvement, renovation, remodeling, and equipping described in subsection (b) are fully paid. The term of the bonds issued (including any refunding bonds) or a lease entered into under subsection (b)(2) may not exceed twenty (20) years. 
+
+(d) 
+If the county council makes a determination under subsection (b), the county council may adopt a tax rate under subsection (c). The tax rate may not be imposed at a rate greater than is necessary to pay for the purposes described in subsection (b). 
+
+(e) 
+The county treasurer shall establish a county facilities revenue fund to be used only for the purposes described in this section. County adjusted gross income tax revenues derived from the tax rate imposed under this section shall be deposited in the county facilities revenue fund before making a certified distribution under sections 10 and 11 of this chapter. 
+
+(f) 
+County adjusted gross income tax revenues derived from the tax rate imposed under this section: 
+
+(1) 
+may be used only for the purposes described in this section; 
+
+(2) 
+may not be considered by the department of local government finance in determining the county's maximum permissible ad valorem property tax levy limit under IC 6-1.1-18.5; and 
+
+(3) 
+may be pledged to the repayment of bonds issued or leases entered into for the purposes described in subsection (b). 
+
+
+
+(g) 
+Tipton County possesses unique governmental and economic development challenges and opportunities due to: 
+
+(1) 
+the county's heavy agricultural base; 
+
+(2) 
+deficiencies in the current county jail, including: 
+
+(A) 
+overcrowding; 
+
+(B) 
+lack of program and support space for efficient jail operations; 
+
+(C) 
+inadequate line of sight supervision of inmates, due to current jail configuration; 
+
+(D) 
+lack of adequate housing for an increasing female inmate population and inmates with special needs; 
+
+(E) 
+lack of adequate administrative space; and 
+
+(F) 
+increasing maintenance demands and costs resulting from having aging facilities; 
+
+
+
+(3) 
+the presence of a large industrial employer that offers the 
+
+opportunity to expand the income tax base; and 
+
+(4) 
+the presence of the historic Tipton County jail and sheriff's 
+
+
+
+
+home, listed on the National Register of Historic Places. The use of county adjusted gross income tax revenue as provided in this section is necessary for the county to provide adequate jail facilities in the county and to maintain low property tax rates essential to economic development. The use of county adjusted gross income tax revenues as provided in this section to pay any bonds issued or leases entered into to finance the construction, acquisition, improvement, renovation, remodeling, and equipping described in subsection (b), rather than the use of property taxes, promotes those purposes. 
+(h) Notwithstanding any other law, funds accumulated from the county adjusted gross income tax imposed under this section after: 
+(1) 
+the redemption of bonds issued; or 
+
+(2) 
+the final payment of lease rentals due under a lease entered 
+
+
+into under this section; shall be transferred to the county rainy day fund under IC 36-1-8-5.1. 
+As added by P.L.242-2015, SEC.27. 
+
+IC 6-3.5-1.1-3.5 Version a Pulaski County; additional tax for jail and justice center 
+Note: This version of section effective until 1-1-2017. See also following repeal of this chapter, effective 1-1-2017. 
+Sec. 3.5. (a) This section applies only to Pulaski County. 
+(b) 
+The county council may, by ordinance, determine that additional county adjusted gross income tax revenue is needed in the county to fund the operation and maintenance of a jail and justice center. 
+
+(c) 
+Notwithstanding section 2 of this chapter, if the county council adopts an ordinance under subsection (b), the county council may impose the county adjusted gross income tax at a rate of one and three-tenths percent (1.3%) on adjusted gross income. However, a county may impose the county adjusted gross income tax at a rate of one and three-tenths percent (1.3%) only for calendar years beginning before January 1, 2021. If the county council imposes the county adjusted gross income tax at a rate of one and three-tenths percent (1.3%), the county council may decrease the rate or rescind the tax in the manner provided under this chapter. If an augmented county adjusted gross income tax rate authorized by this section is in effect in the county on December 31, 2020, the rate is reduced to one percent (1%) after December 31, 2020. 
+
+(d) 
+If the county imposes the county adjusted gross income tax at an additional rate under this section, the revenue derived from the additional tax rate on adjusted gross income: 
+
+(1) 
+shall be paid to the county treasurer; 
+
+(2) 
+may be used only to pay the costs of operating and maintaining a jail and justice center; and 
+
+(3) 
+may not be considered by the department of local government finance under any provision of IC 6-1.1-18.5, including the determination of the county's maximum permissible property tax levy. 
+
+
+
+
+As added by P.L.119-1998, SEC.8. Amended by P.L.89-2001, SEC.4; P.L.90-2002, SEC.291; P.L.224-2007, SEC.59; P.L.119-2012, SEC.42; P.L.293-2013(ts), SEC.16. 
+
+IC 6-3.5-1.1-3.6 Version a Union County; additional rate for county courthouse; fund; use of additional revenue; balance transfer to county highway fund 
+Note: This version of section effective until 1-1-2017. See also following repeal of this chapter, effective 1-1-2017. 
+Sec. 3.6. (a) This section applies only to Union County. 
+(b) 
+The county council may, by ordinance, determine that additional county adjusted gross income tax revenue is needed in the county to: 
+
+(1) 
+finance, construct, acquire, improve, renovate, or equip the county courthouse; and 
+
+(2) 
+repay bonds issued, or leases entered into, for constructing, acquiring, improving, renovating, and equipping the county courthouse. 
+
+
+
+(c) 
+In addition to the rates permitted under section 2 of this chapter, the county council may impose the county adjusted gross income tax at a rate of twenty-five hundredths percent (0.25%) on the adjusted gross income of county taxpayers if the county council makes the finding and determination set forth in subsection (b). The tax imposed under this section may be imposed only until the later of the date on which the financing on, acquisition, improvement, renovation, and equipping described in subsection (b) is completed or the date on which the last of any bonds issued or leases entered into to finance the construction, acquisition, improvement, renovation, and equipping described in subsection (b) are fully paid. The term of the bonds issued (including any refunding bonds) or a lease entered into under subsection (b)(2) may not exceed twenty-two (22) years. 
+
+(d) 
+If the county council makes a determination under subsection (b), the county council may adopt a tax rate under subsection (c). The tax rate may not be imposed for a time greater than is necessary to pay the costs of financing, constructing, acquiring, renovating, and equipping the county courthouse. 
+
+(e) 
+The county treasurer shall establish a county courthouse revenue fund to be used only for purposes described in this section. County adjusted gross income tax revenues derived from the tax rate imposed under this section shall be deposited in the county courthouse revenue fund before a certified distribution is made under section 11 of this chapter. 
+
+
+(f) County adjusted gross income tax revenues derived from the tax rate imposed under this section: 
+(1) 
+may only be used for the purposes described in this section; 
+
+(2) 
+may not be considered by the department of local government finance in determining the county's maximum permissible property tax levy under IC 6-1.1-18.5; and 
+
+(3) 
+may be pledged to the repayment of bonds issued or leases entered into for purposes described in subsection (b). 
+
+
+(g) Union County possesses unique economic development challenges due to: 
+(1) 
+the county's heavy agricultural base; 
+
+(2) 
+the presence of a large amount of state owned property in the county that is exempt from property taxation; and 
+
+(3) 
+recent obligations of the school corporation in the county that have already increased property taxes in the county and imposed additional property tax burdens on the county's agricultural base. 
+
+
+Maintaining low property tax rates is essential to economic development. The use of county adjusted gross income tax revenues as provided in this chapter to pay any bonds issued or leases entered into to finance the construction, acquisition, improvement, renovation, and equipping described in subsection (b), rather than the use of property taxes, promotes that purpose. 
+(h) Notwithstanding any other law, funds accumulated from the county adjusted gross income tax imposed under this section after: 
+(1) 
+the redemption of the bonds issued; or 
+
+(2) 
+the final payment of lease rentals due under a lease entered 
+
+
+into under this section; shall be transferred to the county highway fund to be used for construction, resurfacing, restoration, and rehabilitation of county highways, roads, and bridges. As added by P.L.178-2002, SEC.55. Amended by P.L.1-2003, SEC.40; P.L.97-2004, SEC.29; P.L.119-2012, SEC.43. 
+
+IC 6-3.5-1.1-3.7 Version a Rush County; additional rate for jail; fund; use of additional revenue; balance transfer to rainy day fund 
+Note: This version of section effective until 1-1-2017. See also following repeal of this chapter, effective 1-1-2017. 
+Sec. 3.7. (a) This section applies to Rush County. 
+(b) 
+The county council may, by ordinance, determine that additional county adjusted gross income tax revenue is needed in the county to do the following: 
+
+(1) 
+Finance, construct, acquire, improve, renovate, and equip the county jail and related buildings and parking facilities, including costs related to the demolition of existing buildings, the acquisition of land, and any other reasonably related costs. 
+
+(2) 
+Repay bonds issued or leases entered into for the purposes described in subdivision (1). 
+
+(3) 
+Operate and maintain the facilities described in subdivision (1). 
+
+
+
+(c)
+ In addition to the rates permitted by section 2 of this chapter, if the county council makes the determination set forth in subsection (b), the county council may adopt an ordinance to impose the county adjusted gross income tax at a rate of: 
+
+(1) 
+fifteen-hundredths percent (0.15%); 
+
+(2) 
+two-tenths percent (0.2%); 
+
+(3) 
+twenty-five hundredths percent (0.25%); 
+
+(4) 
+three-tenths percent (0.3%); 
+
+(5) 
+thirty-five hundredths percent (0.35%); 
+
+(6) 
+four-tenths percent (0.4%); 
+
+(7) 
+forty-five hundredths percent (0.45%); 
+
+(8) 
+five-tenths percent (0.5%); 
+
+(9) 
+fifty-five hundredths percent (0.55%); or 
+
+
+
+(10)
+ six-tenths percent (0.6%); on the adjusted gross income of county taxpayers that is in addition to the rates permitted by section 2 of this chapter. The tax rate may not be greater than the rate necessary to pay for the purposes described in subsection (b). 
+
+(d) 
+The tax rate used to pay for the purposes described in subsection (b)(1) and (b)(2) may be imposed only until the latest of the following dates: 
+
+(1) 
+The date on which the financing, construction, acquisition, improvement, and equipping of the facilities as described in subsection (b) are completed. 
+
+(2) 
+The date on which the last of any bonds issued (including refunding bonds) or leases entered into to finance the construction, acquisition, improvement, renovation, and equipping of the facilities described in subsection (b) are fully paid. 
+
+(3) 
+The date on which an ordinance adopted under subsection 
+
+(c)
+ is rescinded. 
+
+
+
+(e) 
+If the county council imposes a tax under this section to pay for the purposes described in subsection (b)(1) and (b)(2), in the year before the facilities are ready for occupancy, the county council shall by ordinance establish a tax rate at a rate permitted under subsection 
+
+(c) 
+so that the revenue from the tax rate established under this subsection does not exceed the costs of operating and maintaining the facilities described in subsection (b). The tax rate under this subsection may be imposed beginning in the year following the year the ordinance is adopted and until the date on which the ordinance adopted under this subsection is rescinded. 
+
+(f) 
+The term of a bond issued (including any refunding bond) or a lease entered into under subsection (b) may not exceed twenty-five 
+
+(25)
+ years. 
+
+(g) 
+The county treasurer shall establish a county jail revenue fund to be used only for the purposes described in this section. County 
+
+adjusted gross income tax revenues derived from the tax rate imposed under this section shall be deposited in the county jail revenue fund before making a certified distribution under sections 10 and 11 of this chapter. 
+
+(h) 
+County adjusted gross income tax revenues derived from the tax rate imposed under this section: 
+
+(1) 
+may be used only for the purposes described in this section; 
+
+(2) 
+may not be considered by the department of local government finance in determining the county's maximum permissible property tax levy limit under IC 6-1.1-18.5; and 
+
+(3) 
+may be pledged to the repayment of bonds issued or leases entered into for the purposes described in subsection (b). 
+
+
+
+(i) 
+Rush County possesses unique governmental and economic development challenges and opportunities due to the following: 
+
+(1) 
+Deficiencies in the current county jail, including the following: 
+
+(A) 
+Aging facilities that have not been significantly improved or renovated since the original construction. 
+
+(B) 
+Lack of recreation and medical facilities. 
+
+(C) 
+Inadequate line of sight supervision of inmates due to the configuration of the aging jail. 
+
+(D) 
+Lack of adequate housing for an increasing female inmate population and for inmates with special needs. 
+
+(E) 
+Lack of adequate administrative space. 
+
+(F) 
+Increasing maintenance demands and costs resulting from having aging facilities. 
+
+
+
+(2) 
+A limited industrial and commercial assessed valuation in 
+
+
+
+
+the county. The use of county adjusted gross income tax revenues as provided in this chapter is necessary for the county to provide adequate jail capacity in the county and to maintain low property tax rates essential to economic development. The use of county adjusted gross income tax revenues as provided in this chapter to pay any bonds issued or leases entered into to finance the construction, acquisition, improvement, renovation, and equipping of the facilities described in subsection (b), rather than the use of property taxes, promotes those purposes. 
+(j) Notwithstanding any other law, funds accumulated from the county adjusted gross income tax imposed under this section after the termination of the tax under this section shall be transferred to the county rainy day fund under IC 36-1-8-5.1. As added by P.L.242-2015, SEC.28. Amended by P.L.243-2015, SEC.3. 
+
+IC 6-3.5-1.1-4 Version a Duration of tax; rescission of tax; ordinance 
+Note: This version of section effective until 1-1-2017. See also following repeal of this chapter, effective 1-1-2017. 
+Sec. 4. (a) The county adjusted gross income tax imposed by a county council under this chapter remains in effect until rescinded. 
+(b) 
+Except as provided in subsection (d), the county council may rescind the county adjusted gross income tax by adopting an ordinance to rescind the tax. 
+
+(c) 
+The auditor of a county shall record all votes taken on ordinances presented for a vote under the authority of this section and, not more than ten (10) days after the vote, send a certified copy of the results to the commissioner of the department, the director of the budget agency, and the commissioner of the department of local government finance in an electronic format approved by the director of the budget agency. 
+
+
+(d) A county council may not rescind the county adjusted gross income tax or take any action that would result in a civil taxing unit in the county having a smaller certified share than the certified share to which the civil taxing unit was entitled when the civil taxing unit pledged county adjusted gross income tax if the civil taxing unit or any commission, board, department, or authority that is authorized by statute to pledge county adjusted gross income tax has pledged county adjusted gross income tax for any purpose permitted by IC 5-1-14 or any other statute. The prohibition in this section does not apply if the civil taxing unit pledges legally available revenues to fully replace the civil taxing unit's certified share that has been pledged. As added by P.L.73-1983, SEC.2. Amended by P.L.35-1990, SEC.14; P.L.224-2007, SEC.60; P.L.77-2011, SEC.5; P.L.137-2012, SEC.68; P.L.261-2013, SEC.6. 
+
+IC 6-3.5-1.1-5 Version a Tax in effect part of year; computation 
+Note: This version of section effective until 1-1-2017. See also following repeal of this chapter, effective 1-1-2017. 
+Sec. 5. (a) Except as provided in subsections (b) through (c), if the county adjusted gross income tax is not in effect during a county taxpayer's entire taxable year, then the amount of county adjusted gross income tax that the county taxpayer owes for that taxable year equals the product of: 
+(1) 
+the amount of county adjusted gross income tax the county taxpayer would owe if the tax had been imposed during the county taxpayer's entire taxable year; multiplied by 
+
+(2) 
+a fraction: 
+
+(A) 
+The numerator of the fraction equals the number of days during the county taxpayer's taxable year during which the county adjusted gross income tax was in effect. 
+
+(B) 
+The denominator of the fraction equals the total number of days in the county taxpayer's taxable year. 
+
+
+
+
+(b) If a county taxpayer: 
+(1) 
+is unemployed for a part of the taxpayer's taxable year; 
+
+(2) 
+was not discharged for just cause (as defined in IC 22-4-15-1(e)); and 
+
+(3) 
+has no earned income for the part of the taxpayer's taxable 
+
+
+year that the tax was in effect; the county taxpayer's adjusted gross income for the taxable year is reduced by the amount of the taxpayer's earned income for the taxable year. 
+(c) A taxpayer who qualifies under subsection (b) must file a claim for a refund for the difference between the county adjusted gross income tax owed, as determined under subsection (a), and the tax owed, as determined under subsection (b). A claim for a refund must be on a form approved by the department and include all supporting documentation reasonably required by the department. As added by P.L.73-1983, SEC.2. Amended by P.L.96-1987, SEC.1. 
+
+IC 6-3.5-1.1-6 Version a Credit for taxes imposed by governmental entities outside Indiana 
+Note: This version of section effective until 1-1-2017. See also following repeal of this chapter, effective 1-1-2017. 
+Sec. 6. (a) Except as provided in subsection (b), if for a particular taxable year a county taxpayer is liable for an income tax imposed by a county, city, town, or other local governmental entity located outside of Indiana, that county taxpayer is entitled to a credit against his county adjusted gross income tax liability for that same taxable year. The amount of the credit equals the amount of tax imposed by the other governmental entity on income derived from sources outside Indiana and subject to the county adjusted gross income tax. However, the credit provided by this section may not reduce a county taxpayer's county adjusted gross income tax liability to an amount less than would have been owed if the income subject to taxation by the other governmental entity had been ignored. 
+(b) The credit provided by this section does not apply to a county taxpayer to the extent that the other governmental entity provides for a credit to the taxpayer for the amount of county adjusted gross income taxes owed under this chapter. 
+(c) To claim the credit provided by this section, a county taxpayer must provide the department with satisfactory evidence that he is entitled to the credit. As added by P.L.73-1983, SEC.2. 
+
+IC 6-3.5-1.1-7 Repealed 
+(As added by P.L.73-1983, SEC.2. Amended by P.L.23-1986, SEC.5; P.L.63-1988, SEC.9; P.L.99-2007, SEC.27. Repealed by P.L.250-2015, SEC.36.) 
+IC 6-3.5-1.1-8 Version a Accounts in state general fund; deposits 
+Note: This version of section effective until 1-1-2017. See also following repeal of this chapter, effective 1-1-2017. 
+Sec. 8. (a) A special account within the state general fund shall be established for each county adopting the county adjusted gross income tax. Any revenue derived from the imposition of the county adjusted gross income tax by a county shall be deposited in that county's account in the state general fund. 
+(b) Any income earned on money held in an account under subsection (a) becomes a part of that account. 
+(c) Any revenue remaining in an account established under subsection (a) at the end of a fiscal year does not revert to the state general fund. As added by P.L.73-1983, SEC.2. 
+
+IC 6-3.5-1.1-9 Version a Calculation of certified distribution; summary of calculation; notice to county auditor; notice to taxing units 
+Note: This version of section effective until 1-1-2017. See also following repeal of this chapter, effective 1-1-2017. 
+Sec. 9. (a) Revenue derived from the imposition of the county adjusted gross income tax shall, in the manner prescribed by this section, be distributed to the county that imposed it. The amount to be distributed to a county during an ensuing calendar year equals the amount of county adjusted gross income tax revenue that the budget agency determines has been: 
+(1) 
+received from that county for a taxable year ending before the calendar year in which the determination is made; and 
+
+(2) 
+reported on an annual return or amended return processed by the department in the state fiscal year ending before July 1 of the calendar year in which the determination is made; 
+
+
+as adjusted for refunds of county adjusted gross income tax made in the state fiscal year. 
+(b) Before August 2 of each calendar year, the budget agency shall provide to the county auditor of each adopting county an estimate of the amount determined under subsection (a) that will be distributed to the county, based on known tax rates. Not later than thirty (30) days after receiving the estimate of the certified distribution, the county auditor shall notify each taxing unit of the estimated amount of property tax replacement credits, certified shares, and other revenue that will be distributed to the taxing unit under this chapter during the ensuing calendar year. Before October 1 of each calendar year, the budget agency shall certify to the county auditor of each adopting county the amount determined under subsection (a) plus the amount of interest in the county's account that has accrued and has not been included in a certification made in a preceding year. The amount certified is the county's "certified distribution" for the immediately succeeding calendar year. The amount certified shall be adjusted under subsections (c), (d), (e), (f), and (g). Not later than thirty (30) days after receiving the notice of the amount of the certified distribution, the county auditor shall notify each taxing unit of the amount of property tax replacement credits, certified shares, and other revenue that will be distributed to the taxing unit under this chapter during the ensuing calendar year. The budget agency shall provide the county council with an informative summary of the calculations used to determine the certified distribution. The summary of calculations must include: 
+(1) 
+the amount reported on individual income tax returns processed by the department during the previous fiscal year; 
+
+(2) 
+adjustments for over distributions in prior years; 
+
+(3) 
+adjustments for clerical or mathematical errors in prior years; 
+
+(4) 
+adjustments for tax rate changes; and 
+
+(5) 
+the amount of excess account balances to be distributed 
+
+
+under IC 6-3.5-1.1-21.1. The budget agency shall also certify information concerning the part of the certified distribution that is attributable to a tax rate under section 24, 25, or 26 of this chapter. This information must be certified to the county auditor, the department, and the department of local government finance before October 1 of each calendar year. The part of the certified distribution that is attributable to a tax rate under section 24, 25, or 26 of this chapter may be used only as specified in those provisions. 
+(c) 
+The budget agency shall certify an amount less than the amount determined under subsection (b) if the budget agency determines that the reduced distribution is necessary to offset overpayments made in a calendar year before the calendar year of the distribution. The budget agency may reduce the amount of the certified distribution over several calendar years so that any overpayments are offset over several years rather than in one (1) lump sum. 
+
+(d) 
+The budget agency shall adjust the certified distribution of a county to correct for any clerical or mathematical errors made in any previous certification under this section. The budget agency may reduce the amount of the certified distribution over several calendar years so that any adjustment under this subsection is offset over several years rather than in one (1) lump sum. 
+
+(e) 
+This subsection applies to a county that initially imposes, increases, decreases, or rescinds a tax or tax rate under this chapter before November 1 in the same calendar year in which the budget agency makes a certification under this section. The budget agency shall adjust the certified distribution of a county to provide for a distribution in the immediately following calendar year and in each calendar year thereafter. The budget agency shall provide for a full transition to certification of distributions as provided in subsection (a)(1) through (a)(2) in the manner provided in subsection (c). If the county imposes, increases, decreases, or rescinds a tax or tax rate 
+
+under this chapter after the date for which a certification under subsection (b) is based, the budget agency shall adjust the certified distribution of the county after September 30 of the calendar year. The adjustment shall reflect any other adjustment required under subsections (c), (d), (f), and (g). The adjusted certification shall be treated as the county's "certified distribution" for the immediately succeeding calendar year. The budget agency shall certify the adjusted certified distribution to the county auditor for the county and provide the county council with an informative summary of the calculations that revises the informative summary provided in subsection (b) and reflects the changes made in the adjustment. 
+
+(f) 
+The budget agency shall adjust the certified distribution of a county to provide the county with the distribution required under section 3.3 of this chapter beginning not later than the tenth month after the month in which additional revenue from the tax authorized under section 3.3 of this chapter is initially collected. 
+
+(g) 
+This subsection applies in the year in which a county initially imposes a tax rate under section 24 of this chapter. Notwithstanding any other provision, the budget agency shall adjust the part of the county's certified distribution that is attributable to the tax rate under section 24 of this chapter to provide for a distribution in the immediately following calendar year equal to the result of: 
+
+(1) 
+the sum of the amounts determined under STEP ONE through STEP FOUR of IC 6-3.5-1.5-1(b) in the year in which the county initially imposes a tax rate under section 24 of this chapter; multiplied by 
+
+(2) 
+two (2). 
+
+
+
+(h) 
+The budget agency shall before May 1 of every odd-numbered year publish an estimate of the statewide total amount of certified distributions to be made under this chapter during the following two 
+
+(2) 
+calendar years. 
+
+(i) 
+The budget agency shall before May 1 of every even-numbered year publish an estimate of the statewide total amount of certified distributions to be made under this chapter during the following calendar year. 
+
+
+(j) The estimates under subsections (h) and (i) must specify the amount of the estimated certified distributions that are attributable to the additional rate authorized under section 24 of this chapter, the additional rate authorized under section 25 of this chapter, the additional rate authorized under section 26 of this chapter, and any other additional rates authorized under this chapter. As added by P.L.73-1983, SEC.2. Amended by P.L.23-1986, SEC.6; P.L.267-2003, SEC.3; P.L.207-2005, SEC.2; P.L.224-2007, SEC.61; P.L.146-2008, SEC.327; P.L.182-2009(ss), SEC.210; P.L.113-2010, SEC.62; P.L.229-2011, SEC.88; P.L.137-2012, SEC.69; P.L.261-2013, SEC.7; P.L.153-2014, SEC.2. 
+IC 6-3.5-1.1-9.5 
+
+Repealed 
+(As added by P.L.58-1996, SEC.1. Amended by P.L.90-2002, SEC.292; P.L.178-2002, SEC.56. Repealed by P.L.267-2003, SEC.16.) 
+
+IC 6-3.5-1.1-10 Version a Distribution of revenue; time; use 
+Note: This version of section amended by P.L.242-2015, SEC.29, effective until 1-1-2017. See also following version of this section amended by P.L.243-2015, SEC.4, effective until 1-1-2017, and following repeal of this chapter, effective 1-1-2017. 
+Sec. 10. (a) One-twelfth (1/12) of each adopting county's certified distribution for a calendar year shall be distributed from its account established under section 8 of this chapter to the appropriate county treasurer on the first regular business day of each month of that calendar year. 
+(b) Except for: 
+(1) 
+revenue that must be used to pay the costs of: 
+
+(A) 
+financing, constructing, acquiring, improving, renovating, equipping, operating, or maintaining facilities and buildings; 
+
+(B) 
+debt service on bonds; or 
+
+
+
+(C) 
+lease rentals; 
+under section 2.3 of this chapter; 
+
+
+(2) 
+revenue that must be used to pay the costs of operating a jail and juvenile detention center under section 2.5 of this chapter; 
+
+(3) 
+revenue that must be used to pay the costs of: 
+
+(A) 
+financing, constructing, acquiring, improving, renovating, equipping, operating, or maintaining facilities and buildings; 
+
+(B) 
+debt service on bonds; or 
+
+
+
+(C) 
+lease rentals; 
+under section 2.8 of this chapter; 
+
+
+(4) 
+revenue that must be used to pay the costs of construction, improvement, renovation, or remodeling of a jail and related buildings and parking structures under section 2.7, 2.9, or 3.3 of this chapter; 
+
+(5) 
+revenue that must be used to pay the costs of operating and maintaining a jail and justice center under section 3.5(d) of this chapter; 
+
+(6) 
+revenue that must be used to pay the costs of constructing, acquiring, improving, renovating, or equipping a county courthouse under section 3.6 of this chapter; 
+
+(7) 
+revenue that must be used to pay the costs of: 
+
+(A) 
+financing, constructing, acquiring, improving, renovating, remodeling, equipping, operating, or maintaining buildings and facilities; 
+
+(B) 
+debt service; or 
+
+
+
+(C) 
+lease rentals; 
+under section 3.4 of this chapter; 
+
+
+(8) 
+revenue that must be used to pay the costs of: 
+
+(A) 
+financing, constructing, acquiring, improving, renovating, equipping, operating, or maintaining facilities and buildings; 
+
+(B) 
+debt service on bonds; or 
+
+
+
+(C) 
+lease rentals; 
+under section 3.7 of this chapter; or 
+
+
+(9) 
+revenue attributable to a tax rate under section 24, 25, or 26 
+
+
+of this chapter; distributions made to a county treasurer under subsection (a) shall be treated as though they were property taxes that were due and payable during that same calendar year. Except as provided by sections 24, 25, and 26 of this chapter, the certified distribution shall be distributed and used by the taxing units and school corporations as provided in sections 11 through 15 of this chapter. 
+(c) All distributions from an account established under section 8 of this chapter shall be made by warrants issued by the auditor of the state to the treasurer of the state ordering the appropriate payments. As added by P.L.73-1983, SEC.2. Amended by P.L.119-1998, SEC.9; P.L.135-2001, SEC.3; P.L.157-2002, SEC.2; P.L.178-2002, SEC.57; P.L.1-2003, SEC.41; P.L.42-2003, SEC.3; P.L.147-2006, SEC.2; P.L.162-2006, SEC.29; P.L.2-2006, SEC.68; P.L.1-2007, SEC.60; P.L.224-2007, SEC.62; P.L.77-2011, SEC.6; P.L.119-2012, SEC.44; P.L.137-2012, SEC.70; P.L.242-2015, SEC.29. 
+
+IC 6-3.5-1.1-10 Version b Distribution of revenue; time; use 
+Note: This version of section amended by P.L.243-2015, SEC.4, effective until 1-1-2017. See also preceding version of this section amended by P.L.242-2015, SEC.29, effective until 1-1-2017, and following repeal of this chapter, effective 1-1-2017. 
+Sec. 10. (a) One-twelfth (1/12) of each adopting county's certified distribution for a calendar year shall be distributed from its account established under section 8 of this chapter to the appropriate county treasurer on the first regular business day of each month of that calendar year. 
+(b) Except for: 
+(1) 
+revenue that must be used to pay the costs of: 
+
+(A) 
+financing, constructing, acquiring, improving, renovating, equipping, operating, or maintaining facilities and buildings; 
+
+(B) 
+debt service on bonds; or 
+
+
+
+(C) 
+lease rentals; 
+under section 2.3 of this chapter; 
+
+
+(2) 
+revenue that must be used to pay the costs of operating a jail and juvenile detention center under section 2.5 of this chapter; 
+
+(3) 
+revenue that must be used to pay the costs of: 
+
+(A) 
+financing, constructing, acquiring, improving, renovating, equipping, operating, or maintaining facilities and buildings; 
+
+(B) 
+debt service on bonds; or 
+
+
+
+(C) 
+lease rentals; 
+under section 2.8 of this chapter; 
+
+
+(4) 
+revenue that must be used to pay the costs of construction, improvement, renovation, or remodeling of a jail and related buildings and parking structures under section 2.7, 2.9, or 3.3 of this chapter; 
+
+(5) 
+revenue that must be used to pay the costs of operating and maintaining a jail and justice center under section 3.5(d) of this chapter; 
+
+(6) 
+revenue that must be used to pay the costs of constructing, acquiring, improving, renovating, or equipping a county courthouse under section 3.6 of this chapter; 
+
+(7) 
+revenue that must be used to pay the costs of: 
+
+(A) 
+financing, constructing, acquiring, improving, renovating, equipping, operating, or maintaining facilities and buildings; 
+
+(B) 
+debt service on bonds; or 
+
+
+
+(C) 
+lease rentals; 
+under section 3.7 of this chapter; or 
+
+
+(8) 
+revenue attributable to a tax rate under section 24, 25, or 26 
+
+
+of this chapter; distributions made to a county treasurer under subsection (a) shall be treated as though they were property taxes that were due and payable during that same calendar year. Except as provided by sections 24, 25, and 26 of this chapter, the certified distribution shall be distributed and used by the taxing units and school corporations as provided in sections 11 through 15 of this chapter. 
+(c) All distributions from an account established under section 8 of this chapter shall be made by warrants issued by the auditor of the state to the treasurer of the state ordering the appropriate payments. As added by P.L.73-1983, SEC.2. Amended by P.L.119-1998, SEC.9; P.L.135-2001, SEC.3; P.L.157-2002,SEC.2; P.L.178-2002, SEC.57; P.L.1-2003, SEC.41; P.L.42-2003, SEC.3; P.L.147-2006, SEC.2; P.L.162-2006, SEC.29; P.L.2-2006, SEC.68; P.L.1-2007, SEC.60; P.L.224-2007, SEC.62; P.L.77-2011, SEC.6; P.L.119-2012, SEC.44; P.L.137-2012, SEC.70; P.L.243-2015, SEC.4. 
+
+IC 6-3.5-1.1-11 Version a Property tax replacement; calculation of certified shares 
+Note: This version of section amended by P.L.242-2015, SEC.30, effective until 1-1-2017. See also following version of this section amended by P.L.243-2015, SEC.5, effective until 1-1-2017, and following repeal of this chapter, effective 1-1-2017. 
+Sec. 11. (a) Except for: 
+(1) 
+revenue that must be used to pay the costs of: 
+
+(A) 
+financing, constructing, acquiring, improving, renovating, equipping, operating, or maintaining facilities and buildings; 
+
+(B) 
+debt service on bonds; or 
+
+
+
+(C) 
+lease rentals; 
+under section 2.3 of this chapter; 
+
+
+(2) 
+revenue that must be used to pay the costs of operating a jail and juvenile detention center under section 2.5 of this chapter; 
+
+(3) 
+revenue that must be used to pay the costs of: 
+
+(A) 
+financing, constructing, acquiring, improving, renovating, equipping, operating, or maintaining facilities and buildings; 
+
+(B) 
+debt service on bonds; or 
+
+
+
+(C) 
+lease rentals; 
+under section 2.8 of this chapter; 
+
+
+(4) 
+revenue that must be used to pay the costs of construction, improvement, renovation, or remodeling of a jail and related buildings and parking structures under section 2.7, 2.9, or 3.3 of this chapter; 
+
+(5) 
+revenue that must be used to pay the costs of operating and maintaining a jail and justice center under section 3.5(d) of this chapter; 
+
+(6) 
+revenue that must be used to pay the costs of constructing, acquiring, improving, renovating, or equipping a county courthouse under section 3.6 of this chapter; 
+
+(7) 
+revenue that must be used to pay the costs of: 
+
+(A) 
+financing, constructing, acquiring, improving, renovating, remodeling, equipping, operating, ormaintaining buildings and facilities; 
+
+(B) 
+debt service; or 
+
+
+
+(C) 
+lease rentals; 
+under section 3.4 of this chapter; 
+
+
+(8) 
+revenue that must be used to pay the costs of: 
+
+(A) 
+financing, constructing, acquiring, improving, renovating, equipping, operating, or maintaining facilities and buildings; 
+
+(B) 
+debt service on bonds; or 
+
+
+
+(C) 
+lease rentals; 
+under section 3.7 of this chapter; or 
+
+
+(9) 
+revenue attributable to a tax rate under section 24, 25, or 26 
+
+
+of this chapter; the certified distribution received by a county treasurer shall, in the manner prescribed in this section, be allocated, distributed, and used by the civil taxing units and school corporations of the county as certified shares and property tax replacement credits. 
+(b) Before August 10 of each calendar year, each county auditor shall determine the part of the certified distribution for the next succeeding calendar year that will be allocated as property tax replacement credits and the part that will be allocated as certified shares. The percentage of a certified distribution that will be allocated as property tax replacement credits or as certified shares depends upon the county adjusted gross income tax rate for resident county taxpayers in effect on December 1 of the calendar year that precedes the year in which the certified distribution will be received by two (2) years. The percentages are set forth in the following table: 
+PROPERTY  
+COUNTY  TAX  
+ADJUSTED GROSS  REPLACEMENT  CERTIFIED  
+INCOME TAX RATE  CREDITS  SHARES  
+0.5%  50%  50%  
+0.75%  33 1/3%  66 2/3%  
+1%  25%  75%  
+
+(c) The part of a certified distribution that constitutes property tax replacement credits shall be distributed as provided under sections 12, 13, and 14 of this chapter. 
+(d) The part of a certified distribution that constitutes certified shares shall be distributed as provided by section 15 of this chapter. As added by P.L.73-1983, SEC.2. Amended by P.L.119-1998, SEC.10; P.L.135-2001, SEC.4; P.L.178-2002, SEC.58; P.L.42-2003, SEC.4; P.L.267-2003, SEC.4; P.L.147-2006, SEC.3; P.L.162-2006, SEC.30; P.L.1-2007, SEC.61; P.L.224-2007, SEC.63; P.L.77-2011, SEC.7; P.L.242-2015, SEC.30. 
+
+IC 6-3.5-1.1-11 Version b Property tax replacement; calculation of certified shares 
+Note: This version of section amended by P.L.243-2015, SEC.5, effective until 1-1-2017. See also preceding version of this section amended by P.L.242-2015, SEC.30, effective until 1-1-2017, and following repeal of this chapter, effective 1-1-2017. 
+Sec. 11. (a) Except for: 
+(1) 
+revenue that must be used to pay the costs of: 
+
+(A) 
+financing, constructing, acquiring, improving, renovating, equipping, operating, or maintaining facilities and buildings; 
+
+(B) 
+debt service on bonds; or 
+
+
+
+(C) 
+lease rentals; under section 2.3 of this chapter; 
+
+(2) 
+revenue that must be used to pay the costs of operating a jail and juvenile detention center under section 2.5 of this chapter; 
+
+(3) 
+revenue that must be used to pay the costs of: 
+
+(A) 
+financing, constructing, acquiring, improving, renovating, equipping, operating, or maintaining facilities and buildings; 
+
+(B) 
+debt service on bonds; or 
+
+
+
+(C) 
+lease rentals; under section 2.8 of this chapter; 
+
+(4) 
+revenue that must be used to pay the costs of construction, improvement, renovation, or remodeling of a jail and related buildings and parking structures under section 2.7, 2.9, or 3.3 of this chapter; 
+
+(5) 
+revenue that must be used to pay the costs of operating and maintaining a jail and justice center under section 3.5(d) of this chapter; 
+
+(6) 
+revenue that must be used to pay the costs of constructing, acquiring, improving, renovating, or equipping a county courthouse under section 3.6 of this chapter; 
+
+(7) 
+revenue that must be used to pay the costs of: 
+
+(A) 
+financing, constructing, acquiring, improving, renovating, equipping, operating, or maintaining facilities and buildings; 
+
+(B) 
+debt service on bonds; or 
+
+
+
+(C) 
+lease rentals; under section 3.7 of this chapter; or 
+
+(8) 
+revenue attributable to a tax rate under section 24, 25, or 26 
+
+
+of this chapter; the certified distribution received by a county treasurer shall, in the manner prescribed in this section, be allocated, distributed, and used by the civil taxing units and school corporations of the county as certified shares and property tax replacement credits. 
+(b) 
+Before August 10 of each calendar year, each county auditor shall determine the part of the certified distribution for the next succeeding calendar year that will be allocated as property tax replacement credits and the part that will be allocated as certified shares. The percentage of a certified distribution that will be allocated as property tax replacement credits or as certified shares depends upon the county adjusted gross income tax rate for resident county taxpayers in effect on December 1 of the calendar year that precedes the year in which the certified distribution will be received by two (2) years. The percentages are set forth in the following table: 
+
+(c) 
+The part of a certified distribution that constitutes property tax replacement credits shall be distributed as provided under sections 12, 13, and 14 of this chapter. 
+
+(d) 
+The part of a certified distribution that constitutes certified shares shall be distributed as provided by section 15 of this chapter. 
+
+
+PROPERTY  
+COUNTY  TAX  
+ADJUSTED GROSS  REPLACEMENT  CERTIFIED  
+INCOME TAX RATE  CREDITS  SHARES  
+0.5%  50%  50%  
+0.75%  33 1/3%  66 2/3%  
+1%  25%  75%  
+
+As added by P.L.73-1983, SEC.2. Amended by P.L.119-1998, 
+SEC.10; P.L.135-2001, SEC.4; P.L.178-2002, SEC.58; P.L.42-2003, SEC.4; P.L.267-2003, SEC.4; P.L.147-2006, SEC.3; P.L.162-2006, SEC.30; P.L.1-2007, SEC.61; P.L.224-2007, SEC.63; P.L.77-2011, SEC.7; P.L.243-2015, SEC.5. 
+
+IC 6-3.5-1.1-11.5 Version a Timing of income tax distributions within the county 
+Note: This version of section effective until 1-1-2017. See also following repeal of this chapter, effective 1-1-2017. 
+Sec. 11.5. (a) The county auditor shall timely distribute the part of the certified distribution received under section 10 of this chapter that constitutes property tax replacement credits to each civil taxing unit and school corporation that is a recipient of property tax replacement credits as provided by sections 12, 13, and 14 of this chapter. 
+(b) The county auditor shall timely distribute the part of a certified distribution received under section 10 of this chapter that constitutes certified shares to each civil taxing unit that is a recipient of certified shares as provided by section 15 of this chapter. 
+(c) A distribution is considered to be timely made if the distribution is made not later than ten (10) working days after the date the county treasurer receives the county's certified distribution under section 10 of this chapter. As added by P.L.26-2009, SEC.1. 
+
+IC 6-3.5-1.1-12 Version a Allocation of property tax replacement credits; amount; formula; certification 
+Note: This version of section effective until 1-1-2017. See also following repeal of this chapter, effective 1-1-2017. 
+Sec. 12. (a) The part of a county's certified distribution for a calendar year that is to be used as property tax replacement credits shall be allocated by the county auditor among the civil taxing units and school corporations of the county. 
+(b) Except as provided in section 13 of this chapter, the amount of property tax replacement credits that each civil taxing unit and school corporation in a county is entitled to receive during a calendar year equals the product of: 
+(1) 
+that part of the county's certified distribution that is dedicated to providing property tax replacement credits for that same calendar year; multiplied by 
+
+(2) 
+a fraction: 
+
+(A) 
+The numerator of the fraction equals the allocation amount for the civil taxing unit or school corporation during that calendar year. 
+
+(B) 
+The denominator of the fraction equals the sum of the allocation amounts for all the civil taxing units and school corporations of the county for that calendar year. 
+
+
+
+
+(c) The department of local government finance shall provide each county auditor with the amount of property tax replacement credits that each civil taxing unit and school corporation in the auditor's county is entitled to receive under this section. The county auditor shall then certify to each civil taxing unit and school corporation the amount of property tax replacement credits it is entitled to receive (after adjustment made under section 13 of this chapter) under this section during that calendar year. The county auditor shall also certify these distributions to the county treasurer. As added by P.L.73-1983, SEC.2. Amended by P.L.90-2002, SEC.293; P.L.207-2005, SEC.3. 
+
+IC 6-3.5-1.1-13 Version a Allocation of replacement credits; tax levy not due in same year as credit distribution; amount; formula; adjustments 
+Note: This version of section effective until 1-1-2017. See also following repeal of this chapter, effective 1-1-2017. 
+Sec. 13. (a) If a civil taxing unit or school corporation of an adopting county does not impose a property tax levy that is first due and payable in a calendar year in which property tax replacement credits are being distributed, that civil taxing unit or school corporation is entitled to receive a proportion of the property tax replacement credits to be distributed within the county. The amount such a civil taxing unit or school corporation is entitled to receive during that calendar year equals the product of: 
+(1) 
+the part of the county's certified distribution that is to be used to provide property tax replacement credits during that calendar year; multiplied by 
+
+(2) 
+a fraction: 
+
+(A) 
+The numerator of the fraction equals the budget of that civil taxing unit or school corporation for that calendar year. 
+
+(B) 
+The denominator of the fraction equals the aggregate budgets of all civil taxing units and school corporations of that county for that calendar year. 
+
+
+
+
+(b) If for a calendar year a civil taxing unit or school corporation is allocated a proportion of a county's property tax replacement credits by this section then the formula used in section 12 of this chapter to determine all other civil taxing units' and school corporations' property tax replacement credits shall be changed for that same year by reducing the amount dedicated to providing property tax replacement credits by the amount of property tax replacement credits allocated under this section for that same calendar year. The department of local government finance shall make any adjustments required by this section and provide them to the appropriate county auditors. As added by P.L.73-1983, SEC.2. Amended by P.L.90-2002, SEC.294. 
+IC 6-3.5-1.1-14 Version a Replacement credits; determination limited; multiple county taxing units; effect upon budget, property tax rates, and school funds 
+Note: This version of section effective until 1-1-2017. See also following repeal of this chapter, effective 1-1-2017. 
+Sec. 14. (a) In determining the amount of property tax replacement credits civil taxing units and school corporations of a county are entitled to receive during a calendar year, the department of local government finance shall consider only property taxes imposed on tangible property that was assessed in that county. 
+(b) 
+If a civil taxing unit or a school corporation is located in more than one (1) county and receives property tax replacement credits from one (1) or more of the counties, then the property tax replacement credits received from each county shall be used only to reduce the property tax rates that are imposed within the county that distributed the property tax replacement credits. 
+
+(c) 
+A civil taxing unit shall treat any property tax replacement credits that it receives or is to receive during a particular calendar year as a part of its property tax levy for that same calendar year for purposes of fixing its budget and for purposes of the property tax levy limits imposed by IC 6-1.1-18.5. 
+
+(d) 
+Subject to subsection (e), if a civil taxing unit or school corporation of an adopting county does not impose a property tax levy that is first due and payable in a calendar year in which property tax replacement credits are being distributed, the civil taxing unit or school corporation is entitled to use the property tax replacement credits distributed to the civil taxing unit or school corporation for any purpose for which a property tax levy could be used. 
+
+
+(e) A school corporation shall treat any property tax replacement credits that the school corporation receives or is to receive during a particular calendar year as a part of its property tax levy for its debt service fund, capital projects fund, transportation fund, and school bus replacement fund in proportion to the levy for each of these funds for that same calendar year for purposes of fixing its budget. A school corporation shall allocate the property tax replacement credits described in this subsection to all four (4) funds in proportion to the levy for each fund. As added by P.L.73-1983, SEC.2. Amended by P.L.25-1995, SEC.56; P.L.90-2002, SEC.295; P.L.207-2005, SEC.4; P.L.2-2006, SEC.69; P.L.146-2008, SEC.328; P.L.182-2009(ss), SEC.211. 
+
+IC 6-3.5-1.1-15 Version a Attributed allocation amount; allocation of certified shares 
+Note: This version of section effective until 1-1-2017. See also following repeal of this chapter, effective 1-1-2017. 
+Sec. 15. (a) As used in this section, "attributed allocation amount" of a civil taxing unit for a calendar year means the sum of: 
+(1) 
+the allocation amount of the civil taxing unit for that calendar year; plus 
+
+(2) 
+the current ad valorem property tax levy of any special taxing district, authority, board, or other entity formed to discharge governmental services or functions on behalf of or ordinarily attributable to the civil taxing unit; plus 
+
+(3) 
+in the case of a county, an amount equal to the welfare 
+
+
+allocation amount. The welfare allocation amount is an amount equal to the sum of the property taxes imposed by the county in 1999 for the county's welfare fund and welfare administration fund and, if the county received a certified distribution under this chapter or IC 6-3.5-6 in 2008, the property taxes imposed by the county in 2008 for the county's county medical assistance to wards fund, family and children's fund, children's psychiatric residential treatment services fund, county hospital care for the indigent fund and children with special health care needs county fund. 
+(b) The part of a county's certified distribution that is to be used as certified shares shall be allocated only among the county's civil taxing units. Each civil taxing unit of a county is entitled to receive a certified share during a calendar year in an amount determined in STEP TWO of the following formula: 
+STEP ONE: Divide: 
+(A) 
+the attributed allocation amount of the civil taxing unit during that calendar year; by 
+
+(B) 
+the sum of the attributed allocation amounts of all the 
+
+
+civil taxing units of the county during that calendar year. STEP TWO: Multiply the part of the county's certified distribution that is to be used as certified shares by the STEP ONE amount. 
+(c) 
+The department of local government finance shall determine the attributed levies of civil taxing units that are entitled to receive certified shares during a calendar year. If the ad valorem property tax levy of any special taxing district, authority, board, or other entity is attributed to another civil taxing unit under subsection (a)(2), then the special taxing district, authority, board, or other entity shall not be treated as having an attributed allocation amount of its own. The department of local government finance shall certify the attributed allocation amounts to the appropriate county auditor. The county auditor shall then allocate the certified shares among the civil taxing units of the auditor's county. 
+
+(d) 
+Certified shares received by a civil taxing unit shall be treated as additional revenue for the purpose of fixing its budget for the calendar year during which the certified shares will be received. The certified shares may be allocated to or appropriated for any purpose, including property tax relief or a transfer of funds to another civil taxing unit whose levy was attributed to the civil taxing unit in the determination of its attributed allocation amount. 
+
+
+As added by P.L.73-1983, SEC.2. Amended by P.L.273-1999, SEC.69; P.L.283-2001, SEC.2; P.L.120-2002, SEC.2; P.L.255-2003, SEC.2; P.L.207-2005, SEC.5;P.L.224-2007, SEC.64; P.L.146-2008, SEC.329; P.L.182-2009(ss), SEC.212. 
+
+IC 6-3.5-1.1-16 Version a County residency and place of business or employment; determination 
+Note: This version of section effective until 1-1-2017. See also following repeal of this chapter, effective 1-1-2017. 
+Sec. 16. (a) For purposes of this chapter, an individual shall be treated as a resident of the county in which he: 
+(1) 
+maintains a home if the individual maintains only one (1) in Indiana; 
+
+(2) 
+if subdivision (1) does not apply, is registered to vote; 
+
+(3) 
+if neither subdivision (1) or (2) applies, registers his personal automobile; or 
+
+(4) 
+if neither subdivision (1), (2), or (3) applies, spends the majority of his time spent in Indiana during the taxable year in question. 
+
+
+(b) 
+The residence or principal place of business or employment of an individual is to be determined on January 1 of the calendar year in which the individual's taxable year commences. If an individual changes the location of his residence or principal place of employment or business to another county in Indiana during a calendar year, his liability for county adjusted gross income tax is not affected. 
+
+(c) 
+Notwithstanding subsection (b), if an individual becomes a county taxpayer for purposes of IC 36-7-27 during a calendar year because the individual: 
+
+(1) 
+changes the location of the individual's residence to a county in which the individual begins employment or business at a qualified economic development tax project (as defined in IC 36-7-27-9); or 
+
+(2) 
+changes the location of the individual's principal place of employment or business to a qualified economic development tax project and does not reside in another county in which the county adjusted gross income tax is in effect; 
+
+
+
+
+the individual's adjusted gross income attributable to employment or business at the qualified economic development tax project is taxable only by the county containing the qualified economic development tax project. 
+As added by P.L.73-1983, SEC.2. Amended by P.L.42-1994, SEC.3. 
+
+IC 6-3.5-1.1-17 Version a Reciprocity agreements between local governmental entities 
+Note: This version of section effective until 1-1-2017. See also following repeal of this chapter, effective 1-1-2017. 
+Sec. 17. (a) The county council of any adopting county may adopt an ordinance to enter into reciprocity agreements with the taxing authority of any city, town, municipality, county, or other similar local government entity of any other state. Such a reciprocity agreement must provide that the income of resident county taxpayers is exempt from income taxation by the other local governmental entity to the extent that income of the residents of the other local governmentalentity is exempt from the county adjusted gross income tax in the adopting county. 
+(b) A reciprocity agreement entered into under subsection (a) may not become effective until it is also made effective in the other local governmental entity that is a party to the agreement. 
+(c) The form and effective date of any reciprocity agreement described in this section must be approved by the department. As added by P.L.73-1983, SEC.2. 
+
+IC 6-3.5-1.1-18 Version a Adjusted gross income tax provisions; applicability; employer's withholding report 
+Note: This version of section effective until 1-1-2017. See also following repeal of this chapter, effective 1-1-2017. 
+Sec. 18. (a) Except as otherwise provided in this chapter, all provisions of the adjusted gross income tax law (IC 6-3) concerning: 
+(1) 
+definitions; 
+
+(2) 
+declarations of estimated tax; 
+
+(3) 
+filing of returns; 
+
+(4) 
+remittances; 
+
+(5) 
+incorporation of the provisions of the Internal Revenue Code; 
+
+(6) 
+penalties and interest; 
+
+(7) 
+exclusion of military pay credits for withholding; and 
+
+
+(8) 
+exemptions and deductions; apply to the imposition, collection, and administration of the tax imposed by this chapter. 
+
+(b) 
+The provisions of IC 6-3-3-3, IC 6-3-3-5, and IC 6-3-5-1 do not apply to the tax imposed by this chapter. 
+
+(c) 
+Notwithstanding subsections (a) and (b), each employer shall report to the department the amount of withholdings attributable to each county. This report shall be submitted to the department: 
+
+(1) 
+each time the employer remits to the department the tax that is withheld; and 
+
+(2) 
+annually along with the employer's annual withholding report. 
+
+
+
+
+As added by P.L.73-1983, SEC.2. Amended by P.L.82-1983, SEC.9; P.L.23-1986, SEC.7; P.L.57-1997, SEC.4; P.L.146-2008, SEC.330; P.L.250-2015, SEC.37. 
+IC 6-3.5-1.1-19 Version a Citation to prior law; continued effect of rules 
+
+Note: This version of section effective until 1-1-2017. See also following repeal of this chapter, effective 1-1-2017. 
+Sec. 19. (a) If a provision of the prior county adjusted gross income tax law (IC 6-3.5-1) has been replaced in the same form or in a restated form, by a provision of this chapter, then a citation to the provision of the prior law shall be construed as a citation to the corresponding provision of this chapter. 
+(b) Any rule adopted under, and applicable to, the prior county adjusted gross income tax law (IC 6-3.5-1) continues in effect under this chapter if the provisions under which it was adopted and to which it was applicable were replaced, in the same or restated form, by corresponding provisions of this chapter. As added by P.L.73-1983, SEC.2. 
+
+IC 6-3.5-1.1-21 Version a Annual report to county auditor 
+Note: This version of section effective until 1-1-2017. See also following repeal of this chapter, effective 1-1-2017. 
+Sec. 21. Before November 2 of each year, the budget agency shall submit a report to each county auditor indicating the balance in the county's adjusted gross income tax account as of the cutoff date specified by the budget agency. As added by P.L.23-1986, SEC.8. Amended by P.L.178-2002, SEC.59; P.L.267-2003, SEC.5; P.L.182-2009(ss), SEC.213; P.L.77-2011, SEC.8. 
+
+IC 6-3.5-1.1-21.1 Version a Distribution of excess balance; use 
+Note: This version of section effective until 1-1-2017. See also following repeal of this chapter, effective 1-1-2017. 
+Sec. 21.1. (a) If the budget agency determines that the balance in a county trust account exceeds fifty percent (50%) of the certified distributions to be made to the county in the ensuing year, the budget agency shall make a supplemental distribution to the county from the county's adjusted gross income tax account. 
+(b) A supplemental distribution described in subsection (a) must be: 
+(1) 
+made in January of the ensuing calendar year; and 
+
+(2) 
+allocated and, subject to subsection (d), used in the same manner as certified distributions. However, the part of a supplemental distribution that is attributable to an additional rate authorized under this chapter: 
+
+(A) 
+shall be used for the purpose specified in the statute authorizing the additional rate; and 
+
+(B) 
+is not required to be deposited in the unit's rainy day 
+
+
+
+
+fund. The amount of the supplemental distribution is equal to the amount by which the balance in the county trust account exceeds fifty percent (50%) of the certified distributions to be made to the county in the ensuing year. 
+(c) 
+A determination under this section must be made before November 2. 
+
+(d) 
+This subsection applies to that part of a distribution made under this section that is allocated and available for use in the same manner as certified shares. The civil taxing unit receiving the money shall deposit the money in the civil taxing unit's rainy day fund established under IC 36-1-8-5.1. 
+
+
+(e) Any income earned on money held in a trust account established for a county under this chapter shall be deposited in that trust account. As added by P.L.178-2002, SEC.60. Amended by P.L.267-2003, SEC.6; P.L.182-2009(ss), SEC.214; P.L.77-2011, SEC.9; P.L.229-2011, SEC.89; P.L.261-2013, SEC.8. 
+
+IC 6-3.5-1.1-22 Version a Obligations or leases entered into by civil taxing unit; public sale 
+Note: This version of section effective until 1-1-2017. See also following repeal of this chapter, effective 1-1-2017. 
+Sec. 22. Notwithstanding any other law, if a civil taxing unit desires to issue obligations or enter into leases payable wholly or in part by the county adjusted gross income tax, the obligations of the civil taxing unit or any lessor may be sold at public sale in accordance with IC 5-1-11 or at negotiated sale. As added by P.L.35-1990, SEC.15. 
+
+IC 6-3.5-1.1-23 Version a Pledges 
+Note: This version of section effective until 1-1-2017. See also following repeal of this chapter, effective 1-1-2017. 
+Sec. 23. (a) A pledge of county adjusted gross income tax revenues received under this chapter (other than tax revenue attributable to a tax rate under section 24, 25, or 26 of this chapter for property tax relief or public safety) is enforceable in accordance with IC 5-1-14. 
+(b) With respect to obligations for which a pledge has been made under this chapter, the general assembly covenants with the county and the purchasers or owners of those obligations that this chapter will not be repealed or amended in any manner that will adversely affect the collection of the tax imposed under this chapter as long as the principal of or interest on those obligations is unpaid. As added by P.L.135-2001, SEC.5. Amended by P.L.224-2007, SEC.65; P.L.153-2014, SEC.3. 
+IC 6-3.5-1.1-24 Version a Rate for property tax levy freeze; rate for public transportation 
+Note: This version of section effective until 1-1-2017. See also following repeal of this chapter, effective 1-1-2017. 
+Sec. 24. (a) In a county in which the county adjusted gross income tax is in effect, the county council may adopt an ordinance to impose or increase (as applicable) a tax rate under this section. 
+(b) 
+In a county in which neither the county adjusted gross income tax nor the county option income tax is in effect, the county council may adopt an ordinance to impose a tax rate under this section. 
+
+(c) 
+If a county council adopts an ordinance to impose or increase a tax rate under this section, not more than ten (10) days after the vote, the county auditor shall send a certified copy of the ordinance to the commissioner of the department, the director of the budget agency, and the commissioner of the department of local government finance in an electronic format approved by the director of the budget agency. 
+
+(d) 
+A tax rate under this section is in addition to any other tax rates imposed under this chapter and does not affect the purposes for which other tax revenue under this chapter may be used. 
+
+(e) 
+Except as provided in subsection (t), the following apply only in the year in which a county council first imposes a tax rate under this section: 
+
+(1) 
+The county council shall, in the ordinance imposing the tax rate, specify the tax rate for each of the following two (2) years. 
+
+(2) 
+The tax rate that must be imposed in the county in the first year is equal to the result of: 
+
+(A) 
+the tax rate determined for the county under IC 6-3.5-1.5-1(b) in the year in which the tax rate is increased; multiplied by 
+
+(B) 
+two (2). 
+
+
+
+(3) 
+The tax rate that must be imposed in the county in the second year is the tax rate determined for the county under IC 6-3.5-1.5-1(c). The tax rate under this subdivision continues in effect in later years unless the tax rate is increased under this section. 
+
+(4) 
+The levy limitations in IC 6-1.1-18.5-3(b), IC 6-1.1-18.5-3(c), IC 12-19-7-4(b) (before its repeal), IC 12-19-7.5-6(b) (before its repeal), and IC 12-29-2-2(c) apply to property taxes first due and payable in the ensuing calendar year and to property taxes first due and payable in the calendar year after the ensuing calendar year. 
+
+
+
+(f) 
+Except as provided in subsection (t), the following apply only in a year in which a county council increases a tax rate under this section: 
+
+(1) 
+The county council shall, in the ordinance increasing the tax rate, specify the tax rate for the following year. 
+
+(2) 
+The tax rate that must be imposed in the county is equal to the result of: 
+
+(A) 
+the tax rate determined for the county under 
+
+IC 6-3.5-1.5-1(b) in that year; plus 
+
+(B) 
+the tax rate currently in effect in the county under this 
+
+
+
+
+
+
+section. The tax rate under this subdivision continues in effect in later years unless the tax rate is increased under this section. 
+(3) The levy limitations in IC 6-1.1-18.5-3(b), IC 6-1.1-18.5-3(c), IC 12-19-7-4(b) (before its repeal), IC 12-19-7.5-6(b) (before its repeal), and IC 12-29-2-2(c) apply to property taxes first due and payable in the ensuing calendar year. 
+(g) Except as provided in subsection (t), the department of local government finance shall determine the following property tax replacement distribution amounts: 
+STEP ONE: Determine the sum of the amounts determined under STEP ONE through STEP FOUR of IC 6-3.5-1.5-1(b) for the county in the preceding year. STEP TWO: For distribution to each civil taxing unit that in the year had a maximum permissible property tax levy limited under IC 6-1.1-18.5-3(b), determine the result of: 
+(1) 
+the quotient of: 
+
+(A) 
+the part of the amount determined under STEP ONE of IC 6-3.5-1.5-1(b) in the preceding year that was attributable to the civil taxing unit; divided by 
+
+(B) 
+the STEP ONE amount; multiplied by 
+
+
+
+(2) 
+the tax revenue received by the county treasurer under 
+
+
+this section. STEP THREE: For distributions in 2009 and thereafter, the result of this STEP is zero (0). For distribution to the county for deposit in the county family and children's fund before 2009, determine the result of: 
+(1) 
+the quotient of: 
+
+(A) 
+the amount determined under STEP TWO of IC 6-3.5-1.5-1(b) in the preceding year; divided by 
+
+(B) 
+the STEP ONE amount; multiplied by 
+
+
+
+(2) 
+the tax revenue received by the county treasurer under 
+
+
+this section. STEP FOUR: For distributions in 2009 and thereafter, the result of this STEP is zero (0). For distribution to the county for deposit in the county children's psychiatric residential treatment services fund before 2009, determine the result of: 
+(1) 
+the quotient of: 
+
+(A) 
+the amount determined under STEP THREE of IC 6-3.5-1.5-1(b) in the preceding year; divided by 
+
+(B) 
+the STEP ONE amount; multiplied by 
+
+
+
+(2) 
+the tax revenue received by the county treasurer under 
+
+
+this section. STEP FIVE: For distribution to the county for community mental health center purposes, determine the result of: 
+(1) 
+the quotient of: 
+
+(A) 
+the amount determined under STEP FOUR of IC 6-3.5-1.5-1(b) in the preceding year; divided by 
+
+(B) 
+the STEP ONE amount; multiplied by 
+
+
+
+(2) 
+the tax revenue received by the county treasurer under 
+
+
+this section. Except as provided in subsection (m), the county treasurer shall distribute the portion of the certified distribution that is attributable to a tax rate under this section as specified in this section. The county treasurer shall make the distributions under this subsection at the same time that distributions are made to civil taxing units under section 15 of this chapter. 
+(h) 
+Notwithstanding sections 3.1 and 4 of this chapter, a county council may not decrease or rescind a tax rate imposed under this section. 
+
+(i) 
+The tax rate under this section shall not be considered for purposes of computing: 
+
+(1) 
+the maximum income tax rate that may be imposed in a county under section 2 of this chapter or any other provision of this chapter; or 
+
+(2) 
+the maximum permissible property tax levy under IC 6-1.1-18.5-3. 
+
+
+
+(j) 
+The tax levy under this section shall not be considered for purposes of the credit under IC 6-1.1-20.6. 
+
+(k) 
+Except as provided in subsections (s) and (t), a distribution under this section shall be treated as a part of the receiving civil taxing unit's property tax levy for that year for purposes of fixing the budget of the civil taxing unit and for determining the distribution of taxes that are distributed on the basis of property tax levies. 
+
+(l) 
+If a county council imposes a tax rate under this section (other than a tax rate imposed under subsection (s)), the portion of county adjusted gross income tax revenue dedicated to property tax replacement credits under section 11 of this chapter may not be decreased. 
+
+(m) 
+In the year following the year in a which a county first imposes a tax rate under this section, one-half (1/2) of the tax revenue that is attributable to the tax rate under this section (other than a tax rate imposed under subsection (s)) must be deposited in the county stabilization fund established under subsection (o). 
+
+(n) 
+Except as provided in subsection (t) and IC 8-25, a pledge of county adjusted gross income taxes does not apply to revenue attributable to a tax rate under this section. 
+
+(o) 
+Except as provided in subsection (t), a county stabilization fund is established in each county that imposes a tax rate under this section. The county stabilization fund shall be administered by the county auditor. If for a year the certified distributions attributable to a tax rate under this section exceed the amount calculated under STEP ONE through STEP FOUR of IC 6-3.5-1.5-1(b) that is used by 
+
+
+the department of local government finance and the department of state revenue to determine the tax rate under this section, the excess shall be deposited in the county stabilization fund. Money shall be distributed from the county stabilization fund in a year by the county auditor to political subdivisions entitled to a distribution of tax revenue attributable to the tax rate under this section if: 
+(1) 
+the certified distributions attributable to a tax rate under this section are less than the amount calculated under STEP ONE through STEP FOUR of IC 6-3.5-1.5-1(b) that is used by the department of local government finance and the department of state revenue to determine the tax rate under this section for a year; or 
+
+(2) 
+the certified distributions attributable to a tax rate under this section in a year are less than the certified distributions attributable to a tax rate under this section in the preceding year. 
+
+
+However, subdivision (2) does not apply to the year following the first year in which certified distributions of revenue attributable to the tax rate under this section are distributed to the county. 
+(p) 
+Notwithstanding any other provision, a tax rate imposed under this section may not exceed one percent (1%). 
+
+(q) 
+A county council must each year hold at least one (1) public meeting at which the county council discusses whether the tax rate under this section should be imposed or increased. 
+
+(r) 
+The department of local government finance and the department of state revenue may take any actions necessary to carry out the purposes of this section. 
+
+(s) 
+This subsection applies only to Hancock County and Johnson County. If the voters of the county approve a local public question under IC 8-25-2, the fiscal body of the county may adopt an ordinance to provide for the use of county adjusted gross income tax revenues attributable to an additional tax rate imposed under this subsection to fund a public transportation project under IC 8-25. However, a county fiscal body shall adopt an ordinance under this subsection if required by IC 8-25-6-10 to impose an additional tax rate on the county taxpayers who reside in a township in which the voters approve a public transportation project in a local public question held under IC 8-25-6. An ordinance adopted under this subsection must specify an additional tax rate to be imposed in the county (or township in the case of an additional rate required by IC 8-25-6-10) of at least one-tenth percent (0.1%), but not more than twenty-five hundredths percent (0.25%). If an ordinance is adopted under this subsection, the amount of the certified distribution attributable to the additional tax rate imposed under this subsection must be: 
+
+(1) 
+retained by the county auditor; 
+
+(2) 
+deposited in the public transportation project fund established under IC 8-25-3-7; and 
+
+(3) 
+used for the purpose provided in this subsection instead of 
+
+
+
+
+as a property tax replacement distribution. 
+(t) The following do not apply to an additional tax rate imposed under subsection (s): 
+(1) 
+Subsection (e). 
+
+(2) 
+Subsection (f). 
+
+(3) 
+Subsection (g). 
+
+(4) 
+Subsection (k). 
+
+(5) 
+Subsection (n). 
+
+
+(6) Subsection (o). As added by P.L.224-2007, SEC.66. Amended by P.L.146-2008, SEC.331; P.L.77-2011, SEC.10; P.L.172-2011, SEC.73; P.L.6-2012, SEC.54; P.L.137-2012, SEC.71; P.L.261-2013, SEC.9; P.L.153-2014, SEC.4. 
+
+IC 6-3.5-1.1-25 Version a Rate for public safety 
+Note: This version of section effective until 1-1-2017. See also following repeal of this chapter, effective 1-1-2017. 
+Sec. 25. (a) As used in this section, "public safety" refers to the following: 
+(1) 
+A police and law enforcement system to preserve public peace and order. 
+
+(2) 
+A firefighting and fire prevention system. 
+
+(3) 
+Emergency ambulance services (as defined in IC 16-18-2-107). 
+
+(4) 
+Emergency medical services (as defined in IC 16-18-2-110). 
+
+(5) 
+Emergency action (as defined in IC 13-11-2-65). 
+
+(6) 
+A probation department of a court. 
+
+(7) 
+Confinement, supervision, services under a community corrections program (as defined in IC 35-38-2.6-2), or other correctional services for a person who has been: 
+
+(A) 
+diverted before a final hearing or trial under an agreement that is between the county prosecuting attorney and the person or the person's custodian, guardian, or parent and that provides for confinement, supervision, community corrections services, or other correctional services instead of a final action described in clause (B) or (C); 
+
+(B) 
+convicted of a crime; or 
+
+(C) 
+adjudicated as a delinquent child or a child in need of services. 
+
+
+
+(8) 
+A juvenile detention facility under IC 31-31-8. 
+
+(9) 
+A juvenile detention center under IC 31-31-9. 
+
+(10)
+ A county jail. 
+
+(11) 
+A communications system (as defined in IC 36-8-15-3), an enhanced emergency telephone system (as defined in IC 36-8-16-2 (before its repeal on July 1, 2012)), or the statewide 911 system (as defined in IC 36-8-16.7-22). 
+
+(12) 
+Medical and health expenses for jail inmates and other 
+
+confined persons. 
+
+(13)
+ Pension payments for any of the following: 
+
+(A) 
+A member of the fire department (as defined in IC 36-8-1-8) or any other employee of a fire department. 
+
+(B) 
+A member of the police department (as defined in IC 36-8-1-9), a police chief hired under a waiver under IC 36-8-4-6.5, or any other employee hired by a police department. 
+
+(C) 
+A county sheriff or any other member of the office of the county sheriff. 
+
+(D) 
+Other personnel employed to provide a service described in this section. 
+
+
+
+
+(b) 
+A county council may adopt an ordinance to impose an additional tax rate under this section to provide funding for public safety. However, in a county in which a historic hotel district (as defined in IC 4-33-2-11.5) is located, a county council may impose a tax rate under this section to provide funding for public safety without imposing a tax rate under section 24 or 26 of this chapter. 
+
+(c) 
+A tax rate under this section may not exceed twenty-five hundredths of one percent (0.25%). 
+
+(d) 
+If a county council adopts an ordinance to impose a tax rate under this section, not more than ten (10) days after the vote, the county auditor shall send a certified copy of the ordinance to the commissioner of the department, the director of the budget agency, and the commissioner of the department of local government finance in an electronic format approved by the director of the budget agency. 
+
+(e) 
+A tax rate under this section is in addition to any other tax rates imposed under this chapter and does not affect the purposes for which other tax revenue under this chapter may be used. 
+
+(f) 
+Except as provided in subsections (k), (l), (m), and (n), the county auditor shall distribute the portion of the certified distribution that is attributable to a tax rate under this section to the county and to each municipality in the county that is carrying out or providing at least one (1) of the public safety purposes described in subsection (a). The amount that shall be distributed to the county or municipality is equal to the result of: 
+
+(1) 
+the portion of the certified distribution that is attributable to a tax rate under this section; multiplied by 
+
+(2) 
+a fraction equal to: 
+
+(A) 
+the attributed allocation amount (as defined in IC 6-3.5-1.1-15) of the county or municipality for the calendar year; divided by 
+
+(B) 
+the sum of the attributed allocation amounts of the county and each municipality in the county that is entitled to a distribution under this section for the calendar year. 
+
+
+
+
+
+
+The county auditor shall make the distributions required by this subsection not more than thirty (30) days after receiving the portion of the certified distribution that is attributable to a tax rate under this section. Tax revenue distributed to a county or municipality under this subsection must be deposited into a separate account or fund and may be appropriated by the county or municipality only for public safety purposes. 
+(g)
+ The department of local government finance may not require a county or municipality receiving tax revenue under this section to reduce the county's or municipality's property tax levy for a particular year on account of the county's or municipality's receipt of the tax revenue. 
+
+(h) 
+The tax rate under this section and the tax revenue attributable to the tax rate under this section shall not be considered for purposes of computing: 
+
+(1) 
+the maximum income tax rate that may be imposed in a county under section 2 of this chapter or any other provision of this chapter; 
+
+(2) 
+the maximum permissible property tax levy under IC 6-1.1-18.5-3; or 
+
+(3) 
+the credit under IC 6-1.1-20.6. 
+
+
+
+(i) 
+The tax rate under this section may be imposed or rescinded at the same time and in the same manner that the county may impose or increase a tax rate under section 24 of this chapter. 
+
+(j) 
+The department of local government finance and the department of state revenue may take any actions necessary to carry out the purposes of this section. 
+
+(k) 
+Two (2) or more political subdivisions that are entitled to receive a distribution under this section may adopt resolutions providing that some part or all of those distributions shall instead be paid to one (1) political subdivision in the county to carry out specific public safety purposes specified in the resolutions. 
+
+(l) 
+A fire department, volunteer fire department, or emergency medical services provider that: 
+
+(1) 
+provides fire protection or emergency medical services within the county; and 
+
+(2) 
+is operated by or serves a political subdivision that is not otherwise entitled to receive a distribution of tax revenue under this section; 
+
+
+
+
+may before July 1 of a year apply to the county council for a distribution of tax revenue under this section during the following calendar year. The county council shall review an application submitted under this subsection and may before September 1 of a year adopt a resolution requiring that one (1) or more of the applicants shall receive a specified amount of the tax revenue to be distributed under this section during the following calendar year. A resolution approved under this subsection providing for a distribution to one (1) or more fire departments, volunteer fire departments, or emergency medical services providers applies only to distributions in the following calendar year. Any amount of tax revenue distributed under this subsection to a fire department, volunteer fire department, or emergency medical services provider shall be distributed before the remainder of the tax revenue is distributed under subsection (f). 
+(m) This subsection applies to a county in which a tax rate under this section is not in effect on July 1, 2015. The county council may adopt a resolution providing that up to one hundred percent (100%) of the tax revenue to be distributed under this section shall be dedicated to a PSAP (as defined in IC 36-8-16.7-20) that is part of the statewide 911 system (as defined in IC 36-8-16.7-22) and contained in the county. Any amount of tax revenue dedicated to a PSAP under this subsection shall be distributed before the remainder of the tax revenue is distributed under this section. 
+(n) This subsection applies to a county in which a tax rate under this section is in effect on July 1, 2015. If the tax rate under this section is increased after July 1, 2015, the county council may adopt a resolution providing that up to one hundred percent (100%) of the tax revenue derived from the part of the tax rate under this section that exceeds the tax rate in effect on July 1, 2015, shall be dedicated to a PSAP (as defined in IC 36-8-16.7-20) that is part of the statewide 911 system (as defined in IC 36-8-16.7-22) and contained in the county. Any amount of tax revenue dedicated to a PSAP under this subsection shall be distributed before the remainder of the tax revenue is distributed under this section. As added by P.L.224-2007, SEC.67. Amended by P.L.146-2008, SEC.332; P.L.172-2011, SEC.74; P.L.132-2012, SEC.3; P.L.137-2012, SEC.72; P.L.13-2013, SEC.23; P.L.261-2013, SEC.10; P.L.157-2015, SEC.2; P.L.255-2015, SEC.60. 
+
+IC 6-3.5-1.1-26 Version a Rate for property tax relief 
+Note: This version of section effective until 1-1-2017. See also following repeal of this chapter, effective 1-1-2017. 
+Sec. 26. (a) A county council may impose a tax rate under this section to provide property tax relief to taxpayers in the county. A county council is not required to impose any other tax before imposing a tax rate under this section. 
+(b) 
+A tax rate under this section may be imposed in increments of five hundredths of one percent (0.05%) determined by the county council. A tax rate under this section may not exceed one percent (1%). 
+
+(c) 
+A tax rate under this section is in addition to any other tax rates imposed under this chapter and does not affect the purposes for which other tax revenue under this chapter may be used. 
+
+(d) 
+If a county council adopts an ordinance to impose or increase a tax rate under this section, not more than ten (10) days after the vote, the county auditor shall send a certified copy of the ordinance to the commissioner of the department, the director of the budget 
+
+agency, and the commissioner of the department of local government finance in an electronic format approved by the director of the budget agency. 
+
+(e) 
+A tax rate under this section may be imposed, increased, decreased, or rescinded by a county council at the same time and in the same manner that the county council may impose or increase a tax rate under section 24 of this chapter. 
+
+(f) 
+Tax revenue attributable to a tax rate under this section may be used for any combination of the following purposes, as specified by ordinance of the county council: 
+
+(1) 
+Except as provided in subsection (j), the tax revenue may be used to provide local property tax replacement credits at a uniform rate to all taxpayers in the county. The local property tax replacement credits shall be treated for all purposes as property tax levies. The county auditor shall determine the local property tax replacement credit percentage for a particular year based on the amount of tax revenue that will be used under this subdivision to provide local property tax replacement credits in that year. A county council may not adopt an ordinance determining that tax revenue shall be used under this subdivision to provide local property tax replacement credits at a uniform rate to all taxpayers in the county unless the county council has done the following: 
+
+(A) 
+Made available to the public the county council's best estimate of the amount of property tax replacement credits to be provided under this subdivision to homesteads, other residential property, commercial property, industrial property, and agricultural property. 
+
+(B) 
+Adopted a resolution or other statement acknowledging that some taxpayers in the county that do not pay the tax rate under this section will receive a property tax replacement credit that is funded with tax revenue from the tax rate under this section. 
+
+
+
+(2) 
+The tax revenue may be used to uniformly provide the homestead credit percentage in the county. The homestead credits shall be treated for all purposes as property tax levies. The homestead credits do not reduce the basis for determining any state homestead credit. The homestead credits shall be applied to the net property taxes due on the homestead after the application of all other assessed value deductions or property tax deductions and credits that apply to the amount owed under IC 6-1.1. The county auditor shall determine the homestead credit percentage for a particular year based on the amount of tax revenue that will be used under this subdivision to provide homestead credits in that year. 
+
+(3) 
+The tax revenue may be used to provide local property tax replacement credits at a uniform rate for all qualified residential property (as defined in IC 6-1.1-20.6-4 before January 1, 2009, 
+
+and as defined in section 1 of this chapter after December 31, 2008) in the county. The local property tax replacement credits shall be treated for all purposes as property tax levies. The county auditor shall determine the local property tax replacement credit percentage for a particular year based on the amount of tax revenue that will be used under this subdivision to provide local property tax replacement credits in that year. 
+
+(4) 
+This subdivision applies only to Lake County. The Lake County council may adopt an ordinance providing that the tax revenue from the tax rate under this section is used for any of the following: 
+
+(A) 
+To reduce all property tax levies imposed by the county by the granting of property tax replacement credits against those property tax levies. 
+
+(B) 
+To provide local property tax replacement credits in Lake County in the following manner: 
+
+(i) 
+The tax revenue under this section that is collected from taxpayers within a particular municipality in Lake County (as determined by the department based on the department's best estimate) shall be used only to provide a local property tax credit against property taxes imposed by that municipality. 
+
+(ii) 
+The tax revenue under this section that is collected from taxpayers within the unincorporated area of Lake County (as determined by the department) shall be used only to provide a local property tax credit against property taxes imposed by the county. The local property tax credit for the unincorporated area of Lake County shall be available only to those taxpayers within the unincorporated area of the county. 
+
+
+
+(C) 
+To provide property tax credits in the following manner: 
+
+(i) 
+Sixty percent (60%) of the tax revenue under this section shall be used as provided in clause (B). 
+
+(ii) 
+Forty percent (40%) of the tax revenue under this section shall be used to provide property tax replacement credits against property tax levies of the county and each township and municipality in the county. The percentage of the tax revenue distributed under this item that shall be used as credits against the county's levies or against a particular township's or municipality's levies is equal to the percentage determined by dividing the population of the county, township, or municipality by the sum of the total population of the county, each township in the county, and each municipality in the county. 
+
+
+
+
+
+
+
+
+The Lake County council shall determine whether the credits under clause (A), (B), or (C) shall be provided to homesteads, to all qualified residential property, or to all taxpayers. The department of local government finance, with the assistance of the budget agency, shall certify to the county auditor and the fiscal body of the county and each township and municipality in the county the amount of property tax credits under this subdivision. Except as provided in subsection (g), the tax revenue under this section that is used to provide credits under this subdivision shall be treated for all purposes as property tax levies. 
+The county council may adopt an ordinance changing the purposes for which tax revenue attributable to a tax rate under this section shall be used in the following year. 
+(g) 
+The tax rate under this section and the tax revenue attributable to the tax rate under this section shall not be considered for purposes of computing: 
+
+(1) 
+the maximum income tax rate that may be imposed in a county under section 2 of this chapter or any other provision of this chapter; 
+
+(2) 
+the maximum permissible property tax levy under IC 6-1.1-18.5-3; or 
+
+(3) 
+the credit under IC 6-1.1-20.6. 
+
+
+
+(h) 
+Tax revenue under this section shall be treated as a part of the receiving civil taxing unit's or school corporation's property tax levy for that year for purposes of fixing the budget of the civil taxing unit or school corporation and for determining the distribution of taxes that are distributed on the basis of property tax levies. To the extent the county auditor determines that there is income tax revenue remaining from the tax under this section after providing the property tax replacement credits, the excess shall be credited to a dedicated county account and may be used only for property tax replacement credits under this section in subsequent years. 
+
+(i) 
+The department of local government finance and the department of state revenue may take any actions necessary to carry out the purposes of this section. 
+
+(j) 
+A taxpayer that owns an industrial plant located in Jasper County is ineligible for a local property tax replacement credit under this section against the property taxes due on the industrial plant if the assessed value of the industrial plant as of March 1, 2006, exceeds twenty percent (20%) of the total assessed value of all taxable property in the county on that date. The general assembly finds that the provisions of this subsection are necessary because the industrial plant represents such a large percentage of Jasper County's assessed valuation. 
+
+
+As added by P.L.224-2007, SEC.68. Amended by P.L.146-2008, SEC.333; P.L.172-2011, SEC.75; P.L.137-2012, SEC.73; P.L.261-2013, SEC.11. 
+IC 6-3.5-1.1-27 Version a Jackson County; legalization and validation of additional rate 
+Note: This version of section effective until 1-1-2017. See also following repeal of this chapter, effective 1-1-2017. 
+Sec. 27. (a) This section applies only to an additional tax rate imposed in Jackson County under section 2.5 of this chapter. 
+(b) 
+This subsection applies to an additional tax rate imposed after June 30, 2011, and before July 1, 2013. Notwithstanding section 2.5 of this chapter (as in effect on January 1, 2013), the imposition, collection, and distribution of county adjusted gross income taxes attributable to the additional tax rate is legalized and validated. 
+
+(c) Any action described in subsection (b) of: 
+(1) 
+the department; 
+
+(2) 
+the budget agency; or 
+
+
+
+(3) 
+an officer or employee of Jackson County; is legalized and validated. 
+
+
+(d) The additional tax rate: 
+(1) authorized by the county council under section 2.5 of this chapter (as in effect on January 1, 2013); and 
+(2) legalized and validated by subsection (c); remains in effect for the calendar years specified in section 2.5(c) of this chapter without additional county council action. However, this subsection may not be construed to limit the ability of the county council to decrease the rate or rescind the tax in the manner provided under this chapter. As added by P.L.293-2013(ts), SEC.17. 
+
+IC 6-3.5-1.1-28 Version a Pulaski County; legalization and validation of additional rate 
+Note: This version of section effective until 1-1-2017. See also following repeal of this chapter, effective 1-1-2017. 
+Sec. 28. (a) This section applies only to an additional tax rate imposed in Pulaski County under section 3.5 of this chapter. 
+(b) 
+This subsection applies to an additional tax rate imposed after the eight (8) years authorized by section 3.5 of this chapter (as in effect on January 1, 2013) have elapsed and before July 1, 2013. Notwithstanding section 3.5 of this chapter (as in effect on January 1, 2013), the imposition, collection, and distribution of county adjusted gross income taxes attributable to the additional tax rate is legalized and validated. 
+
+(c) Any action described in subsection (b) of: 
+(1) 
+the department; 
+
+(2) 
+the budget agency; or 
+
+
+
+(3) 
+an officer or employee of Pulaski County; is legalized and validated. 
+
+(d) The additional tax rate: 
+(1) authorized by the county council under section 3.5 of this chapter (as in effect on January 1, 2013); and 
+
+(2) 
+legalized and validated by subsection (c); remains in effect for the calendar years specified in section 3.5(c) of this chapter without additional county council action. However, this 
+
+
+subsection may not be construed to limit the ability of the county council to decrease the rate or rescind the tax in the manner provided under this chapter. 
+As added by P.L.293-2013(ts), SEC.18. 
+
+IC 6-3.5-1.1-29 Version a Applicability of a tax rate in a township opting-in to a public transportation project 
+Note: This version of section effective until 1-1-2017. See also following repeal of this chapter, effective 1-1-2017. 
+Sec. 29. Notwithstanding any other law, if an additional tax rate imposed under section 24(s) of this chapter is required by IC 8-25-6-10, the additional tax rate applies only to the county taxpayers who reside in a township in which the voters approve a local public question held under IC 8-25-6. As added by P.L.153-2014, SEC.5. 
+
+IC 6-3.5-1.1 Version c 
+Chapter 1.1. Repealed 
+(Repealed by P.L.243-2015, SEC.1.) 
+Note: This repeal of chapter effective 1-1-2017. See also preceding version of this chapter, effective until 1-1-2017. 
+

@@ -1,0 +1,736 @@
+IC 5-30 
+ARTICLE 30. DESIGN-BUILD PUBLIC WORKS PROJECTS 
+IC 5-30-1 Chapter 1. Definitions 
+IC 5-30-1-1 Definitions; applicability 
+Sec. 1. The definitions in this chapter apply throughout this article. As added by P.L.74-2005, SEC.1. 
+
+IC 5-30-1-2 "Construction services" 
+Sec. 2. "Construction services" means services provided under a design-build contract that are not design services. As added by P.L.74-2005, SEC.1. 
+
+IC 5-30-1-3 "Design-build contract" 
+Sec. 3. "Design-build contract" means a contract between a public agency and a design-builder to furnish: 
+(1) 
+architectural, engineering, and related design services as required for a public project; and 
+
+(2) 
+labor, materials, and other construction services for the same public project. 
+
+
+As added by P.L.74-2005, SEC.1. 
+
+IC 5-30-1-4 "Design-builder" 
+Sec. 4. "Design-builder" means a person that furnishes the necessary design and construction services under a design-build contract, whether by itself or through contractual arrangements. As added by P.L.74-2005, SEC.1. 
+
+IC 5-30-1-5 
+"Design criteria developer" 
+
+Sec. 5. "Design criteria developer" means a person registered under IC 25-4 as an architect or IC 25-31 as a professional engineer who is responsible for preparing the design criteria package for the public agency for a design-build project. As added by P.L.74-2005, SEC.1. 
+
+IC 5-30-1-6 
+"Design criteria package" 
+
+Sec. 6. "Design criteria package" means a set of documents that provides sufficient information to permit an offeror to prepare a proposal in response to a public agency's request for proposals. 
+As added by P.L.74-2005, SEC.1. 
+
+IC 5-30-1-7 "Design services" 
+Sec. 7. "Design services" means services that are: 
+(1) 
+within the scope of practice specified by IC 25-4 for architecture or IC 25-31 for professional engineering; or 
+
+(2) 
+performed by a registered architect or professional engineer in connection with the architect's or engineer's professional employment or practice. 
+
+
+As added by P.L.74-2005, SEC.1. 
+
+IC 5-30-1-8 "Offeror" 
+Sec. 8. "Offeror" means a person who submits a proposal in response to a request for proposals. As added by P.L.74-2005, SEC.1. 
+
+IC 5-30-1-9 "Person" 
+Sec. 9. "Person" means an individual, a firm, a partnership, a limited liability company, a joint venture, an association, a corporation, or another legal entity. As added by P.L.74-2005, SEC.1. 
+
+IC 5-30-1-10 "Proposal" 
+Sec. 10. "Proposal" means an offer by a potential design-builder to enter into a design-build contract for a public project in response to a request for proposals. As added by P.L.74-2005, SEC.1. 
+
+IC 5-30-1-11 "Public agency" 
+Sec. 11. (a) "Public agency" means: 
+(1) 
+a state agency (as defined in IC 4-13-1-1); 
+
+(2) 
+a state educational institution; 
+
+(3) 
+a unit (as defined in IC 36-1-2-23); 
+
+(4) 
+a body corporate and politic created by state statute; 
+
+(5) 
+a school corporation (as defined in IC 20-26-2-4); 
+
+(6) 
+a conservancy district established for a purpose described in IC 14-33-1-1(a)(4) or IC 14-33-1-1(a)(5); 
+
+(7) 
+a fire protection district established under IC 36-8-11; 
+
+(8) 
+a department of aviation established under IC 8-22-2-1(a); or 
+
+(9) 
+an airport authority established under IC 8-22-3-1. 
+
+
+(b) The term does not include the Indiana department of transportation. 
+As added by P.L.74-2005, SEC.1. Amended by P.L.246-2005, SEC.58; P.L.2-2007, SEC.112; P.L.166-2011, SEC.1; P.L.7-2012, SEC.1; P.L.139-2013, SEC.1. 
+
+IC 5-30-1-12 "Public project" 
+Sec. 12. (a) "Public project" means the process of designing, constructing, reconstructing, altering, or renovating a publicbuilding, an airport facility, a sewer, a drain, or another structure or improvement that is paid for out of: 
+(1) 
+a public fund; or 
+
+(2) 
+a special assessment. 
+
+
+(b) The term includes either of the following: 
+(1) 
+A process described in subsection (a) relating to a building or structure leased by a public agency under a lease containing an option to purchase. 
+
+(2) 
+A public improvement to real property owned by a public agency. 
+
+
+(c) The term does not include the process of designing, constructing, altering, or repairing a public highway (as defined in IC 9-25-2-4). As added by P.L.74-2005, SEC.1. Amended by P.L.166-2011, SEC.2. 
+
+IC 5-30-1-13 "Team" 
+Sec. 13. "Team" means a single entity that is responsible for a public project using the design-build contracting method. The entity may include: 
+(1) 
+the design-builder; and 
+
+(2) 
+a person who: 
+
+(A) 
+subcontracts with the design-builder; 
+
+(B) 
+is a partner of the design-builder; 
+
+(C) 
+enters into a joint venture with the design-builder; and 
+
+(D) 
+performs work under a design-build contract. 
+
+
+
+
+As added by P.L.74-2005, SEC.1. 
+
+IC 5-30-2 Chapter 2. General Provisions 
+IC 5-30-2-1 Validity of design-build contract 
+Sec. 1. A design-build contract awarded as provided in this article is valid and enforceable. 
+As added by P.L.74-2005, SEC.1. Amended by P.L.166-2011, SEC.3. 
+
+IC 5-30-2-2 Repealed 
+(As added by P.L.74-2005, SEC.1. Repealed by P.L.166-2011, SEC.12.) 
+
+IC 5-30-3 Chapter 3. Design-Builder Qualifications 
+IC 5-30-3-1 Design-builder qualifications 
+Sec. 1. At the time design services or construction services are to be provided under a design-build contract, a design-builder must: 
+(1) 
+be; 
+
+(2) 
+employ persons who are; or 
+
+
+(3) have as a member of the team a person who is; licensed, registered, certified, or otherwise qualified to provide the design services and construction services required to complete the public project and do business in Indiana. 
+As added by P.L.74-2005, SEC.1. 
+
+IC 5-30-3-2 Subcontractor qualifications 
+Sec. 2. A design-builder may contract with the public agency to provide design services and construction services that the design-builder is not itself licensed, registered, or qualified to perform if the design-builder provides the services through subcontracts with persons who are licensed, registered, or qualified in accordance with this article. 
+As added by P.L.74-2005, SEC.1. 
+
+IC 5-30-3-3 No effect on liability 
+Sec. 3. This article does not limit or eliminate the responsibility or liability imposed by Indiana law on a person providing design services to the public agency or other third parties. 
+As added by P.L.74-2005, SEC.1. 
+
+IC 5-30-4 Chapter 4. Technical Review Committee 
+IC 5-30-4-1 Membership 
+Sec. 1. (a) Before entering into a design-build contract, a public agency must appoint a technical review committee of at least three 
+(3) 
+individuals. 
+
+(b) 
+The members of the technical review committee must include the following: 
+
+(1) 
+A representative of the public agency. 
+
+(2) 
+At least two (2) of the following, but not more than one (1) under each clause: 
+
+(A) 
+An architect registered under IC 25-4. 
+
+(B) 
+A professional engineer registered under IC 25-31. 
+
+(C) 
+A qualified contractor under IC 4-13.6 or an individual employed by the qualified contractor. 
+
+
+
+
+
+(c) 
+A member of the technical review committee who is an architect or a professional engineer may be: 
+
+(1) 
+an employee of the public agency; or 
+
+(2) 
+an outside consultant retained by the public agency for the specific purpose of evaluating proposals submitted under this article. 
+
+
+(d) The design criteria developer may serve as: 
+(1) a full member; or 
+
+(2) 
+a nonvoting adviser; of the committee. 
+
+
+As added by P.L.74-2005, SEC.1. Amended by P.L.166-2011, SEC.4. 
+
+IC 5-30-4-2 Conflict of interest 
+Sec. 2. (a) A member of the technical review committee may not: 
+(1) submit a proposal for; or 
+(2) 
+furnish design services or construction services under; the design-build contract. 
+
+(b) 
+The design-builder may not delegate or subcontract professional services or construction services under the design-build contract to a member of the technical review committee. 
+
+(c)
+ Each member of the technical review committee must certify for each request for proposals that there is not a conflict of interest between the member and the design-builder responding to the request for proposals. If a conflict of interest exists, the member must be replaced before the review of any proposal. 
+
+
+As added by P.L.74-2005, SEC.1. 
+IC 5-30-4-3 Duties and responsibilities 
+Sec. 3. (a) The technical review committee shall do the following: 
+(1) 
+Qualify potential design-builders as provided in IC 5-30-5. 
+
+(2) 
+Rate and score qualitative proposals as provided in IC 5-30-6 and IC 5-30-7. 
+
+
+(b) The technical review committee may interview persons submitting proposals and conduct other business necessary to fulfill the purposes of this article. However, a public agency may not require an offeror to attend more than three (3) interviews in person with the technical review committee for a design-build contract. As added by P.L.74-2005, SEC.1. Amended by P.L.166-2011, SEC.5. 
+
+IC 5-30-4-4 Open meetings 
+Sec. 4. (a) Except as otherwise provided in this section, meetings of a technical review committee must be open to the public and subject to IC 5-14-1.5. 
+(b) A meeting of a technical review committee convened for the purpose of interviewing persons submitting qualifications or proposals is not open to the public. 
+(c) If each member of a technical review committee for a public project is an employee of the public agency that is undertaking the public project, the technical review committee's meetings are not open to the public. As added by P.L.74-2005, SEC.1. Amended by P.L.166-2011, SEC.6. 
+
+IC 5-30-5 Chapter 5. Request for Qualifications 
+IC 5-30-5-1 Publication of notice 
+Sec. 1. (a) Except as provided in subsection (c), when design-build contracting is used for a public project, a public agency shall publish a notice of a request for qualifications under IC 5-3-1. The notice must allow at least fourteen (14) days for potential design-builders to respond to the request for qualifications. 
+(b) 
+Subsection (c) applies to a public project for which a public agency uses design-build contracting if: 
+
+(1) 
+the public agency is a state educational institution; or 
+
+(2) 
+the public agency is not a state educational institution and the preliminary estimated cost of the public project does not exceed five million dollars ($5,000,000). 
+
+
+
+(c) 
+A public agency that undertakes a public project to which this subsection applies may publish a notice of a combined request for qualifications and proposals under IC 5-3-1 that includes: 
+
+(1) 
+the information otherwise required by this chapter; and 
+
+(2) 
+a request for proposals as otherwise provided under 
+
+
+
+
+IC 5-30-6. The notice must allow at least thirty (30) days for potential design-builders to respond to the combined request for qualifications and proposals. As added by P.L.74-2005, SEC.1. Amended by P.L.166-2011, SEC.7. 
+
+IC 5-30-5-2 Notice contents 
+Sec. 2. A notice provided under section 1 of this chapter must provide the following information: 
+(1) 
+An overview of the project and selection process including the following: 
+
+(A) 
+A description of the project, including the: 
+
+(i) 
+size and function of the facility that is the subject of the project; 
+
+(ii) 
+approximate budget; and 
+
+
+(iii) anticipated schedule. 
+
+(B) 
+A description of the selection process, including: 
+
+(i) 
+the process for communications between the public agency and potential design-builders; 
+
+(ii) 
+the schedule for the selection process; 
+
+
+
+
+(iii) the technical review committee procedure; and 
+(iv) a description of submission requirements. 
+
+(2) 
+The general qualifications for prospective offerors, including: 
+
+(A) 
+appropriate experience with similar projects; 
+
+(B) 
+team experience with design-build; 
+
+(C) 
+organizational resources and depth; 
+
+(D) 
+licensing requirements; 
+
+(E) 
+financial strength and bonding capacity; 
+
+(F) 
+an offeror's history of contracting with or hiring minority business enterprises and women's business enterprises; 
+
+(G) 
+litigation and disputes history; and 
+
+(H) 
+experience in dealing with bonding authorities. 
+
+
+
+(3) 
+The project specification qualifications for prospective offerors, including: 
+
+(A) 
+team experience with the facility or building type that is the subject of the project; 
+
+(B) 
+team performance record, including quality, schedule, and cost of each project; 
+
+(C) 
+proposed team composition, including the team's past experience in working together; 
+
+(D) 
+current capacity to manage the project; 
+
+(E) 
+proposed key project personnel; and 
+
+(F) 
+client references. 
+
+
+
+(4) 
+A description of the qualifications statement evaluation process, which must include: 
+
+(A) 
+an established rating system that complies with sections 4 and 5 of this chapter; and 
+
+(B) 
+a briefing session or a formal question and answer process conducted with a potential offeror beforesubmission of a proposal in response to a request for proposals. 
+
+
+
+
+As added by P.L.74-2005, SEC.1. 
+
+IC 5-30-5-3 Verified statement of qualifications 
+Sec. 3. (a) A potential design-builder responding to the request for qualifications under section 2 of this chapter must submit a verified statement of qualifications setting forth the qualifications of the potential design-builder and team members, if applicable, and provide the other information required by the request for qualifications. 
+(b) The verified statement of qualifications required under this section must include the following: 
+(1) 
+A listing of all prime contractors and architectural and engineering firms that participate financially as part of the team. 
+
+(2) 
+A statement that: 
+
+(A) 
+the design-builder or the team members have completed or demonstrated the experience, competency, capability, and capacity to complete projects of similar size, scope, or complexity; and 
+
+(B) 
+proposed key personnel have sufficient experience and training to competently manage and complete the design and construction of the project. 
+
+
+
+(3) 
+A statement that the design-builder or team members have 
+
+the licenses, registrations, and credentials required to design and construct the project, including information on the revocation or suspension of a license, credential, or registration. 
+
+(4) 
+A statement that the design-builder has the capacity to obtain all required payment and performance bonding, liability insurance, and errors and omissions insurance. 
+
+(5) 
+The experience modifier rate, the United States Occupational Safety and Health Administration total recordable case incident rate (TCIR) and days away, restricted or transferred case incident rate (DART) for the design-builder and each design build team, and the average United States Occupational Safety and Health Administration TCIR and DART rates for the industrial classification of the design-builder and each design-build team. 
+
+(6) 
+A statement that the design-builder or the employees of the team performing constructionservices, including the employees of all subcontractors, have completed or are enrolled in an apprenticeship program certified by the United States Department of Labor Bureau of Apprenticeship and Training. 
+
+(7) 
+Information regarding any prior serious, repeat, willful, or criminal violation of the federal Occupational Safety and Health Act of 1970 and any equivalent violation under a state plan authorized under Section 18 of the federal act that has become a final order. 
+
+(8) 
+Information concerning the debarment, disqualification, or removal of the design-builder or a team member from a federal, state, or local government public works project. 
+
+(9) 
+Information concerning the bankruptcy or receivership of the design-builder or a team member. 
+
+
+As added by P.L.74-2005, SEC.1. 
+
+IC 5-30-5-4 Rating system 
+Sec. 4. The technical review committee shall rate the potential design-builders responding to the request for qualifications based on the rating system described under section 2(4) of this chapter. The rating system shall include consideration of any of the following: 
+(1) 
+The design-builder's experience. 
+
+(2) 
+The design-builder's financial and bonding capacity. 
+
+(3) 
+The design-builder's managerial resources and management plan. 
+
+(4) 
+The design-builder's safety record. 
+
+(5) 
+The design-builder's past performance and capacity to perform. 
+
+(6) 
+The design-builder's ability to complete the work in a timely and satisfactory manner. 
+
+(7) 
+Other selection criteria set forth or verified in the request for qualifications. 
+
+
+As added by P.L.74-2005, SEC.1. 
+
+IC 5-30-5-5 Cost related or price related evaluation factors prohibited 
+Sec. 5. The technical review committee may not consider cost related or price related evaluation factors when rating the potential design-builders. As added by P.L.74-2005, SEC.1. 
+
+IC 5-30-5-6 Selection of potential design-builders 
+Sec. 6. (a) The technical review committee shall select at least three (3) potential design-builders considered to be the most highly qualified to perform the required services based on the rankings of the potential design-builders. The technical review committee shall report the selection of qualified design-builders to the public agency. 
+(b) Notwithstanding subsection (a), if only two (2) potential design-builders respond to the request for qualifications, the technical review committee may report the two (2) potential design-builders to the public agency if the technical review committee finds that both potential design-builders are qualified to perform the required services. 
+(c) If: 
+(1) 
+only one (1) potential design-builder responds to the request for qualifications; or 
+
+(2) 
+only one (1) of the potential design-builders responding to the request for qualifications is qualified to perform the required services; 
+
+
+the public agency may not use the design-build contracting method authorized under this chapter, unless the governing body of the public agency adopts a resolution expressly authorizing the public agency to send the one (1) potential designer-builder referred to in subdivision (1) or (2) a request for proposal under IC 5-30-6. The governing body must adopt the resolution at a public meeting for which public notice has been provided. 
+As added by P.L.74-2005, SEC.1. 
+
+IC 5-30-6 Chapter 6. Request for Proposals 
+IC 5-30-6-1 Request for proposals; design criteria package 
+Sec. 1. (a) If a separate notice of request for qualifications is issued under IC 5-30-5-1(a), the public agency shall issue a request for proposals to the potential design-builders selected under IC 5-30-5-6. 
+(b) 
+Each request for proposals must contain a design criteria package. 
+
+(c) 
+If a public project is a controlled project (as defined in IC 6-1.1-20-1.1) for which a referendum is to be held, a request for proposals may not be issued until after the public agency proposing the controlled project has completed the procedures described in IC 6-1.1-20-3.6. 
+
+
+As added by P.L.74-2005, SEC.1. Amended by P.L.166-2011, SEC.8. 
+
+IC 5-30-6-2 Design criteria developer; conflict of interest 
+Sec. 2. (a) The design criteria developer shall prepare the design criteria package. 
+(b) 
+The design criteria developer may not submit a proposal or furnish design or construction services under the contract. 
+
+(c) 
+The design-builder may not delegate or subcontract design services or construction services under the design-build contract to the design criteria developer. 
+
+
+As added by P.L.74-2005, SEC.1. 
+
+IC 5-30-6-3 Design criteria package requirements 
+Sec. 3. (a) The public agency shall determine the scope and level of detail required for the design criteria package. 
+(b) The design criteria package must specify the design criteria necessary to describe the public project, which may include, as appropriate, the following: 
+(1) 
+A legal description and survey of the site. 
+
+(2) 
+Interior space requirements. 
+
+(3) 
+Special material requirements. 
+
+(4) 
+Material quality standards. 
+
+(5) 
+Preliminary design criteria for the project. 
+
+(6) 
+Special equipment requirements. 
+
+(7) 
+Cost or budget estimates. 
+
+(8) 
+Quality assurance and quality control requirements. 
+
+(9) 
+Site development requirements. 
+
+(10)
+ Compliance with applicable codes and ordinances. 
+
+(11)
+ Permits and connections to utilities. 
+
+(12)
+ Requirements for storm water and roads. 
+
+(13)
+ Parking requirements. 
+
+(14) 
+Soil borings and geotechnical information or performance specifications. 
+
+(15)
+ Life cycle costing and energy consumption requirements. 
+
+(16)
+ Performance specifications, including warranties. 
+
+(17)
+ Project schedule. 
+
+(18)
+ Any other applicable requirements. 
+
+
+As added by P.L.74-2005, SEC.1. 
+
+IC 5-30-6-4 Request for proposals; additional requirements 
+Sec. 4. In addition to the design criteria package, a request for proposals must include the following: 
+(1) 
+Instructions. 
+
+(2) 
+Proposal forms and schedules. 
+
+(3) 
+General and special conditions. 
+
+(4) 
+The basis for evaluation of proposals, including a description of the selection criteria with the weight assigned to each criteria. 
+
+(5) 
+Any other instructions, documents, or information relevant to the public project that the public agency considers relevant. 
+
+
+As added by P.L.74-2005, SEC.1. Amended by P.L.252-2015, SEC.16. 
+
+IC 5-30-6-5 Qualitative proposal and price proposal required 
+Sec. 5. The request for proposals must include the requirement that a proposal be submitted in the following two (2) packages: 
+(1) 
+A qualitative proposal. 
+
+(2) 
+A price proposal. 
+
+
+As added by P.L.74-2005, SEC.1. 
+
+IC 5-30-6-5.5 Deliverables for a qualitative proposal 
+Sec. 5.5. The deliverables required for a qualitative proposal in a request for proposals may not exceed the following, as considered appropriate for the type of project by the technical review committee for the public project: 
+(1) 
+All information requested in the design criteria package. 
+
+(2) 
+A conceptual site plan. 
+
+(3) 
+Conceptual building, systems, and equipment plans. 
+
+(4) 
+Conceptual elevations. 
+
+(5) 
+A project description narrative. 
+
+(6) 
+A project schedule. 
+
+
+As added by P.L.166-2011, SEC.9. 
+IC 5-30-6-6 Stipend to unsuccessful bidder 
+Sec. 6. The public agency may provide a stipend to a non-successful bidder to encourage competition under this article. As added by P.L.74-2005, SEC.1. 
+
+IC 5-30-7 Chapter 7. Selection and Award 
+IC 5-30-7-1 Proposal requirements 
+Sec. 1. A proposal submitted in response to a request for proposals described in IC 5-30-6 must satisfy the following: 
+(1) 
+The qualitative proposal and the price proposal must be submitted simultaneously in separately sealed and identified packages. The price proposal must remain sealed until opened in public under section 5 of this chapter. 
+
+(2) 
+A proposal must identify each person with whom the offeror proposes to enter into subcontracts for primary design services and primary construction services, including any subcontractors, under the design-build contract. The public agency may determine requirements under this section. 
+
+(3) 
+The price proposal must: 
+
+(A) 
+contain one (1) lump sum cost of all design, construction engineering, inspection, and construction costs of the proposed project; or 
+
+(B) 
+establish a maximum cost of the design-build contract that will not be exceeded if the proposal is accepted without change. 
+
+
+
+(4) 
+The qualitative proposal must include all the deliverables required for the qualitative proposal in the request for proposals. 
+
+
+As added by P.L.74-2005, SEC.1. Amended by P.L.166-2011, SEC.10. 
+
+IC 5-30-7-2 Submission of proposals to technical review committee 
+Sec. 2. (a) The public agency shall submit the qualitative proposals to the technical review committee. 
+(b) 
+The public agency may require clarifications from an offeror to ensure conformance of proposals with the design criteria and administrative requirements. 
+
+(c)
+ The technical review committee may not consider a proposal until the design criteria developer provides its professional opinion that the proposal conforms with the design criteria. 
+
+
+As added by P.L.74-2005, SEC.1. 
+
+IC 5-30-7-3 Scoring of proposals 
+Sec. 3. (a) The technical review committee shall review the qualitative proposals and establish a score for each qualitative proposal based on the factors, weighting, and process identified in the request for proposals. 
+(b) The technical review committee shall give a written comprehensive score for each qualitative proposal. 
+(c) A written comprehensive score for a qualitative proposal must include the following: 
+(1) 
+An explanation of the scoring methodology adopted by the technical review committee that is sufficiently detailed to enable an independent observer to calculate the composite score for the qualitative proposal from the scores described in subdivision (2). 
+
+(2) 
+For each factor used in calculating the composite score of the qualitative proposal, the following: 
+
+(A) 
+The unweighted score awarded by each member of the technical review committee for the factor. 
+
+(B) 
+The unweighted score of the technical review committee as a whole for the factor, calculated from the individual scores described in clause (A). 
+
+(C) 
+The weight for the factor, if all factors are not given equal weight in calculating the composite score for the qualitative proposal. 
+
+(D) 
+The weighted score for the factor, if a weight specified under clause (C) is used to adjust the unweighted score determined under clause (B) for the factor. 
+
+
+
+(3) 
+The composite score for the qualitative proposal, calculated from the scores described in subdivision (2) in accordance with the scoring methodology adopted by the technical review committee. 
+
+
+As added by P.L.74-2005, SEC.1. Amended by P.L.166-2011, SEC.11. 
+
+IC 5-30-7-4 Opening of price proposals; notice 
+Sec. 4. The public agency shall notify all offerors of the date, time, and location of the public opening of the sealed price proposals at least seven (7) days before the opening date. As added by P.L.74-2005, SEC.1. 
+
+IC 5-30-7-5 Adjusted price 
+Sec. 5. The public agency shall publicly open the sealed price proposals and divide each offeror's price by the written composite score that the technical review committee has given to each qualitative proposal to obtain an adjusted price. As added by P.L.74-2005, SEC.1. 
+
+IC 5-30-7-6 Basis for accepting proposal 
+Sec. 6. The public agency shall accept the proposal that provides the public agency with the lowest adjusted price providing the best value to the taxpayer. The public agency is not required to accept the lowest price proposal. 
+As added by P.L.74-2005, SEC.1. 
+
+IC 5-30-7-7 Rejection of proposals 
+Sec. 7. The public agency may reject any and all proposals, except for the purpose of evading the provisions and policies of this article. A public agency must make a rejection of proposals under this section in a written document that states the reasons for rejecting proposals. As added by P.L.74-2005, SEC.1. 
+
+IC 5-30-7-8 Negotiation of contract terms 
+Sec. 8. (a) The public agency may negotiate any contract term with the offeror selected under section 6 of this chapter, except for those terms identified in the request for proposals as nonnegotiable. 
+(b) If the public agency is unable to negotiate a contract with its first selection, the public agency may: 
+(1) terminate negotiations with that offeror; and 
+(2) negotiate with the next lowest adjusted price offeror. A public agency shall continue in accordance with this procedure until a contract agreement is reached or the selection process is terminated. As added by P.L.74-2005, SEC.1. 
+
+IC 5-30-7-9 Ownership of drawings, specifications, and information 
+Sec. 9. (a) Unless and until a proposal is accepted, the drawings, specifications, and other information in the proposal are the property of the offeror. 
+(b) After a proposal is accepted, ownership of the drawings, specifications, and information in the drawings and specifications shall be determined under Indiana law and the terms of the design-build contract. As added by P.L.74-2005, SEC.1. 
+
+IC 5-30-8 Chapter 8. Miscellaneous Provisions 
+IC 5-30-8-0.1 Application of certain amendments to chapter 
+Sec. 0.1. The amendments made to section 4 of this chapter by P.L.133-2007 apply only to public works contracts entered into after June 30, 2007. 
+As added by P.L.220-2011, SEC.115. 
+
+IC 5-30-8-1 Changes in public project; validity of design-build contract 
+Sec. 1. A design-build contract may be conditional upon subsequent refinements in scope and price and may permit the public agency to make changes in the scope of the project without invalidating the design-build contract. 
+As added by P.L.74-2005, SEC.1. 
+
+IC 5-30-8-2 Replacement of subcontractor for primary design services and construction services 
+Sec. 2. (a) A person identified under IC 5-30-7-1(2) as a person with whom the design-builder proposes to enter into subcontracts for primary design services and primary construction services under the design-build contract may not be replaced without the approval of the public agency and a written determination by the public agency that a legitimate reason exists for the replacement. 
+(b) If a design-builder violates subsection (a), the public agency may cancel the award of or may terminate a design-build contract. 
+As added by P.L.74-2005, SEC.1. 
+
+IC 5-30-8-3 Adjustment of maximum cost by agreement 
+Sec. 3. After award under this article, the maximum cost established in the successful proposal may be adjusted by negotiated agreement between the public agency and the design-builder to reflect modifications in the proposed design-build project. 
+As added by P.L.74-2005, SEC.1. 
+IC 5-30-8-4 Performance and payment bonds required 
+Sec. 4. (a) The public agency: 
+(1) 
+shall require the design-builder to furnish performance and payment bonds for the project if the estimated cost of the project is more than two hundred thousand dollars ($200,000); and 
+
+(2) 
+may require the design-builder to furnish performance and payment bonds for the project if the estimated cost of the 
+
+
+project is not more than two hundred thousand dollars ($200,000). 
+(b) 
+A performance or payment bond is not required for, and does not provide coverage for, the part of a design-build contract that includes design services only. 
+
+(c) 
+Subsection (b) does not impair the ability of the public agency to seek recovery under the contract from the design-builder for errors, omissions, or defects in the design services. 
+
+
+As added by P.L.74-2005, SEC.1. Amended by P.L.133-2007, SEC.8. 
+
+IC 5-30-8-5 Certain acts by public agency prohibited 
+Sec. 5. A public agency may not, with respect to a public project covered by this article, require an offeror to: 
+(1) 
+make application to; 
+
+(2) 
+furnish financial data to; or 
+
+(3) 
+obtain any of the surety bonds, or surety bond components of wrap-up insurance, that are specified in connection with a design-build contract or specified by any law from; 
+
+
+any particular insurance or surety company, agent, or broker. 
+As added by P.L.74-2005, SEC.1. 
+
+IC 5-30-8-6 Repealed 
+(As added by P.L.74-2005, SEC.1. Amended by P.L.18-2011, SEC.3; P.L.6-2012, SEC.39. Repealed by P.L.252-2015, SEC.17.) 
+
+IC 5-30-8-7 Repealed 
+(As added by P.L.252-2015, SEC.18. Repealed by P.L.250-2015, SEC.1; P.L.122-2016, SEC.2.) 
+
+

@@ -1,0 +1,52 @@
+ARTICLE 21. PUBLIC EMPLOYEES' RETIREMENT FUND SEPARATE EMPLOYER ACCOUNTS PROCEDURE 
+Rule 1. Definitions; Procedure 
+35 IAC 21-1-1 Definitions 
+Authority: IC 5-10.5-4-2 
+Affected: IC 5-10.2-2-3; IC 5-10.2-4-2; IC 5-10.3-6-4; IC 5-10.3-12-24 
+
+Sec. 1. (a) Definitions in this section apply throughout this rule. 
+(b) 
+"PERF hybrid plan" means the qualified governmental pension plan covered under IC 5-10.2 and IC 5-10.3 except the term excludes the ASA only plan as described in IC 5-10.3-12. 
+
+(c) 
+"Defined benefit pension" means the pension provided by employer contributions as described [sic, in] IC 5-10.2-4-2. 
+
+(d) 
+"Annuity savings account" (ASA) means the member's contributions and earnings as described in IC 5-10.2-2-3. 
+
+
+
+(e) 
+"Employer reserve account" means a ledger account that is not employer specific and consists of the accumulated employer contributions, plus earnings, less transfers made to the benefits in force reserve of the actuarial pension cost for retirement, disability, or other benefits from members who are in pay status. 
+
+(f) 
+"Employer specific contribution accounts" means contribution accounts that are maintained in ERM. 
+
+(g) 
+"ERM" has the meaning as defined in 35 IAC 1.2-2-1(10). 
+
+
+
+(h) 
+"Benefits in force reserve account" means a ledger account that is not employer specific and represents the actuarially determined present value of future benefits for all members and beneficiaries who are currently in pay status. (Board of Trustees of the Indiana Public Retirement System; 35 IAC 21-1-1; adopted Dec 13, 2013: 20131225-IR-035130565ONA) 
+
+
+
+35 IAC 21-1-2 Separate employer accounts procedure 
+Authority: IC 5-10.5-4-2 
+Affected: IC 5-10.2-2-6; IC 5-10.2-2-11; IC 5-10.3-6-4; IC 5-10.3-12-24 
+
+Sec. 2. (a) There are two (2) components to the PERF hybrid plan: 
+(1) 
+The first component is the "defined benefit pension", which is funded entirely by employer contributions. The employer contribution rate is set by the INPRS board of trustees and based on the results of an annual actuarial valuation. 
+
+(2) 
+The second component is the annuity savings account (ASA) that is an accumulated savings balance funded by member contributions. Separate accounts are maintained for each member. 
+
+
+(b) For PERF,INPRSmaintainstwo(2)primarygeneralledger accounts,an employer reserveaccountandabenefitsin force reserve account for the defined benefit pension. When a member commences receipt of the defined benefit pension, the present value of the benefit is computed by INPRS and that amount is deducted from the employer reserve account and transferred to the benefits in force reserve account. These assets are available to pay the benefits of any PERF hybrid plan member. Therefore, the employer reserve account balance represents the accumulated reserve for members who have not yet commenced their defined benefit pension (i.e., active and terminated vested members). (Board of Trustees of the Indiana Public Retirement System; 35 IAC 21-1-2; adopted Dec 13, 2013: 20131225-IR-035130565ONA) 
+* 
+Indiana Administrative Code Page 1 
+
+
+

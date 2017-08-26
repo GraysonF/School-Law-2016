@@ -1,0 +1,266 @@
+IC 5-16-13 
+Chapter 13. Requirements for Contractors on Public Works Projects 
+IC 5-16-13-1 Application of chapter; construction with other statutes; inconsistent provisions void 
+Sec. 1. (a) This chapter applies only to a public works contract awarded after June 30, 2015. 
+(b) The requirements described in this chapter are in addition to requirements for contractors stated in the applicable public works statute. The provisions of an applicable public works statute shall be construed consistently with this chapter, but to the extent an applicable public works statute is inconsistent with this chapter, the provisions of this chapter govern. 
+(c) A provision of an invitation for bids, request for proposals, or a public works contract inconsistent with this chapter is void. As added by P.L.252-2015, SEC.12. 
+
+IC 5-16-13-2 
+"Applicable public works statute" 
+
+Sec. 2. (a) Except as provided in subsection (b), as used in this chapter, "applicable public works statute" refers to whichever of the following statutes is applicable to public works projects of the public agency: 
+(1) 
+IC 4-13.6. 
+
+(2) 
+This article. 
+
+(3) 
+IC 36-1-12. 
+
+(4) 
+Any other statute applicable to the public works projects of the public agency. 
+
+
+(b) This definition does not include the following statutes: 
+(1) 
+IC 5-23-4 (build, operate, transfer, and public-private agreements). 
+
+(2) 
+IC 5-30 (design-build). 
+
+(3) 
+IC 5-32 (employment of construction manager as constructor). 
+
+
+As added by P.L.252-2015, SEC.12. 
+IC 5-16-13-3 "Contractor" 
+Sec. 3. As used in this chapter, "contractor" refers generally to a contractor in any contractor tier. As added by P.L.252-2015, SEC.12. 
+
+IC 5-16-13-4 "Contractor tier" 
+Sec. 4. As used in this chapter, "contractor tier" refers collectively to the following classes of contractors on a public works project: 
+(1) 
+"Tier 1 contractor" includes each person that has a contract with the public agency to perform some part of the work on, supply some of the materials for, or supply a service for, a public works project. A person included in this tier is also known as a "prime contractor" or a "general contractor". 
+
+(2) 
+"Tier 2 contractor" includes each person that has a contract with a tier 1 contractor to perform some part of the work on, supply some of the materials for, or supply a service for, a public works project. A person included in this tier is also known as a "subcontractor". 
+
+(3) 
+"Tier 3 contractor" includes each person that has a contract with a tier 2 contractor to perform some part of the work on, supply some of the materials for, or supply a service for, a public works project. A person included in this tier is also known as a "sub-subcontractor". 
+
+(4) 
+"Lower tier contractor" includes each person that has a contract with a tier 3 contractor or lower tier contractor to perform some part of the work on, supply some of the materials for, or supply a service for, a public works project. A person included in this tier is also known as a "lower tier subcontractor". 
+
+
+As added by P.L.252-2015, SEC.12. 
+
+IC 5-16-13-5 "Public agency" 
+Sec. 5. As used in this chapter, "public agency" has the meaning set forth in IC 5-30-1-11. 
+As added by P.L.252-2015, SEC.12. 
+
+IC 5-16-13-6 
+"Public works project" 
+
+Sec. 6. As used in this chapter, "public works project" refers to a construction project governed by an applicable statute. 
+As added by P.L.252-2015, SEC.12. 
+
+IC 5-16-13-7 Provisions stated or incorporated into public works contracts 
+Sec. 7. The substance of the provisions of this chapter must be stated or incorporated by reference in each public works contract. 
+As added by P.L.252-2015, SEC.12. 
+
+IC 5-16-13-8 Contractor tier structure required for public works projects 
+Sec. 8. A public works project may not be structured other than in the contractor tier structure. 
+As added by P.L.252-2015, SEC.12. 
+IC 5-16-13-9 Tier 1 contractor required work, materials, or services contribution to public works contract 
+
+Sec. 9. Each tier 1 contractor must contribute in: 
+(1) 
+work performed by the tier 1 contractor's employees; 
+
+(2) 
+materials supplied directly by the tier 1 contractor; 
+
+(3) 
+services supplied directly by the tier 1 contractor's employees; or 
+
+
+(4) any combination of subdivisions (1) through (3); at least fifteen percent (15%) of the tier 1 contractor's total contract price as determined at the time the contract is awarded. 
+As added by P.L.252-2015, SEC.12. 
+
+IC 5-16-13-10 Contractor required liability insurance and qualification 
+Sec. 10. (a) This section applies to each contractor in any contractor tier of a public works project. 
+(b) 
+A contractor must maintain general liability insurance in at least the following amounts: 
+
+(1) 
+For each occurrence limit, one million dollars ($1,000,000). 
+
+(2) 
+For the general aggregate limit, two million dollars ($2,000,000). 
+
+
+
+(c) 
+This subsection applies to a public works contract awarded after June 30, 2016. A contractor must be qualified under either of the following before doing any work on a public works project: 
+
+(1) 
+IC 4-13.6-4. 
+
+(2) 
+IC 8-23-10. 
+
+
+
+
+As added by P.L.252-2015, SEC.12. Amended by P.L.213-2015, SEC.66. 
+
+IC 5-16-13-11 Contractor compliance with certain statutes; additional requirements for contractors 
+Sec. 11. Except as provided in this section, the following apply to each contractor in any contractor tier of a public works project: 
+(1) 
+IC 22-5-1.7. A contractor shall submit to the public agency letting the contract for a public works project, before an individual who is required to be verified under IC 22-5-1.7 begins work on the public works project, the E-Verify case verification number for the individual. An individual who is required to be verified under IC 22-5-1.7 whose final case result is final nonconfirmation may not be employed on the public works project. 
+
+(2) 
+A contractor may not pay cash to any individual employed by the contractor for work done by the individual on the public works project. 
+
+(3) 
+A contractor must be in compliance with the federal Fair Labor Standards Act of 1938, as amended (29 U.S.C. 201-209) and IC 22-2-2-1 through IC 22-2-2-8. 
+
+(4) 
+A contractor must be in compliance with IC 22-3-5-1 and IC 22-3-7-34. 
+
+(5) 
+A contractor must be in compliance with IC 22-4-1 through IC 22-4-39.5. 
+
+(6) 
+A contractor must be in compliance with IC 4-13-18-1 through IC 4-13-18-7. 
+
+(7) 
+A contractor must comply with section 12 of this chapter, if applicable. 
+
+
+As added by P.L.252-2015, SEC.12. Amended by P.L.213-2015, SEC.67. 
+IC 5-16-13-12 Training provided by contractor; journeyman training; requirement for certain contractors to participate in an apprenticeship or training program 
+Sec. 12. (a) This section applies after June 30, 2016, only to a contractor that employs ten (10) or more employees. 
+(b) 
+A contractor must provide access to a training program applicable to the tasks to be performed in the normal course of the employee's employment with the contractor. 
+
+(c) 
+A contractor may comply with this section through any of the following: 
+
+(1) 
+An apprenticeship program. 
+
+(2) 
+A program offered by Ivy Tech Community College of Indiana. 
+
+(3) 
+A program offered by Vincennes University. 
+
+(4) 
+A program established by or for the contractor. 
+
+(5) 
+A program offered by an entity sponsored by the United States Department of Labor, Bureau of Apprenticeship and Training. 
+
+(6) 
+A program that results in the award of an industry recognized portable certification. 
+
+(7) 
+A program approved by the United States Department of Transportation, Federal Highway Administration. 
+
+(8) 
+A program approved by the Indiana department of transportation. 
+
+
+
+(d) 
+This subsection applies after June 30, 2016, to a tier 1 or tier 2 contractor that employs fifty (50) or more journeymen. The contractor shall participate in an apprenticeship or training program that meets the standards established by or has been approved by any of the following: 
+
+(1) 
+The United States Department of Labor, Bureau of Apprenticeship and Training. 
+
+(2) 
+The Indiana department of labor. 
+
+(3) 
+The United States Department of Transportation, Federal Highway Administration. 
+
+(4) 
+The Indiana department of transportation. 
+
+
+
+
+As added by P.L.252-2015, SEC.12. Amended by P.L.213-2015, 
+SEC.68. 
+
+IC 5-16-13-13 Records retention and confidentiality 
+Sec. 13. (a) This section applies to a public works contract awarded after June 30, 2016. The payroll and related records of a contractor in any contractor tier must be: 
+(1) 
+preserved by the contractor for a period of three (3) years after completion of the project work; and 
+
+(2) 
+open to inspection by the department of workforce development. 
+
+
+(b) The department of workforce development shall maintain the confidentiality of all records inspected under this section in accordance with the confidentiality provisions of IC 22-4-19-6. 
+As added by P.L.252-2015, SEC.12. 
+
+IC 5-16-13-14 Investigation of suspected worker misclassification 
+Sec. 14. (a) This section applies to a public works contract awarded after June 30, 2016. 
+(b) 
+As used in this section, "department" refers to the department of workforce development established under IC 22-4.1-2-1. 
+
+(c) 
+A public agency that is the owner of a public works project and suspects a misclassification of one (1) or more workers by a contractor in any contractor tier working on the public agency's public works project may request in writing that the department investigate the suspected worker misclassification. The public agency shall provide to the department any information or records that the public agency has concerning the misclassification. 
+
+(d) 
+The department may investigate a request described in subsection (c). If the department finds information or records that support a finding that worker misclassification has occurred, the department may refer the matter to the appropriate agency or official for further action. 
+
+
+As added by P.L.252-2015, SEC.12. 
+
+IC 5-16-13-15 Violations; finding contractor not responsible; use of finding by another public agency 
+Sec. 15. (a) This section applies to a contractor in any contractor tier of a public works project. 
+(b) 
+A public agency that reasonably suspects a contractor has violated a provision of this chapter shall do one (1) of the following: 
+
+(1) 
+If the suspected violation concerns or is related to any of the following provisions, the public agency shall refer the matter to the appropriate agency as follows: 
+
+(A) 
+For a suspected violation of section 11(1) of this chapter (E-Verify), the Indiana department of labor. 
+
+(B) 
+For a suspected violation of section 11(3) of this chapter (the federal FLSA or state minimum wage law), the Indiana department of labor. 
+
+(C) 
+For a suspected violation of section 11(4) of this chapter (worker's compensation or occupational diseases), the worker's compensation board of Indiana. 
+
+(D) 
+For a suspected violation of section 11(5) of this chapter (unemployment insurance), the department of workforce development. 
+
+
+
+(2) 
+If the suspected violation concerns a provision of this chapter other than a provision listed in subdivision (1), the public agency shall require the contractor to remedy the violation not later than thirty (30) days after the public agency notifies the contractor of the violation. The notification to the contractor must be signed by the chief executive officer of the public agency and sent by a method that enables the public agency to verify receipt of the notice by the contractor. During the thirty (30) day period, the contractor may continue to work on the public works project. If the contractor fails to remedy the violation within the thirty (30) day period, the public agency shall find the contractor not responsible and determine the length of time the contractor is considered not responsible by the public agency. 
+
+
+
+(c) 
+In making the determination of the length of time a contractor is not responsible under subsection (b)(2), the public agency shall consider the severity of the violation. The period during which a contractor is considered not responsible: 
+
+(1) 
+may not exceed forty-eight (48) months; and 
+
+(2) 
+begins on the date of substantial completion of the public works project. 
+
+
+
+(d) 
+A finding by a public agency under subsection (b)(2) that a contractor is not responsible may not be used by another public agency in making a determination as to whether the contractor is responsible for purposes of that public agency's award of a public works contract to that contractor. 
+
+
+As added by P.L.252-2015, SEC.12. 
+

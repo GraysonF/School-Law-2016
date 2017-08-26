@@ -1,0 +1,546 @@
+ARTICLE 33. INDOOR AIR QUALITY 
+Rule 1. Definitions 
+410 IAC 33-1-1 Applicability 
+Authority: IC 16-19-3-5; IC 16-41-37.5 
+Affected: IC 16-41-37.5 
+
+Sec. 1. The definitions in this rule apply throughout this article. (Indiana State Department of Health; 410 IAC 33-1-1; filed Apr 13, 2011, 11:18 a.m.: 20110511-IR-410090682FRA) 
+
+410 IAC 33-1-2 "Breathing zone" defined 
+Authority: IC 16-19-3-5; IC 16-41-37.5 
+Affected: IC 16-41-37.5 
+
+Sec. 2. "Breathing zone" means the area two and one-half (2.5) feet to six (6) feet above the floor. (Indiana State Department of Health; 410 IAC 33-1-2; filed Apr 13, 2011, 11:18 a.m.: 20110511-IR-410090682FRA) 
+
+410 IAC 33-1-3 "Complaint" defined 
+Authority: IC 16-19-3-5; IC 16-41-37.5 
+Affected: IC 16-41-37.5-2 
+
+Sec. 3. "Complaint" has the meaning set forth in IC 16-41-37.5-2(c). (Indiana State Department of Health; 410 IAC 33-1-3; filed Apr 13, 2011, 11:18 a.m.: 20110511-IR-410090682FRA) 
+
+410 IAC 33-1-4 "HVAC" defined 
+Authority: IC 16-19-3-5; IC 16-41-37.5 
+Affected: IC 16-41-37.5 
+
+Sec. 4. "HVAC" means heating, ventilating, and air conditioning. (Indiana State Department of Health; 410 IAC 33-1-4; filed Apr 13, 2011, 11:18 a.m.: 20110511-IR-410090682FRA) 
+
+410 IAC 33-1-5 "IAQ" defined 
+Authority: IC 16-19-3-5; IC 16-41-37.5 
+Affected: IC 16-41-37.5 
+
+Sec. 5. "IAQ" means indoor air quality. (Indiana State Department of Health; 410 IAC 33-1-5; filed Apr 13, 2011, 11:18 a.m.: 20110511-IR-410090682FRA) 
+
+410 IAC 33-1-6 "IAQ coordinator" defined 
+Authority: IC 16-19-3-5; IC 16-41-37.5 
+Affected: IC 16-41-37.5 
+
+Sec. 6. "IAQ coordinator" means a person who is designated by the school or state agency to serve as a lead contact person for issues relating to indoor air quality for the following: 
+(1)
+ Students. 
+
+(2)
+ Staff. 
+
+(3)
+ Parents. 
+
+(4)
+ Visitors. 
+
+(5)
+ The state department. 
+
+
+(Indiana State Department of Health; 410 IAC 33-1-6; filed Apr 13, 2011, 11:18 a.m.: 20110511-IR-410090682FRA) 
+
+410 IAC 33-1-7 "ppm" defined 
+Authority: IC 16-19-3-5; IC 16-41-37.5 
+Affected: IC 16-41-37.5 
+
+Sec. 7. "ppm" means parts per million. (Indiana State Department of Health; 410 IAC 33-1-7; filed Apr 13, 2011, 11:18 a.m.: 20110511-IR-410090682FRA) 
+
+410 IAC 33-1-8 "School" defined 
+Authority: IC 16-19-3-5; IC 16-41-37.5 
+Affected: IC 16-41-37.5-1 
+
+Sec. 8. "School" has the meaning set forth in IC 16-41-37.5-1. (Indiana State Department of Health; 410 IAC 33-1-8; filed Apr 13, 2011, 11:18 a.m.: 20110511-IR-410090682FRA) 
+
+410 IAC 33-1-9 "State agency" defined 
+Authority: IC 16-19-3-5; IC 16-41-37.5 
+Affected: IC 16-41-37.5-1.3 
+
+Sec. 9. "State agency" has the meaning set forth in IC 16-41-37.5-1.3. (Indiana State Department of Health; 410 IAC 33-1-9; filed Apr 13, 2011, 11:18 a.m.: 20110511-IR-410090682FRA) 
+
+410 IAC 33-1-10 "State department" defined 
+Authority: IC 16-19-3-5; IC 16-41-37.5 
+Affected: IC 16-41-37.5 
+
+Sec. 10. "State department" refers to the state department of health. (Indiana State Department of Health; 410 IAC 33-1-10; filed Apr 13, 2011, 11:18 a.m.: 20110511-IR-410090682FRA) 
+
+410 IAC 33-1-11 "State inspector" defined 
+Authority: IC 16-19-3-5; IC 16-41-37.5 
+Affected: IC 16-41-37.5 
+
+Sec. 11. "State inspector" refers to the state department or a person designated by the state department to conduct IAQ inspections. (Indiana State Department of Health; 410 IAC 33-1-11; filed Apr 13, 2011, 11:18 a.m.: 20110511-IR-410090682FRA) 
+Rule 2. Inspection 
+
+410 IAC 33-2-1 Right of entry 
+Authority: IC 16-19-3-5; IC 16-41-37.5 
+Affected: IC 16-41-37.5 
+
+Sec. 1. (a) The state inspector is authorized to enter a school or state agency building, either rented or owned by the state, at reasonable times upon presentation of credentials to do any of the following: 
+(1)
+ Inspect facilities, equipment, or records. 
+
+(2)
+ Investigate complaints. 
+
+(3)
+ Conduct tests. 
+
+(4)
+ Collect samples to obtain information required under this article. 
+
+(5)
+ Determine whether any school or state agency [sic, is] in violation of this article. 
+
+
+(b) The state inspector shall investigate a complaint even if the school or state agency subject to the complaint has addressed or resolved the issues in the complaint. 
+(c) The state inspector may investigate any condition that it reasonably believes is contributing or could contribute to poor IAQ 
+regardless of whether a complaint has been filed. (Indiana State Department of Health; 410 IAC 33-2-1; filed Apr 13, 2011, 11:18 a.m.: 20110511-IR-410090682FRA) 
+
+410 IAC 33-2-2 Access 
+Authority: IC 16-19-3-5; IC 16-41-37.5 
+Affected: IC 16-41-37.5 
+
+Sec. 2. (a) The state inspector may request the school or state agency being investigated provide access to areas of the building that are necessary in order to determine compliance with this article. 
+(b)
+ The IAQ coordinator must be present during the investigation, if the IAQ coordinator is available at the time the investigation is being conducted. 
+
+(c)
+ The state inspector may, at its discretion, allow others to accompany the state inspector on inspections. (Indiana State Department of Health; 410 IAC 33-2-2; filed Apr 13, 2011, 11:18 a.m.: 20110511-IR-410090682FRA) 
+
+
+Rule 3. IAQ Coordinator 
+
+410 IAC 33-3-1 Contact information 
+Authority: IC 16-19-3-5; IC 16-41-37.5 
+Affected: IC 16-41-37.5 
+
+Sec. 1. (a) Schools and state agencies shall provide the IAQ coordinator's contact information to the following: 
+(1)
+ The state inspector during an inspection and upon request. 
+
+(2)
+ All: 
+
+(A)
+ students; 
+
+(B)
+ parents; 
+
+(C)
+ employees; and 
+
+
+
+(D)
+ visitors; 
+during orientation, such as new hire, school, or visitor orientations. 
+
+
+(b)
+ The IAQ coordinator's contact information shall also be published: 
+
+(1)
+ on the school or state agency's website; and 
+
+(2)
+ in the school or state agency's handbook. 
+
+
+(Indiana State Department of Health; 410 IAC 33-3-1; filed Apr 13, 2011, 11:18 a.m.: 20110511-IR-410090682FRA) 
+Rule 4. IAQ Criteria for Schools 
+
+410 IAC 33-4-1 IAQ criteria 
+Authority: IC 16-19-3-5; IC 16-41-37.5 
+Affected: IC 16-41-37.5 
+
+Sec. 1. In order to maintain good IAQ, the school is responsible for meeting the criteria in this section. During an inspection, the state inspector will investigate any condition that is contributing or could contribute to poor IAQ, including, but not limited to, the following: 
+(1)
+ Carbon dioxide levels. 
+
+(2)
+ Humidity. 
+
+(3)
+ Evidence of mold or water damage. 
+
+(4)
+ Excess dust. 
+
+
+(Indiana State Department of Health; 410 IAC 33-4-1; filed Apr 13, 2011, 11:18 a.m.: 20110511-IR-410090682FRA) 
+
+410 IAC 33-4-2 Carbon dioxide limits 
+Authority: IC 16-19-3-5; IC 16-41-37.5 
+Affected: IC 16-41-37.5 
+
+Sec. 2. (a) Outdoor air shall be supplied to classrooms when occupied. 
+(b) Carbon dioxide (CO2) concentrations in the breathing zone shall never exceed seven hundred (700) ppm over the outdoor 
+CO2 concentration. An example calculation is as follows: (outdoor CO2 ppm) + 700 ppm = maximum CO2 
+(c) All specialty rooms shall meet the default values for minimum ventilation rates in breathing zones as published in the American National Standards Institute (ANSI)/American Society of Heating, Refrigerating and Air-Conditioning Engineers (ASHRAE) Standard 62.1-2007 table 6-1. (Indiana State Department of Health; 410 IAC 33-4-2; filed Apr 13, 2011, 11:18 a.m.: 20110511-IR-410090682FRA) 
+
+410 IAC 33-4-3 Vehicle idling 
+Authority: IC 16-19-3-5; IC 16-41-37.5 
+Affected: IC 16-41-37.5 
+
+Sec. 3. Schools shall adopt and enforce a written policy to address any idling vehicles on school grounds. This policy shall be modeled after the state department's manual of best practices for managing IAQ in schools. This policy shall be available for the state inspector's review. (Indiana State Department of Health; 410 IAC 33-4-3; filed Apr 13, 2011, 11:18 a.m.: 20110511-IR­410090682FRA) 
+
+410 IAC 33-4-4 Temperature and relative humidity 
+Authority: IC 16-19-3-5; IC 16-41-37.5 
+Affected: IC 16-41-37.5 
+
+Sec. 4. (a) Heating facilities shall be capable of and shall be operated to maintain a temperature during periods of student occupancy not less than the following: 
+(1)
+ Sixty-eight (68) degrees Fahrenheit (F) in all: 
+
+(A)
+ instructional rooms; 
+
+(B)
+ offices; 
+
+(C)
+ locker rooms; and 
+
+(D)
+ cafeterias. 
+
+
+
+(2)
+ Sixty-five (65) degrees Fahrenheit in activity rooms and shops. 
+
+(3)
+ Sixty (60) degrees Fahrenheit in interior toilet rooms. 
+
+
+(b) Where provided air-conditioning systems shall be capable of providing and shall be operated to maintain a temperature not to exceed seventy-eight (78) degrees Fahrenheit and sixty-five percent (65%) relative humidity during periods of student occupancy. (Indiana State Department of Health; 410 IAC 33-4-4; filed Apr 13, 2011, 11:18 a.m.: 20110511-IR-410090682FRA) 
+
+410 IAC 33-4-5 HVAC 
+Authority: IC 16-19-3-5; IC 16-41-37.5 
+Affected: IC 16-41-37.5 
+
+Sec. 5. (a) Schools shall establish and maintain a written procedure for routine maintenance of HVAC systems. This procedure shall include, but is not limited to, the following items: 
+(1)
+ A schedule for inspecting the HVAC system, including an annual inspection. 
+
+(2)
+ Ensuring that all supply and return air pathways in the ventilation system are unobstructed and perform as required. 
+
+(3)
+ A schedule for cleaning the HVAC coils annually at a minimum. 
+
+
+(4)
+ A schedule for inspecting and changing filters. This procedure shall be available for the state inspector's review. 
+
+(b)
+ Schools shall establish and maintain written maintenance logs covering cleaning and filter changes of the HVAC systems for a minimum of three (3) years. These logs shall be available for the state inspector's review. 
+
+(c)
+ For new construction or renovation of the HVAC system, all air supplies and air returns shall be ducted. Open return plenums above ceilings are not allowed. (Indiana State Department of Health; 410 IAC 33-4-5; filed Apr 13, 2011, 11:18 a.m.: 20110511-IR-410090682FRA) 
+
+
+
+410 IAC 33-4-6 Allergens; irritants 
+Authority: IC 16-19-3-5; IC 16-41-37.5 
+Affected: IC 16-41-37.5 
+
+Sec. 6. (a) Ozone generators sold as air purifiers are not to be used in the classrooms while students are present. 
+(b)
+ Scented candles and air fresheners are not to be used in classrooms. 
+
+(c)
+ When a water leak or intrusion is discovered, corrective action shall be taken within forty-eight (48) hours. 
+
+
+(d)
+ When mold or mold-contaminated material is discovered, corrective action shall be taken within forty-eight (48) hours. Mold is not to be growing in the school. 
+
+(e)
+ Carpet vacuums shall meet HEPA filtration levels by January 1, 2015. (Indiana State Department of Health; 410 IAC 33-4­6; filed Apr 13, 2011, 11:18 a.m.: 20110511-IR-410090682FRA) 
+
+
+
+410 IAC 33-4-7 Animals 
+Authority: IC 16-19-3-5; IC 16-41-37.5 
+Affected: IC 16-41-37.5 
+
+Sec. 7. (a) Furred, feathered, or reptilian animals shall only be allowed in classrooms for educational purposes. 
+(b)
+ Fish in aquariums are exempt from the educational requirement in subsection (a); however, they must be of a reasonable size and quantity. 
+
+(c)
+ Service animals are also exempt from the educational requirement in subsection (a). 
+
+(d)
+ Schools allowing animals in the classroom shall have a written policy addressing the following: 
+
+(1)
+ Which types of animals are allowed. 
+
+(2)
+ When animals are allowed in classrooms for educational purposes. 
+
+(3)
+ The duration of an animal's stay in a classroom. 
+
+(4)
+ Housekeeping requirements. 
+
+
+
+(5)
+ How issues with students or staff allergic to the animal will be addressed. This policy shall be available for the state department's or its agent's review. (Indiana State Department of Health; 410 IAC 33-4-7; filed Apr 13, 2011, 11:18 a.m.: 20110511-IR-410090682FRA) 
+
+
+
+410 IAC 33-4-8 Chemicals 
+Authority: IC 16-19-3-5; IC 16-41-37.5 
+Affected: IC 16-41-37.5 
+
+Sec. 8. (a) Student exposure to chemicals must be kept to a minimum. When evaluating student exposures, the more stringent of National Institute for Occupational Safety and Health (NIOSH) limits or Occupational Safety and Health Administration (OSHA) limits must be used. 
+(b)
+ Where chemicals are used during class, such as, but not limited to, chemistry, biology, and shop classes, appropriate ventilation, such as a local exhaust system, must be used to minimize students' exposure to these chemicals. 
+
+(c) 
+The school shall adopt and enforce a policy that minimizes student and staff exposure to chemicals. (Indiana State Department of Health; 410 IAC 33-4-8; filed Apr 13, 2011, 11:18 a.m.: 20110511-IR-410090682FRA) 
+
+
+
+410 IAC 33-4-9 Furniture 
+Authority: IC 16-19-3-5; IC 16-41-37.5 
+Affected: IC 16-41-37.5 
+
+Sec. 9. Furniture in classrooms shall be maintained so as to prevent the accumulation or growth of allergens. Maintenance shall include routine cleaning as appropriate for the type of furniture. (Indiana State Department of Health; 410 IAC 33-4-9; filed Apr 13, 2011, 11:18 a.m.: 20110511-IR-410090682FRA) 
+
+410 IAC 33-4-10 Construction 
+Authority: IC 16-19-3-5; IC 16-41-37.5 
+Affected: IC 16-41-37.5 
+
+Sec. 10. (a) During building renovation or additions, steps must be taken to ensure pollutants from these areas do not enter the occupied spaces. These steps may include, but are not limited to the following: 
+(1)
+ Selecting product and materials with minimal off-gassing. 
+
+(2)
+ Keeping the occupied spaces under positive pressure in relation to the work areas. 
+
+(3)
+ Filtration. 
+
+(4)
+ Limiting certain activities to times of no occupancy. 
+
+(5)
+ Temporary partitions. 
+
+(6)
+ Increasing housekeeping activities. 
+
+(7)
+ Ventilating the area prior to occupancy to reduce airborne contaminants due to construction activities. 
+
+(8)
+ Other appropriate actions. 
+
+
+(b) For new construction, carpet is prohibited on walls. (Indiana State Department of Health; 410 IAC 33-4-10; filed Apr 13, 2011, 11:18 a.m.: 20110511-IR-410090682FRA) 
+Rule 5. IAQ Criteria in State Agencies 
+
+410 IAC 33-5-1 IAQ criteria 
+Authority: IC 16-19-3-5; IC 16-41-37.5 
+Affected: IC 16-41-37.5 
+
+Sec. 1. In order to maintain good IAQ, the state agency is responsible for meeting the criteria in this section. During an inspection, the state inspector will investigate any condition that is contributing or could contribute to poor IAQ, including, but not limited to, the following: 
+(1)
+ Carbon dioxide levels. 
+
+(2)
+ Humidity. 
+
+(3)
+ Evidence of mold or water damage. 
+
+(4)
+ Excess dust. 
+
+
+(Indiana State Department of Health; 410 IAC 33-5-1; filed Apr 13, 2011, 11:18 a.m.: 20110511-IR-410090682FRA) 
+
+410 IAC 33-5-2 Carbon dioxide limits 
+Authority: IC 16-19-3-5; IC 16-41-37.5 
+Affected: IC 16-41-37.5 
+
+Sec. 2. (a) Outdoor air shall be supplied to offices when occupied. 
+(b) Carbon dioxide (CO2) concentrations in the breathing zone shall never exceed seven hundred (700) ppm over the outdoor 
+CO2 concentration. An example calculation is as follows: (outdoor CO2 ppm) + 700 ppm = maximum CO2 
+(c) All specialty rooms shall meet the default values for minimum ventilation rates in breathing zones as published in the American National Standards Institute (ANSI)/American Society of Heating, Refrigerating and Air-Conditioning Engineers (ASHRAE) Standard 62.1-2007 table 6-1. (Indiana State Department of Health; 410 IAC 33-5-2; filed Apr 13, 2011, 11:18 a.m.: 20110511-IR-410090682FRA) 
+
+410 IAC 33-5-3 Temperature and relative humidity 
+Authority: IC 16-19-3-5; IC 16-41-37.5 
+Affected: IC 16-41-37.5 
+
+Sec. 3. Office temperatures shall be maintained within the following range: 
+Temperature/Humidity Ranges for Comfort  
+Conditions  Relative Humidity  Acceptable Operating Temperatures, Fahrenheit  
+Summer (light clothing)  If 30%, then If 60%, then  76–82 74–78  
+Winter (warm clothing)  If 30%, then If 60%, then  69–78 68–75  
+
+(Indiana State Department of Health; 410 IAC 33-5-3; filed Apr 13, 2011, 11:18 a.m.: 20110511-IR-410090682FRA) 
+
+410 IAC 33-5-4 Allergens; irritants 
+Authority: IC 16-19-3-5; IC 16-41-37.5 
+Affected: IC 16-41-37.5 
+Sec. 4. (a) Ozone generators sold as air purifiers are not to be used in offices while employees are present. 
+(b)
+ Scented candles and air fresheners are not to be used in offices. 
+
+(c)
+ When a water leak or intrusion is discovered, corrective action shall be taken within forty-eight (48) hours. 
+
+
+(d)
+ When mold or mold-contaminated material is discovered, corrective action shall be taken within forty-eight (48) hours. Mold is not to be growing in the state agency. 
+
+(e) Carpet vacuums shall meet HEPA filtration levels by January 1, 2015. 
+
+(f)
+ Live plants kept in offices must be of a reasonable number and properly maintained. If an individual working in the area provides information to management showing they have allergies to a specific species of plant, that plant must be removed. (Indiana State Department of Health; 410 IAC 33-5-4; filed Apr 13, 2011, 11:18 a.m.: 20110511-IR-410090682FRA) 
+
+
+
+410 IAC 33-5-5 Construction 
+Authority: IC 16-19-3-5; IC 16-41-37.5 
+Affected: IC 16-41-37.5 
+Sec. 5. During building renovation or additions, steps must be taken to ensure pollutants from these areas do not enter the occupied spaces. These steps may include, but are not limited to, the following: 
+(1)
+ Keeping the occupied spaces under positive pressure in relation to the work areas. 
+
+(2)
+ Filtration. 
+
+(3)
+ Limiting certain activities to times of no occupancy. 
+
+(4)
+ Temporary partitions. 
+
+(5)
+ Other appropriate actions. 
+
+
+(Indiana State Department of Health; 410 IAC 33-5-5; filed Apr 13, 2011, 11:18 a.m.: 20110511-IR-410090682FRA) 
+Rule 6. Reports and Responses 
+
+410 IAC 33-6-1 Reporting requirements 
+Authority: IC 16-19-3-5; IC 16-41-37.5 
+Affected: IC 16-41-37.5-2 
+Sec. 1. (a) The state inspector shall prepare a report, as stated in IC 16-41-37.5-2(b)(2), which may be in letter form, that: 
+(1)
+ describes the state inspector's findings; 
+
+(2)
+ identifies any conditions that are contributing or could contribute to poor IAQ at the school or state agency, including: 
+
+(A)
+ carbon dioxide levels; 
+
+(B)
+ humidity; 
+
+(C)
+ evidence of mold or water damage; and 
+
+(D)
+ excess dust; 
+
+
+
+(3)
+ provides guidance on steps the school or state agency may take to address any issues; and 
+
+(4)
+ requests a response from the school or state agency not later than sixty (60) days after the date of the report. 
+
+(b)
+ The state inspector shall report the results of the inspection, as stated in IC 16-41-37.5-2(b)(3), to the following: 
+
+(1)
+ The person who complained of the quality of air. 
+
+(2)
+ The school's principal or the state agency head. 
+
+(3)
+ The superintendent of the school corporation, if the school is part of a school corporation. 
+
+(4)
+ The Indiana state board of education, if the school is a public school or an accredited nonpublic school. 
+
+(5)
+ The Indiana department of administration, if the inspected entity is a state agency. 
+
+(6)
+ The appropriate local or county board of health. 
+
+
+(Indiana State Department of Health; 410 IAC 33-6-1; filed Apr 13, 2011, 11:18 a.m.: 20110511-IR-410090682FRA) 
+
+410 IAC 33-6-2 Posting of reports; responses; locations 
+Authority: IC 16-19-3-5; IC 16-41-37.5 
+Affected: IC 16-41-37.5 
+
+Sec. 2. (a) The school or state agency shall do the following: 
+(1)
+ Post, within five (5) working days, the following: 
+
+(A)
+ The report received from the state inspector. The report shall remain posted for fourteen (14) consecutive days. 
+
+(B)
+ The school or state agency shall post, within five (5) working days, its response to the state inspector's report. The response shall remain posted for fourteen (14) consecutive days. 
+
+
+
+(2) 
+Send a written reply to the state department within sixty (60) days of receiving the state inspector's report explaining how the school or state agency is correcting any deficiencies noted in the inspection report. If no deficiencies are noted, no reply is required. 
+
+
+(b)
+ The state inspector may reinspect a school or state agency where deficiencies are noted in the report to see that the deficiency has been corrected as stated in the school or state agency's response. 
+
+(c)
+ Items in subsection (a)(1) must be posted in a conspicuous location: 
+
+(1)
+ on the school's or state agency's website; and 
+
+
+
+(2)
+ at the location of the school or state agency building stated in the report; so they are accessible to all students, parents, and employees. (Indiana State Department of Health; 410 IAC 33-6-2; filed Apr 13, 2011, 11:18 a.m.: 20110511-IR-410090682FRA) 
+
+
+Rule 7. References 
+
+410 IAC 33-7-1 Incorporated by reference 
+Authority: IC 16-19-3-5; IC 16-41-37.5 
+Affected: IC 16-41-37.5 
+
+Sec. 1. The American National Standards Institute (ANSI)/American Society of Heating, Refrigerating and Air-Conditioning Engineers (ASHRAE) Standard 62.1-2007 table 6-1 is hereby incorporated by reference as a part of this rule. (Indiana State Department of Health; 410 IAC 33-7-1; filed Apr 13, 2011, 11:18 a.m.: 20110511-IR-410090682FRA) 
+* 
+
+

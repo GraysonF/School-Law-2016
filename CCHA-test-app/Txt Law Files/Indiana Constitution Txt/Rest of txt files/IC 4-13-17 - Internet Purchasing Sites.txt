@@ -1,0 +1,106 @@
+IC 4-13-17 Chapter 17. Internet Purchasing Sites 
+IC 4-13-17-1 "Department" 
+Sec. 1. As used in this chapter, "department" refers to the Indiana department of administration established by IC 4-13-1-2. 
+As added by P.L.93-2004, SEC.1. 
+
+IC 4-13-17-2 
+"Internet purchasing site" 
+
+Sec. 2. As used in this chapter, "Internet purchasing site" means an open and interactive electronic environment that is: 
+(1) 
+designed to facilitate the purchase and sale of supplies conducted under IC 5-22; 
+
+(2) 
+approved and managed by the department; and 
+
+(3) 
+linked to the computer gateway administered by the office of technology established by IC 4-13.1-2-1. 
+
+
+As added by P.L.93-2004, SEC.1. Amended by P.L.177-2005, SEC.6. 
+
+IC 4-13-17-3 "Purchasing agency" 
+Sec. 3. As used in this chapter, "purchasing agency" has the meaning set forth in IC 5-22-2-25. 
+As added by P.L.93-2004, SEC.1. 
+
+IC 4-13-17-4 Internet purchasing site; rules; procedures for operation 
+Sec. 4. The department may adopt rules under IC 4-22-2 to establish the following: 
+(1) 
+Procedures for the use of Internet purchasing sites to facilitate the purchase of supplies or sales conducted under IC 5-22 by a state agency. The rules may permit use of an Internet purchasing site to facilitate purchases of supplies and sales conducted by any of the following if considered beneficial by the department: 
+
+(A) 
+A purchasing agency other than a state agency. 
+
+(B) 
+A cooperative purchasing organization described in IC 5-22-4-7. 
+
+(C) 
+The public. 
+
+
+
+(2) 
+User fees payable by either of the following: 
+
+(A) 
+A bidder using an Internet purchasing site. 
+
+(B) 
+Entities other than state agencies that use the Internet purchasing site permitted under subdivision (1). 
+
+
+
+(3) 
+The technical requirements for operation of an Internet purchasing site. 
+
+(4) 
+Procedures requiring the proper officers to maintain adequate documentation of transactions performed through the 
+
+
+ Internet purchasing site so that the officers may be audited as provided by law. 
+(5) Procedures necessary for the operation of Internet purchasing sites. 
+As added by P.L.93-2004, SEC.1. 
+
+IC 4-13-17-5 Internet purchasing site; requirements 
+Sec. 5. An Internet purchasing site must do all the following: 
+(1) 
+Provide an authorized user with the ability to issue an invitation for bids for supplies electronically. 
+
+(2) 
+Protect the content of an electronic offer to the extent required under IC 5-22. 
+
+(3) 
+Provide an authorized user with a secure, accurate report of all information contained in electronic offers made through the site on or before the deadline established by the authorized user. 
+
+(4) 
+Comply with IC 5-22. 
+
+
+As added by P.L.93-2004, SEC.1. 
+
+IC 4-13-17-6 Equipment and information technology services 
+Sec. 6. The department shall provide the equipment and information technology services necessary to operate the Internet purchasing sites required under this chapter. 
+As added by P.L.93-2004, SEC.1. 
+
+IC 4-13-17-7 Links to Internet purchasing sites 
+Sec. 7. The department shall provide authorized users and the public with access to Internet purchasing sites by links to the computer gateway administered by the office of technology established by IC 4-13.1-2-1. 
+As added by P.L.93-2004, SEC.1. Amended by P.L.177-2005, SEC.7. 
+
+IC 4-13-17-8 Agencies to implement 
+Sec. 8. The following shall cooperate with the department to implement this chapter: 
+(1) 
+The office of technology established by IC 4-13.1-2-1. 
+
+(2) 
+The state board of accounts. 
+
+(3) 
+The attorney general. 
+
+(4) 
+The auditor of state. 
+
+
+As added by P.L.93-2004, SEC.1. Amended by P.L.177-2005, SEC.8. 
+ 
+

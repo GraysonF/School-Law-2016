@@ -1,0 +1,1364 @@
+ARTICLE 2. GENERAL PROVISIONS 
+NOTE: IC 20-7.5 was repealed by P.L.1-2005, SECTION 240, effective July 1, 2005. 
+Rule 1. Statement and Definitions 
+560 IAC 2-1-1 Statement 
+Authority: IC 20-7.5-1-9 
+Affected: IC 4-22-2; IC 20-7.5-1-9 
+Sec. 1. Pursuant to the authority vested in it by IC 20-7.5-1-9(d)(9) and IC 4-22-2, the Indiana education employment relations board herewith issues and publishes its rules. (Indiana Education Employment Relations Board; 560 IAC 2-1-1; filed Oct 6, 1988, 11:15 a.m.: 12 IR 301; readopted filed Sep 12, 2001, 10:55 a.m.: 25 IR 529; readopted filed Nov 30, 2007, 11:19 a.m.: 20071226-IR-560070368RFA; readopted filed Sep 10, 2013, 10:25 a.m.: 20131009-IR-560130214RFA) 
+
+560 IAC 2-1-2 Definitions 
+Authority: IC 20-29-2; IC 20-29-3-11; IC 20-29-6-6.1 
+Affected: IC 4-21.5; IC 20-28-9-1.5; IC 20-29 
+Sec. 2. The definitions in IC 20-29-2 and the following apply throughout this article: 
+(1) 
+"Board" has the meaning set forth in IC 20-29-2-3. 
+
+(2) 
+"Certificated employee" has the meaning set forth in IC 20-29-2-4. 
+
+(3) 
+"Chairman" or "chairperson" means the full-time member of the board as defined in IC 20-29-3-3 or such other board member who may perform such duties pro tempore. 
+
+(4) 
+"Collective bargaining agreement" or "CBA" means any and all agreements between the school employer and exclusive representative on any subject of bargaining, including, but not limited to, the mandatory subjects of bargaining, a grievance procedure, a compensation plan, and any memorandum of understanding ratified subsequent to the collective bargaining agreement. 
+
+(5) 
+"Compensation plan" means the local plan under which salary increases or increments will be determined pursuant to IC 20-28-9-1.5(b). 
+
+(6) 
+"Compliance officer" means the staff member or ad hoc panel member appointed by the board pursuant to IC 20-29-6­6.1(b) to review a collective bargaining agreement and make a written recommendation regarding the collective bargaining agreement's compliance with IC 20-29, including any penalty for noncompliance. 
+
+(7) 
+"Days" means calendar days in accordance with the Trial Rules of the Indiana Rules of Trial Procedure. 
+
+(8) 
+"Deficit financing" has the meaning set forth in IC 20-29-2-6. 
+
+(9) 
+"Exclusive representative" has the meaning set forth in IC 20-29-2-9. 
+
+(10) 
+"Hearing examiner" meanstheperson conducting a hearing under IC 20-29-7-4(e) and includes anyagentoftheboard, who may be a member of the board, when such agent conducts an unfair practice hearing. 
+
+(11) 
+"Hearing officer" means any agent of the board conducting the hearing in a proceeding under IC 20-29-5-1(c). 
+
+(12) 
+"IEERB" refers to the Indiana education employment relations board as established by IC 20-29-3-1. 
+
+(13) 
+"Memorandum of understanding" or "MOU" means any agreement ratified by the school employer and the exclusive representative, subsequent to a ratified collective bargaining agreement, that changes or modifies the collective bargaining agreement. 
+
+(14) 
+"Party" means any school employer, school employee, or school employee organization with standing in a proceeding. 
+
+(15) 
+"Salary and wage related fringe benefit" means a benefit, other than direct salary or compensation, received by a school employee from a school employer, including, but not limited to, health insurance, retirement plans, and paid time off. 
+
+(16) 
+"Salary range" means the lowest and highest base salaries for full-time bargaining unit members on which any increase for the current year will be based. 
+
+(17) 
+"School corporation" has the meaning set forth in IC 20-29-2-12. 
+
+(18) 
+"School employee" has the meaning set forth in IC 20-29-2-13. 
+
+(19) 
+"School employee organization" has the meaning set forth in IC 20-29-2-14. 
+
+(20) 
+"School employer" has the meaning set forth in IC 20-29-2-15. 
+
+(21) 
+"Strike" has the meaning set forth in IC 20-29-2-16. 
+
+
+(22) "Superintendent" has the meaning set forth in IC 20-29-2-18. (Indiana Education Employment Relations Board; 560 IAC 2-1-2; filed Oct 6, 1988, 11:15 a.m.: 12 IR 301; readopted filed Sep 12, 2001, 10:55 a.m.: 25 IR 529; readopted filed Nov 30, 2007, 11:19 a.m.: 20071226-IR-560070368RFA; filed Aug 28, 2012, 
+2:06 p.m.: 20120926-IR-560120112FRA; readopted filed Sep 10, 2013, 10:25 a.m.: 20131009-IR-560130214RFA; filed Jan 7, 2016, 8:13 a.m.: 20160203-IR-560150200FRA) 
+Rule 2. Representation 
+
+560 IAC 2-2-1 Bargaining unit 
+Authority: IC 20-7.5-1-9 
+Affected: IC 20-7.5-1-10 
+Sec. 1. (a) Appropriate unit. The parties may agree on the appropriate unit within the guidelines as provided in IC 20-7.5-1­10(a)(1). For this purpose the parties shall consist of the school employer and a school employee organization representing twenty percent (20%) or more of the school employees in any proposed unit. 
+(b) 
+Unit determination. If no such agreement is reached or if any school employee in the proposed unit files a complaint (as in 560 IAC 2-2-3(a) and 560 IAC 2-2-4(b) [sections 3(a) and 4(b) of this rule]) to the composition of such unit with the board, the board shall determine the proper unit in accordance with IC 20-7.5-1-10(a)(2) or IC 20-7.5-1-10(c)(4). The board or its agent may make a determination based upon briefs and papers filed unless a hearing is requested. 
+
+(c) 
+Unit amendment or unit clarification. A school employer and a school employee organization may agree to amend or clarify a unit at any time. A unit amendment is appropriate when a position has been newly created and is to be added to or excluded from the existing unit. A unit clarification is appropriate when an existing position is to be added to or excluded from the existing unit. If such an amendment or clarification is mutually made, the school employer and exclusive representative shall post notice of the amendment or clarification in each school building for no less than thirty (30) days; provided, however, that if the amendment or clarification is made in a period when school employees are not in attendance, notice shall be made to each by mail to his last known place of residence. Said notice shall clearly show the description of the existing bargaining unit and the proposed amendment or clarification. The notice shall state the current address and telephone number of the board and state that objections to the amendment or clarification by any affected school employee may be made to the board within thirty (30) days of the first date of posting or of the mailing of the notice. If a school employee affected by the amendment or clarification objects to the amendment or clarification, the board shall determine the unit by the same procedures used in original determinations of the unit. At the end of the posting period or thirty (30) days after the mailing of notice, and if no objections have been filed, a copy of the notice of amendment or clarification shall be furnished to the board. An incorrect posting as to whether the position is an amendment to or clarification of a unit shall not operate to void the notice or results thereof, regardless of objections. (Indiana Education Employment Relations Board; 560 IAC 2-2-1; filed Oct 6, 1988, 11:15 a.m.: 12 IR 301; readopted filed Sep 12, 2001, 
+
+
+10:55 a.m.: 25 IR 529; readopted filed Nov 30, 2007, 11:19 a.m.: 20071226-IR-560070368RFA; readopted filed Sep 10, 2013, 
+10:25 a.m.: 20131009-IR-560130214RFA) 
+
+560 IAC 2-2-2 Uncontested recognition of exclusive representation 
+Authority: IC 20-7.5-1-9 
+Affected: IC 20-7.5-1-10 
+
+Sec. 2. If recognition has been granted in accordance with IC 20-7.5-1-10(b), such recognition shall be in writing; and a copy shall be provided by the parties to the board. The recognition statement should include the name of the school corporation, the name of the school employee organization designated as the exclusive representative, the agreed-upon unit, the number of employees in the unit, the exclusions from the unit, and the first date of posting. (Indiana Education Employment Relations Board; 560 IAC 2-2-2; filed Oct 6, 1988, 11:15 a.m.: 12 IR 302; readopted filed Sep 12, 2001, 10:55 a.m.: 25 IR 529; readopted filed Nov 30, 2007, 11:19 a.m.: 20071226-IR-560070368RFA; readopted filed Sep 10, 2013, 10:25 a.m.: 20131009-IR-560130214RFA) 
+
+560 IAC 2-2-3 Petitions 
+Authority: IC 20-7.5-1-9 
+Affected: IC 20-7.5-1 
+Sec. 3. (a) Petition and complaint. A petition to determine the exclusive representative of a unit of school employees or a petition to determine the appropriate unit by unit clarification or amendment may be filed by a school employee organization, a school employer, or, in the case of a representation petition, a group of school employees constituting twenty percent (20%) of a unit under the conditions provided for in IC 20-7.5-1-10(c). The appropriate unit shall be determined under each such petition. A school employee may file a complaint as provided in IC 20-7.5-1-10(a)(2) to contest the composition of the unit. 
+(b) 
+Number of copies to be filed. All petitions shall be in writing, and the original and one (1) copy shall be filed with the board. Copies shall be served simultaneously on all known, interested parties, and proof of such service shall be furnished to the board. 
+
+(c)Contentsofpetitionforrepresentation.Inpetitionsfor determiningtheexclusiverepresentative,thepetitionshallcontain: 
+(1) 
+name, address, phone number, and name of superintendent of the school employer, and the name, title, address, and phone number of the school employer representative to contact; 
+
+(2) 
+name, address, and phone number of the petitioner; the petitioner's school employee organization; name and address of the president of the school employee organization; and the name, address, and phone number of petitioner's representative; 
+
+(3) 
+description of the bargaining unit claimed to be appropriate, the specific positions or classifications to be excluded from the unit, and section(s) of IC 20-7.5-1 providing for such exclusion; 
+
+(4) 
+number of employees in the alleged appropriate unit; 
+
+(5) 
+date of request for recognition as majority representative and date such request was declined by the school employer or a statement that no reply has been received or no request made; 
+
+
+(6)name,address,andphonenumber ofanyother schoolemployeeorganizationsclaimingtorepresenttwentypercent(20%) or moreoftheemployeesin theexisting, appropriateunit;thenameandaddressofthepresidentofanysuch schoolemployee organization; and the effective date(s) and the expiration date(s) of any existing collective bargaining agreement(s) covering school employees; 
+(7) 
+where a school employee organization or a group of school employees files the petition, an assertion that twenty percent (20%) of the school employees in the unit wish to be represented by the organization or that twenty percent (20%) believe that the designated exclusive representative is no longer the representative of a majority of those in the unit; 
+
+(8) 
+where appropriate, a concise statement of the disputes concerning the conduct of the election; 
+
+(9) 
+any other relevant facts; and 
+
+(10) 
+signature of petitioner or petitioner's duly authorized agent. 
+
+(11) 
+If a school employer files a representation petition, the petition should include: 
+
+(A) 
+the names of the one (1) or more school employee organizations having presented a claim to be recognized as the exclusive representative in an appropriate unit; or 
+
+(B) 
+a statement that it has a good faith doubt that the certified school employee organization represents the majority of the school employees and a statement setting forth the basis of the good faith doubt. 
+
+
+
+
+
+(d) 
+Contents of petition for unit clarification or amendment. A petition for unit clarification, which seeks to modify an existing job position or classification, or a petition for unit amendment, which seeks to add to or exclude from the existing bargaining unit a new position, shall contain: 
+
+(1) 
+name, address, phone number, and name of superintendent of school employer and the name, title, address, and phone number of the school employer representative to contact; 
+
+(2) 
+where the petitioner is not the school employer, the name, address, and phone number of the petitioner or the petitioner's school employee organization; the name and address of the president of the certified school employee organization; and the name, title, address, and phone number of petitioner's representative; 
+
+(3) 
+a description of the present bargaining unit and date of certification or recognition; 
+
+(4) 
+proposed clarification or amendment of the unit and the reasons why proposed clarification or amendment is requested; 
+
+(5) 
+any other relevant facts; and 
+
+(6) 
+signature of petitioner or petitioner's duly authorized agent. 
+
+
+
+
+An improperly marked type of request for filing a petition for clarification or amendment shall not operate to void the petition. The improper type of request shall be treated as proper, and the petition shall be considered amended. 
+(e) Showing of interest. Evidence that twenty percent (20%) of the school employees in an appropriate unit wish to be represented for collective bargaining or wish to assert that the designated exclusive representative no longer represents a majority of school employees shall accompany the representation petition at the time of the filing or at any other time as may be set by the board or its agent. 
+This evidence must be in writing and signed and dated by school employees in an appropriate unit. The evidence must indicatetheschoolemployees'wish toberepresentedbysuch schoolemployeeorganization for thepurposeofcollectivebargaining or must indicate the school employees' request to decertify the designated exclusive representative by asserting it is no longer the representative of the majority of school employees in the unit. Other evidence of probative value indicating that the requisite percentage of school employees desire representation or decertification may be considered. 
+Evidence of the showing of interest shall be furnished only to the board or its agent, and determination of the adequacy of the showing of interest shall be made by the board or its agent. 
+(f) Investigation of petitions. The board or its agent shall investigate the petition to determine if a valid question concerning the representation of school employees exists and if a determination of the appropriate unit is necessary. 
+After ascertaining the positions of all parties involved, the board or its agent shall take appropriate measures to resolve the question concerning representation. Such disposition may consist of withdrawal or dismissal as set forth in subsection (g) of this section, the conduct of an election in an appropriate unit pursuant to the agreement of all interested parties, the conduct of a hearing and the direction of an election in an appropriate unit, or the dismissal of the petition after a hearing. 
+The board or its agent shall notify the school employer if a question of representation is found to exist. For purposes of ascertaining a showing of interest, the school employer shall furnish the board or its agent within ten (10) days with the names and addresses of all certificated employees on its payroll or on approved leave of absence on the date of the filing of the petition. The date for submission of the eligibility list shall be at the discretion of the board or its agent. 
+(g) 
+Withdrawal or dismissal of petition. If the board determines after an investigation that the petition has not been timely filed or that no valid question concerning the representation of employees exists, the board may request the party filing such a petition to withdraw the petition without prejudice; or in the absence of a withdrawal within a reasonable time, the board or its agent may dismiss the petition. 
+
+(h) 
+Posting notice of pending petition. After the filing of a petition or receipt of a petition filed by another party, the school employer shall, at the request of the board, post a notice in places where notices are normally posted affecting the school employees in the unit involved in the proceeding. 
+
+
+Such notice shall be on a form to be furnished by the board and shall contain the following: 
+(1) 
+name of the party or parties filing the petition; 
+
+(2) 
+a description of the unit involved and the action requested; and 
+
+(3) 
+a statement that any interested parties may, up to three (3) days prior to the hearing, advise the board of their intention to intervene. The hearing officer may allow intervention at the hearing if good cause is shown as to why the party could not notify the 
+
+
+board within the time prescribed. The notice shall remain posted for a period of ten (10) days from the date of receipt by the school employer. 
+(i) Public docket. The board shall maintain a public docket of all petitions filed under 560 IAC 2 [this article]. (Indiana Education Employment Relations Board; 560 IAC 2-2-3; filed Oct 6, 1988, 11:15 a.m.: 12 IR 302; readopted filed Sep 12, 2001, 
+10:55 a.m.: 25 IR 529; readopted filed Nov 30, 2007, 11:19 a.m.: 20071226-IR-560070368RFA; readopted filed Sep 10, 2013, 
+10:25 a.m.: 20131009-IR-560130214RFA) 
+
+560 IAC 2-2-4 Intervenors 
+Authority: IC 20-7.5-1-9 
+Affected: IC 20-7.5-1 
+Sec. 4. (a) Limitation on intervenors. No school employee organization shall be permitted to intervene in any certification or decertification proceeding unless it has submitted a showing of interest of not less than twenty percent (20%) in an appropriate unit. Such showing of interest need not accompany the petition to intervene but must be made at the representation and determination of unit hearing or within such extension of time as the hearing officer may allow, but in no case may it be made after the board directs the conduct of an election. 
+(b) 
+School employee complaint procedure. Any school employee may file a complaint with regard to the composition of a proposed unit. Such complaint shall be filed within the 30-day posting of notice of amendment or clarification under 560 IAC 2-2­1(c) [section 1(c) of this rule] or intent to recognize under 560 IAC 2-2-2 [section 2 of this rule] or within the time limitation of posting notice of pending petition in 560 IAC 2-2-3(h) [section 3(h) of this rule]. 
+
+(c) 
+Filing procedure for intervenor. A school employee or school employee organization intervening in any representation proceeding shall file a petition to intervene within the period of posting of notice of a pending representation petition as provided in 560 IAC 2-2-3(h) [section 3(h) of this rule], unless good cause is shown for extending the period. (Indiana Education Employment Relations Board; 560 IAC 2-2-4; filed Oct 6, 1988, 11:15 a.m.: 12 IR 304; readopted filed Sep 12, 2001, 10:55 a.m.: 25 IR 529; readopted filed Nov 30, 2007, 11:19 a.m.: 20071226-IR-560070368RFA; readopted filed Sep 10, 2013, 10:25 a.m.: 20131009-IR-560130214RFA) 
+
+
+
+560 IAC 2-2-5 Consent elections 
+Authority: IC 20-7.5-1-9 
+Affected: IC 20-7.5-1 
+Sec. 5. The board or its agent shall investigate the petition. If there is reasonable cause to believe that a question of representation exists, the petitioner and the other parties may, with the approval of the board or its agent, enter into a consent election agreement on the following subjects: 
+(1) 
+description of the appropriate unit; 
+
+(2) 
+the date to be used in determining the list of eligible employees; and 
+
+
+(3) the date, place(s), and time of balloting. (Indiana Education Employment Relations Board; 560 IAC 2-2-5; filed Oct 6, 1988, 11:15 a.m.: 12 IR 304; readopted filed Sep 12, 2001, 10:55 a.m.: 25 IR 529; readopted filed Nov 30, 2007, 11:19 a.m.: 20071226-IR-560070368RFA; readopted filed Sep 10, 2013, 10:25 a.m.: 20131009-IR-560130214RFA) 
+
+560 IAC 2-2-6 Hearings 
+Authority: IC 20-7.5-1-9 
+Affected: IC 20-7.5-1-10 
+Sec. 6. (a) Submission of briefs. If the parties are unable to reach agreement as to the appropriate unit after the filing and investigation of a valid petition, they shall each submit briefs to the board or its agent outlining their position with regard to the disputed issues. Determinations by the board or its agent may be made based upon the briefs unless a hearing is requested. If a request for a hearing is made, the board or its agent shall schedule a hearing and shall serve notice of such hearing to all interested parties. The briefs shall be filed with the board or its agent at least ten (10) days prior to the date of such hearing and shall set forth each issue to be presented at the hearing and specifically state the position(s) or classification(s) to be excluded from the unit. Failure to address the issue(s) may result in exclusion of evidence. 
+(b) 
+Nature of hearing. Hearings under IC 20-7.5-1-10 shall be considered investigatory and not adversary. The purpose of the hearing is to develop a full and complete factual record upon which the case may be determined. Parties may argue orally, or before the close of the hearing the parties may request permission to file a brief within ten (10) days of the close of the hearing or by a time to be set by the board or its agent. Parties may request transcription of such proceedings at their expense. The representation and unit determination case files shall be available to the parties at the board's office. 
+
+(c) 
+Board determination. After the hearing is closed, the board or its agent shall determine the matters in dispute and direct an election, dismiss the petition, or make such other disposition of the matter as deemed appropriate. (Indiana Education Employment Relations Board; 560 IAC 2-2-6; filed Oct 6, 1988, 11:15 a.m.: 12 IR 304; readopted filed Sep 12, 2001, 10:55 a.m.: 25 IR 529; readopted filed Nov 30, 2007, 11:19 a.m.: 20071226-IR-560070368RFA; readopted filed Sep 10, 2013, 10:25 a.m.: 20131009-IR-560130214RFA) 
+
+
+
+560 IAC 2-2-7 Consolidation of cases 
+Authority: IC 20-7.5-1-9 
+Affected: IC 20-7.5-1 
+Sec. 7. In appropriate cases the board or its agent may consolidate representation and unfair practice proceedings for hearing and decision. (Indiana Education Employment Relations Board; 560 IAC 2-2-7; filed Oct 6, 1988, 11:15 a.m.: 12 IR 304; readopted filed Sep 12, 2001, 10:55 a.m.: 25 IR 529; readopted filed Nov 30, 2007, 11:19 a.m.: 20071226-IR-560070368RFA; readopted filed Sep 10, 2013, 10:25 a.m.: 20131009-IR-560130214RFA) 
+
+560 IAC 2-2-8 Notice of election 
+Authority: IC 20-7.5-1-9 
+Affected: IC 20-7.5-1 
+Sec. 8. The board or its agent shall furnish the school employer with a notice of election for suitable posting. Such notices shall set forth the details and procedures for the election; the appropriate unit; the eligibility period; the date(s), hours, and place(s) of the election; and shall contain a sample ballot. Such notices shall be posted in prominent places at least five (5) days prior to the date of the election. (Indiana Education Employment Relations Board; 560 IAC 2-2-8; filed Oct 6, 1988, 11:15 a.m.: 12 IR 304; readopted filed Sep 12, 2001, 10:55 a.m.: 25 IR 529; readopted filed Nov 30, 2007, 11:19 a.m.: 20071226-IR­560070368RFA; readopted filed Sep 10, 2013, 10:25 a.m.: 20131009-IR-560130214RFA) 
+
+560 IAC 2-2-9 Election procedures 
+Authority: IC 20-29-3-11; IC 20-29-5-3 
+Affected: IC 20-29-5; IC 20-29-7 
+Sec. 9. (a) All elections shall be conducted and supervised by one (1) or more board agents. All elections shall be by secret ballot. Absentee ballots may be permitted under terms agreed to by the school employer and school employee organizations on the ballot and accepted by the board's agent or under such terms as the board or its agent may direct. 
+(b) 
+A school employee organization shall not be entitled to a place on the ballot unless it submits written evidence satisfactory totheboard or itsagentofatleasttwentypercent(20%)representation oftheschool employeesin theunit. In addition totheschool employee organizations included as choices on the ballot in the election, the ballot shall contain a choice of "no representation by a school employee organization", except where the board or its agent orders a runoff ballot in an election under IC 20-29-5-3 or a rerun ballot in an election under IC 20-29-7-4. 
+
+(c) 
+Whenever two (2) or more school employee organizations are included as choices on a ballot, any such organization may, upon prompt request to and approval thereof by the board or its agent, have its name removed from the ballot; provided, however, that in a proceeding involving a petition filed by a school employer or a petition for decertification, neither the school employee organization certified and currently recognized nor a school employee organization found to be seeking recognition may have its name removed from the ballot without giving notice in writing to all parties and the board or its agent that it disclaims any representation interest among the school employees in the unit. 
+
+(d) 
+Voting shall be by secret ballot. The board or its agent shall give each eligible voter a ballot which shall be marked in secrecy. The board or its agent or agents or authorized observers may challenge the eligibility of any person to participate in the election. 
+
+(e) 
+Eligible voters shall be those school employees included within the unit described in the collective bargaining agreement for consent election or as determined by the board or its agent those who were employed during the payroll period immediately prior to the election, including employees who did not work during that period because they were ill, on vacation, or on other legitimate leave, as determined by the board or its agent. Ineligible to vote are those school employees who quit or were discharged for cause since the designated payroll period and who have not been rehired or reinstated before the election date. In all representation elections conducted under this section, the school employer is required to file with the board and with the school employee organization or organizations an election eligibility list, unless otherwise directed differently by the board or its agent. The list shall consist of an alphabetical listing of the names of all eligible voters, together with their last known mailing address, 
+
+
+and building in which the voter is primarily assigned, unless otherwise directed by the board or its agent. The eligibility list must be received by the board or its agent not later than ten (10) days prior to the date of the election. A school employee whose name does not appear on the eligibility list shall not be precluded from voting but should be challenged on the day of election. 
+(f) 
+Mail ballot elections procedures are as follows: 
+
+(1) 
+The voter eligibility list must be provided by the school employer as a set of preprinted mailing labels containing the names and addresses of each eligible voter. In the event that the school employer is unable to provide preprinted mailing labels due to extraordinary circumstances, the IEERB staff will prepare labels from an eligibility list provided by the employer. 
+
+(2) 
+The voter eligibility list will be provided by the school employer to the IEERB and all employee organizations listed on the ballot ten (10) days prior to the first day of the polling period. All employee organizations listed on the ballot or potential voters who wish to challenge the voter eligibility list must do so by notifying the IEERB not later than five (5) days prior to the first day of the polling period. The voter eligibility list will be deemed final if no challenges are received. 
+
+(3) 
+IEERB entrusts ballots to the U.S. mail for transmittal to eligible voters and pays the postage for eligible voters to transmit their ballots back to IEERB. In addition to any sanctions imposed by IEERB, allegations of tampering with the transmittal of mail ballots will be turned over to federal authorities for prosecution as mail fraud. 
+
+(4) 
+IEERB staff will send ballot materials to eligible voters at least three (3) calendar days (excluding Sundays or legal holidays) prior to the beginning of the polling period. 
+
+(5) 
+An eligible voter may return the ballot by mail or may hand-deliver his or her ballot to the IEERB office. 
+
+(6) 
+The polling period will consist of at least fourteen (14) calendar days, but not more than thirty (30) calendar days, and will be determined by the IEERB hearing officer in consultation with the interested parties. In order to be counted, a ballot must be received by IEERB by the last date of the polling period. 
+
+(7) 
+All returned ballots are handled exclusively by IEERB staff. Ballots shall remain unopened in return envelopes until the time and date of the tabulation of ballots. 
+
+(8) 
+Where IEERB staff has sent an eligible voter a duplicate ballot, the original ballot will no longer be deemed countable and will be discarded if received by IEERB. 
+
+(9) 
+Where more than one (1) employee organization is a party in the election, the incumbent will have first choice as to the position of the employee organization's name on the ballot. For nonincumbent employee organizations, choices as to ballot position shall be made in the order in which the employee organizations filed a showing of interest. 
+
+(10) 
+All employee organizations listed on the ballot will have equal access to mailboxes, bulletin boards, and lounges for certificated employees during the period between the ordering of an election and the final date of balloting. Campaigning will be limited to certificated employee areas. All employee organizations will be required to follow school employer policies and procedures in all campaign activities. 
+
+
+(g) 
+The tabulation of ballots shall be scheduled on the IEERB business day following the deadline for return of the ballots, or at such date and time deemed appropriate by the IEERB hearing officer. The board or its agent or agents in the presence of the authorized observers shall count and tabulate the ballots. Upon request, a complete tally of the ballots will be furnished to the parties at the conclusion of the count. Each interested party will be allowed one (1) official observer to be present at the tabulation of ballots. Each party must notify IEERB in writing as to the person who is the official observer representing that party. If a party fails to notify IEERB of its official observer, or if the official observer fails, without reasonable cause as determined by the IEERB hearing officer, to appear at the ballot tabulation, that party shall forfeit its right to observe the tabulation of ballots. Challenges may be waived before the count, and the challenged ballots should be removed from the envelopes and counted with other ballots. If there is no waiver, challenged ballots shall not be opened or counted at this time but shall remain sealed. 
+
+(h) 
+If challenged ballots are sufficient in number to affect the results of the election, the board or its agent or agents shall conductan investigation,which mayincludeahearing,andmakearulingupon thechallenges.Alldocuments,evidence,andbriefs of the parties in support of or in opposition to the challenge shall be filed within five (5) days of the initial tally of the votes. After a ruling is made on the challenges, those ballots in which the challenge was not upheld shall be counted and added to the tally, and a new tally will be furnished to the parties upon request. 
+
+(i) 
+If objections to the conduct of the election are filed, they shall be filed within five (5) days of the initial tally of the ballots. Documents, evidence, and briefs in support of the objections shall be filed with the board and served on all other parties within the five (5) day time limit. All other parties shall have an additional five (5) days from receipt of the objections to file answering 
+
+
+briefs. The board or its agent shall conduct an investigation, which may include hearing the objections and ruling upon them, except where the board agent's conduct is the subject of an objection to an election. If the agent's conduct is the subject of an objection, the agent shall not conduct the investigation of or hearing on the objection. Prior to the next board meeting, the board or its appropriate designee will appoint another agent who will investigate and hear the objections. 
+(j) After the investigation has been completed or, where appropriate, the hearing process has been completed, the board will render a determination with regard to the objections either setting aside the election and directing a new election or dismissing the objections and issuing the appropriate certification. (Indiana Education Employment Relations Board; 560 IAC 2-2-9; filed Oct 6, 1988, 11:15 a.m.: 12 IR 305; readopted filed Sep 12, 2001, 10:55 a.m.: 25 IR 529; readopted filed Nov 30, 2007, 11:19 a.m.: 20071226-IR-560070368RFA; filed Aug 28, 2012, 2:06 p.m.: 20120926-IR-560120112FRA; readopted filed Sep 10, 2013, 10:25 a.m.: 20131009-IR-560130214RFA) 
+
+560 IAC 2-2-10 Election requiring a runoff ballot 
+Authority: IC 20-7.5-1-9 
+Affected: IC 20-7.5-1 
+Sec. 10. (a) When a runoff is appropriate. The board shall order a runoff when the original ballot provided for not less than three(3)choices(for example,at least two(2) choicesand "norepresentation") resultsin nochoicereceivingamajorityofthevotes of the total number of school employees who were eligible to vote and when any objections or challenges filed have been disposed of, as provided herein. Only one (1) runoff shall be held pursuant to this section. 
+(b) 
+Voter eligibility. School employees who were eligible to cast the original ballot and who are in an eligible category on the date of the runoff shall be eligible to vote in the runoff. 
+
+(c) 
+Choices on ballot. The runoff ballot shall provide for a selection between the two (2) choices receiving the largest and second largest number of votes. 
+
+(d) 
+When a runoff is inappropriate. There can be no runoff ballot where: 
+
+(1) 
+there are but two (2) choices on the ballot; 
+
+(2) 
+all choices, including "no representation," receive an equal number of votes, there are challenged ballots or objections that would affect the results of the election, or less than all eligible voters cast valid ballots; or 
+
+(3) 
+where two (2) choices receive an equal number of votes and a third choice receives a higher but less-than majority of eligible votes, there are challenged ballots or objections that would affect the results of the election, or less than all eligible voters cast valid ballots. 
+
+
+
+(e) 
+Certification of results. In the event two (2) or more choices receive the same number of votes and there are no challenged ballots that would affect the results of the election and all eligible voters have cast valid ballots, there shall be no runoff; a certification of results of election shall be issued, and the representation petition(s) dismissed. (Indiana Education Employment Relations Board; 560 IAC 2-2-10; filed Oct 6, 1988, 11:15 a.m.: 12 IR 306; readopted filed Sep 12, 2001, 10:55 a.m.: 25 IR 529; readopted filed Nov 30, 2007, 11:19 a.m.: 20071226-IR-560070368RFA; readopted filed Sep 10, 2013, 10:25 a.m.: 20131009-IR­560130214RFA) 
+
+
+
+560 IAC 2-2-11 Elections requiring a rerun ballot 
+Authority: IC 20-7.5-1-9 
+Affected: IC 20-7.5-1 
+Sec. 11. In the event no certification of representation can be issued because of an inconclusive or null election and there are challenged ballots which would affect the results or less than all eligible voters cast valid ballots, the board or its agent shall declare the initial election a nullityand shall conduct a rerun, providing for a selection from among or between the choices afforded in the original or runoff ballot where: 
+(1) 
+the board or its agent orders a new election following the disposition of objections; 
+
+(2) 
+the ballot provided for a choice among two (2) or more choices one (1) of which could be "no representation," and the number of ballots cast are equally divided among the several choices; 
+
+(3) 
+the number of ballots cast for one (1) choice is equal to the number of ballots cast for another choice and less than the 
+
+
+number of eligible voters cast ballots; or 
+(4) two (2) choices receive an equal number of votes and a third choice receives a higher but less than a majority of eligible votes. The scheduling of any further reruns pursuant to this section shall be at the discretion of the board. School employees who were eligible to vote in the original election and who are in an eligible category on the date of the rerun shall be eligible to vote in the rerun. 
+In the event two (2) or more choices receive the same number of votes and another choice receives no votes and there are no challenged ballots that would affect the results of the election and all eligible voters have cast valid ballots, there shall be no rerun; a certification of results of election shall be issued, and the representation petition(s) shall be dismissed. 
+In the event there are two (2) choices on the ballot, one (1) being "no representation," and both receive an equal number of votes and all eligible voters have cast valid ballots, there shall be no rerun; a certification of results of election shall be issued, and the representation petition(s) shall be dismissed. (Indiana Education Employment Relations Board; 560 IAC 2-2-11; filed Oct 6, 1988, 11:15 a.m.: 12 IR 306; readopted filed Sep 12, 2001, 10:55 a.m.: 25 IR 529; readopted filed Nov 30, 2007, 11:19 a.m.: 20071226-IR-560070368RFA; readopted filed Sep 10, 2013, 10:25 a.m.: 20131009-IR-560130214RFA) 
+
+560 IAC 2-2-12 Certification and closing of case 
+Authority: IC 20-7.5-1-9 
+Affected: IC 20-7.5-1 
+Sec. 12. (a) Certification. A school employee organization shall be certified as the exclusive representative if the number of valid ballots cast for it equals a majority of all school employees who were eligible to vote in the election. 
+(b) 
+Issuance of certification and closing. If no objections are filed within the time set forth in 560 IAC 2-2-9(i) [section 9(i) of this rule], if the challenged ballots are insufficient in number to affect the result of the election, if no runoff is to be held pursuant to 560 IAC 2-2-10 [section 10 of this rule], or if no rerun resulted as provided in 560 IAC 2-2-11 [section 11 of this rule], the chairman shall forthwith issue to the parties a certification of results of the election or a certification of the exclusive representative with the same force and effect as if issued by the board; and the proceeding will thereupon be closed. 
+
+(c) 
+Challenged ballots and certification results. In cases where the number of challenged ballots is sufficient to affect the result of the election and the hearing officer rules that all challenges be sustained, he shall serve the ruling upon all parties and confirm the initial tally. If the ruling of the hearing officer does not sustain all challenges, then a new count and revised tally shall be made as provided in 560 IAC 2-2-9(h) [section 9(h) of this rule]. If no objection to the confirmed initial tally or revised tally or exceptions to the rulings on challenged ballots is filed within five (5) days, the chairman shall forthwith issue to the parties certification of the results of the election or a certification of the exclusive representative with the same force and effect as if issued by the board. 
+
+(d) 
+Objections and board certification. In cases where objections have been filed, the board shall rule on all objections. If the board finds no grounds sufficient to call for an inconclusive or null election and no grounds to order a runoff, the board shall forthwith issue to the parties a certification of the results of the election or a certification of the exclusive representative, where appropriate. (Indiana Education Employment Relations Board; 560 IAC 2-2-12; filed Oct 6, 1988, 11:15 a.m.: 12 IR 307; readopted filed Sep 12, 2001, 10:55 a.m.: 25 IR 529; readopted filed Nov 30, 2007, 11:19 a.m.: 20071226-IR-560070368RFA; readopted filed Sep 10, 2013, 10:25 a.m.: 20131009-IR-560130214RFA) 
+
+
+
+560 IAC 2-2-13 Period of unchallengeable representation 
+Authority: IC 20-7.5-1-9 
+Affected: IC 20-7.5-1-7; IC 20-7.5-1-10 
+Sec. 13. (a) Where a valid election has been held in a bargaining unit in the preceding twenty-four (24) months, no petition for a subsequent election may be filed until sixty (60) days before the second anniversary of the first ballot in the election; and no election shall be conducted until at least twenty-four (24) months after the first ballot in the previous election. 
+(b) 
+If board investigation under section 3(f) of this rule shows that a school employee organization has been duly recognized under procedures conforming to IC 20-7.5-1-10(b) within the preceding twelve (12) months, any petition filed under section 3 of 
+
+this rule shall be dismissed. 
+
+(c) 
+A representation petition shall be held in abeyance where an unfair practice complaint is filed alleging that the school employer violated IC 20-7.5-1-7(a)(2) by dominating, interfering, or assisting in the formation or administration of the school employee organization. The complaint for unfair practice must specifically request that the election be stayed. If an IC 20-7.5-1­7(a)(2) violation is alleged in the complaint and the complaint requests a stay of the election, proceedings on the representation petition shall be stayed until a determination of the unfair practice complaint is made under proceedings provided for unfair practices. The IC 20-7.5-1-7(a)(2) complaint shall be given priority over other unfair practice complaints. The board or its agent may proceed with the representation petition where: 
+
+(1) 
+the complaining party in the unfair practice complaint requests that the election proceed; 
+
+(2) 
+the unfair practice complaint does not request the election be stayed and the board or its agent determines that school employees would be able to freely exercise their choice; or 
+
+
+
+(3) 
+the unfair practice complaint is filed too late to permit an investigation of the complaint before the scheduled election. The board or its agent may consolidate representation proceedings with the unfair practice proceedings. All hearings provided for in sections 6 and 7 of this rule shall be conducted by a hearing examiner as provided for in 560 IAC 2-3-1 through 560 IAC 2-3-5. 
+
+(d) 
+If an investigation under section 3(f) of this rule reveals that a written collective bargaining agreement with substantive terms exists between the school employer and a school employee organization which is certified or has been duly recognized under procedures conforming to IC 20-7.5-1-10(b), a representation petition filed under section 3(c) of this rule shall be dismissed; provided, however, the representation petition shall not be dismissed if the petition is filed between January 15 and February 14, inclusive of the calendar year of the expiration date of the collective bargaining agreement. A collective bargaining agreement having a term in excess of two (2) years shall be treated as an agreement for a term of two (2) years from its date of execution. A collective bargaining agreement for an indefinite term shall be treated as a one (1) year agreement measured from the date of execution. Extensions of any collective bargaining agreement shall not extend the period of unchallengeable representation status. In addition, any such collective bargaining agreement entered into after the effective date of this amendment to this section, and executed within the twenty-four (24) month period immediately subsequent to a previous valid election, shall not operate as a bar to a representation petition. 
+
+(e) 
+The election bar in subsection (a), the recognition bar in subsection (b), a pending unfair practice complaint in subsection (c), and a contract bar in subsection (d) shall not operate to bar proceedings initiated by a petition for unit clarification or a petition for unit amendment. No petition may be filed for a unit clarification where the board has made a unit clarification decision within the previous twelve (12) months. A petition for unit amendment may be filed at any time, and the twelve (12) month rule shall not apply. (Indiana Education Employment Relations Board; 560 IAC 2-2-13; filed Oct 6, 1988, 11:15 a.m.: 12 IR 307; filed May 8, 1996, 3:00 p.m.: 19 IR 2877; readopted filed Sep 12, 2001, 10:55 a.m.: 25 IR 529; readopted filed Nov 30, 2007, 11:19 a.m.: 20071226-IR-560070368RFA; readopted filed Sep 10, 2013, 10:25 a.m.: 20131009-IR-560130214RFA) 
+
+
+
+560 IAC 2-2-14 Review by the full board 
+Authority: IC 20-7.5-1-9 
+Affected: IC 20-7.5-1 
+
+Sec. 14. (a) Notice of intent to file objections. Any party may file a notice of intent to file objections within fifteen (15) days of: 
+(1) 
+the dismissal or withdrawal of a representation petition; 
+
+(2) 
+a unit amendment or clarification decision where no election is ordered; 
+
+(3) 
+other representation issue decided; 
+
+(4) 
+certification of election results or representation when an election is conducted; or 
+
+
+(5) 
+certification of election results or representation where there are objections to the conduct of an election. The notice of intent shall identify the basis of the objection with reasonable particularity. 
+
+(b) 
+Contents of objections. When a notice of intent is timely filed, the chairman shall set a date by which the petition for review with supporting briefs shall be filed. Each objection shall: 
+
+(1) 
+set forth specifically any matters of procedure, fact, law, or policy to which the petitioner objects; 
+
+(2) 
+identify that part of the hearing officer's report, if any, to which objection is made; 
+
+(3) 
+designate by precise citation of page the portions of the record, if any, relied upon; and 
+
+(4) 
+state the grounds for the objections and include the citation of authorities, where applicable, unless set forth in a supporting brief. If the party desires to argue orally to the board, the request to do so must accompany the objections. Any objection to a 
+
+
+
+
+hearingofficer'sreportor rulingor thechairman's certification ofelection results or representation which isnotspecificallyargued shall be deemed to have been waived. Any objection which fails to comply with the foregoing requirements may not be argued, orally or in briefs, before the board or in any further proceedings before a hearing officer on remand. 
+(c) 
+Contents of answering briefs. After the petitioner has filed objections and a brief in support thereof and within such time as the chairman may allow, any party opposing the objections may file an answering brief to the objections. The answering brief to the objections shall be limited to the questions raised in the objections and in the brief in support thereof. 
+
+(d) 
+Motion to dismiss. If any motion in the nature of a motion to dismiss the petition in its entirety is granted by the hearing officer, the hearing officer shall make findings and conclusions in support of the ruling and forward the case to the board. The hearing officer shall file the original of these findings and conclusions with the board and cause a copy thereof to be served upon each of the parties. The filing of the findings and conclusions shall operate to transfer the case to the board. 
+
+(e) 
+Automatic decision and final order of board. In the event no timely and proper objections to unit clarification and unit amendment decisions, tally results, and certification of election results or representation are filed as provided for in 560 IAC 2-2 [this rule], the order(s), ruling(s), or report of the hearing officer shall become the decision and final order of the board. All objections to the hearing officer's ruling(s), order(s), or report shall be deemed to have been waived for all purposes. 
+
+(f) 
+Unit determination review. There shall be no review of a unit determination while there is a pending election until after theelection.Aunitdetermination challengebytheschoolemployer,theschoolemployeeorganization(s) on theballot,or theboard or its agent may be preserved at the time of the election. 
+
+(g) 
+Board decision. Upon the filing of timely and proper objections and answering briefs, the board may decide the matter upon the record, with or without oral arguments. If the record is insufficient, the board may remand the case for further proceeding before a board member or a hearing officer. Regardless of whether the board decides the matter upon the original record or after remand, the board shall issue a final order affirming, modifying, or dissolving the hearing officer's ruling(s), order(s), or report. 
+
+(h) 
+Board final order. The final order of the board shall: 
+
+(1) 
+direct an election in an appropriate unit; 
+
+(2) 
+dismiss the petition, in whole or in part; 
+
+(3) 
+affirm or reverse the chairman's or hearing officer's order and/or actions, in whole or in part; or 
+
+
+
+(4) 
+make such other disposition of the matter as it deems appropriate. In a unit clarification or unit amendment decision, the final order of the board must identify any differences between the final order and the report issued by the hearing officer and include findings of fact or incorporate the findings of fact in the hearing officer's report by express reference to the report. 
+
+(i) 
+Record of representation proceedings. The record of the representation proceedings shall consist of: the petition, any complaints filed by individual school employees, papers filed by other parties in response to the petition, notice of the hearing, motions, rulings, orders, the transcript of the hearing, stipulations, exhibits, documentary evidence, affidavits of service, depositions, and any briefs or other documents submitted by the parties to the hearing officer. (Indiana Education Employment Relations Board; 560 IAC 2-2-14; filed Oct 6, 1988, 11:15 a.m.: 12 IR 308; readopted filed Sep 12, 2001, 10:55 a.m.: 25 IR 529; readopted filed Nov 30, 2007, 11:19 a.m.: 20071226-IR-560070368RFA; readopted filed Sep 10, 2013, 10:25 a.m.: 20131009-IR­560130214RFA) 
+
+
+Rule 3. Unfair Practice Procedure 
+
+560 IAC 2-3-1 Definition; appointment of hearing examiner 
+Authority: IC 20-7.5-1-9 
+Affected: IC 20-7.5-1-11 
+
+Sec. 1. For purposes of this section, the term "hearing examiner" shall mean a hearing examiner or agent of the board as provided for in IC 20-7.5-1-11(b). Upon the filing of a complaint, the chairman or his designee shall appoint a hearing examiner 
+unless a board member or the board is to serve as hearing examiner. (Indiana Education Employment Relations Board; 560 IAC 2-3-1; filed Oct 6, 1988, 11:15 a.m.: 12 IR 309; readopted filed Sep 12, 2001, 10:55 a.m.: 25 IR 529; readopted filed Nov 30, 2007, 11:19 a.m.: 20071226-IR-560070368RFA; readopted filed Sep 10, 2013, 10:25 a.m.: 20131009-IR-560130214RFA) 
+
+560 IAC 2-3-2 Who may file complaint 
+Authority: IC 20-7.5-1-9 
+Affected: IC 20-7.5-1-7 
+Sec. 2. A complaint alleging that any person has engaged in or is engaging in any unfair practice as described by IC 20-7.5­1-7 may be filed by any school employer, school employee, or school employee organization on behalf of a school employee(s). The complaint shall be in writing, under oath, signed by the complainant(s), and served upon the respondent(s) by certified mail or by personal service. (Indiana Education Employment Relations Board; 560 IAC 2-3-2; filed Oct 6, 1988, 11:15 a.m.: 12 IR 309; readopted filed Sep 12, 2001, 10:55 a.m.: 25 IR 529; readopted filed Nov 30, 2007, 11:19 a.m.: 20071226-IR-560070368RFA; readopted filed Sep 10, 2013, 10:25 a.m.: 20131009-IR-560130214RFA) 
+
+560 IAC 2-3-3 Withdrawal of complaint 
+Authority: IC 20-7.5-1-8 
+Affected: IC 20-7.5-1 
+Sec. 3. With the approval of the hearing examiner, a complaint may be withdrawn by the complainant at any time before the case is transferred to the board under 560 IAC 2-3-21 [section 21 of this rule]. With the approval of the board, a complaint may be withdrawn by the complainant at any time after the case is transferred to the board and before the board enters a final order in the case. (Indiana Education Employment Relations Board; 560 IAC 2-3-3; filed Oct 6, 1988, 11:15 a.m.: 12 IR 309; readopted filed Sep 12, 2001, 10:55 a.m.: 25 IR 529; readopted filed Nov 30, 2007, 11:19 a.m.: 20071226-IR-560070368RFA; readopted filed Sep 10, 2013, 10:25 a.m.: 20131009-IR-560130214RFA) 
+
+560 IAC 2-3-4 Contents of complaint 
+Authority: IC 20-7.5-1-9 
+Affected: IC 20-7.5-1 
+Sec. 4. The complaint shall contain the following: 
+(1) 
+the full name, address, and telephone number of the person(s) making the complaint; 
+
+(2) 
+the name, address, and telephone number of any attorney or representative acting on behalf of the person(s) making the complaint; 
+
+(3) 
+the name, address, and telephone number of the person(s) against whom the complaint is made (hereinafter referred to as respondent(s)); 
+
+(4) 
+a summary of the facts involved and a specification of the section(s) of IC 20-7.5-1 which the complainant alleges have been violated; and 
+
+
+(5) a statement of the remedy(s) being sought. (Indiana Education Employment Relations Board; 560 IAC 2-3-4; filed Oct 6, 1988, 11:15 a.m.: 12 IR 309; readopted filed Sep 12, 2001, 10:55 a.m.: 25 IR 529; readopted filed Nov 30, 2007, 11:19 a.m.: 20071226-IR-560070368RFA; readopted filed Sep 10, 2013, 10:25 a.m.: 20131009-IR-560130214RFA) 
+
+560 IAC 2-3-4.1 Mediation of unfair practices 
+Authority: IC 4-21.5-3.5-2; IC 20-7.5-1-9 
+Affected: IC 4-21.5-3.5; IC 20-7.5-1-11 
+Sec. 4.1. The provisions of IC 4-21.5-3.5 concerning mediation apply to administrative proceedings under IC 20-7.5-1-11 and this rule. (Indiana Education Employment Relations Board; 560 IAC 2-3-4.1; filed Jun 11, 1998, 5:05 p.m.: 21 IR 4205; 
+readopted filed Sep 12, 2001, 10:55 a.m.: 25 IR 529; readopted filed Nov 30, 2007, 11:19 a.m.: 20071226-IR-560070368RFA; readopted filed Sep 10, 2013, 10:25 a.m.: 20131009-IR-560130214RFA) 
+
+560 IAC 2-3-5 Answer 
+Authority: IC 20-7.5-1-9 
+Affected: IC 20-7.5-1 
+Sec. 5. (a) Contents of answer. In the answer the respondent shall: 
+(1) 
+state the name, address, and telephone number of any attorney or representative acting on behalf of the respondent; and 
+
+(2) 
+specifically admit, deny, or explain each of the facts alleged in the complaint. If the respondent is without knowledge in regard to certain alleged facts, the respondent shall so state. Such a statement shall operate as a denial. If no answer is timely filed or if the respondent fails to specifically deny or explain any allegation of the complaint or fails to claim he is without knowledge as to any allegation in the complaint, then any such allegation shall be deemed to have been admitted as true, unless good cause is shown to the contrary. 
+
+
+(b) Filing the answer. The answer shall be filed within fifteen (15) days of the appointment of a hearing examiner or such further time as the hearing examiner may allow. (Indiana Education Employment Relations Board; 560 IAC 2-3-5; filed Oct 6, 1988, 11:15 a.m.: 12 IR 310; readopted filed Sep 12, 2001, 10:55 a.m.: 25 IR 529; readopted filed Nov 30, 2007, 11:19 a.m.: 20071226-IR-560070368RFA; readopted filed Sep 10, 2013, 10:25 a.m.: 20131009-IR-560130214RFA) 
+
+560 IAC 2-3-6 Complaints and answers; amendment 
+Authority: IC 20-7.5-1-9 
+Affected: IC 20-7.5-1 
+Sec. 6. The appropriate party may amend a complaint or an answer at any time prior to the entry of a final order by the board by making application to and receiving approval from the hearing examiner, if the matter is before a hearing examiner, or by making application to and receiving approval from the board, if the matter is before the board. The hearing examiner or the board may grant approval of an amendment upon such terms and conditions as it deems appropriate. The answer may be amended even if the complaint is not amended. However, the respondent shall have an absolute right to amend the answer if amendment of the complaint is approved. (Indiana Education Employment Relations Board; 560 IAC 2-3-6; filed Oct 6, 1988, 11:15 a.m.: 12 IR 310; readopted filed Sep 12, 2001, 10:55 a.m.: 25 IR 529; readopted filed Nov 30, 2007, 11:19 a.m.: 20071226-IR-560070368RFA; readopted filed Sep 10, 2013, 10:25 a.m.: 20131009-IR-560130214RFA) 
+
+560 IAC 2-3-7 Motions 
+Authority: IC 20-7.5-1-9 
+Affected: IC 20-7.5-1 
+Sec. 7. All motions made before or after the hearing but prior to the filing of the hearing examiner's report shall be filed in writing with the hearing examiner and shall briefly state the order or relief applied for and the grounds for each motion. If no hearing examiner has been designated, the motions shall be filed with the chairman, who may rule on the motions or designate a hearing examiner and refer the motions to the hearing examiner. Motions made at the hearing may be stated orally. (Indiana Education Employment Relations Board; 560 IAC 2-3-7; filed Oct 6, 1988, 11:15 a.m.: 12 IR 310; readopted filed Sep 12, 2001, 
+10:55 a.m.: 25 IR 529; readopted filed Nov 30, 2007, 11:19 a.m.: 20071226-IR-560070368RFA; readopted filed Sep 10, 2013, 
+10:25 a.m.: 20131009-IR-560130214RFA) 
+
+560 IAC 2-3-8 Motion to extend time; rulings, effect 
+Authority: IC 20-7.5-1-9 
+Affected: IC 20-7.5-1 
+Sec. 8. (a) Rulings by board. Motions made to the board after the hearing examiner has made his report shall be ruled upon by the board or its designated agent. 
+(b) 
+Rulings by hearing examiner. Rulings and orders by the hearing examiner on motions or on admission of evidence, if announced at the hearing, shall be stated orally on the record. In all other instances, such rulings and orders shall be issued in writing. The hearing examiner shall cause a copy of his rulings and orders to be served upon each of the parties. A hearing examiner also may make his rulings and orders in his report. All motions, rulings, and orders shall become a part of the record. A hearing examiner's rulings on objections and orders issued on motions shall not be appealed directly to the board except by special permission of the board. The board shall consider such rulings and orders in reviewing the record along with the hearing examiner's report. Requests to the board for special permission to appeal such rulings of the hearing examiner shall be filed promptly in writing and shall briefly state the grounds relied on. Such requests shall not operate to suspend or stay proceedings but shall be processed simultaneously. The filing of an answer or continued participation in the proceedings shall not be deemed to be a waiver of the right to make motions or objections to rulings. 
+
+(c) 
+Effect of order to extend time. The granting of a motion to extend time shall automatically extend the time for any party who must complete the same act as the petitioner. (Indiana Education Employment Relations Board; 560 IAC 2-3-8; filed Oct 6, 1988, 11:15 a.m.: 12 IR 310; readopted filed Sep 12, 2001, 10:55 a.m.: 25 IR 529; readopted filed Nov 30, 2007, 11:19 a.m.: 20071226-IR-560070368RFA; readopted filed Sep 10, 2013, 10:25 a.m.: 20131009-IR-560130214RFA) 
+
+
+
+560 IAC 2-3-9 Dismissal 
+Authority: IC 20-7.5-1-9 
+Affected: IC 20-7.5-1 
+Sec. 9. If any motion in the nature of a motion to dismiss the complaint in its entirety is granted by the hearing examiner, the hearing examiner shall make findings and conclusions in support of his ruling and forward the case to the board. The hearing examiner shall file the original of these findings and conclusions with the board and cause a copy thereof to be served upon each of the parties. The filing of the findings and conclusions shall operate to transfer the case to the board. Any further proceedings shall be in conformity with 560 IAC 2-3-22 [section 22 of this rule] and 560 IAC 2-3-23(a) and (b) [section 23(a) through 23(b) of this rule]. (Indiana Education Employment Relations Board; 560 IAC 2-3-9; filed Oct 6, 1988, 11:15 a.m.: 12 IR 311; readopted filed Sep 12, 2001, 10:55 a.m.: 25 IR 529; readopted filed Nov 30, 2007, 11:19 a.m.: 20071226-IR-560070368RFA; readopted filed Sep 10, 2013, 10:25 a.m.: 20131009-IR-560130214RFA) 
+
+560 IAC 2-3-10 Intervention, requisites, rulings, and motions to intervene 
+Authority: IC 20-7.5-1-9 
+Affected: IC 20-7.5-1 
+Sec. 10. (a) Petition for intervention. Before the beginning of the hearing on the subject of the proceeding, the hearing examiner shall grant a petition for intervention in a proceeding and identifythepetitioner in therecord oftheproceeding asa party if: 
+(1) 
+the petition: 
+
+(A) 
+is submitted in writing to the hearing examiner with copies mailed to all parties named in the record of the proceeding; and 
+
+(B) 
+states facts demonstrating that a statute gives the petitioner an unconditional right to intervene in the proceeding; or 
+
+
+
+(2) 
+the petition: 
+
+(A) 
+is submitted in writing to the hearing examiner, with copies mailed to all parties named in the record of the proceeding, at least three (3) days before the hearing; and 
+
+(B) 
+states facts demonstrating that the petitioner's rights, duties, privileges, immunities, or other legal interests may be substantially prejudiced by the proceeding or a statute gives the petitioner a conditional right to intervene in the proceeding. 
+
+
+
+
+(b) 
+Ruling on intervention. The hearing examiner at least twenty-four (24) hours before the beginning of the hearing shall issue an order granting or denying each pending petition for intervention. 
+
+(c) 
+When intervention will be granted. After the beginning of the hearing on the subject of the proceeding, but before the close of evidence in the hearing, anyone may be permitted to intervene in the proceeding if: 
+
+(1) 
+a statute confers a conditional right to intervene or an applicant's claim or defense and the main action have a question of law or fact in common; and 
+
+(2) 
+the hearing examiner determines that the interests of justice and the orderly and prompt conduct of the proceedings will not be impaired by allowing the intervention. In reaching a determination, the hearing examiner shall consider whether the intervention will unduly delay or prejudice 
+
+
+
+
+the adjudication of the legal interests of any of the parties. 
+(d) 
+Order regarding intervention. An order granting or denying a petition for intervention must specify any condition and briefly state the reasons for the order. At any time, the hearing examiner may modify the order, stating the reasons for the modification. The hearing examiner shall promptly give notice of an order granting, denying, or modifying intervention to the petitioner for intervention and to all parties. 
+
+(e) 
+Amicus curiae. An amicus curiae may file a brief in any case pending before the board. An amicus curiae shall file with the board a notice of intent to file a brief. The chairman shall determine the time within which a brief shall be filed. With the permission of the board, an amicus curiae may participate in the oral argument before the board. (Indiana Education Employment Relations Board; 560 IAC 2-3-10; filed Oct 6, 1988, 11:15 a.m.: 12 IR 311; readopted filed Sep 12, 2001, 10:55 a.m.: 25 IR 529; readopted filed Nov 30, 2007, 11:19 a.m.: 20071226-IR-560070368RFA; readopted filed Sep 10, 2013, 10:25 a.m.: 20131009-IR­560130214RFA) 
+
+
+
+560 IAC 2-3-11 Examination of witnesses; depositions 
+Authority: IC 20-7.5-1-9 
+Affected: IC 20-7.5-1 
+Sec. 11. (a) Examination of witnesses. Witnesses at hearings shall be examined orally under oath, except that after the filing of an answer testimony may be taken by deposition and introduced in accordance with the Indiana Rules of Procedure. 
+(b) Motion totakeadeposition.Anypartymaytakeadeposition ofanyperson.Such depositionsshall betaken in accordance with the Indiana Rules of Procedure. (Indiana Education Employment Relations Board; 560 IAC 2-3-11; filed Oct 6, 1988, 11:15 a.m.: 12 IR 311; readopted filed Sep 12, 2001, 10:55 a.m.: 25 IR 529; readopted filed Nov 30, 2007, 11:19 a.m.: 20071226-IR­560070368RFA; readopted filed Sep 10, 2013, 10:25 a.m.: 20131009-IR-560130214RFA) 
+
+560 IAC 2-3-12 Payment of witness fees, mileage, and fees of persons certifying depositions 
+Authority: IC 20-7.5-1-9 
+Affected: IC 20-7.5-1 
+Sec. 12. Witnesses summoned for a hearing or deposition shall be paid the same fees and mileage paid witnesses in the courts of Indiana. Witness fees and mileage shall be paid by the party calling the witness. The person certifying the deposition shall be paid by the moving party. (Indiana Education Employment Relations Board; 560 IAC 2-3-12; filed Oct 6, 1988, 11:15 a.m.: 12 IR 311; readopted filed Sep 12, 2001, 10:55 a.m.: 25 IR 529; readopted filed Nov 30, 2007, 11:19 a.m.: 20071226-IR­560070368RFA; readopted filed Sep 10, 2013, 10:25 a.m.: 20131009-IR-560130214RFA) 
+
+560 IAC 2-3-13 Who shall conduct the public hearing 
+Authority: IC 20-7.5-1-9 
+Affected: IC 20-7.5-1 
+Sec. 13. The public hearing for the purpose of taking evidence upon an unfair practice complaint shall be conducted by a hearingexaminer appointedbythechairman or hisdesignee, unlesstheboard or anymember thereofpresides. (Indiana Education Employment Relations Board; 560 IAC 2-3-13; filed Oct 6, 1988, 11:15 a.m.: 12 IR 312; readopted filed Sep 12, 2001, 10:55 a.m.: 25 IR 529; readopted filed Nov 30, 2007, 11:19 a.m.: 20071226-IR-560070368RFA; readopted filed Sep 10, 2013, 10:25 a.m.: 20131009-IR-560130214RFA) 
+
+560 IAC 2-3-14 Hearing examiners; duties, powers 
+Authority: IC 20-7.5-1-9 
+Affected: IC 4-21.5; IC 20-7.5-1 
+Sec. 14. It shall be the duty of the hearing examiner to inquire fully into the facts as to whether the respondent has engaged in or is engaging in an unfair practice as set forth in the complaint or amended complaint. Until the case is transferred to the board, an appointed hearing examiner shall have authority to: 
+(1) 
+administer oaths and affirmations; 
+
+(2) 
+grant motions to issue subpoenas; 
+
+(3) 
+rule upon petitions to revoke subpoenas; 
+
+(4) 
+rule upon offers of proof and receive relevant and material evidence; 
+
+(5) 
+take or cause depositions to be taken whenever the ends of justice would be served thereby; 
+
+(6) 
+regulate the course of the hearing, to continue it from day to day, to move it from place to place, if appropriate or necessary to exclude persons or counsel from the hearing for contemptuous conduct, and to strike all related testimony of witnesses refusing to answer any proper question; 
+
+(7) 
+hold pre-hearing conferences for the settlement or simplification of the issues; 
+
+(8) 
+dispose of procedural requests or similar matters including motions to amend pleadings; 
+
+(9) 
+dismiss complaints or portions thereof; 
+
+(10) 
+order hearings reopened or upon motion consolidate prior to issuance of his report; 
+
+(11) 
+make and file a report in conformity with IC 4-21.5-3-27; 
+
+(12) 
+call, examine, and cross-examine witnesses; 
+
+(13) 
+introduce into the record documentary or other evidence; 
+
+(14) 
+request the parties at any time during the hearing to state their respective positions concerning any issue in the case or theory in support thereof; and 
+
+
+(15) take any other action necessitated under the foregoing and authorized by 560 IAC 2 [this article] and/or IC 4-21.5. (Indiana Education Employment Relations Board; 560 IAC 2-3-14; filed Oct 6, 1988, 11:15 a.m.: 12 IR 312; readopted filed Sep 12, 2001, 10:55 a.m.: 25 IR 529; readopted filed Nov 30, 2007, 11:19 a.m.: 20071226-IR-560070368RFA; readopted filed Sep 10, 2013, 10:25 a.m.: 20131009-IR-560130214RFA) 
+
+560 IAC 2-3-15 Hearing examiners; unavailability 
+Authority: IC 20-7.5-1-9 
+Affected: IC 20-7.5-1 
+Sec. 15. If a substitute is required for a hearing examiner, who becomes unavailable for any reason, the board may: 
+(1) 
+act as hearing examiner; 
+
+(2) 
+designate one (1) or more of its members to act as hearing examiner; or 
+
+
+(3) designate an individual, not necessarily an employee of the agency, to act as hearing examiner. (Indiana Education Employment Relations Board; 560 IAC 2-3-15; filed Oct 6, 1988, 11:15 a.m.: 12 IR 312; readopted filed Sep 12, 2001, 10:55 a.m.: 25 IR 529; readopted filed Nov 30, 2007, 11:19 a.m.: 20071226-IR-560070368RFA; readopted filed Sep 10, 2013, 10:25 a.m.: 20131009-IR-560130214RFA) 
+
+560 IAC 2-3-16 Hearing examiners; disqualification 
+Authority: IC 20-7.5-1-9 
+Affected: IC 4-21.5-3; IC 20-7.5-1 
+Sec. 16. A hearing examiner shall withdraw from a proceeding whenever he deems himself to be disqualified under the provisions set forth in IC 4-21.5-3-9 through IC 4-21.5-3-12. (Indiana Education Employment Relations Board; 560 IAC 2-3-16; filed Oct 6, 1988, 11:15 a.m.: 12 IR 312; readopted filed Sep 12, 2001, 10:55 a.m.: 25 IR 529; readopted filed Nov 30, 2007, 11:19 a.m.: 20071226-IR-560070368RFA; readopted filed Sep 10, 2013, 10:25 a.m.: 20131009-IR-560130214RFA) 
+
+560 IAC 2-3-17 Rights of parties 
+Authority: IC 20-7.5-1-9 
+Affected: IC 4-21.5-3-25; IC 4-21.5-3-26; IC 20-7.5-1 
+Sec. 17. Any party shall have the right to appear at such hearing and to call, examine, and cross-examine witnesses. Any party also may introduce into the record documentary or other evidence. However, the hearing examiner may limit such participation under IC 4-21.5-3-25 and IC 4-21.5-3-26. (Indiana Education Employment Relations Board; 560 IAC 2-3-17; filed Oct 6, 1988, 11:15 a.m.: 12 IR 312; readopted filed Sep 12, 2001, 10:55 a.m.: 25 IR 529; readopted filed Nov 30, 2007, 11:19 a.m.: 20071226-IR-560070368RFA; readopted filed Sep 10, 2013, 10:25 a.m.: 20131009-IR-560130214RFA) 
+
+560 IAC 2-3-18 Rules of evidence controlling hearings 
+Authority: IC 20-7.5-1-9 
+Affected: IC 20-7.5-1 
+Sec. 18. The hearing examiner shall regulate the course of the proceedings in conformity with any pre-hearing order and in an informal manner without recourse to the technical, common law rules of evidence applicable to civil actions in the courts. 
+Upon proper objection the hearing examiner shall exclude evidence that is irrelevant, immaterial, unduly repetitious, or excludable on constitutional or statutory grounds or on the basis of evidentiary privilege recognized in the courts. In the absence of proper objection the hearing examiner may exclude objectionable hearsay evidence. If not objected to, the hearsay evidence may form the basis for a hearing examiner's report. However, if the evidence is properlyobjected to and does not fall within a recognized exception to the hearsay rule, the resulting hearing examiner's report may not be based solely upon the hearsay evidence. (Indiana Education Employment Relations Board; 560 IAC 2-3-18; filed Oct 6, 1988, 11:15 a.m.: 12 IR 312; readopted filed Sep 12, 2001, 
+10:55 a.m.: 25 IR 529; readopted filed Nov 30, 2007, 11:19 a.m.: 20071226-IR-560070368RFA; readopted filed Sep 10, 2013, 
+10:25 a.m.: 20131009-IR-560130214RFA) 
+
+560 IAC 2-3-19 Stipulations of fact admissible 
+Authority: IC 20-7.5-1-9 
+Affected: IC 20-7.5-1 
+Sec. 19. In any such proceeding stipulations of fact may be introduced into evidence with respect to any issue. (Indiana Education Employment Relations Board; 560 IAC 2-3-19; filed Oct 6, 1988, 11:15 a.m.: 12 IR 313; readopted filed Sep 12, 2001, 
+10:55 a.m.: 25 IR 529; readopted filed Nov 30, 2007, 11:19 a.m.: 20071226-IR-560070368RFA; readopted filed Sep 10, 2013, 
+10:25 a.m.: 20131009-IR-560130214RFA) 
+
+560 IAC 2-3-20 Filing of pre- and post-hearing briefs; filing of proposed findings; oral argument before the hearing examiner 
+Authority: IC 20-7.5-1-9 
+Affected: IC 20-7.5-1 
+Sec. 20. (a) Pre-hearing brief. In each proceeding, the hearing examiner may require the parties to file pre-hearing briefs at least five (5) days prior to the hearing. Each party shall serve all other parties with a copy of the pre-hearing brief at the hearing. 
+(b) 
+Oral arguments. At the close of the evidence, any party shall, upon request, be afforded a reasonable period in which to give a closing oral argument. All such arguments shall be included in the record of the hearing. 
+
+(c) 
+Post-hearing papers. Following the hearing, any party may file a brief and proposed findings with the hearing examiner. Such post-hearing papers must be filed within such time as the hearing examiner may allow. 
+
+(d) 
+Extension of time. Requests for extension of time in which to file pre- and post-hearing papers shall be made to the hearing examiner. (Indiana Education Employment Relations Board; 560 IAC 2-3-20; filed Oct 6, 1988, 11:15 a.m.: 12 IR 313; readopted filed Sep 12, 2001, 10:55 a.m.: 25 IR 529; readopted filed Nov 30, 2007, 11:19 a.m.: 20071226-IR-560070368RFA; readopted filed Sep 10, 2013, 10:25 a.m.: 20131009-IR-560130214RFA) 
+
+
+
+560 IAC 2-3-21 Hearing examiner's report 
+Authority: IC 20-7.5-1-9 
+Affected: IC 20-7.5-1 
+Sec. 21. (a) Contents, service, and transfer to the board. After the receipt of all post-hearing papers, the hearing examiner shall prepare a report. The report shall contain findings of fact, conclusions of law, and a recommended order. The conclusions of law must be supported by a concise statement of the underlying basic facts of record and by a statement of the applicable law. The hearing examiner shall file the original of his report with the board and cause a copy thereof to be served upon each of the parties. The filing of the report with the board shall operate to transfer the case to the board. 
+(b) 
+Issuance of hearing examiner's report. A hearing examiner's report shall be issued within ninety (90) days of the latter of: 
+
+(1) the conclusion of the hearing; or 
+
+(2) 
+the submission of post-hearing papers. The hearing examiner may waive or extend this period with the written consent of all parties or for good cause shown. 
+
+(c) 
+Remand to hearing examiner. If a case is remanded by the board to a hearing examiner, the sections set forth in 560 IAC 2-3 [this rule] shall apply insofar as they are applicable. (Indiana Education Employment Relations Board; 560 IAC 2-3-21; filed Oct 6, 1988, 11:15 a.m.: 12 IR 313; readopted filed Sep 12, 2001, 10:55 a.m.: 25 IR 529; readopted filed Nov 30, 2007, 11:19 a.m.: 20071226-IR-560070368RFA; readopted filed Sep 10, 2013, 10:25 a.m.: 20131009-IR-560130214RFA) 
+
+
+
+560 IAC 2-3-22 Exceptions, briefs, and time for filing 
+Authority: IC 20-7.5-1-9 
+Affected: IC 20-7.5-1 
+Sec. 22. (a) Notice of intent to file exceptions. To preserve an objection before the board, a party must file a notice of intent to file exceptions to the hearing examiner's report within fifteen (15) days after the report is served on the petitioner. The notice of intent shall identify the basis of the objection with reasonable particularity. 
+(b) Contents of exceptions, briefs, and oral argument. Within such time as the chairman may allow, the petitioner may file exceptions to the hearing examiner's report and a brief in support thereof. Each such exception shall: 
+(1) 
+set forth specifically any matters of procedure, fact, law, or policy to which the petitioner takes exception; 
+
+(2) 
+identify that part of the hearing examiner's report to which objection is made; 
+
+(3) 
+designate by precise citation of page the portions of the transcript relied upon; and 
+
+(4) 
+state the grounds for the exceptions and include the citation of authorities unless set forth in a supporting brief. 
+
+
+If the party desires to argue orally to the board, the request to do so must accompany the exceptions. Any exception to the hearing examiner's report which is not specifically set forth shall be deemed to have been waived. Any exception which fails to comply with the foregoing requirements may not be raised in oral arguments or in briefs before the board or in any further proceedings before a hearing examiner on remand. 
+Any brief in support of exceptions shall only contain matter included within the scope of the exceptions. 
+(c) Answering brief. After the petitioner has filed exceptions and a brief in support thereof and within such time as the chairman may allow, any party opposing the exceptions may file an answering brief to the exceptions and may request oral argument. In its oral argument, the party filing the answering brief may not raise any defense that was not set forth in that brief. 
+The answering brief to the exceptions shall be limited to the questions raised in the exceptions and in the brief in support thereof. (Indiana Education Employment Relations Board; 560 IAC 2-3-22; filed Oct 6, 1988, 11:15 a.m.: 12 IR 313; readopted filed Sep 12, 2001, 10:55 a.m.: 25 IR 529; readopted filed Nov 30, 2007, 11:19 a.m.: 20071226-IR-560070368RFA; readopted filed Sep 10, 2013, 10:25 a.m.: 20131009-IR-560130214RFA) 
+
+560 IAC 2-3-23 Board action 
+Authority: IC 20-7.5-1-9 
+Affected: IC 20-7.5-1 
+Sec. 23. (a) Result of expiration of time. In the event no timely and proper exceptions are filed as herein provided, the report of the hearing examiner shall become the final order of the board. All objections and exceptions to the hearing examiner's report shall be deemed to have been waived. 
+(b) 
+Board decisions. Upon the filing of timely and proper exceptions and answering briefs, the board may decide the matter upon the record, with or without oral argument. The board may remand the case for further proceedings before a board member or a hearing examiner. Regardless of whether the board decides the matter upon the original record or after remand, the board shall issue a final order affirming, modifying, or dissolving the hearing examiner's report. 
+
+(c) 
+Contents of final orders. The final order of the board must: 
+
+(1) 
+identify any differences between the final order and the report issued by the hearing examiner; and 
+
+(2) 
+include findings of fact or incorporate the findings of fact in the hearing examiner's report by express reference to the report. 
+
+
+
+(d) 
+Issuance of board orders. A final order disposing of a proceeding or an order remanding a report to a hearing examiner for further proceedings shall be issued by the board within sixty (60) days of the latter of: 
+
+(1) 
+the date that the hearing examiner's report was issued; 
+
+(2) 
+the receipt of briefs; or 
+
+
+
+(3) 
+the close of oral argument. The board may waive or extend this period with the written consent of all parties or for good cause shown. 
+
+(e) 
+Rehearing. A party may petition the board for a rehearing of a final order. The board may grant a petition for rehearing only if the petitioning party demonstrates that: 
+
+(1) 
+newly-discovered material evidence exists; and 
+
+(2) 
+the evidence could not, by due diligence, have been discovered and produced at the evidentiary hearing during the 
+
+
+
+
+administrative adjudication. The rehearing may be limited to the issues directly affected by the newly discovered evidence. The filing and pendency of a motion for rehearingshallnotoperatetostaytheeffectivenessoftheaction oftheboardunlesssoordered. (Indiana Education Employment Relations Board; 560 IAC 2-3-23; filed Oct 6, 1988, 11:15 a.m.: 12 IR 314; readopted filed Sep 12, 2001, 10:55 a.m.: 25 IR 529; readopted filed Nov 30, 2007, 11:19 a.m.: 20071226-IR-560070368RFA; readopted filed Sep 10, 2013, 10:25 a.m.: 20131009-IR­560130214RFA) 
+
+560 IAC 2-3-24 Board modification of final order 
+Authority: IC 20-7.5-1-9 
+Affected: IC 4-21.5-5; IC 20-7.5-1 
+Sec. 24. (a) When board may modify. The board may modify a final order before the earlier of the following: 
+(1) 
+thirty (30) days after the agency has served the final order; or 
+
+(2) 
+a court assumes jurisdiction over the final order under IC 4-21.5-5. 
+
+
+(b) Clerical mistakes. Clerical mistakes and other errors resulting from oversight or omission in a final order or other part of the record of a proceeding may be corrected by the board on its own motion or the motion of any party. (Indiana Education Employment Relations Board; 560 IAC 2-3-24; filed Oct 6, 1988, 11:15 a.m.: 12 IR 314; readopted filed Sep 12, 2001, 10:55 a.m.: 25 IR 529; readopted filed Nov 30, 2007, 11:19 a.m.: 20071226-IR-560070368RFA; readopted filed Sep 10, 2013, 10:25 a.m.: 20131009-IR-560130214RFA) 
+
+560 IAC 2-3-25 Board or board member as hearing examiner 
+Authority: IC 20-7.5-1-9 
+Affected: IC 20-7.5-1 
+Sec. 25. The board or a member thereof may conduct the initial hearing in any pending case. In such an instance, the board or a member thereof may exercise all of the applicable powers granted in 560 IAC 2-3 [this rule] to a hearing examiner. If the board conducts the proceedings, the board shall enter a final order at the close of the proceedings. If a board member conducts the proceedings, he shall file a hearing examiner's report with the board which shall then enter a final order in accordance with the 
+provisions of 560 IAC 2-3 [this rule]. (Indiana Education Employment Relations Board; 560 IAC 2-3-25; filed Oct 6, 1988, 11:15 a.m.: 12 IR 315; readopted filed Sep 12, 2001, 10:55 a.m.: 25 IR 529; readopted filed Nov 30, 2007, 11:19 a.m.: 20071226-IR­560070368RFA; readopted filed Sep 10, 2013, 10:25 a.m.: 20131009-IR-560130214RFA) 
+
+560 IAC 2-3-26 Record of proceedings 
+Authority: IC 20-7.5-1-9 
+Affected: IC 20-7.5-1 
+
+Sec. 26. The board record of the proceedings shall consist only of the following: 
+(1) 
+notices of all proceedings; 
+
+(2) 
+any pre-hearing order; 
+
+(3) 
+any motions, pleadings, briefs, petitions, requests, and intermediate rulings; 
+
+(4) 
+evidence received or considered; 
+
+(5) 
+a statement of matters officially noticed; 
+
+(6) 
+proffers of proof and objections and rulings on them; 
+
+(7) 
+proposed findings, requested orders, and exceptions; 
+
+
+(8)therecordpreparedfor thehearing examiner or theboard, at a hearing, and anytranscriptoftherecordconsideredbefore final disposition of the proceeding; 
+(9) 
+any final order, nonfinal order (including the hearing examiner's report), and/or order on rehearing; 
+
+(10) 
+staff memoranda or data submitted to the hearing examiner or the board; and 
+
+(11) 
+matters placed on the record after an ex parte communication. 
+
+
+(Indiana Education Employment Relations Board; 560 IAC 2-3-26; filed Oct 6, 1988, 11:15 a.m.: 12 IR 315; readopted filed Sep 12, 2001, 10:55 a.m.: 25 IR 529; readopted filed Nov 30, 2007, 11:19 a.m.: 20071226-IR-560070368RFA; readopted filed Sep 10, 2013, 10:25 a.m.: 20131009-IR-560130214RFA) 
+Rule 4. Impasse Procedures 
+
+560 IAC 2-4-1 Resolution of an impasse; petition for assistance 
+Authority: IC 20-29-3-11; IC 20-29-6-13 
+Affected: IC 20-29-6 
+
+Sec. 1. (a) The IEERB shall declare impasse after September 30 if either: 
+(1) 
+the parties notify the board of impasse; or 
+
+(2) 
+the parties are, or are supposed to be under the terms of their contract, in collective bargaining for all or part of a contract and have not submitted a contract to the IEERB. 
+
+
+(b) 
+Upon the declaration of impasse, each party is required to provide the IEERB with the name, position, address, e-mail address, and phone number of its chief spokesperson, and of the individual to whom billing invoices should be submitted. Each party is required to immediately submit a change in contact information occurring during a mediation or fact-finding process. 
+
+(c) 
+Unless otherwise indicated in these rules, all correspondence for impasse procedures shall be via e-mail. Parties or the IEERB may, in addition to e-mail, correspond via mail, facsimile, or hand delivery. Receipt of an e-mail will be presumed upon dispatch. (Indiana Education Employment Relations Board; 560 IAC 2-4-1; filed Oct 6, 1988, 11:15 a.m.: 12 IR 315; readopted filed Sep 12, 2001, 10:55 a.m.: 25 IR 529; readopted filed Nov 30, 2007, 11:19 a.m.: 20071226-IR-560070368RFA; filed Aug 28, 2012, 2:06 p.m.: 20120926-IR-560120112FRA; readopted filed Sep 10, 2013, 10:25 a.m.: 20131009-IR-560130214RFA) 
+
+
+
+560 IAC 2-4-2 "Conciliator" defined (Repealed) 
+Sec. 2. (Repealed by Indiana Education Employment Relations Board; filed Aug 28, 2012, 2:06 p.m.: 20120926-IR­560120112FRA) 
+
+560 IAC 2-4-3 Appointment of mediator 
+Authority: IC 20-29-3-11; IC 20-29-6-13 
+Affected: IC 20-29-6 
+
+Sec.3.Upon adeclaration ofimpasse,amediator shallbeappointedbytheboard. (Indiana Education Employment Relations Board; 560 IAC 2-4-3; filed Oct 6, 1988, 11:15 a.m.: 12 IR 315; readopted filed Sep 12, 2001, 10:55 a.m.: 25 IR 529; readopted filed Nov 30, 2007, 11:19 a.m.: 20071226-IR-560070368RFA; filed Aug 28, 2012, 2:06 p.m.: 20120926-IR-560120112FRA; readopted filed Sep 10, 2013, 10:25 a.m.: 20131009-IR-560130214RFA) 
+
+560 IAC 2-4-3.1 Last best offer 
+Authority: IC 20-29-3-11; IC 20-29-6-15.1 
+Affected: IC 20-29-6 
+
+Sec. 3.1. (a) The last best offer (LBO) shall be presented to the opposing party at the end of mediation. The LBO must be submitted to the IEERB electronically within two (2) days after mediation has ended. The LBO submitted to IEERB must be identical to the LBO presented to the opposing party at the end of mediation. 
+(b) 
+Each party's LBO shall contain a signed verification stating that all information is correct and that the LBO does not place the employer in a position of deficit financing due to a reduction in the employer's actual general fund revenue or an increase in the employer's expenditures when the expenditures exceed the employer's current year actual general fund revenue. The LBO shall: 
+
+(1) be submitted in the format required by the IEERB; and 
+
+(2) 
+include all information and documents required by the IEERB. Prior to October 1st of each year, IEERB will post on its website the required format, information, and documents for an LBO for that year's bargaining season. This information also will be sent to the parties upon declaration of impasse. 
+
+(c) 
+The LBO shall be submitted to IEERB electronically. If the large size of any supporting documentation precludes electronic delivery, the supporting documentation may be submitted to IEERB in hard copy or an electronic format within twenty-four (24) hours of the submission of the LBO. 
+
+(d) 
+IEERB shall review the LBOs to ensure that the LBO is in the required format and contains the required information and documents. Failure to substantially comply with the requirements of an LBO could result in rejection of the submitted LBO and acceptance of the opposing party's LBO. 
+
+(e) 
+If a party has substantially complied with the LBO requirements, IEERB will notify the submitting party, who will have twenty-four (24) hours to provide the requested format, information, or documents. Failure to submit an LBO as requested by IEERBcould result in rejection ofthe submitted LBO and acceptance of the opposing party's LBO. (Indiana Education Employment Relations Board; 560 IAC 2-4-3.1; filed Aug 28, 2012, 2:06 p.m.: 20120926-IR-560120112FRA; readopted filed Sep 10, 2013, 
+
+
+10:25 a.m.: 20131009-IR-560130214RFA) 
+
+560 IAC 2-4-4 Fact-finding 
+Authority: IC 20-29-3-11; IC 20-29-6-15.1; IC 20-29-8-7 
+Affected: IC 20-29-6-4; IC 20-29-8 
+
+Sec. 4. (a) Parties at impasse must engage in at least one (1) mediation session prior to the initiation of fact-finding. 
+(b) 
+If parties in the fact-finding process are able to reach a settlement, they shall submit identical LBOs to the fact-finder, and the fact-finder shall impose the terms of the joint LBO as the contract. Each party's LBO must contain a verification statement, as required by section 3.1 of this rule. 
+
+(c) 
+The school corporation is responsible for providing a room for the fact-finding hearing and equipment and necessary materials for recording of the proceedings. Each party has a maximum of two (2) hours to present in the fact-finding hearing and one (1) hour for rebuttal. 
+
+(d) 
+The purpose of fact-finding is to provide a final solution on the items permitted to be bargained under IC 20-29-6-4 whenever the parties are unable by themselves, or through a mediator, to resolve a dispute. 
+
+
+(e) If no request for review has reached the board within five (5) days after the parties have received the fact-finding report under section 6 of this rule, the fact-finding report will be delivered to the board, and it will be released to the public within ten 
+(10) days after delivery to the board. (Indiana Education Employment Relations Board; 560 IAC 2-4-4; filed Oct 6, 1988, 11:15 a.m.: 12 IR 315; readopted filed Sep 12, 2001, 10:55 a.m.: 25 IR 529; readopted filed Nov 30, 2007, 11:19 a.m.: 20071226-IR­560070368RFA; filed Aug 28, 2012, 2:06 p.m.: 20120926-IR-560120112FRA; readopted filed Sep 10, 2013, 10:25 a.m.: 20131009-IR-560130214RFA) 
+
+560 IAC 2-4-5 Initiation of mediation or fact-finding 
+Authority: IC 20-29-3-11; IC 20-29-6-13; IC 20-29-6-15.1 
+Affected: IC 20-29-6 
+Sec. 5. The chairman or chairperson or his or her designee shall initiate mediation pursuant to 560 IAC 2-4-1 and 560 IAC 2-4-3, regardless of whether the parties have requested it. The chairman or chairperson or his or her designee shall initiate the fact-finding process if mediation does not result in a contract. (Indiana Education Employment Relations Board; 560 IAC 2-4-5; filed Oct 6, 1988, 11:15 a.m.: 12 IR 316; readopted filed Sep 12, 2001, 10:55 a.m.: 25 IR 529; readopted filed Nov 30, 2007, 11:19 a.m.: 20071226-IR-560070368RFA; filed Aug 28, 2012, 2:06 p.m.: 20120926-IR-560120112FRA; readopted filed Sep 10, 2013, 
+10:25 a.m.: 20131009-IR-560130214RFA) 
+
+560 IAC 2-4-6 Appeal of fact-finding reports 
+Authority: IC 20-29-3-11; IC 20-29-6-18 
+Affected: IC 20-29-6 
+Sec. 6. To obtain board review of a fact-finding report, a request must be made by the school employer or the exclusive representative within thirty (30) days after receipt of the report. The oral or written request must state the nature of the objection to the report. If the request is oral, a written confirmation of the request must be received by the board within two (2) days. The appeal ofa fact-finding report must bein writing, stating thespecificnatureofeach objection tothereport.Anypartyin opposition totheappealmayfilean answering brief. Anyanswering briefmust befiled within ten (10) daysofserviceoftheappealandwithin fifteen (15) days of the filing of the appeal with the IEERB. No additional briefs may be filed unless requested by the board. The board will decide the matter upon the record, with or without oral argument. The appealing party must bear the cost for preparation of a hearing transcript. (Indiana Education Employment Relations Board; 560 IAC 2-4-6; filed Oct 6, 1988, 11:15 a.m.: 12 IR 316; readopted filed Sep 12, 2001, 10:55 a.m.: 25 IR 529; readopted filed Nov 30, 2007, 11:19 a.m.: 20071226-IR-560070368RFA; filed Aug 28, 2012, 2:06 p.m.: 20120926-IR-560120112FRA; readopted filed Sep 10, 2013, 10:25 a.m.: 20131009-IR­560130214RFA) 
+Rule 5. Research 
+
+560 IAC 2-5-1 Master contracts; filing 
+Authority: IC 20-7.5-1-9 
+Affected: IC 20-7.5-1 
+Sec. 1. Every school employer entering into a written contract with an exclusive representative shall file an executed copy of the master contract with the board within thirty (30) days after the contract is executed. (Indiana Education Employment Relations Board; 560 IAC 2-5-1; filed Oct 6, 1988, 11:15 a.m.: 12 IR 316; readopted filed Sep 12, 2001, 10:55 a.m.: 25 IR 529; readopted filed Nov 30, 2007, 11:19 a.m.: 20071226-IR-560070368RFA; readopted filed Sep 10, 2013, 10:25 a.m.: 20131009-IR­560130214RFA) 
+Rule 6. General Matters 
+
+560 IAC 2-6-1 Filing and service 
+Authority: IC 20-7.5-1-9 
+Affected: IC 20-7.5-1 
+Sec. 1. In all instances in this section where this article does not specifically state the number of copies to be filed, the party filing the papers shall furnish an original and one (1) copy to the Indiana education employment relations board. A copy of all such papersfiledwith theIndianaeducation employmentrelationsboardandacopyofalldocumentaryevidenceintroducedor submitted prior to or during a hearing, shall also be furnished to all other parties. Filing and service shall be made promptly by any method authorized by Trial Rule 5 of the Indiana Rules of Procedure. (Indiana Education Employment Relations Board; 560 IAC 2-6-1; filed Oct 6, 1988, 11:15 a.m.: 12 IR 316; filed Sep 16, 1994, 3:40 p.m.: 18 IR 260; readopted filed Sep 12, 2001, 10:55 a.m.: 25 IR 529; readopted filed Nov 30, 2007, 11:19 a.m.: 20071226-IR-560070368RFA; readopted filed Sep 10, 2013, 10:25 a.m.: 20131009-IR-560130214RFA) 
+
+560 IAC 2-6-2 Representatives of parties and attorneys 
+Authority: IC 20-7.5-1-9 
+Affected: IC 20-7.5-1 
+Sec.2.Apartymayberepresentedbyanyperson or attorneyit mayauthorizetoappear beforetheboard on theparty'sbehalf, and there shall be no limit on the number of such representatives who may appear. Each person or attorney appearing for a party shall file an appearance form. However, each party shall designate one (1) person for the purpose of service of notice, pleadings, and papers by the board and other parties. Service on the designated representative shall be deemed to be service on the party and all other representatives. (Indiana Education Employment Relations Board; 560 IAC 2-6-2; filed Oct 6, 1988, 11:15 a.m.: 12 IR 316; readopted filed Sep 12, 2001, 10:55 a.m.: 25 IR 529; readopted filed Nov 30, 2007, 11:19 a.m.: 20071226-IR­560070368RFA; readopted filed Sep 10, 2013, 10:25 a.m.: 20131009-IR-560130214RFA) 
+
+560 IAC 2-6-3 Construction of clauses 
+Authority: IC 20-7.5-1-9 
+Affected: IC 4-21.5-3; IC 20-7.5-1 
+Sec. 3. All sections or subsections of 560 IAC 2 [this article] shall be interpreted, if possible, in a manner consistent with IC 20-7.5-1 and IC 4-21.5-3. If any section or subsection of 560 IAC 2 [this article] or any parts thereof are found to be in conflict with the foregoing statutes, any state or federal statute, or the Indiana Constitution or United States Constitution, then the section or subsection of 560 IAC 2 [this article] or any part thereof shall yield to the statute or constitution. The remaining parts which are not in conflict shall be saved. (Indiana Education Employment Relations Board; 560 IAC 2-6-3; filed Oct 6, 1988, 11:15 a.m.: 12 IR 316; readopted filed Sep 12, 2001, 10:55 a.m.: 25 IR 529; readopted filed Nov 30, 2007, 11:19 a.m.: 20071226-IR­560070368RFA; readopted filed Sep 10, 2013, 10:25 a.m.: 20131009-IR-560130214RFA) 
+
+560 IAC 2-6-4 Requests for extension of time 
+Authority: IC 20-7.5-1-9 
+Affected: IC 20-7.5-1 
+Sec. 4. Unless otherwise stated in 560 IAC 2 [this article], a request for extension of time shall be made two (2) days before the deadline date. If a request for an extension of time is granted, it shall automatically extend the time for all other parties. For good cause shown, a request for extension of time may be granted after the time has passed. (Indiana Education Employment Relations Board; 560 IAC 2-6-4; filed Oct 6, 1988, 11:15 a.m.: 12 IR 316; readopted filed Sep 12, 2001, 10:55 a.m.: 25 IR 529; readopted filed Nov 30, 2007, 11:19 a.m.: 20071226-IR-560070368RFA; readopted filed Sep 10, 2013, 10:25 a.m.: 20131009-IR­560130214RFA) 
+
+560 IAC 2-6-5 Lengthy documents 
+Authority: IC 20-7.5-1-9 
+Affected: IC 20-7.5-1 
+Sec. 5. All briefs and papers of any nature, of more than twenty (20) pages shall contain a table of contents. (Indiana Education Employment Relations Board; 560 IAC 2-6-5; filed Oct 6, 1988, 11:15 a.m.: 12 IR 316; readopted filed Sep 12, 2001, 
+10:55 a.m.: 25 IR 529; readopted filed Nov 30, 2007, 11:19 a.m.: 20071226-IR-560070368RFA; readopted filed Sep 10, 2013, 
+10:25 a.m.: 20131009-IR-560130214RFA) 
+
+560 IAC 2-6-6 Subpoenas 
+Authority: IC 20-7.5-1-9 
+Affected: IC 20-7.5-1 
+Sec. 6. (a) Issuance of subpoena. A party may file a written application for the issuance of a subpoena. The party must cross-serve such request on all other parties to the action. Any hearing examiner, hearing officer, agent, or member of the board may issuesubpoenas.Thepartyrequestingthesubpoenashallberesponsiblefor serviceandproofofservicein accordancewith theTrial Rules of the Indiana Rules of Procedure. 
+(b) Revocation of subpoena. Any person who is served with a subpoena and does not intend to comply with the subpoena shall within five (5) days after the date of service of the subpoena upon him, petition in writing to revoke the subpoena. Any petition to revoke a subpoena shall be served upon the party at whose request the subpoena was issued. The hearing examiner, hearing officer, the board or its agent, or chairman shall revoke the subpoena if in his opinion: 
+(1) 
+the evidence sought whose production is required does not relate to any matter under investigation or in question in the proceedings; or 
+
+(2) 
+the subpoena does not describe with sufficient particularity the evidence sought; or 
+
+
+(3) if for any other reason sufficient in law the subpoena is otherwise invalid. (Indiana Education Employment Relations Board; 560 IAC 2-6-6; filed Oct 6, 1988, 11:15 a.m.: 12 IR 317; readopted filed Sep 12, 2001, 10:55 a.m.: 25 IR 529; readopted filed Nov 30, 2007, 11:19 a.m.: 20071226-IR-560070368RFA; readopted filed Sep 10, 2013, 10:25 a.m.: 20131009-IR-560130214RFA) 
+
+560 IAC 2-6-7 Correspondence with the board and its agents 
+Authority: IC 20-7.5-1-9 
+Affected: IC 20-7.5-1 
+Sec. 7. All correspondence on pending proceedings directed to the board, individual members of the board, a hearing officer, a hearing examiner, a mediator, a fact-finder, or any other agent of the board, shall be served on all other parties to such proceedings by simultaneously mailing a copy to other parties; provided, however, this section in no way shall be construed to impair the confidentiality of the mediation, fact-finding, or representation process. (Indiana Education Employment Relations Board; 560 IAC 2-6-7; filed Oct 6, 1988, 11:15 a.m.: 12 IR 317; readopted filed Sep 12, 2001, 10:55 a.m.: 25 IR 529; readopted filed Nov 30, 2007, 11:19 a.m.: 20071226-IR-560070368RFA; readopted filed Sep 10, 2013, 10:25 a.m.: 20131009-IR­560130214RFA) 
+
+560 IAC 2-6-8 Time limits 
+Authority: IC 20-7.5-1-9 
+Affected: IC 4-21.5-3-2; IC 20-7.5-1 
+Sec. 8. (a) How certain time limits are set. In instances where 560 IAC 2 [this article], IC 20-7.5-1, and IC 4-21.5-3 do not provide a time by which an act must be accomplished, the chairman, hearing officer, hearing examiner, board, or an agent of the board may set the time. For good cause shown, the chairman, hearing officer, hearing examiner, board, or an agent of the board may also extend the time by which an act may be accomplished. 
+(b) Computation of time. In computing any period of time under these rules, the board shall refer to IC 4-21.5-3-2 to compute a period of time for the filing of papers or accomplishing an act. (Indiana Education Employment Relations Board; 560 IAC 2-6-8; filed Oct 6, 1988, 11:15 a.m.: 12 IR 317; readopted filed Sep 12, 2001, 10:55 a.m.: 25 IR 529; readopted filed Nov 30, 2007, 11:19 a.m.: 20071226-IR-560070368RFA; readopted filed Sep 10, 2013, 10:25 a.m.: 20131009-IR-560130214RFA) 
+
+560 IAC 2-6-9 Compliance and enforcement 
+Authority: IC 20-7.5-1-9 
+Affected: IC 4-21.5-6-1; IC 20-7.5-1-9 
+Sec. 9. (a) Compliance proceedings. The provisions of this section shall apply to final orders issued by the board or to those orders which become final orders of the board according to 560 IAC 2-3-23(a). The chairman of the board or such other person appointed by the chairman shall have the authority and discretion to take reasonable action to ascertain if compliance with the board's order has been or is being achieved. Such action may include, but shall not be limited to the following: 
+(1) 
+soliciting information from the party to whom the order is directed, or any other party to the proceeding; 
+
+(2) 
+convening a conference among one (1) or more of the parties to the proceeding; 
+
+(3) 
+conducting an investigation and/or a hearing if deemed appropriate; and/or 
+
+(4) 
+taking such other action reasonably designed to determine the facts and the law to see if compliance with the board's order has occurred and if the board should take any further action. 
+
+
+(b) 
+Request for compliance. The charging party or any other party to the proceeding which resulted in the decision and order for which compliance is sought may request that the board seek compliance with and enforcement of any final order issued by the board. Such requests shall normally take the form of a motion addressed to the chairman and shall be accompanied by affidavits, as appropriate, setting forth the facts regarding the non-compliance with and enforcement of any final order issued by the board. An original and one (1) copy shall be filed with the board, and a copy shall be served on all such other parties to the unfair practice proceeding along with proof of service of all such documents. Within ten (10) days after the moving party serves the non-moving party with a request for compliance, the non-moving party may respond to the compliance request. Such response may include affidavits or other evidentiary submissions. An original and one (1) copy of the response and supporting evidentiary submissions shall be filed with the chairman or with the appointed compliance officer, together with proof of service of such documents on all other parties to the proceeding. 
+
+(c) 
+Report. The report of the compliance officer will recommend what action, if any, the board shall take. Copies of the report will be distributed directly to the board and the parties to the proceeding. The board will review the recommendation and decide whether to take any further action by seeking enforcement of the order in accordance with IC 4-21.5-6-1. (Indiana Education Employment Relations Board; 560 IAC 2-6-9; filed Oct 6, 1988, 11:15 a.m.: 12 IR 317; readopted filed Sep 12, 2001, 10:55 a.m.: 25 IR 529; readopted filed Nov 30, 2007, 11:19 a.m.: 20071226-IR-560070368RFA; readopted filed Sep 10, 2013, 10:25 a.m.: 20131009-IR-560130214RFA) 
+
+
+Rule 7. Electronic Facsimile Transmission; Filing 
+
+560 IAC 2-7-1 Definitions 
+Authority: IC 20-7.5-1-9 
+Affected: IC 20-7.5-1 
+Sec. 1. The definitions in this section apply throughout this rule: 
+(1) 
+"Cover sheet" means a descriptive initial page that accompanies an electronic facsimile transmission. 
+
+(2) 
+"Duplicate document" means a written counterpart of the original produced: 
+
+(A) 
+by the same impression as the original; 
+
+(B) 
+from the same matrix; or 
+
+
+
+(C) 
+by digitized electronic transmission; 
+readable by sight, which accurately reproduces the original. 
+
+
+(3) 
+"Electronic facsimile transmission" or "FAX" means a method of transmitting and receiving information in paper 
+
+medium over telephone lines or other forms of electronic transmissions. 
+
+(4) 
+"Original document" means the initially prepared written document or any counterpart intended to have the same effect by the creator. 
+
+
+(Indiana Education Employment Relations Board; 560 IAC 2-7-1; filed Sep 16, 1994, 3:40 p.m.: 18 IR 260; readopted filed Sep 12, 2001, 10:55 a.m.: 25 IR 529; readopted filed Nov 30, 2007, 11:19 a.m.: 20071226-IR-560070368RFA; readopted filed Sep 10, 2013, 10:25 a.m.: 20131009-IR-560130214RFA) 
+
+560 IAC 2-7-2 Filing by electronic facsimile transmission 
+Authority: IC 20-7.5-1-9 
+Affected: IC 20-7.5-1 
+Sec. 2. The Indiana education employment relations board authorizes electronic facsimile filing and has designated a telephone number to receive such transmissions, pleadings, motions, and other papers which may be sent to the Indiana education employment relations board and its agents by electronic facsimile transmission for filing in any case, provided: 
+(1) 
+such transmission does not exceed ten (10) pages, including the cover sheet; 
+
+(2) 
+such transmission does not require the payment of fees; 
+
+(3) 
+the sending party creates at the time of transmission a machine generated log for such transmission; and 
+
+(4) 
+the original document and the transmission log are maintained by the sending party for the duration of the litigation, including any appeal that may be taken. 
+
+
+(Indiana Education Employment Relations Board; 560 IAC 2-7-2; filed Sep 16, 1994, 3:40 p.m.: 18 IR 260; readopted filed Sep 12, 2001, 10:55 a.m.: 25 IR 529; readopted filed Nov 30, 2007, 11:19 a.m.: 20071226-IR-560070368RFA; readopted filed Sep 10, 2013, 10:25 a.m.: 20131009-IR-560130214RFA) 
+
+560 IAC 2-7-3 Time of filing 
+Authority: IC 20-7.5-1-9 
+Affected: IC 20-7.5-1 
+Sec. 3. During normal, posted business hours, the time of filing shall be the time the duplicate document is produced in the office of the Indiana education employment relations board. Duplicate documents received at all other times shall be filed as of the next normal business day. (Indiana Education Employment Relations Board; 560 IAC 2-7-3; filed Sep 16, 1994, 3:40 p.m.: 18 IR 260; readopted filed Sep 12, 2001, 10:55 a.m.: 25 IR 529; readopted filed Nov 30, 2007, 11:19 a.m.: 20071226-IR­560070368RFA; readopted filed Sep 10, 2013, 10:25 a.m.: 20131009-IR-560130214RFA) 
+
+560 IAC 2-7-4 Cover sheet 
+Authority: IC 20-7.5-1-9 
+Affected: IC 20-7.5-1 
+Sec. 4. Any document sent to the Indiana education employment relations board or its agent by electronic facsimile transmission shall be accompanied by a cover sheet which states the following: 
+(1) 
+Title of the document. 
+
+(2) 
+Case number. 
+
+(3) 
+Number of pages. 
+
+(4) 
+Identity and voice telephone number of the sending party. 
+
+
+(5) Instructions for filing. The cover sheet shall contain the signature of the attorney or party authorizing the filing. (Indiana Education Employment Relations Board; 560 IAC 2-7-4; filed Sep 16, 1994, 3:40 p.m.: 18 IR 260; readopted filed Sep 12, 2001, 10:55 a.m.: 25 IR 529; readopted filed Nov 30, 2007, 11:19 a.m.: 20071226-IR-560070368RFA; readopted filed Sep 10, 2013, 10:25 a.m.: 20131009-IR­560130214RFA) 
+
+560 IAC 2-7-5 Standards 
+Authority: IC 20-7.5-1-9 
+Affected: IC 20-7.5-1 
+
+Sec.5.Electronicfacsimiletransmission equipmentusedbytheIndianaeducation employmentrelationsboardanditsoffices under this rule shall comply with Group III level equipment standards established by the Consultative Committee International Telegraph and Telephone of the International Telecommunications Union which provides standards for operating speed and image resolution available for use over public telephone networks. Pleadings and papers filed by electronic facsimile transmission shall be letter size (eight and one-half (8½) inches by eleven (11) inches) and need not be filed in duplicate. (Indiana Education Employment Relations Board; 560 IAC 2-7-5; filed Sep 16, 1994, 3:40 p.m.: 18 IR 261; readopted filed Sep 12, 2001, 10:55 a.m.: 25 IR 529; readopted filed Nov 30, 2007, 11:19 a.m.: 20071226-IR-560070368RFA; readopted filed Sep 10, 2013, 10:25 a.m.: 20131009-IR-560130214RFA) 
+Rule 8. Review of Collective Bargaining Agreements 
+
+560 IAC 2-8-1 Compliance rubric 
+Authority: IC 20-29-3-11; IC 20-29-6-6.1 
+Affected: IC 20-29-6 
+
+Sec. 1. The board shall do the following: 
+(1) 
+Develop a rubric for use in reviewing a CBA to determine its compliance with IC 20-29-6. 
+
+(2) 
+Publish the rubric on the board's website no later than July 1, 2015. 
+
+(3) 
+Annually review and update the rubric as needed. 
+
+(4) 
+Publish any updated rubric on the board's website no later than July 1 each year thereafter. 
+
+
+(Indiana Education Employment Relations Board; 560 IAC 2-8-1; filed Jan 7, 2016, 8:13 a.m.: 20160203-IR-560150200FRA) 
+
+560 IAC 2-8-2 Submission of ratified collective bargaining agreement; compliance officer appointment 
+Authority: IC 20-29-3-11; IC 20-29-6-6.1 
+Affected: IC 20-29-6-6.1 
+
+Sec. 2. (a) As soon as practicable after ratification by both parties, the school employer shall submit a copy of the ratified CBA (as defined in 560 IAC 2-1-2) to the board in the manner prescribed by the board. 
+(b) The board chair shall appoint a staff member or ad hoc panel member to serve as the compliance officer to review the CBA using the rubric described in section 1 of this rule. (Indiana Education Employment Relations Board; 560 IAC 2-8-2; filed Jan 7, 2016, 8:13 a.m.: 20160203-IR-560150200FRA) 
+
+560 IAC 2-8-3 Compliance officer's review and report 
+Authority: IC 20-29-3-11; IC 20-29-6-6.1 
+Affected: IC 20-29-6-6.1 
+
+Sec. 3. (a) If the compliance officer needs to clarify or request additional information about the CBA or an MOU, the compliance officer shall contact both the school employer and the exclusive representative. 
+(b) 
+Upon completion of the review of a CBA, the compliance officer shall prepare a written compliance report and recommendation (report). 
+
+(c) 
+Upon completion of the review of an MOU, the compliance officer shall prepare a written addendum to the original report. 
+
+(d) 
+The report or addendum shall, as applicable: 
+
+(1) 
+identify and describe any and all noncompliant items; and 
+
+(2) 
+recommend a penalty for such noncompliance that may include one (1) or more of the following: 
+
+
+
+
+(A) 
+Ordering the parties to cease and desist from all identified areas of noncompliance. 
+
+(B) 
+Requiring the parties to obtain written approval from the board or board's agent prior to ratifying any subsequent CBA or MOU. 
+
+(C) 
+Requiring any other action deemed appropriate by the compliance officer as authorized by state law. 
+
+
+(Indiana Education Employment Relations Board; 560 IAC 2-8-3; filed Jan 7, 2016, 8:13 a.m.: 20160203-IR-560150200FRA) 
+
+560 IAC 2-8-4 Memorandum of understanding; compliance review 
+Authority: IC 20-29-3-11; IC 20-29-6-6.1 
+Affected: IC 20-29-6-6.1 
+Sec. 4. (a) Any MOU as defined in 560 IAC 2-1-2 is subject to review by a compliance officer pursuant to this rule. 
+(b) 
+Any MOU not submitted as required by this rule constitutes a failure to submit a complete CBA and may result in a finding of noncompliance with a penalty of requiring board approval prior to ratifying any subsequent CBA or MOU. 
+
+(c) 
+Any MOU ratified by the parties outside the bargaining timelines, except to the extent permitted by this section, is noncompliant. 
+
+(d) 
+Notwithstanding subsection (c), the following may constitute an exception to a finding of noncompliance for bargaining outside the allowable bargaining timelines: 
+
+(1) 
+Newly discovered information or an unanticipated event that was not known or available at the time the parties ratified the original CBA. 
+
+(2) 
+Nonrule policy guidance issued by the board addressing unanticipated circumstances impacting multiple bargaining parties and allowing parties to bargain and ratify a limited MOU outside of the bargaining timelines. 
+
+
+
+(e) 
+Within two (2) business days of ratification of the MOU by both parties, the school employer shall submit a copy of the ratified MOU and a written explanation of the need for the MOU to the board in the manner prescribed by the board. 
+
+(f) 
+Upon receipt of a ratified MOU, and to the extent practicable, the board chair shall appoint the original compliance officer to review the MOU. 
+
+(g) 
+The compliance officer shall review the MOU and accompanying documentation to determine if an exception to a finding of noncompliance is warranted. 
+
+(h) 
+The compliance officer shall issue an addendum as described in section 3 of this rule. (Indiana Education Employment Relations Board; 560 IAC 2-8-4; filed Jan 7, 2016, 8:13 a.m.: 20160203-IR-560150200FRA) 
+
+
+
+560 IAC 2-8-5 Compliance officer's report or addendum to parties 
+Authority: IC 20-29-3-11; IC 20-29-6-6.1 
+Affected: IC 20-29-6-6.1 
+Sec. 5. (a) The board or its agent will provide the parties with a copy of the compliance officer's report or addendum via e­mail to each party's contact information on file with the board. 
+(b) Unless otherwise indicated in this rule, all correspondence for CBA and MOU compliance reviews, including approval or denial of approval to ratify as described in section 8 of this rule, shall be via e-mail. Receipt of an e-mail will be presumed upon dispatch. (Indiana Education Employment Relations Board; 560 IAC 2-8-5; filed Jan 7, 2016, 8:13 a.m.: 20160203-IR­560150200FRA) 
+
+560 IAC 2-8-6 Appeal of findings of noncompliance or penalty 
+Authority: IC 20-29-3-11; IC 20-29-6-6.1 
+Affected: IC 20-29-6-6.1 
+Sec. 6. (a) Parties have fifteen (15) days from the date the report or addendum is issued to appeal: 
+(1) 
+a finding of noncompliance; 
+
+(2) 
+a recommended penalty; or 
+
+(3) 
+both a finding of noncompliance and a recommended penalty. 
+
+(b) 
+The appeal must: 
+
+(1) 
+be in writing; 
+
+(2) 
+state the basis of the appeal with reasonable particularity; and 
+
+(3) 
+be filed with the board electronically. 
+
+(c) 
+Upon the timely filing of an appeal, the board shall review the appeal and issue a final order. 
+
+(d) 
+As part of its review, the board may: 
+
+(1) 
+decide the appeal without briefs or oral argument; 
+
+(2) 
+receive briefs from the parties; 
+
+(3) 
+hear oral argument; or 
+
+(4) 
+both receive briefs and hear oral argument. 
+
+
+(e) The board may stay impasse proceedings pending the board's final order in an appeal under this section. (Indiana Education Employment Relations Board; 560 IAC 2-8-6; filed Jan 7, 2016, 8:13 a.m.: 20160203-IR-560150200FRA) 
+
+560 IAC 2-8-7 Board order on appeal 
+Authority: IC 20-29-3-11; IC 20-29-6-6.1 
+Affected: IC 20-29-6-6.1 
+
+Sec. 7. (a) The board shall issue a final order within thirty (30) days of the later of the following: 
+(1) 
+The timely filing of an appeal. 
+
+(2) 
+Receipt of the last brief from the parties. 
+
+(3) 
+Conclusion of oral argument. 
+
+
+(b) In the event no timely appeal is filed, the compliance officer's report or addendum shall become the final order of the board. (Indiana Education Employment Relations Board; 560 IAC 2-8-7; filed Jan 7, 2016, 8:13 a.m.: 20160203-IR­560150200FRA) 
+
+560 IAC 2-8-8 Prior approval for ratifying subsequent agreement 
+Authority: IC 20-29-3-11; IC 20-29-6-6.1 
+Affected: IC 20-29-6-6.1; IC 20-29-6-13 
+
+Sec. 8. (a) If the final order of the board requires the parties to obtain written approval from the board or board's agent prior to ratifying any subsequent CBA or MOU, the following shall occur: 
+(1) 
+The board chair shall appoint a staff member or ad hoc panel member to serve as the compliance officer to review the tentatively agreed upon CBA or MOU. 
+
+(2) 
+The written appointment shall: 
+
+(A) 
+be made no later than August 1; and 
+
+(B) 
+be provided to both the school employer and the exclusive representative. 
+
+
+
+(3) 
+The school employer shall submit a copy of the tentatively agreed upon CBA or MOU to the compliance officer in the manner prescribed by the compliance officer. 
+
+(4) 
+The compliance officer shall review the CBA or MOU and provide the parties with a written notice of approval or denial. 
+
+
+(b) 
+If the compliance officer issues a denial of approval to ratify, the notice shall identify the terms of the CBA or MOU that preclude the compliance officer's approval. 
+
+(c) 
+Absent a timely appeal and as soon as practicable, the parties shall correct the noncompliant terms and submit a new tentatively agreed upon CBA or MOU to the compliance officer for review in accordance with this section. 
+
+(d) 
+Parties have four (4) business days from the date the notice of denial is e-mailed to appeal the compliance officer's decision. 
+
+(e) 
+The appeal must be in writing and describe, with reasonable particularity, the reason the identified terms of the CBA or MOU should be approved. 
+
+(f) 
+Upon the timely filing of an appeal, the board shall make a determination and issue a final notice of approval or denial no later than thirty (30) days after receipt of the appeal. 
+
+(g) The board or its agent may stay impasse proceedings pending the board's final order in an appeal under this section. 
+
+(h) 
+Failure to obtain approval to ratify a CBA subjects the parties to impasse procedures pursuant to IC 20-29-6-13 unless impasse is otherwise stayed by the board or the board's agent. 
+
+(i) 
+Any ratification of a subsequent CBA or MOU without the written approval of the board or the board's agent as required in this section, shall be considered null and void, and the parties will proceed through impasse proceedings pursuant to IC 20-29-6­13 as applicable. (Indiana Education Employment Relations Board; 560 IAC 2-8-8; filed Jan 7, 2016, 8:13 a.m.: 20160203-IR­560150200FRA) 
+
+
+
+560 IAC 2-8-9 Applicability of IC 4-21.5 
+Authority: IC 20-29-3-11; IC 20-29-6-6.1 
+Affected: IC 4-21.5; IC 20-29-6-6.1 
+
+Sec. 9. IC 4-21.5 does not apply to the reviews under this rule. (Indiana Education Employment Relations Board; 560 IAC 2-8-9; filed Jan 7, 2016, 8:13 a.m.: 20160203-IR-560150200FRA) 
+* 
+
+

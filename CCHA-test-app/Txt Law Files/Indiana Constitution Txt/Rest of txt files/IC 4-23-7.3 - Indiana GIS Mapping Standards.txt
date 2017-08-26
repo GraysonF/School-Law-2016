@@ -1,0 +1,314 @@
+IC 4-23-7.3 Chapter 7.3. Indiana GIS Mapping Standards 
+IC 4-23-7.3-1 
+"Data exchange agreement" 
+
+Sec. 1. As used in this chapter, "data exchange agreement" means an agreement concerning the exchange of any GIS data or framework data. As added by P.L.198-2007, SEC.2. 
+
+IC 4-23-7.3-2 "Electronic map" 
+Sec. 2. As used in this chapter, "electronic map" has the meaning set forth in IC 5-14-3-2. As added by P.L.198-2007, SEC.2. Amended by P.L.248-2013, SEC.1. 
+
+IC 4-23-7.3-3 "Framework data" 
+Sec. 3. (a) As used in this chapter, "framework data" means common electronic map information for a geographic area. 
+(b) The term includes the following: 
+(1) 
+Digital orthophotography. 
+
+(2) 
+Digital cadastre. 
+
+(3) 
+Public land survey system. 
+
+(4) 
+Elevation. 
+
+(5) 
+Geodetic control. 
+
+(6) 
+Governmental boundary units. 
+
+(7) 
+Water features. 
+
+(8) 
+Addresses. 
+
+(9) 
+Streets. 
+
+
+As added by P.L.198-2007, SEC.2. 
+
+IC 4-23-7.3-4 "Fund" 
+Sec. 4. As used in this chapter, "fund" refers to the Indiana mapping data and standards fund established by section 19 of this chapter. As added by P.L.198-2007, SEC.2. 
+
+IC 4-23-7.3-5 "GIS" 
+Sec. 5. As used in this chapter, "GIS" refers to geographic information systems. As added by P.L.198-2007, SEC.2. 
+IC 4-23-7.3-6 "IGIC" 
+Sec. 6. As used in this chapter, "IGIC" refers to the nonprofit entity known as the Indiana Geographic Information Council, or its successor organization. As added by P.L.198-2007, SEC.2. 
+
+IC 4-23-7.3-7 "Political subdivision" 
+Sec. 7. As used in this chapter, "political subdivision" has the meaning set forth in IC 36-1-2-13. As added by P.L.198-2007, SEC.2. 
+
+IC 4-23-7.3-8 "State agency" 
+Sec. 8. As used in this chapter, "state agency" has the meaning set forth in IC 4-13-1-1. As added by P.L.198-2007, SEC.2. 
+
+IC 4-23-7.3-9 "State data center" 
+Sec. 9. As used in this chapter, "state data center" refers to the state data center established under IC 4-23-7.1. As added by P.L.198-2007, SEC.2. 
+
+IC 4-23-7.3-10 "State GIS officer" 
+Sec. 10. As used in this chapter, "state GIS officer" refers to the individual appointed under section 13 of this chapter. As added by P.L.198-2007, SEC.2. 
+
+IC 4-23-7.3-11 "Statewide base map" 
+Sec. 11. As used in this chapter, "statewide base map" means an electronic map of Indiana consisting of framework data for Indiana. As added by P.L.198-2007, SEC.2. 
+
+IC 4-23-7.3-12 
+"Statewide data integration plan" 
+
+Sec. 12. As used in this chapter, "statewide data integration plan" means a plan: 
+(1) 
+to integrate GIS data and framework data developed and maintained by different units of the federal, state, and local government into statewide coverage of framework data; and 
+
+(2) 
+that includes details for: 
+
+(A) 
+an inventory of existing data; 
+
+(B) 
+stakeholder data requirements; 
+
+(C) 
+identification of data stewards; 
+
+(D) 
+data standards and schema, costs, work flow, data transfer mechanisms, update frequency, and maintenance; 
+
+and 
+
+(E) 
+identification of appropriate data sharing policies and mechanisms to facilitate intergovernmental data exchange, such as data exchange agreements. 
+
+
+
+
+As added by P.L.198-2007, SEC.2. 
+
+IC 4-23-7.3-13 State GIS officer; appointment; qualifications 
+Sec. 13. (a) The governor shall appoint an individual as the state GIS officer. 
+(b) The individual appointed by the governor must be an experienced geography and mapping professional who has: 
+(1) 
+extensive knowledge of the principles, practices, terminology, and trends in GIS, spatial data, analysis, and related technology; and 
+
+(2) 
+experience in administration, project management, policy development, coordination of services, and planning. 
+
+
+As added by P.L.198-2007, SEC.2. 
+
+IC 4-23-7.3-14 State GIS officer; duties 
+Sec. 14. The state GIS officer shall do the following: 
+(1) 
+Function as the chief officer for GIS matters for state agencies. 
+
+(2) 
+Review and either veto or adopt both the: 
+
+(A) state's GIS data standards; and 
+
+(B) 
+statewide data integration plan; as recommended by the IGIC. If either of the recommendations is vetoed, the state GIS officer shall return the recommendation to the IGIC with a message announcing the veto and stating the reasons for the veto. If the IGIC ceases to exist or refuses to make the recommendations listed in this subdivision, the state GIS officer may develop and adopt state GIS data standards and a statewide data integration plan. The standards and the plan adopted under this subdivision must promote interoperability and open use of data with various GIS software, applications, computer hardware, and computer operating systems. 
+
+(3) 
+Act as the administrator of: 
+
+(A) 
+the state standards and policies concerning GIS data and framework data; and 
+
+(B) 
+the statewide data integration plan. 
+
+
+
+(4) 
+Enforce the state GIS data standards and execute the statewide data integration plan adopted under subdivision (2) through the use of: 
+
+(A) 
+GIS policies developed for state agencies; and 
+
+(B) 
+data exchange agreements involving an entity other than a state agency. 
+
+
+
+(5) 
+Coordinate the state data center's duties under this chapter. 
+
+(6) 
+Act as the state's representative for: 
+
+(A) 
+requesting grants available for the acquisition or enhancement of GIS resources; and 
+
+(B) 
+preparing funding proposals for grants to enhance coordination and implementation of GIS. 
+
+
+
+(7) 
+Review and approve, in accordance with the statewide data integration plan, the procurement of GIS goods and services involving the state data center or a state agency. 
+
+(8) 
+Cooperate with the United States Board on Geographic Names established by P.L.80-242 by serving as the chair of a committee formed with the IGIC as the state names authority for Indiana. 
+
+(9) 
+Publish a biennial report. The report must include the status and metrics on the progress of the statewide data integration plan. 
+
+(10) 
+Represent the state's interest to federal agencies regarding the National Spatial Data Infrastructure. 
+
+(11) 
+Serve as the state's primary point of contact for communications and discussions with federal agencies regarding framework data, spatial data exchanges, cost leveraging opportunities, spatial data standards, and other GIS related issues. 
+
+(12) 
+Facilitate GIS data cooperation between units of the federal, state, and local governments. 
+
+(13) 
+Promote the development and maintenance of statewide GIS data and framework data layers associated with a statewide base map. 
+
+(14) 
+Approve and maintain data exchange agreements to which the state data center or a state agency is a party to increase the amount and quality of GIS data and framework data available to the state. 
+
+(15) 
+Use personnel made available from state educational institutions to provide technical support to the: 
+
+(A) 
+state GIS officer in carrying out the officer's duties under this chapter; and 
+
+(B) 
+IGIC. 
+
+
+
+
+As added by P.L.198-2007, SEC.2. Amended by P.L.3-2008, SEC.11. 
+
+IC 4-23-7.3-15 Publication and access requirements; public disclosure 
+Sec. 15. The publication and access requirements of this chapter do not apply to data that would otherwise be exempt from public disclosure under IC 5-14-3-4(b)(19). 
+As added by P.L.198-2007, SEC.2. 
+IC 4-23-7.3-16 Dissemination of GIS data and framework data 
+Sec. 16. With money from the fund, the state GIS officer, through the data center, the IGIC, and the other organizations, shall do the following: 
+(1) 
+Ensure that there are adequate depositories of all GIS data and framework data obtained by a state agency. 
+
+(2) 
+Acquire, publish, store, and distribute GIS data and framework data through the computer gateway administered under IC 4-13.1-2-2(a)(5) by the office of technology and through the state data center. The state GIS officer may also provide access through the IGIC and other entities as directed by the state GIS officer. 
+
+(3) 
+Integrate GIS data and framework data developed and maintained by state agencies and political subdivisions into the statewide base map. 
+
+(4) 
+Maintain a state historical archive of GIS data, framework data, and electronic maps. 
+
+(5) 
+Except as otherwise provided in this chapter, provide public access to GIS data and framework data in locations throughout Indiana. 
+
+(6) 
+Provide assistance to state agencies and political subdivisions regarding public access to GIS data and framework data so that information is available to the public while confidentiality is protected for certain data from electronic maps. 
+
+(7) 
+Develop and maintain statewide framework data layers associated with a statewide base map or electronic map. 
+
+(8) 
+Publish and distribute the state GIS data standards and the statewide data integration plan adopted under section 14(2) of this chapter. 
+
+(9) 
+Subject to section 20 of this chapter, make GIS data, framework data, and electronic maps available for use by the Indiana Business Research Center. 
+
+
+As added by P.L.198-2007, SEC.2. 
+
+IC 4-23-7.3-17 Coordination with state educational institutions 
+Sec. 17. The state GIS officer shall coordinate with state educational institutions to do the following: 
+(1) 
+Promote formal GIS education opportunities for full-time and part-time students. 
+
+(2) 
+Provide informal GIS learning opportunities through a series of seminars and noncredit concentrated classes provided throughout Indiana. 
+
+(3) 
+Coordinate research assets for the benefit of Indiana by maintaining inventories of the universities' academic and technical GIS experts, data and technology resources as provided by the universities, and research interests for collaboration to pursue research grant opportunities. 
+
+(4) 
+Implement an outreach network to Indiana political 
+
+
+subdivisions to enhance communication and data sharing among state government, political subdivisions, and the business community. 
+As added by P.L.198-2007, SEC.2. 
+
+IC 4-23-7.3-18 Provision of services by state educational institutions to the state and political subdivisions 
+Sec. 18. (a) Except as provided in subsection (b), a state educational institution may not bid on contracts to provide photogrametry services or framework layer data conversion services for the benefit of a state agency or political subdivision. This section shall not be construed to prohibit the purchase of any of the following by a state agency or political subdivision from a state educational institution: 
+(1) 
+GIS data or framework data. 
+
+(2) 
+Data previously created by the state educational institution as part of the educational, research, or service mission of the state educational institution. 
+
+
+(b) If there is a lack of qualified bids on contracts referred to in subsection (a) by entities other than state educational institutions, the state agency or political subdivision may, with the advice of the state GIS officer, solicit bids from state educational institutions. 
+As added by P.L.198-2007, SEC.2. 
+
+IC 4-23-7.3-19 Indiana mapping data and standards fund 
+Sec. 19. (a) The Indiana mapping data and standards fund is established for the following purposes: 
+(1) 
+Funding GIS grants. 
+
+(2) 
+Administering this chapter. 
+
+
+(b) 
+The fund consists of the following: 
+
+(1) 
+Appropriations made to the fund by the general assembly. 
+
+(2) 
+Gifts, grants, or other money received by the state for GIS purposes. 
+
+
+
+(c)
+ The state GIS officer shall administer the fund. 
+
+
+(d) 
+The expenses of administering the fund shall be paid from money in the fund. 
+
+(e) 
+The treasurer of state shall invest the money in the fund not currently needed to meet the obligations of the fund in the same manner as other public money may be invested. Interest that accrues from these investments shall be deposited in the fund. 
+
+(f) 
+Money in the fund at the end of a state fiscal year does not revert to the state general fund. 
+
+
+As added by P.L.198-2007, SEC.2. 
+IC 4-23-7.3-20 Political subdivision control of GIS data and framework data provided to the state; data exchange agreement 
+
+Sec. 20. (a) Except as provided in subsections (b), (c), and (d), a political subdivision maintains the right to control the sale, exchange, and distribution of any GIS data or framework data provided by the political subdivision to the state through a data exchange agreement entered into under this chapter. 
+(b) 
+A political subdivision may agree, through a provision in a data exchange agreement, to allow the sale, exchange, or distribution of GIS data or framework data provided to the state. 
+
+(c) 
+Subsection (a) does not apply to data that is otherwise required by state or federal law to be provided by a political subdivision to the state or federal government. 
+
+
+(d) As a condition in a data exchange agreement for providing state GIS data or framework data to a political subdivision, the state GIS officer may require the political subdivision to follow the state GIS data standards and the statewide data integration plan when the political subdivision makes use of the GIS data or framework data as provided by the state. As added by P.L.198-2007, SEC.2. 
+IC 4-23-7.3-21 Statute not to be construed to restrict standards for GIS hardware or software for political subdivisions; "Buy Indiana Presumption" to be observed 
+Sec. 21. (a) Nothing in this chapter shall be construed to permit the IGIC, the state GIS officer, or the state data center to recommend or restrict standards for GIS hardware or software that a proprietary vendor provides to any political subdivision. 
+(b) It is the intent of the general assembly in enacting this chapter to promote high technology enterprise and employment within Indiana. To the extent practicable, the "Buy Indiana Presumption" required by Executive Order 05-05, shall be observed with respect to all procurement decisions related to this chapter, so long as Executive Order 05-05 is in effect. As added by P.L.198-2007, SEC.2. 
+
+IC 4-23-7.3-22 Publication and access requirements do not supersede IC 5-14-3 
+Sec. 22. The publication and access requirements of this chapter do not supersede IC 5-14-3. As added by P.L.198-2007, SEC.2. 
+

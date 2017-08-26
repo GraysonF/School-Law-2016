@@ -1,0 +1,215 @@
+IC 22-5-1.7 
+Chapter 1.7. Public Contract for Services; Business Entities; Unauthorized Aliens 
+IC 22-5-1.7-1 "Business entity" 
+Sec. 1. (a) As used in this chapter, "business entity" means a person or group of persons that perform or engage in any activity, enterprise, profession, or occupation for gain, benefit, advantage, or livelihood. 
+(b) The term includes self-employed individuals, partnerships, corporations, contractors, and subcontractors. 
+(c) The term does not include a self-employed person that does not employ any employees. As added by P.L.171-2011, SEC.16. 
+
+IC 22-5-1.7-2 "Contractor" 
+Sec. 2. As used in this chapter, "contractor" means a person that satisfies either of the following: 
+(1) 
+Is a person that: 
+
+(A) has entered into; or 
+
+(B) 
+is attempting to enter into; a public contract for services with a state agency or political subdivision. 
+
+(2) 
+Is a person that: 
+
+(A) has entered into; or 
+
+(B) 
+is attempting to enter into; a contract for a public works project with a public agency. 
+
+
+As added by P.L.171-2011, SEC.16. Amended by P.L.6-2012, SEC.157; P.L.252-2015, SEC.27. 
+
+IC 22-5-1.7-3 "E-Verify program" 
+Sec. 3. As used in this chapter, "E-Verify program" means the electronic verification of work authorization program of the Illegal Immigration Reform and Immigration Responsibility Act of 1996 
+(P.L. 
+104-208), Division C, Title IV, s. 403(a), as amended, operated by the United States Department of Homeland Security or a successor work authorization program designated by the United States Department of Homeland Security or other federal agency authorized to verify the work authorization status of newly hired employees under the Immigration Reform and Control Act of 1986 
+
+(P.L.
+ 99-603). 
+
+
+As added by P.L.171-2011, SEC.16. 
+IC 22-5-1.7-4 "Person" 
+Sec. 4. As used in this chapter, "person" means an individual, a corporation, a limited liability company, a partnership, or another legal entity. As added by P.L.171-2011, SEC.16. 
+
+IC 22-5-1.7-5 "Political subdivision" 
+Sec. 5. As used in this chapter, "political subdivision" has the meaning set forth in IC 36-1-2-13. As added by P.L.171-2011, SEC.16. 
+
+IC 22-5-1.7-6 
+"Public contract for services" 
+
+Sec. 6. As used in this chapter, "public contract for services" means any type of written agreement between a state agency or political subdivision and a contractor for the procurement of services. As added by P.L.171-2011, SEC.16. Amended by P.L.28-2013, SEC.1. 
+
+IC 22-5-1.7-6.2 "Public agency" 
+Sec. 6.2. As used in this chapter, "public agency" has the meaning set forth in IC 5-30-1-11. As added by P.L.252-2015, SEC.28. 
+
+IC 22-5-1.7-6.4 
+"Public works project" 
+
+Sec. 6.4. As used in this chapter, "public works project" has the meaning set forth in IC 5-16-13-6. As added by P.L.252-2015, SEC.29. 
+
+IC 22-5-1.7-7 "State agency" 
+Sec. 7. As used in this chapter, "state agency" has the meaning set forth in IC 4-13-1-1. As added by P.L.171-2011, SEC.16. Amended by P.L.252-2015, SEC.30. 
+
+IC 22-5-1.7-8 "Subcontractor" 
+Sec. 8. As used in this chapter, "subcontractor" means a person that: 
+(1) 
+is a party to a contract with a contractor; and 
+
+(2) 
+provides services or work for work the contractor is performing under either of the following: 
+
+(A) 
+A public contract for services. 
+
+(B) 
+A contract for a public works project with a public agency. 
+
+
+
+
+As added by P.L.171-2011, SEC.16. Amended by P.L.252-2015, SEC.31. 
+
+IC 22-5-1.7-9 "Unauthorized alien" 
+Sec. 9. As used in this chapter, "unauthorized alien" has the meaning set forth in 8 U.S.C. 1324a(h)(3). As added by P.L.171-2011, SEC.16. 
+
+IC 22-5-1.7-10 State agencies and political subdivisions required to use E-Verify program; exception 
+Sec. 10. (a) Except as provided in subsection (b), a state agency or political subdivision shall use the E-Verify program to verify the work eligibility status of all employees of the state agency or political subdivision hired after June 30, 2011. 
+(b) A state agency or political subdivision is not required to use the E-Verify program as required under subsection (a) if the E-Verify program no longer exists. As added by P.L.171-2011, SEC.16. 
+IC 22-5-1.7-11 Contractors with public contract for services required to use E-Verify program; business entities that receive certain grants required to use E-Verify program 
+Sec. 11. (a) This subsection applies only to a public contract for services entered into or renewed after June 30, 2011. A state agency or political subdivision may not enter into or renew a public contract for services with a contractor unless: 
+(1) 
+the public contract contains: 
+
+(A) 
+a provision requiring the contractor to enroll in and verify the work eligibility status of all newly hired employees of the contractor through the E-Verify program; and 
+
+(B) 
+a provision that provides that a contractor is not required to verify the work eligibility status of all newly hired employees of the contractor through the E-Verify program if the E-Verify program no longer exists; and 
+
+
+
+(2) 
+the contractor signs an affidavit affirming that the contractor does not knowingly employ an unauthorized alien. 
+
+
+(b) A state agency or political subdivision may not award a grant of more than one thousand dollars ($1,000) to a business entity unless the business entity: 
+(1) 
+signs a sworn affidavit that affirms that the business entity has enrolled and is participating in the E-Verify program; 
+
+(2) 
+provides documentation to the state agency or political subdivision that the business entity has enrolled and is participating in the E-Verify program; and 
+
+(3) 
+signs an affidavit affirming that the business entity does not knowingly employ an unauthorized alien. 
+
+
+As added by P.L.171-2011, SEC.16. 
+
+IC 22-5-1.7-11.1 Contractors with public works contract required to use E-Verify program 
+Sec. 11.1. This section applies only to a contract for a public works project entered into or renewed after June 30, 2015. A public agency may not enter into or renew a contract for a public works project with a contractor unless: 
+(1) 
+the contract contains: 
+
+(A) 
+a provision requiring the contractor to enroll in and verify the work eligibility status of all newly hired employees of the contractor through the E-Verify program; and 
+
+(B) 
+a provision that provides that a contractor is not required to verify the work eligibility status of all newly hired employees of the contractor through the E-Verify program if the E-Verify program no longer exists; and 
+
+
+
+(2) 
+the contractor signs an affidavit affirming that the contractor does not knowingly employ an unauthorized alien. 
+
+
+As added by P.L.252-2015, SEC.32. 
+IC 22-5-1.7-12 Contractor and subcontractor prohibited from knowingly employing or contracting with unauthorized alien; thirty days to remedy violation; rebuttable presumption 
+Sec. 12. (a) A contractor or a subcontractor may not: 
+(1) 
+knowingly employ or contract with an unauthorized alien; or 
+
+(2) 
+retain an employee or contract with a person that the contractor or subcontractor subsequently learns is an unauthorized alien. 
+
+
+(b) 
+If a contractor violates this section, the state agency, political subdivision, or public agency shall require the contractor to remedy the violation not later than thirty (30) days after the date the state agency, political subdivision, or public agency notifies the contractor of the violation. 
+
+(c) 
+There is a rebuttable presumption that a contractor did not knowingly employ an unauthorized alien if the contractor verified the work eligibility status of the employee through the E-Verify program. 
+
+
+As added by P.L.171-2011, SEC.16. Amended by P.L.252-2015, SEC.33. 
+IC 22-5-1.7-13 
+Termination of contract for services or public works contract; 
+
+
+exception; contractor liable 
+Sec. 13. (a) Except as provided in subsection (b), if the contractor fails to remedy the violation within the thirty (30) day period provided under section 12(b) of this chapter, the following apply: 
+(1) 
+The state agency or political subdivision shall terminate the public contract for services with the contractor for breach of the public contract for services. 
+
+(2) 
+The public agency shall terminate the contract for a public works project with the contractor for breach of the contract for the public works project. 
+
+
+(b) 
+If a contractor employs or contracts with an unauthorized alien, the following apply: 
+
+(1) 
+If the state agency or political subdivision (whichever the contractor has a public contract for services with) determines that terminating the public contract for services under subsection (a) would be detrimental to the public interest or public property, the state agency or political subdivision may allow the public contract for services to remain in effect until the state agency or political subdivision procures a new contractor. 
+
+(2) 
+If the public agency determines that terminating the contract for a public works project under subsection (a) would be detrimental to the public interest or public property, the public agency may allow the contract for the public works project to remain in effect until the public agency procures a new contractor. 
+
+
+
+(c) 
+If a state agency or political subdivision terminates a public contract for services under subsection (a), the contractor is liable to the state agency or political subdivision for actual damages. 
+
+
+(d) If a public agency terminates a contract for a public works project under subsection (a), the contractor is liable to the public agency for actual damages. As added by P.L.171-2011, SEC.16. Amended by P.L.252-2015, SEC.34. 
+
+IC 22-5-1.7-14 Filing an action 
+Sec. 14. A contractor may file an action with a circuit or superior court having jurisdiction in the county to challenge: 
+(1) 
+a notice of a violation to the contractor under section 12(b) of this chapter not later than twenty (20) days after the contractor receives the notice; or 
+
+(2) 
+a termination of a: 
+
+(A) 
+public contract for services under section 13(a) of this chapter not later than twenty (20) days after the state agency or political subdivision terminates the public contract for services with the contractor; or 
+
+(B) 
+contract for a public works project under section 13(a) 
+
+
+
+
+of this chapter not later than twenty (20) days after the 
+public agency terminates the contract for the public works 
+project with the contractor; 
+whichever is applicable. As added by P.L.171-2011, SEC.16. Amended by P.L.252-2015, SEC.35. 
+
+IC 22-5-1.7-15 Certification by subcontractor 
+Sec. 15. If a contractor uses a subcontractor to provide services for work the contractor is performing under a public contract for services or a contract for a public works project, the subcontractor shall certify to the contractor in a manner consistent with federal law that the subcontractor, at the time of certification: 
+(1) does not knowingly employ or contract with an unauthorized alien; and 
+(2) has enrolled and is participating in the E-Verify program. As added by P.L.171-2011, SEC.16. Amended by P.L.252-2015, SEC.36. 
+
+IC 22-5-1.7-16 Maintain certification 
+Sec. 16. A contractor shall maintain on file a certification of a subcontractor under section 15 of this chapter throughout the duration of the term of a contract with the subcontractor. As added by P.L.171-2011, SEC.16. 
+
+IC 22-5-1.7-17 Termination of contract with subcontractor for violation of chapter; action to challenge 
+Sec. 17. (a) If a contractor determines that a subcontractor is in violation of this chapter, the contractor may terminate a contract with the subcontractor for the violation. 
+(b) The termination of a contract under subsection (a) for a violation of this chapter by a subcontractor may not be considered a breach of contract by the contractor or the subcontractor. 
+(c) A subcontractor may file an action with a circuit or superior court having jurisdiction in the county to challenge a termination of a contract under subsection (a) not later than twenty (20) days after the contractor terminates the contract with the subcontractor. As added by P.L.171-2011, SEC.16. Amended by P.L.6-2012, SEC.158. 
+

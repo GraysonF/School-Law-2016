@@ -1,0 +1,1625 @@
+IC 6-3-2 Chapter 2. Imposition of Tax and Deductions 
+IC 6-3-2-0.3 Intent of general assembly adding section 2.3 of this chapter 
+Sec. 0.3. It is the intent of the general assembly that the addition of section 2.3 of this chapter by P.L.70-1993 be construed liberally in favor of persons, corporations, partnerships, or other entities contracting with commercial printers. As added by P.L.220-2011, SEC.138. 
+
+IC 6-3-2-1 Tax rate 
+Sec. 1. (a) Each taxable year, a tax at the following rate of adjusted gross income is imposed upon the adjusted gross income of every resident person, and on that part of the adjusted gross income derived from sources within Indiana of every nonresident person: 
+(1) 
+For taxable years beginning before January 1, 2015, three and four-tenths percent (3.4%). 
+
+(2) 
+For taxable years beginning after December 31, 2014, and before January 1, 2017, three and three-tenths percent (3.3%). 
+
+(3) 
+For taxable years beginning after December 31, 2016, three and twenty-three hundredths percent (3.23%). 
+
+
+(b) Except as provided in section 1.5 of this chapter, each taxable year, a tax at the following rate of adjusted gross income is imposed on that part of the adjusted gross income derived from sources within Indiana of every corporation: 
+(1) 
+Before July 1, 2012, eight and five-tenths percent (8.5%). 
+
+(2) 
+After June 30, 2012, and before July 1, 2013, eight percent (8.0%). 
+
+(3) 
+After June 30, 2013, and before July 1, 2014, seven and five-tenths percent (7.5%). 
+
+(4) 
+After June 30, 2014, and before July 1, 2015, seven percent (7.0%). 
+
+(5) 
+After June 30, 2015, and before July 1, 2016, six and five-tenths percent (6.5%). 
+
+(6) 
+After June 30, 2016, and before July 1, 2017, six and twenty-five hundredths percent (6.25%). 
+
+(7) 
+After June 30, 2017, and before July 1, 2018, six percent (6.0%). 
+
+(8) 
+After June 30, 2018, and before July 1, 2019, five and seventy-five hundredths percent (5.75%). 
+
+(9) 
+After June 30, 2019, and before July 1, 2020, five and five-tenths percent (5.5%). 
+
+(10) 
+After June 30, 2020, and before July 1, 2021, five and twenty-five hundredths percent (5.25%). 
+
+(11)
+ After June 30, 2021, four and nine-tenths percent (4.9%). 
+
+
+(c) If for any taxable year a taxpayer is subject to different tax rates under subsection (b), the taxpayer's tax rate for that taxable year 
+is the rate determined in the last STEP of the following STEPS: STEP ONE: Multiply the number of months in the taxpayer's taxable year that precede the month the rate changed by the rate in effect before the rate change. STEP TWO: Multiply the number of months in the taxpayer's taxable year that follow the month before the rate changed by the rate in effect after the rate change. STEP THREE: Divide the sum of the amounts determined under STEPS ONE and TWO by twelve (12). 
+However, the rate determined under this subsection shall be rounded to the nearest one-hundredth of one percent (0.01%). 
+(Formerly: Acts 1963(ss), c.32, s.201; Acts 1973, P.L.50, SEC.1.) As amended by Acts 1979, P.L.68, SEC.1; Acts 1981, P.L.77, SEC.8; P.L.2-1982(ss), SEC.8; P.L.47-1984, SEC.4; P.L.390-1987(ss), SEC.37; P.L.192-2002(ss), SEC.70; P.L.81-2004, SEC.20; P.L.172-2011,SEC.54; P.L.205-2013, SEC.82; P.L.80-2014, SEC.9. 
+
+IC 6-3-2-1.5 "Qualified area"; tax rate in qualified area 
+Sec. 1.5. (a) As used in this section, "qualified area" means: 
+(1) 
+a military base (as defined in IC 36-7-30-1(c)); 
+
+(2) 
+a military base reuse area established under IC 36-7-30; 
+
+(3) 
+the part of an economic development area established under IC 36-7-14.5-12.5 that is or formerly was a military base (as defined in IC 36-7-30-1(c)); or 
+
+(4) 
+a qualified military base enhancement area established under IC 36-7-34. 
+
+
+(b) 
+Except as provided in subsection (e), a tax at the rate of five percent (5%) of adjusted gross income is imposed on that part of the adjusted gross income of a corporation that is derived from sources within a qualified area if the corporation locates all or part of its operations in a qualified area during the taxable year, as determined under subsection (g). The tax rate under this section applies to the taxable year in which the corporation locates its operations in the qualified area and to the next succeeding four (4) taxable years. 
+
+(c) 
+In the case of a corporation that locates all or part of its operations in a qualified military base enhancement area established under IC 36-7-34-4(1), the tax rate imposed under this section applies to the corporation only if the corporation meets at least one (1) of the following criteria: 
+
+(1) 
+The corporation is a participant in the technology transfer program conducted by the qualified military base (as defined in IC 36-7-34-3). 
+
+(2) 
+The corporation is a United States Department of Defense contractor. 
+
+(3) 
+The corporation and the qualified military base have a mutually beneficial relationship evidenced by a memorandum 
+
+
+
+
+of understanding between the corporation and the United States Department of Defense. 
+(d) 
+In the case of a business that uses the services or commodities in a qualified military base enhancement area established under IC 36-7-34-4(2), the business must satisfy at least one (1) of the following criteria: 
+
+(1) 
+The business is a participant in the technology transfer program conducted by the qualified military base (as defined in IC 36-7-34-3). 
+
+(2) 
+The business and the qualified military base have a mutually beneficial relationship evidenced by a memorandum of understanding between the business and the qualified military base (as defined in IC 36-7-34-3). 
+
+
+
+(e) 
+A taxpayer is not entitled to the tax rate described in subsection (b) to the extent that the taxpayer substantially reduces or ceases its operations at another location in Indiana in order to relocate its operations within the qualified area, unless: 
+
+(1) 
+the taxpayer had existing operations in the qualified area; and 
+
+(2) 
+the operations relocated to the qualified area are an expansion of the taxpayer's operations in the qualified area. 
+
+
+
+(f) 
+A determination under subsection (e) that a taxpayer is not entitled to the tax rate provided by this section as a result of a substantial reduction or cessation of operations applies to the taxable year in which the substantial reduction or cessation occurs and in all subsequent years. Determinations under this section shall be made by the department of state revenue. 
+
+
+(g) The department of state revenue: 
+(1) 
+shall adopt rules under IC 4-22-2 to establish a procedure for determining the part of a corporation's adjusted gross income that was derived from sources within a qualified area; and 
+
+(2) 
+may adopt other rules that the department considers necessary for the implementation of this chapter. 
+
+
+As added by P.L.81-2004, SEC.21. Amended by P.L.190-2005, SEC.2; P.L.203-2005, SEC.4; P.L.180-2006, SEC.4; P.L.288-2013, SEC.32. 
+IC 6-3-2-2 "Adjusted gross income derived from sources within Indiana"; apportionment; payroll factor; sales factor; property factor; pass through entities 
+Sec. 2. (a) With regard to corporations and nonresident persons, "adjusted gross income derived from sources within Indiana", for the purposes of this article, shall mean and include: 
+(1) 
+income from real or tangible personal property located in this state; 
+
+(2) 
+income from doing business in this state; 
+
+(3) 
+income from a trade or profession conducted in this state; 
+
+(4) 
+compensation for labor or services rendered within this state; and 
+
+(5) 
+income from stocks, bonds, notes, bank deposits, patents, copyrights, secret processes and formulas, good will, trademarks, trade brands, franchises, and other intangible personal property to the extent that the income is apportioned to Indiana under this section or if the income is allocated to Indiana or considered to be derived from sources within Indiana under this section. 
+
+
+Income from a pass through entity shall be characterized in a manner consistent with the income's characterization for federal income tax purposes and shall be considered Indiana source income as if the person, corporation, or pass through entity that received the income had directly engaged in the income producing activity. Income that is derived from one (1) pass through entity and is considered to pass through to another pass through entity does not change these characteristics or attribution provisions. In the case of nonbusiness income described in subsection (g), only so much of such income as is allocated to this state under the provisions of subsections (h) through (k) shall be deemed to be derived from sources within Indiana. In the case of business income, only so much of such income as is apportioned to this state under the provision of subsection (b) shall be deemed to be derived from sources within the state of Indiana. In the case of compensation of a team member (as defined in section 2.7 of this chapter), only the portion of income determined to be Indiana income under section 2.7 of this chapter is considered derived from sources within Indiana. In the case of a corporation that is a life insurance company (as defined in Section 816(a) of the Internal Revenue Code) or an insurance company that is subject to tax under Section 831 of the Internal Revenue Code, only so much of the income as is apportioned to Indiana under subsection (r) is considered derived from sources within Indiana. 
+(b) 
+Except as provided in subsection (l), if business income of a corporation or a nonresident person is derived from sources within the state of Indiana and from sources without the state of Indiana, the business income derived from sources within this state shall be determined by multiplying the business income derived from sources both within and without the state of Indiana by the following: 
+
+(1) 
+For all taxable years that begin after December 31, 2006, and before January 1, 2008, a fraction. The: 
+
+(A) 
+numerator of the fraction is the sum of the property factor plus the payroll factor plus the product of the sales factor multiplied by three (3); and 
+
+(B) 
+denominator of the fraction is five (5). 
+
+
+
+(2) 
+For all taxable years that begin after December 31, 2007, and before January 1, 2009, a fraction. The: 
+
+(A) 
+numerator of the fraction is the property factor plus the payroll factor plus the product of the sales factor multiplied by four and sixty-seven hundredths (4.67); and 
+
+(B) 
+denominator of the fraction is six and sixty-seven hundredths (6.67). 
+
+
+
+(3) 
+For all taxable years beginning after December 31, 2008, and before January 1, 2010, a fraction. The: 
+
+(A) 
+numerator of the fraction is the property factor plus the payroll factor plus the product of the sales factor multiplied by eight (8); and 
+
+(B) 
+denominator of the fraction is ten (10). 
+
+
+
+(4) 
+For all taxable years beginning after December 31, 2009, and before January 1, 2011, a fraction. The: 
+
+(A) 
+numerator of the fraction is the property factor plus the payroll factor plus the product of the sales factor multiplied by eighteen (18); and 
+
+(B) 
+denominator of the fraction is twenty (20). 
+
+
+
+(5) 
+For all taxable years beginning after December 31, 2010, the sales factor. 
+
+
+
+(c) 
+The property factor is a fraction, the numerator of which is the average value of the taxpayer's real and tangible personal property owned or rented and used in this state during the taxable year and the denominator of which is the average value of all the taxpayer's real and tangible personal property owned or rented and used during the taxable year. However, with respect to a foreign corporation, the denominator does not include the average value of real or tangible personal property owned or rented and used in a place that is outside the United States. Property owned by the taxpayer is valued at its original cost. Property rented by the taxpayer is valued at eight (8) times the net annual rental rate. Net annual rental rate is the annual rental rate paid by the taxpayer less any annual rental rate received by the taxpayer from subrentals. The average of property shall be determined by averaging the values at the beginning and ending of the taxable year, but the department may require the averaging of monthly values during the taxable year if reasonably required to reflect properly the average value of the taxpayer's property. 
+
+(d) 
+The payroll factor is a fraction, the numerator of which is the total amount paid in this state during the taxable year by the taxpayer for compensation, and the denominator of which is the total compensation paid everywhere during the taxable year. However, with respect to a foreign corporation, the denominator does not include compensation paid in a place that is outside the United States. Compensation is paid in this state if: 
+
+(1) 
+the individual's service is performed entirely within the state; 
+
+(2) 
+the individual's service is performed both within and without this state, but the service performed without this state is 
+
+incidental to the individual's service within this state; or 
+
+(3) 
+some of the service is performed in this state and: 
+
+(A) 
+the base of operations or, if there is no base of operations, the place from which the service is directed or controlled is in this state; or 
+
+(B) 
+the base of operations or the place from which the service is directed or controlled is not in any state in which some part of the service is performed, but the individual is a resident of this state. 
+
+
+
+
+
+(e) 
+The sales factor is a fraction, the numerator of which is the total sales of the taxpayer in this state during the taxable year, and the denominator of which is the total sales of the taxpayer everywhere during the taxable year. Sales include receipts from intangible property and receipts from the sale or exchange of intangible property. However, with respect to a foreign corporation, the denominator does not include sales made in a place that is outside the United States. Receipts from intangible personal property are derived from sources within Indiana if the receipts from the intangible personal property are attributable to Indiana under section 2.2 of this chapter. Regardless of the f.o.b. point or other conditions of the sale, sales of tangible personal property are in this state if: 
+
+(1) 
+the property is delivered or shipped to a purchaser that is within Indiana, other than the United States government; or 
+
+(2) 
+the property is shipped from an office, a store, a warehouse, a factory, or other place of storage in this state and the purchaser is the United States government. 
+
+
+
+
+Gross receipts derived from commercial printing as described in IC 6-2.5-1-10 and from the sale of computer software shall be treated as sales of tangible personal property for purposes of this chapter. 
+(f) 
+Sales, other than receipts from intangible property covered by subsection (e) and sales of tangible personal property, are in this state if: 
+
+(1) 
+the income-producing activity is performed in this state; or 
+
+(2) 
+the income-producing activity is performed both within and without this state and a greater proportion of the income-producing activity is performed in this state than in any other state, based on costs of performance. 
+
+
+
+(g) 
+Rents and royalties from real or tangible personal property, capital gains, interest, dividends, or patent or copyright royalties, to the extent that they constitute nonbusiness income, shall be allocated as provided in subsections (h) through (k). 
+
+(h)(1) Net rents and royalties from real property located in this state are allocable to this state. 
+
+(2) 
+Net rents and royalties from tangible personal property are allocated to this state: 
+
+(i)
+ if and to the extent that the property is utilized in this state; or 
+
+(ii) 
+in their entirety if the taxpayer's commercial domicile is in this state and the taxpayer is not organized under the laws of or taxable in the state in which the property is utilized. 
+
+
+
+(3) 
+The extent of utilization of tangible personal property in a state is determined by multiplying the rents and royalties by a fraction, the numerator of which is the number of days of physical location of the property in the state during the rental or royalty period in the taxable year, and the denominator of which is the number of days of physical location of the property everywhere during all rental or royalty periods in the taxable year. If the physical location of the property during the rental or royalty period is unknown or unascertainable by the taxpayer, tangible personal property is utilized in the state in which the property was located at the time the rental or royalty payer obtained possession. 
+
+(i)(1) Capital gains and losses from sales of real property located in this state are allocable to this state. 
+
+(2) 
+Capital gains and losses from sales of tangible personal property are allocable to this state if: 
+
+(i) 
+the property had a situs in this state at the time of the sale; or 
+
+(ii) 
+the taxpayer's commercial domicile is in this state and the taxpayer is not taxable in the state in which the property had a situs. 
+
+
+
+(3) 
+Capital gains and losses from sales of intangible personal property are allocable to this state if the taxpayer's commercial domicile is in this state. 
+
+
+(j) Interest and dividends are allocable to this state if the 
+taxpayer's commercial domicile is in this state. (k)(1) Patent and copyright royalties are allocable to this state: 
+(i) 
+if and to the extent that the patent or copyright is utilized by the taxpayer in this state; or 
+
+(ii) 
+if and to the extent that the patent or copyright is utilized by the taxpayer in a state in which the taxpayer is not taxable and the taxpayer's commercial domicile is in this state. 
+
+(2) 
+A patent is utilized in a state to the extent that it is employed in production, fabrication, manufacturing, or other processing in the state or to the extent that a patented product is produced in the state. If the basis of receipts from patent royalties does not permit allocation to states or if the accounting procedures do not reflect states of utilization, the patent is utilized in the state in which the taxpayer's commercial domicile is located. 
+
+(3) 
+A copyright is utilized in a state to the extent that printing or other publication originates in the state. If the basis of receipts from copyright royalties does not permit allocation to states or if the accounting procedures do not reflect states of utilization, the copyright is utilized in the state in which the taxpayer's commercial domicile is located. 
+
+
+(l) If the allocation and apportionment provisions of this article do not fairly represent the taxpayer's income derived from sources within the state of Indiana, the taxpayer may petition for or the department may require, in respect to all or any part of the taxpayer's business activity, if reasonable: 
+(1) 
+separate accounting; 
+
+(2) 
+for a taxable year beginning before January 1, 2011, the exclusion of any one (1) or more of the factors, except the sales factor; 
+
+(3) 
+the inclusion of one (1) or more additional factors which will fairly represent the taxpayer's income derived from sources within the state of Indiana; or 
+
+(4) 
+the employment of any other method to effectuate an equitable allocation and apportionment of the taxpayer's income. 
+
+
+(m) 
+In the case of two (2) or more organizations, trades, or businesses owned or controlled directly or indirectly by the same interests, the department shall distribute, apportion, or allocate the income derived from sources within the state of Indiana between and among those organizations, trades, or businesses in order to fairly reflect and report the income derived from sources within the state of Indiana by various taxpayers. 
+
+(n) 
+For purposes of allocation and apportionment of income under this article, a taxpayer is taxable in another state if: 
+
+(1) 
+in that state the taxpayer is subject to a net income tax, a franchise tax measured by net income, a franchise tax for the privilege of doing business, or a corporate stock tax; or 
+
+(2) 
+that state has jurisdiction to subject the taxpayer to a net income tax regardless of whether, in fact, the state does or does not. 
+
+
+
+(o) 
+Notwithstanding subsections (l) and (m), the department may not, under any circumstances, require that income, deductions, and credits attributable to a taxpayer and another entity be reported in a combined income tax return for any taxable year, if the other entity is: 
+
+(1) 
+a foreign corporation; or 
+
+(2) 
+a corporation that is classified as a foreign operating corporation for the taxable year by section 2.4 of this chapter. 
+
+
+
+(p) 
+Notwithstanding subsections (l) and (m), the department may not require that income, deductions, and credits attributable to a taxpayer and another entity not described in subsection (o)(1) or (o)(2) be reported in a combined income tax return for any taxable year, unless the department is unable to fairly reflect the taxpayer's adjusted gross income for the taxable year through use of other powers granted to the department by subsections (l) and (m). 
+
+(q) 
+Notwithstanding subsections (o) and (p), one (1) or more taxpayers may petition the department under subsection (l) for permission to file a combined income tax return for a taxable year. 
+
+The petition to file a combined income tax return must be completed and filed with the department not more than thirty (30) days after the end of the taxpayer's taxable year. A taxpayer filing a combined income tax return must petition the department within thirty (30) days after the end of the taxpayer's taxable year to discontinue filing a combined income tax return. 
+
+(r) 
+This subsection applies to a corporation that is a life insurance company (as defined in Section 816(a) of the Internal Revenue Code) or an insurance company that is subject to tax under Section 831 of the Internal Revenue Code. The corporation's adjusted gross income that is derived from sources within Indiana is determined by multiplying the corporation's adjusted gross income by a fraction: 
+
+(1) 
+the numerator of which is the direct premiums and annuity considerations received during the taxable year for insurance upon property or risks in the state; and 
+
+(2) 
+the denominator of which is the direct premiums and annuity considerations received during the taxable year for insurance upon property or risks everywhere. 
+
+
+
+
+The term "direct premiums and annuity considerations" means the gross premiums received from direct business as reported in the corporation's annual statement filed with the department of insurance. 
+(s) This subsection applies to receipts derived from motorsports racing. 
+(1) 
+Any purse, prize money, or other amounts earned for placement or participation in a race or portion thereof, including qualification, shall be attributed to Indiana if the race is conducted in Indiana. 
+
+(2) 
+Any amounts received from an individual or entity as a result of sponsorship or similar promotional consideration for one (1) or more races shall be in this state in the amount received, multiplied by the following fraction: 
+
+(A) 
+The numerator of the fraction is the number of racing events for which sponsorship or similar promotional consideration has been paid in a taxable year and that occur in Indiana. 
+
+(B) 
+The denominator of the fraction is the total number of racing events for which sponsorship or similar promotional consideration has been paid in a taxable year. 
+
+
+
+(3) 
+Any amounts earned as an incentive for placement or participation in one (1) or more races and that are not covered under subdivision (1) or (2) or under IC 6-3-2-3.2 shall be attributed to Indiana in the proportion of the races that occurred in Indiana. 
+
+
+This subsection, as enacted in 2013, is intended to be a clarification of the law and not a substantive change in the law 
+(Formerly: Acts 1963(ss), c.32, s.204; Acts 1965, c.233, s.13; Acts 1971, P.L.64, SEC.4.) As amended by P.L.82-1983, SEC.4; 
+P.L.16-1984, SEC.4; P.L.75-1985, SEC.4; P.L.78-1989, SEC.8; P.L.347-1989(ss), SEC.6; P.L.65-1991, SEC.1; P.L.71-1993, SEC.13; P.L.63-1997, SEC.1; P.L.192-2002(ss), SEC.71; P.L.162-2006, SEC.25; P.L.182-2009(ss), SEC.191; P.L.172-2011, SEC.55; P.L.233-2013, SEC.7; P.L.250-2015, SEC.14; P.L.122-2016, SEC.5. 
+
+IC 6-3-2-2.1 Expired 
+(As added by P.L.190-2014, SEC.13. Expired 1-1-2016 by P.L.190-2014, SEC.13.) 
+
+IC 6-3-2-2.2 Interest income, discounts, and receipts attributable to state 
+Sec. 2.2. (a) Interest income and other receipts from assets in the nature of loans or installment sales contracts that are primarily secured by or deal with real or tangible personal property are attributable to this state if the security or sale property is located in Indiana. 
+(b) 
+Interest income and other receipts from consumer loans not secured by real or tangible personal property are attributable to this state if the loan is made to a resident of Indiana, whether at a place of business, by a traveling loan officer, by mail, by telephone, or by other electronic means. 
+
+(c) 
+Interest income and other receipts from commercial loans and installment obligations not secured by real or tangible personal property are attributable to this state if the proceeds of the loan are to be applied in Indiana. If it cannot be determined where the funds are to be applied, the income and receipts are attributable to the state in which the business applied for the loan. As used in this section, "applied for" means initial inquiry (including customer assistance in preparing the loan application) or submission of a completed loan application, whichever occurs first. 
+
+(d) 
+Interest income, merchant discount, and other receipts including service charges from financial institution credit card and travel and entertainment credit card receivables and credit card holders' fees are attributable to the state to which the card charges and fees are regularly billed. 
+
+(e) 
+Receipts from the performance of fiduciary and other services are attributable to the state in which the benefits of the services are consumed. If the benefits are consumed in more than one (1) state, the receipts from those benefits are attributable to this state on a pro rata basis according to the portion of the benefits consumed in Indiana. 
+
+(f) 
+Receipts from the issuance of traveler's checks, money orders, or United States savings bonds are attributable to the state in which the traveler's checks, money orders, or bonds are purchased. 
+
+
+(g) Receipts in the form of dividends from investments are attributable to this state if the taxpayer's commercial domicile is in Indiana. 
+As added by P.L.347-1989(ss), SEC.7. 
+
+IC 6-3-2-2.3 In-state commercial printing for out-of-state customer 
+Sec. 2.3. Notwithstanding any other provision of this article, with respect to a person, corporation, or partnership that has contracted with a commercial printer for printing: 
+(1) 
+the ownership or leasing by that entity of tangible or intangible property located at the Indiana premises of the commercial printer; 
+
+(2) 
+the sale by that entity of property of any kind produced at and shipped or distributed from the Indiana premises of the commercial printer; 
+
+(3) 
+the activities of any kind performed by or on behalf of that entity at the Indiana premises of the commercial printer; and 
+
+(4) 
+the activities performed by the commercial printer in 
+
+
+Indiana for or on behalf of that entity; shall not cause that entity to have adjusted gross income derived from sources within Indiana for purposes of the taxes imposed by this chapter, unless that entity engages in other activities in Indiana away from the premises of the commercial printer that exceed the protection of 15 U.S.C. 381. As added by P.L.70-1993, SEC.6. Amended by P.L.192-2002(ss), SEC.72. 
+
+IC 6-3-2-2.4 Foreign operating corporations; determination of percentage of business activity outside United States 
+Sec. 2.4. (a) For purposes of section 2(o) of this chapter, a corporation is a foreign operating corporation for a particular taxable year if it has eighty percent (80%) or more of its total business activity occurring outside the United States during the taxable year. 
+(b) For purposes of determining the amount of a corporation's business activity that occurs within the United States, the department shall determine the sum of that corporation's United States property factor and its United States payroll factor and divide that sum by two (2). If the quotient exceeds two-tenths (0.2), then less than eighty percent (80%) of the corporation's business shall be considered to have occurred outside the United States. If the quotient equals or is less than two-tenths (0.2), then eighty percent (80%) or more of the corporation's business shall be considered to have occurred outside the United States. If a corporation's United States property factor or its United States payroll factor has a denominator of zero (0), then the sum of the two (2) factors shall be divided by one (1) and not by two (2). 
+(c) The United States property factor of a corporation is a fraction. The numerator of the fraction is the average value of the corporation's real and tangible personal property owned or rented and used in the United States during the taxable year, and the denominator of the fraction is the average value of all the corporation's real and tangible personal property owned or rented and used anywhere in the world during the taxable year. Property owned by the corporation shall be valued at its original cost. Property rented by the corporation shall be valued at eight (8) times the net annual rental rate. The corporation's net annual rental rate is the annual rental rate paid by the corporation less any annual rental rate received by the corporation from subrentals. The average value of property shall be determined by averaging the values at the beginning and ending of the taxable year, but the department may require the averaging of monthly values during the taxable year if reasonably required to reflect properly the average value of the corporation's property. 
+(d) The United States payroll factor of a corporation is a fraction. The numerator of the fraction is the total compensation to individuals paid in the United States during the taxable year by the corporation, and the denominator of the fraction is the total compensation to individuals paid anywhere in the world during the taxable year by the corporation. Compensation to an individual is paid in the United States if: 
+(1) 
+the individual's service is performed entirely within the United States; 
+
+(2) 
+the individual's service is performed both within and outside the United States, but the service performed outside the United States is incidental to the individual's service within the United States; or 
+
+(3) 
+the individual is a resident of the United States, some of the service is performed in the United States, and: 
+
+(A) 
+the base of operations or, if there is no base of operations, the place from which the service is directed or controlled is in the United States; or 
+
+(B) 
+the base of operations or, if there is no base of operations, the place from which the service is directed or controlled is not in a jurisdiction that is outside the United States and that is where some part of the service is performed. 
+
+
+
+
+As added by P.L.75-1985, SEC.5. 
+
+IC 6-3-2-2.5 Resident persons; net operating loss; adjusted gross income 
+Sec. 2.5. (a) This section applies to a resident person. 
+(b) 
+Resident persons are entitled to a net operating loss deduction. The amount of the deduction taken in a taxable year may not exceed the taxpayer's unused Indiana net operating losses carried over to that year. A taxpayer is not entitled to carryback any net operating losses 
+
+after December 31, 2011. 
+
+(c) 
+An Indiana net operating loss equals the taxpayer's federal net operating loss for a taxable year as calculated under Section 172 of the Internal Revenue Code, adjusted for the modifications required by IC 6-3-1-3.5. 
+
+(d) The following provisions apply for purposes of subsection (c): 
+(1) 
+The modifications that are to be applied are those modifications required under IC 6-3-1-3.5 for the same taxable year in which each net operating loss was incurred. 
+
+(2) 
+An Indiana net operating loss includes a net operating loss that arises when the modifications required by IC 6-3-1-3.5 exceed the taxpayer's federal adjusted gross income (as defined in Section 62 of the Internal Revenue Code) for the taxable year in which the Indiana net operating loss is determined. 
+
+
+
+(e) 
+Subject to the limitations contained in subsection (g), an Indiana net operating loss carryover shall be available as a deduction from the taxpayer's adjusted gross income (as defined in IC 6-3-1-3.5) in the carryover year provided in subsection (f). 
+
+(f) 
+Carryovers shall be determined under this subsection as follows: 
+
+(1) 
+An Indiana net operating loss shall be an Indiana net operating loss carryover to each of the carryover years following the taxable year of the loss. 
+
+(2) 
+Carryover years shall be determined by reference to the number of years allowed for carrying over net operating losses under Section 172(b) of the Internal Revenue Code. 
+
+
+
+(g) 
+The entire amount of the Indiana net operating loss for any taxable year shall be carried to the earliest of the taxable years to which (as determined under subsection (f)) the loss may be carried. The amount of the Indiana net operating loss remaining after the deduction is taken under this section in a taxable year may be carried over as provided in subsection (f). The amount of the Indiana net operating loss carried over from year to year shall be reduced to the extent that the Indiana net operating loss carryover is used by the taxpayer to obtain a deduction in a taxable year until the occurrence of the earlier of the following: 
+
+(1) 
+The entire amount of the Indiana net operating loss has been used as a deduction. 
+
+(2) 
+The Indiana net operating loss has been carried over to each of the carryover years provided by subsection (f). 
+
+
+
+
+As added by P.L.91-1987, SEC.3. Amended by P.L.81-2004, SEC.10; P.L.182-2009(ss), SEC.192; P.L.113-2010, SEC.55; P.L.172-2011, SEC.56. 
+
+IC 6-3-2-2.6 Corporations and nonresident persons; net operating losses 
+Sec. 2.6. (a) This section applies to a corporation or a nonresident person. 
+(b) 
+Corporations and nonresident persons are entitled to a net operating loss deduction. The amount of the deduction taken in a taxable year may not exceed the taxpayer's unused Indiana net operating losses carried over to that year. A taxpayer is not entitled to carryback any net operating losses after December 31, 2011. 
+
+(c) 
+An Indiana net operating loss equals the taxpayer's federal net operating loss for a taxable year as calculated under Section 172 of the Internal Revenue Code, derived from sources within Indiana and adjusted for the modifications required by IC 6-3-1-3.5. 
+
+(d) The following provisions apply for purposes of subsection (c): 
+(1) 
+The modifications that are to be applied are those modifications required under IC 6-3-1-3.5 for the same taxable year in which each net operating loss was incurred. 
+
+(2) 
+The amount of the taxpayer's net operating loss that is derived from sources within Indiana shall be determined in the same manner that the amount of the taxpayer's adjusted income derived fromsources within Indiana is determined under section 2 of this chapter for the same taxable year during which each loss was incurred. 
+
+(3) 
+An Indiana net operating loss includes a net operating loss that arises when the modifications required by IC 6-3-1-3.5 exceed the taxpayer's federal taxable income (as defined in Section 63 of the Internal Revenue Code), if the taxpayer is a corporation, or when the modifications required by IC 6-3-1-3.5 exceed the taxpayer's federal adjusted gross income (as defined by Section 62 of the Internal Revenue Code), if the taxpayer is a nonresident person, for the taxable year in which the Indiana net operating loss is determined. 
+
+
+
+(e) 
+Subject to the limitations contained in subsection (g), an Indiana net operating loss carryover shall be available as a deduction from the taxpayer's adjusted gross income derived from sources within Indiana (as defined in section 2 of this chapter) in the carryover year provided in subsection (f). 
+
+(f) 
+Carryovers shall be determined under this subsection as follows: 
+
+(1) 
+An Indiana net operating loss shall be an Indiana net operating loss carryover to each of the carryover years following the taxable year of the loss. 
+
+(2) 
+Carryover years shall be determined by reference to the number of years allowed for carrying over net operating losses under Section 172(b) of the Internal Revenue Code. 
+
+
+
+(g) 
+The entire amount of the Indiana net operating loss for any taxable year shall be carried to the earliest of the taxable years to which (as determined under subsection (f)) the loss may be carried. The amount of the Indiana net operating loss remaining after the deduction is taken under this section in a taxable year may be carried over as provided in subsection (f). The amount of the Indiana net operating loss carried over from year to year shall be reduced to the 
+
+
+extent that the Indiana net operating loss carryover is used by the taxpayer to obtain a deduction in a taxable year until the occurrence of the earlier of the following: 
+(1) 
+The entire amount of the Indiana net operating loss has been used as a deduction. 
+
+(2) 
+The Indiana net operating loss has been carried over to each of the carryover years provided by subsection (f). 
+
+
+(h) 
+An Indiana net operating loss deduction determined under this section shall be allowed notwithstanding the fact that in the year the taxpayer incurred the net operating loss the taxpayer was not subject to the tax imposed under section 1 of this chapter because the taxpayer was: 
+
+(1) 
+a life insurance company (as defined in Section 816(a) of the Internal Revenue Code); or 
+
+(2) 
+an insurance company subject to tax under Section 831 of the Internal Revenue Code. 
+
+
+
+(i) 
+In the case of a life insurance company that claims an operations loss deduction under Section 810 of the Internal Revenue Code, this section shall be applied by: 
+
+(1) 
+substituting the corresponding provisions of Section 810 of the Internal Revenue Code in place of references to Section 172 of the Internal Revenue Code; and 
+
+(2) 
+substituting life insurance company taxable income (as defined in Section 801 the Internal Revenue Code) in place of references to taxable income (as defined in Section 63 of the Internal Revenue Code). 
+
+
+
+
+As added by P.L.91-1987, SEC.4. Amended by P.L.192-2002(ss), SEC.73; P.L.81-2004, SEC.11; P.L.2-2005, SEC.21; P.L.182-2009(ss), SEC.193; P.L.113-2010, SEC.56; P.L.172-2011, SEC.57. 
+
+IC 6-3-2-2.7 Team members; Indiana income; rules 
+Sec. 2.7. (a) As used in this section: 
+(1) 
+"Bonus for services rendered as a team member" includes: 
+
+(A) 
+a bonus earned as a result of play during the season, such as a performance bonus, including a bonus paid for a championship, playoff, or bowl game played by a team, or for selection to an all-star league or other honorary position; and 
+
+(B) 
+a bonus paid for signing a contract, unless all of the following conditions are met: 
+
+(i) 
+The payment of the signing bonus is not conditional upon the signee playing any games for the team, performing any subsequent services for the team, or making the team. 
+
+(ii) 
+The signing bonus is payable separately from the salary and any other compensation. 
+
+
+
+
+(iii) The signing bonus is nonrefundable. 
+
+(2) 
+"Indiana duty days" means the number of total duty days spent by a team member within Indiana rendering a service for the team in any manner during the taxable year, except: 
+
+(A) 
+travel days spent in Indiana that do not involve either a game, practice, team meeting, promotional caravan, or other similar team event; and 
+
+(B) 
+those days spent in Indiana for which a team member is on the disabled list. 
+
+
+
+(3) 
+"Team" includes a professional baseball, basketball, football, hockey, or soccer team that played games in Indiana or that had services rendered in Indiana by a team member. 
+
+(4) 
+"Team member" includes employees who are active players, players on the disabled list, and any other individuals required to travel and who do travel with and perform services on behalf of a team on a regular basis. The term includes coaches, managers, and trainers. 
+
+(5) 
+"Total duty days" means all days during the taxable year that a team member renders a service for the team, beginning with the team's official preseason training period through the last game in which the team competes or is scheduled to compete. The term includes days on which a team member renders a service for the team on a date that does not fall within this period. The term includes: 
+
+(A) 
+game days, practice days, days spent at team meetings, days spent with a promotional caravan and at preseason training camps, and days served with the team through all postseason games in which the team competes or is scheduled to compete; 
+
+(B) 
+days spent conducting training and rehabilitation activities, but only if the service is conducted at the facilities of the team; 
+
+(C) 
+travel days that do not involve either a game, practice, team meeting, promotional caravan, or other similar team event; 
+
+(D) 
+days spent participating in instructional leagues and all-star or pro bowl games; and 
+
+
+
+(E) 
+days for which a team member is on the disabled list. Total duty days for an individual who joins a team during the season begin on the day the individual joins the team, and, for an individual who leaves a team, end on the day the individual leaves the team. When an individual changes teams during a taxable year, a separate duty day calculation must be made for the period the individual was with each team. Total duty days do not include those days for which a team member is not compensated and is not rendering a service for the team in any manner, including days when the team member has been suspended without pay and prohibited from performing any 
+
+services for the team. 
+
+(6) 
+"Total income" means the total compensation received during the taxable year for services rendered: 
+
+(A) 
+from the beginning of the official preseason training period through the last game in which the team competes or is scheduled to compete during that taxable year; and 
+
+(B) 
+on a date during the taxable year that does not fall within the period described in clause (A), such as participation in instructional leagues, an all-star or pro bowl game, or with a promotional caravan. 
+
+
+
+
+The term includes salaries, wages, bonuses, and any other type of compensation paid during the taxable year to a team member for services rendered in that year. The term does not include strike benefits, severance pay, termination pay, contract or option year buy-out payments, expansion or relocation payments, or any other payments not related to services rendered to the team. 
+(b) 
+For purposes of IC 6-3, Indiana income is the individual's total income during the taxable year multiplied by the following fraction: 
+
+(1) 
+The numerator of the fraction is the individual's Indiana duty days for the taxable year. 
+
+(2) 
+The denominator of the fraction is the individual's total duty days for the taxable year. 
+
+
+
+(c) 
+It is presumed that this section results in a fair and equitable apportionment of the team member's compensation. However, if the department demonstrates that the method provided under this section does not fairly and equitably apportion a team member's compensation, the department may require the team member to apportion the team member's compensation under another method that the department prescribes. The prescribed method must result in a fair and equitable apportionment. A team member may submit a proposal for an alternative method to apportion the team member's compensation if the team member demonstrates that the method provided under this section does not fairly and equitably apportion the team member's compensation. If approved by the department, the proposed method must be fully explained in the team member's nonresident personal income tax return. 
+
+(d) 
+The department may adopt rules under IC 4-22-2 to establish either of the following methods of simplifying return filing for team members of a team, if the team is not based in Indiana: 
+
+(1) 
+A withholding system requiring a team to withhold adjusted gross income tax for each team member and to remit the withheld taxes to Indiana on an annual basis. The department may require each team to submit information for each team member regarding total income, Indiana income subject to tax under this section, and the amount of tax withheld. Remittance of the withholding and submission of the required information satisfies the team member's tax liability and return filing 
+
+responsibilities under this article. A team that is required to withhold and remit shall provide all participating team members with a Form W-2 evidencing the amount of tax withheld and remitted to Indiana. Even though a team is required to withhold and remit, a team member may file an individual income tax return to claim a refund if the amount remitted exceeds the amount otherwise owed using the methodology under this section. However, if the team member files an individual income tax return to claim such a refund, the team member is required to notify the team member's state of residence of the filing. 
+
+(2) 
+A composite return method that permits the filing of a composite tax return by the team on behalf of each team member. Other department rules concerning composite returns apply to the extent these rules are not inconsistent with this subsection. The team must obtain approval from the department before filing a composite return. The team must obtain written authorization each taxable year from each team member who elects to participate in the composite return. The participating team members must acknowledge through their elections that the composite return constitutes an irrevocable filing and that they may not file an individual income tax return in Indiana. The team must maintain a power of attorney from each participating team member that authorizes the team to represent them in a protest or other appeal. The team and participating team members must agree that the team is responsible for any deficiencies, including penalties. The team shall withhold tax from each participating team member's compensation and remit it to the state of Indiana. The return must contain information for each participating team member regarding total income, Indiana income subject to tax using the methodology under this section, and the amount of tax due. Filing of the return and remittance of the tax satisfy the participating team member's tax liability and return filing responsibilities under IC 6-3-4-1. 
+
+
+
+
+If the method under subdivision (1) or the method under subdivision 
+(2) is required, a team member's Indiana adjusted gross income may not be reduced by using a deduction, an exemption, or an exclusion. For a team member to participate in either method, a team member's compensation from the team must be the only source of income attributable to Indiana. If a team member leaves the team during a taxable year, the team remains responsible for remitting the appropriate tax and may either collect the tax paid from the team member or absorb the cost itself. 
+As added by P.L.63-1997, SEC.2. 
+
+IC 6-3-2-2.8 Exemption; nonprofit entities; Subchapter S corporations; financial institutions; insurance companies; international banking facilities 
+
+Sec. 2.8. Notwithstanding any provision of IC 6-3-1 through IC 6-3-7, there shall be no tax on the adjusted gross income of the following: 
+(1) 
+Any organization described in Section 501(a) of the Internal Revenue Code, except that any income of such organization which is subject to income tax under the Internal Revenue Code shall be subject to the tax under IC 6-3-1 through IC 6-3-7. 
+
+(2) 
+Any corporation which is exempt from income tax under Section 1363 of the Internal Revenue Code and which complies with the requirements of IC 6-3-4-13. However, income of a corporation described under this subdivision that is subject to income tax under the Internal Revenue Code is subject to the tax under IC 6-3-1 through IC 6-3-7. A corporation will not lose its exemption under this section because it fails to comply with IC 6-3-4-13 but it will be subject to the penalties provided by IC 6-8.1-10. 
+
+(3) 
+Banks and trust companies, national banking associations, savings banks, building and loan associations, and savings and loan associations. 
+
+(4) 
+Insurance companies subject to tax under any of the following: 
+
+(A) 
+IC 27-1-18-2, including a domestic insurance company that elects to be taxed under IC 27-1-18-2. 
+
+(B) 
+IC 27-1-2-2.3. 
+
+
+
+(5) 
+International banking facilities (as defined in Regulation D of the Board of Governors of the Federal Reserve System (12 CFR 204)). 
+
+
+As added by P.L.47-1984, SEC.5. Amended by P.L.42-1993, SEC.3; P.L.18-1994, SEC.8; P.L.192-2002(ss), SEC.74; P.L.129-2014, SEC.1. 
+
+IC 6-3-2-2.9 Repealed 
+(Repealed by P.L.47-1984, SEC.7(c).) 
+
+IC 6-3-2-3 Repealed 
+(Repealed, as amended by P.L.79-1983, SEC.2, and as amended by P.L.82-1983, SEC.5, by P.L.47-1984, SEC.7(b).) 
+
+IC 6-3-2-3.1 Taxation; nonprofit entities; unrelated business income 
+Sec. 3.1. (a) Except as otherwise provided in subsection (b), income is not exempt from the adjusted gross income tax under section 2.8(1) of this chapter if the income is derived by the exempt organization from an unrelated trade or business, as defined in Section 513 of the Internal Revenue Code. 
+(b) This section does not apply to: 
+(1) 
+the United States government; 
+
+(2) 
+an agency or instrumentality of the United States government; 
+
+(3) 
+this state; 
+
+(4) 
+a state agency, as defined in IC 34-6-2-141; 
+
+(5) 
+a political subdivision, as defined in IC 34-6-2-110; or 
+
+(6) 
+a county solid waste management district or a joint solid waste management district established under IC 13-21 or IC 13-9.5-2 (before its repeal). 
+
+
+As added by Acts 1978, P.L.32, SEC.3. Amended by P.L.25-1991, SEC.4; P.L.1-1994, SEC.28; P.L.1-1996, SEC.46; P.L.1-1998, SEC.78; P.L.192-2002(ss), SEC.75. 
+
+IC 6-3-2-3.2 Indiana income of race team members 
+Sec. 3.2. (a) The following definitions apply to this section: 
+(1) 
+"Bonus for services rendered as a race team member" includes: 
+
+(A) 
+a bonus earned as a result of participation in a racing event, such as a performance bonus or any other bonus; and 
+
+(B) 
+a bonus paid for signing a contract, unless all of the following conditions are met: 
+
+(i) 
+The payment of the signing bonus is not conditional upon the signee participating in a racing event for the team or performing any subsequent services for the team. 
+
+(ii) 
+The signing bonus is payable separately from the salary and any other compensation. 
+
+
+
+
+(iii) The signing bonus is nonrefundable. 
+
+(2) 
+"Indiana duty days" means the number of total duty days spent by a race team member within Indiana rendering a service for the race team in any manner during the taxable year, except travel days spent in Indiana that do not involve either a race, practice, qualification, training, testing, team meeting, promotional caravan, or other similar race team event. 
+
+(3) 
+"Race team" includes a professional motorsports racing team that has services rendered by a race team member in Indiana or participated in a racing event at a qualified motorsports facility (as defined in IC 5-1-17.5-14). 
+
+(4) 
+"Race team member" includes employees or independent contractors who render services on behalf of the race team. The term includes but is not limited to drivers, pit crew members, mechanics, technicians, spotters, and crew chiefs. 
+
+(5) 
+"Total duty days" means all days during the taxable year that a race team member renders a service for the race team. The term includes: 
+
+(A) 
+race days, practice days, qualification days, training days, testing days, days spent at team meetings, days spent 
+
+with a promotional caravan, and days served with the team in which the team competes or is scheduled to compete; 
+
+(B) 
+days spent conducting training and rehabilitation activities, but only if the service is conducted at the facilities of the race team; and 
+
+(C) 
+travel days that do not involve either a race, practice, qualification, training, testing, team meeting, promotional caravan, or other similar team event. 
+
+
+
+
+Total duty days for an individual who joins a race team during the season begin on the day the individual joins the team, and, for an individual who leaves a team, end on the day the individual leaves the team. When an individual changes teams during a taxable year, a separate duty day calculation must be made for the period the individual was with each team. Total duty days do not include those days for which a team member is not compensated and is not rendering a service for the team in any manner, including days when the team member has been suspended without pay and prohibited from performing any services for the team. 
+(6) "Total income" means the total compensation received during the taxable year for services rendered. The term includes salaries, wages, bonuses, and any other type of compensation paid during the taxable year to a race team member for services rendered in that year. The term does not include strike benefits, severance pay, termination pay, contract or option year buy-out payments, expansion or relocation payments, or any other payments not related to services rendered to the race team. 
+(b) 
+For purposes of IC 6-3, Indiana income is the individual's total income during the taxable year multiplied by the following fraction: 
+
+(1) 
+The numerator of the fraction is the individual's Indiana duty days for the taxable year. 
+
+(2) 
+The denominator of the fraction is the individual's total duty days for the taxable year. 
+
+
+
+(c) 
+It is presumed that this section results in a fair and equitable apportionment of the race team member's compensation. However, if the department demonstrates that the method provided under this section does not fairly and equitably apportion a team member's compensation, the department may require the team member to apportion the team member's compensation under another method that the department prescribes. The prescribed method must result in a fair and equitable apportionment. A team member may submit a proposal for an alternative method to apportion the team member's compensation if the team member demonstrates that the method provided under this section does not fairly and equitably apportion the team member's compensation. If approved by the department, the proposed method must be fully explained in the team member's nonresident personal income tax return. 
+
+
+(d) The department shall adopt rules, guidelines, or other instructions applicable for taxable years beginning after December 31, 2013, to establish alternative methods: 
+(1) 
+of simplifying return filing for race team members, if the team is not based in Indiana; and 
+
+(2) 
+for a race team not based in Indiana to file a composite return on behalf of and covering more than one (1) race team member if the same amount of tax is remitted as if individual filings had occurred. Filing a composite return under this subdivision exempts: 
+
+(A) 
+a race team member covered by the return from having an individual income tax return filing requirement with respect to the income reported on the composite return; and 
+
+(B) 
+a race team that is not based in Indiana from a filing requirement only with respect to team members included on the composite return. 
+
+
+
+
+(e) Notwithstanding any other provision under IC 6-3-4, the department may adopt rules, guidelines, or other instructions related to withholding requirements under this chapter. 
+(f) This section, as enacted in 2013, is intended to be a clarification of the law and not a substantive change in the law. As added by P.L.233-2013, SEC.8. Amended by P.L.210-2016, SEC.1. 
+
+IC 6-3-2-3.5 Exemption; fares for public transportation services 
+Sec. 3.5. (a) For purposes of this section, "public transportation services" means the transportation of individuals for hire. 
+(b) 
+All fares collected for public transportation services are exempt from the income taxes imposed by this article if the fares are received by a: 
+
+(1) 
+public transportation corporation established under IC 36-9-4; 
+
+(2) 
+public transit department established by ordinance under IC 36; or 
+
+(3) 
+lessee common carrier that provides public transportation services under IC 36. 
+
+
+
+(c) 
+Fares collected for public transportation services by a private corporation are exempt from income taxes imposed by this article if during the tax year at least eighty percent (80%) of the corporation's total regularly scheduled bus passenger vehicle route miles are within the corporation's designated regional service area. A private corporation's designated regional service area may not be greater than: 
+
+(1) 
+the county that the private corporation designates as its principal place of business; and 
+
+(2) 
+all counties contiguous to the county designated by the 
+
+
+
+
+private corporation as its principal place of business. A private corporation may choose a smaller area as its regional service area. 
+(Formerly: Acts 1975, P.L.58, SEC.3.) As amended by P.L.19-1986, SEC.14; P.L.192-2002(ss), SEC.76. 
+
+IC 6-3-2-3.7 Remainder of federal civil service annuity minus certain retirement benefits; deduction 
+Sec. 3.7. (a) Each taxable year, an individual or the individual's surviving spouse is entitled to an adjusted gross income tax deduction equal to the remainder of: 
+(1) the: 
+(A) 
+first eight thousand dollars ($8,000), for taxable years beginning after December 31, 2014, and before January 1, 2016; and 
+
+(B) 
+first sixteen thousand dollars ($16,000), for taxable years 
+
+
+beginning after December 31, 2015; which is received by the individual or the individual's surviving spouse during the taxable year from a federal civil service annuity, and which is included in adjusted gross income under Section 62 of the Internal Revenue Code; minus 
+(2) the total amount of Social Security benefits and railroad retirement benefits received by the individual or the individual's surviving spouse during the taxable year. 
+(b) The individual is only entitled to the deduction provided by this section if the individual is at least sixty-two (62) years of age before the end of the taxable year. This subsection does not apply to the individual's surviving spouse. As added by Acts 1977, P.L.79, SEC.1. Amended by Acts 1980, P.L.54, SEC.2; P.L.76-1985, SEC.1; P.L.250-2015, SEC.15. 
+
+IC 6-3-2-4 Military service deduction; retirement income or survivor's benefits; age limit of 60 
+Sec. 4. (a) Each taxable year, an individual, or the individual's surviving spouse, is entitled to an adjusted gross income tax deduction for the first five thousand dollars ($5,000) of income, including retirement or survivor's benefits, received during the taxable year by the individual, or the individual's surviving spouse, for the individual's service in an active or reserve component of the armed forces of the United States, including the army, navy, air force, coast guard, marine corps, merchant marine, Indiana army national guard, or Indiana air national guard. However, a person who is less than sixty (60) years of age on the last day of the person's taxable year, is not, for that taxable year, entitled to a deduction under this section for retirement or survivor's benefits. 
+(b) An individual whose qualified military income is subtracted from the individual's federal adjusted gross income under IC 6-3-1-3.5(a)(19) for Indiana individual income tax purposesis not, for that taxable year, entitled to a deduction under this section for the individual's qualified military income. 
+As added by Acts 1977, P.L.78, SEC.3. Amended by P.L.76-1985, SEC.2; P.L.144-2007, SEC.5; P.L.6-2012, SEC.49; P.L.250-2015, SEC.16. 
+
+IC 6-3-2-5 Repealed 
+(As added by Acts 1978, P.L.37, SEC.2. Repealed by P.L.36-2015, SEC.3; P.L.250-2015, SEC.17.) 
+
+IC 6-3-2-5.3 Repealed 
+(As added by P.L.182-2009(ss), SEC.195. Repealed by P.L.36-2015, SEC.4; P.L.250-2015, SEC.18.) 
+
+IC 6-3-2-5.5 Repealed 
+(Repealed by Acts 1980, P.L.54, SEC.9.) 
+
+IC 6-3-2-6 Deduction; rent payments 
+Sec. 6. (a) Each taxable year, an individual who rents a dwelling for use as the individual's principal place of residence may deduct from the individual's adjusted gross income (as defined in IC 6-3-1-3.5(a)), the lesser of: 
+(1) 
+the amount of rent paid by the individual with respect to the dwelling during the taxable year; or 
+
+(2) 
+three thousand dollars ($3,000). 
+
+
+(b) 
+Notwithstanding subsection (a), a husband and wife filing a joint adjusted gross income tax return for a particular taxable year may not claim a deduction under this section of more than three thousand dollars ($3,000). 
+
+(c) 
+The deduction provided by this section does not apply to an individual who rents a dwelling that is exempt from Indiana property tax. 
+
+
+(d) For purposes of this section, a "dwelling" includes a single family dwelling and unit of a multi-family dwelling. As added by Acts 1979, P.L.70, SEC.1. Amended by P.L.14-1999, SEC.1; P.L.192-2002(ss), SEC.77; P.L.146-2008, SEC.318. 
+
+IC 6-3-2-7 Repealed 
+(Repealed by P.L.9-1986, SEC.10.) 
+IC 6-3-2-8 Enterprise zone employers; exemption from deduction 
+Sec. 8. (a) For purposes of this section, "qualified employee" means an individual who is employed by a taxpayer, a pass through entity, an employer exempt from adjusted gross income tax (IC 6-3-1 through IC 6-3-7) under IC 6-3-2-2.8(3), IC 6-3-2-2.8(4), or IC 6-3-2-2.8(5), a nonprofit entity, the state, a political subdivision of the state, or the United States government and who: 
+(1) 
+has the employee's principal place of residence in the enterprise zone in which the employee is employed; 
+
+(2) 
+performs services for the taxpayer, the employer, the nonprofit entity, the state, the political subdivision, or the United States government, ninety percent (90%) of which are directly related to: 
+
+(A) 
+the conduct of the taxpayer's or employer's trade or business; or 
+
+(B) 
+the activities of the nonprofit entity, the state, the 
+
+
+
+
+political subdivision, or the United States government; that is located in an enterprise zone; and 
+(3) performs at least fifty percent (50%) of the employee's service for the taxpayer or employer during the taxable year in the enterprise zone. 
+(b) Except as provided in subsection (c), a qualified employee is entitled to a deduction from the employee's adjusted gross income in each taxable year in the amount of the lesser of: 
+(1) 
+one-half (1/2) of the employee's adjusted gross income for the taxable year that the employee earns as a qualified employee; or 
+
+(2) 
+seven thousand five hundred dollars ($7,500). 
+
+
+(c) No qualified employee is entitled to a deduction under this section for a taxable year that begins after the termination of the enterprise zone in which the employee resides. As added by P.L.23-1983, SEC.11. Amended by P.L.9-1986, SEC.5; P.L.289-2001, SEC.12; P.L.269-2003, SEC.4; P.L.182-2009(ss), SEC.194. 
+
+IC 6-3-2-9 Disability retirement; deduction; amount 
+Sec. 9. (a) An individual who: 
+(1) 
+retired on disability before the end of the taxable year; and 
+
+(2) 
+had a permanent and total disability, as determined under 
+
+
+subsection (c), at the time of retirement; is entitled to a deduction from the individual's adjusted gross income for that taxable year in the amount determined under subsection (b). 
+(b) The deduction provided by subsection (a) is the amount 
+determined using the following STEPS: STEP ONE: Determine the amount received by the individual during the taxable year through an accident and health plan for personal injuries or sickness to the extent that: 
+(A) 
+these amounts are attributable to contributions by the individual's employer that were not includable in the 
+
+individual's gross income or are paid by the employer; and 
+
+(B) 
+these amounts constitute wages or payments in lieu of wages for a period during which the employee is absent from work because of permanent and total disability. 
+
+
+STEP TWO: Determine for each week of the taxable year the amount by which each weekly payment referred to in STEP ONE exceeds one hundred dollars ($100), then add these amounts. STEP THREE: Determine the amount by which the individual's federal adjusted gross income for the taxable year, as defined by Section 62 of the Internal Revenue Code, exceeds fifteen thousand dollars ($15,000). STEP FOUR: Subtract from the amount determined in STEP ONE the amount determined in STEP TWO and the amount determined in STEP THREE. 
+(c) For purposes of this section, an individual has a permanent and total disability if the individual is unable to engage in any substantial gainful activity by reason of any medically determinable physical or mental impairment that can be expected to result in death or that has lasted or can be expected to last for a continuous period of not less than twelve (12) months. An individual may not be considered to have a permanent and total disability unless the individual furnishes proof of the existence of the disability as the department of revenue may require. 
+As added by P.L.76-1985, SEC.3. Amended by P.L.47-2001, SEC.1; P.L.99-2007, SEC.26. 
+
+IC 6-3-2-10 Unemployment compensation; deduction 
+Sec. 10. (a) An individual who received unemployment compensation, as defined in subsection (c), during the taxable year is entitled to a deduction from the individual's adjusted gross income for that taxable year in the amount determined using the following formula: 
+STEP ONE: Determine the greater of zero (0) or the difference between: 
+(A) the sum of: 
+(i)
+ the federal adjusted gross income of the individual (or the individual and the individual's spouse, in the case of a joint return), as defined in Section 62 of the Internal Revenue Code; plus 
+
+(ii) 
+the amount of unemployment compensation excluded from federal gross income, as defined in Section 61 of the Internal Revenue Code, under Section 85(c) of the Internal Revenue Code; minus 
+
+
+(B) the base amount as defined in subsection (b). STEP TWO: Determine the greater of zero (0) or the difference between: 
+(A) 
+the individual's unemployment compensation for the taxable year; minus 
+
+(B) 
+one-half (1/2) of the amount determined under STEP ONE. 
+
+
+(b) As used in this section, "base amount" means: 
+(1) 
+twelve thousand dollars ($12,000) in all cases not covered by subdivision (2) or (3); 
+
+(2) 
+eighteen thousand dollars ($18,000) in the case of an individual who files a joint return for the taxable year; or 
+
+(3) 
+zero (0), in the case of an individual who: 
+
+(A) 
+is married at the close of the taxable year, as determined under Section 143 of the Internal Revenue Code; 
+
+(B) 
+does not file a joint return for the taxable year; and 
+
+(C) 
+does not live apart from the individual's spouse at all times during the taxable year. 
+
+
+
+
+(c) As used in this section, "unemployment compensation" means the amount of unemployment compensation that is included in the individual's federal gross income under Section 85 of the Internal Revenue Code. 
+As added by P.L.2-1987, SEC.19. Amended by P.L.5-1988, SEC.46; P.L.182-2009(ss), SEC.196. 
+
+IC 6-3-2-11 Deductions from adjusted gross income; federal employee paid leave 
+Sec. 11. (a) An individual is entitled to a deduction from the individual's adjusted gross income for the taxable year if the individual: 
+(1) 
+is an employee of the federal government during the taxable year and the year preceding the taxable year; 
+
+(2) 
+has used paid leave from employment as an employee of the federal government during the year preceding the taxable year; and 
+
+(3) 
+is entitled to an itemized deduction under the Internal Revenue Code for the taxable year because the individual bought back the leave used by the individual during the year preceding the taxable year. 
+
+
+(b) The amount of the deduction for a taxable year may not exceed the lesser of: 
+(1) 
+the individual's itemized deduction that is allowed under the Internal Revenue Code for the taxable year; or 
+
+(2) 
+the individual's adjusted gross income for the taxable year. 
+
+
+As added by P.L.91-1987, SEC.5. 
+
+IC 6-3-2-12 Foreign source dividends; deduction; computation 
+Sec. 12. (a) As used in this section, the term "foreign source dividend" means a dividend from a foreign corporation. The term includes any amount that a taxpayer is required to include in its gross income for a taxable year under Section 951 of the Internal Revenue Code, but the term does not include any amount that is treated as a dividend under Section 78 of the Internal Revenue Code. 
+(b) 
+A corporation that includes any foreign source dividend in its adjusted gross income for a taxable year is entitled to a deduction from that adjusted gross income. The amount of the deduction equals the product of: 
+
+(1) 
+the amount of the foreign source dividend included in the corporation's adjusted gross income for the taxable year; multiplied by 
+
+(2) 
+the percentage prescribed in subsection (c), (d), or (e), as the case may be. 
+
+
+
+(c) 
+The percentage referred to in subsection (b)(2) is one hundred percent (100%) if the corporation that includes the foreign source dividend in its adjusted gross income owns stock possessing at least eighty percent (80%) of the total combined voting power of all classes of stock of the foreign corporation from which the dividend is derived. 
+
+(d) 
+The percentage referred to in subsection (b)(2) is eighty-five percent (85%) if the corporation that includes the foreign source dividend in its adjusted gross income owns stock possessing at least fifty percent (50%) but less than eighty percent (80%) of the total combined voting power of all classes of stock of the foreign corporation from which the dividend is derived. 
+
+
+(e) The percentage referred to in subsection (b)(2) is fifty percent (50%) if the corporation that includes the foreign source dividend in its adjusted gross income owns stock possessing less than fifty percent (50%) of the total combined voting power of all classes of stock of the foreign corporation from which the dividend is derived. As added by P.L.383-1987(ss), SEC.4. 
+
+IC 6-3-2-13 Export income; maritime opportunity districts; limit on deduction after December 31, 2015; expiration 
+Sec. 13. (a) As used in this section, "export income" means the gross receipts from the sale, transfer, or exchange of tangible personal property destined for international markets that is: 
+(1) 
+manufactured at a plant located within a maritime opportunity district established under IC 6-1.1-40; and 
+
+(2) 
+shipped through a port operated by the state. 
+
+
+(b) As used in this section, "export sales ratio" means the quotient of: 
+(1) 
+the taxpayer's export income; divided by 
+
+(2) 
+the taxpayer's gross receipts from the sale, transfer, or exchange of tangible personal property, regardless of its destination. 
+
+
+(c) As used in this section, "taxpayer" means a person or corporation that has export income. 
+(d) 
+The ports of Indiana established by IC 8-10-1-3 shall notify the department when a maritime opportunity district is established under IC 6-1.1-40. The notice must include: 
+
+(1) 
+the resolution passed by the commission to establish the district; and 
+
+(2) 
+a list of all taxpayers located in the district. 
+
+
+
+(e) 
+The ports of Indiana shall also notify the department of any subsequent changes in the list of taxpayers located in the district. 
+
+(f) 
+A taxpayer is entitled to a deduction from the taxpayer's adjusted gross income in an amount equal to the lesser of: 
+
+(1) 
+the taxpayer's adjusted gross income; or 
+
+(2) 
+the product of the export sales ratio multiplied by the percentage set forth in subsection (g). 
+
+
+
+(g) 
+The percentage to be used in determining the amount a taxpayer is entitled to deduct under this section depends upon the number of years that the taxpayer could have taken a deduction under this section. The percentage to be used in subsection (f) is as follows: 
+
+YEAR OF DEDUCTION 	PERCENTAGE 1st through 4th 100% 5th 80% 6th 60% 7th 40% 8th 20% 9th and thereafter 0% 
+
+(h) 
+The department shall determine, for each taxpayer claiming a deduction under this section, the taxpayer's export sales ratio for purposes of IC 6-1.1-40. The department shall certify the amount of the ratio to the department of local government finance. 
+
+(i) 
+A taxpayer is not entitled to a deduction under this section based on export income received by the taxpayer after December 31, 2015. 
+
+
+(j) This section expires January 1, 2025. As added by P.L.62-1988, SEC.2. Amended by P.L.90-2002, SEC.288; P.L.98-2008, SEC.8; P.L.250-2015, SEC.19. 
+
+IC 6-3-2-14 Repealed 
+(As added by P.L.341-1989(ss), SEC.9. Repealed by P.L.192-2002(ss), SEC.191.) 
+
+IC 6-3-2-14.1 Prize money accruing before July 1, 2002; exemption 
+Sec. 14.1. Notwithstanding IC 6-3-4-8.2, a payment made after June 30, 2002, on prize money received from a winning lottery ticket purchased under IC 4-30 for a lottery held before July 1, 2002, is exempt from the adjusted gross income tax and supplemental net income tax (repealed) imposed by this article. 
+As added by P.L.269-2003, SEC.5. Amended by P.L.250-2015, SEC.20. 
+
+IC 6-3-2-14.5 Repealed 
+(As added by P.L.192-2002(ss), SEC.79. Repealed by P.L.250-2015, SEC.21.) 
+
+IC 6-3-2-15 Repealed 
+(Repealed by P.L.1-1990, SEC.76.) 
+
+IC 6-3-2-16 Transactions between taxable entity and unitary taxpayer subject to IC 6-5.5 
+Sec. 16. If an entity is subject to taxation under this article and is a member of a unitary group of which a taxpayer subject to taxation under IC 6-5.5 is a member, all income and deductions attributable to transactions between the entity and the unitary taxpayer shall be eliminated in determining the amount of tax imposed under this article. This section does not prohibit the elimination of income and deductions between two (2) or more entities that are not members of a unitary group. As added by P.L.1-1990, SEC.77. 
+
+IC 6-3-2-17 Repealed 
+(As added by P.L.1-1990, SEC.78. Repealed by P.L.250-2015, SEC.22.) 
+
+IC 6-3-2-18 Employee medical care savings accounts; exemption limited to deposits before January 1, 2016 
+Sec. 18. (a) As used in this section, "eligible medical expense" has the meaning set forth in IC 6-8-11-3. 
+(b) 
+As used in this section, "medical care savings account" has the meaning set forth in IC 6-8-11-6. 
+
+(c) 
+This subsection applies only to money deposited by an employer in a medical care savings account before January 1, 2016. Except as provided in subsection (g), the amount of money deposited by an employer in a medical care savings account established for an employee under IC 6-8-11 is exempt from taxation under IC 6-3-1 through IC 6-3-7 as income of the employee in the taxable year in which the money is deposited in the account. 
+
+(d) 
+Except as provided in subsection (g), the amount of money that is: 
+
+(1) 
+withdrawn from a medical care savings account established for an employee under IC 6-8-11; and 
+
+(2) 
+either: 
+
+(A) 
+used by the administrator of the account for a purpose set forth in IC 6-8-11-13; or 
+
+(B) 
+used under IC 6-8-11-13 to reimburse an employee for eligible medical expenses that the employee has incurred and paid for medical care for the employee or a dependent of the employee; 
+
+
+
+
+
+
+is exempt from taxation under IC 6-3-1 through IC 6-3-7 as income of the employee. 
+(e) Except as provided in IC 6-8-11-11 and IC 6-8-11-11.5, in each taxable year, the amount of money that is: 
+(1) 
+withdrawn by an employee from a medical care savings account established under IC 6-8-11; and 
+
+(2) 
+used for a purpose other than the purposes set forth in 
+
+
+IC 6-8-11-13; is income to the employee that is subject to taxation under IC 6-3-1 through IC 6-3-7. 
+(f) 
+If an employee withdraws money from the employee's medical care savings account under the circumstances set forth in IC 6-8-11-17(c), the interest earned on the balance in the account during the full tax year in which the withdrawal is made is subject to taxation under IC 6-3-1 through IC 6-3-7 as income of the employee. 
+
+(g) 
+A taxpayer that excluded or deducted an amount deposited into a medical care savings account from adjusted gross income under: 
+
+(1) 
+section 106 of the Internal Revenue Code; 
+
+(2) 
+section 220 of the Internal Revenue Code; or 
+
+
+
+(3) 
+any other section of the Internal Revenue Code; is not eligible for an additional exemption from adjusted gross income under this section. 
+
+
+As added by P.L.92-1995, SEC.1 and P.L.93-1995, SEC.1. Amended by P.L.60-1997, SEC.3; P.L.250-2015, SEC.23. 
+
+IC 6-3-2-19 Distributions for higher education; exemptions 
+Sec. 19. (a) As used in this section, "account beneficiary" has the meaning set forth in IC 21-9-2-3. 
+(b) 
+As used in this section, "account owner" has the meaning set forth in IC 21-9-2-4. 
+
+(c) 
+As used in this section, "individual account" has the meaning set forth in IC 21-9-2-2. 
+
+(d) 
+As used in this section, "qualified higher education expenses" has the meaning set forth in IC 21-9-2-19.5. 
+
+(e) 
+Distributions from an individual account used to pay qualified higher education expenses are exempt from the adjusted gross income tax imposed by IC 6-3-1 through IC 6-3-7 as income of an account beneficiary or an account owner. 
+
+
+As added by P.L.15-2001, SEC.1. 
+
+IC 6-3-2-20 Corporations; intangible expenses; directly related interest expenses; exceptions 
+Sec. 20. (a) The following definitions apply throughout this section: 
+(1) 
+"Affiliated group" has the meaning provided in Section 1504 of the Internal Revenue Code, except that the ownership percentage in Section 1504(a)(2) of the Internal Revenue Code shall be determined using fifty percent (50%) instead of eighty percent (80%). 
+
+(2) 
+"Directly related interest expenses" means interest expenses that are paid to, or accrued or incurred as a liability to, a recipient if: 
+
+(A) 
+the amounts represent, in the hands of the recipient, income from making one (1) or more loans; and 
+
+(B) 
+the funds loaned were originally received by the recipient from the payment of expenses by any of the following: 
+
+(i)
+ The taxpayer. 
+
+(ii) 
+A member of the same affiliated group as the taxpayer. 
+
+
+
+
+(iii) A foreign corporation. 
+
+(3) 
+"Foreign corporation" means a corporation that is organized under the laws of a country other than the United States and would be a member of the same affiliated group as the taxpayer if the corporation were organized under the laws of the United States. 
+
+(4) 
+"Intangible expenses" means the following amounts to the extent these amounts are allowed as deductions in determining taxable income under Section 63 of the Internal Revenue Code before the application of any net operating loss deduction and special deductions for the taxable year: 
+
+(A) 
+Expenses, losses, and costs directly for, related to, or in connection with the acquisition, use, maintenance, management, ownership, sale, exchange, or any other disposition of intangible property. 
+
+(B) 
+Royalty, patent, technical, and copyright fees. 
+
+(C) 
+Licensing fees. 
+
+(D) 
+Other substantially similar expenses and costs. 
+
+
+
+(5) 
+"Intangible property" means patents, patent applications, trade names, trademarks, service marks, copyrights, trade secrets, and substantially similar types of intangible assets. 
+
+(6) 
+"Interest expenses" means amounts that are allowed as deductions under Section 163 of the Internal Revenue Code in determining taxable income under Section 63 of the Internal Revenue Code before the application of any net operating loss deductions and special deductions for the taxable year. 
+
+(7) 
+"Makes a disclosure" means a taxpayer provides the following information regarding a transaction with a member of 
+
+
+the same affiliated group or a foreign corporation involving an intangible expense or a directly related interest expense with the taxpayer's tax return on the forms prescribed by the department: 
+(A) 
+The name of the recipient. 
+
+(B) 
+The state or country of domicile of the recipient. 
+
+(C) 
+The amount paid to the recipient. 
+
+(D) 
+A copy of federal Form 851, Affiliation Schedule, as filed with the taxpayer's federal consolidated tax return. 
+
+(E) 
+The information needed to determine the taxpayer's status under the exceptions listed in subsection (c). 
+
+
+(8) 
+"Recipient" means: 
+
+(A) a member of the same affiliated group as the taxpayer; or 
+
+(B) 
+a foreign corporation; to which is paid an item of income that corresponds to an intangible expense or a directly related interest expense. 
+
+(9) 
+"Unrelated party" means a person that, with respect to the taxpayer, is not a member of the same affiliated group or a foreign corporation. 
+
+
+(b) 
+Except as provided in subsection (c), in determining its adjusted gross income under IC 6-3-1-3.5(b), a corporation subject to the tax imposed by IC 6-3-2-1 shall add to its taxable income under Section 63 of the Internal Revenue Code: 
+
+(1) all intangible expenses; and 
+
+(2) 
+all directly related interest expenses; paid, accrued, or incurred with one (1) or more members of the same affiliated group or with one (1) or more foreign corporations. 
+
+(c) 
+The addition of intangible expenses or directly related interest expenses otherwise required in a taxable year under subsection (b) is not required if one (1) or more of the following apply to the taxable year: 
+
+(1) 
+The taxpayer and the recipient are both included in the same consolidated tax return filed under IC 6-3-4-14 or in the same combined return filed under IC 6-3-2-2(q) for the taxable year. 
+
+(2) 
+If the recipient receives an item of income that corresponds to the directly related interest expenses and the recipient: 
+
+(A) 
+is subject to the financial institutions tax under IC 6-5.5; 
+
+(B) 
+files a return under IC 6-5.5; and 
+
+(C) 
+apportions the items of income that correspond to the intangible expenses and the directly related interest expenses in accordance with IC 6-5.5. 
+
+
+
+(3) 
+The taxpayer makes a disclosure and, at the request of the department, can establish by a preponderance of the evidence that: 
+
+(A) 
+the item of income corresponding to the intangible expenses or the directly related interest expenses was included within the recipient's income that is subject to tax in: 
+
+(i) a state or possession of the United States; or 
+
+(ii) 
+a country other than the United States; that is the recipient's commercial domicile and that imposes a net income tax, a franchise tax measured, in whole or in part, by net income, or a value added tax; 
+
+(B) 
+the transaction giving rise to the intangible expenses or the directly related interest expenses between the taxpayer and the recipient was made at a commercially reasonable rate and at terms comparable to an arm's length transaction; and 
+
+(C) 
+the transactions giving rise to the intangible expenses or the directly related interest expenses between the taxpayer and the recipient did not have Indiana tax avoidance as the principal purpose. 
+
+
+
+(4) 
+The taxpayer makes a disclosure and, at the request of the department, can establish by a preponderance of the evidence that: 
+
+(A) 
+the recipient regularly engages in transactions with one 
+
+(1) 
+or more unrelated parties on terms substantially similar to those of the subject transaction; and 
+
+(B) 
+the transaction giving rise to the intangible expenses or the directly related interest expenses between the taxpayer and the recipient did not have Indiana tax avoidance as the principal purpose. 
+
+
+
+(5) 
+The taxpayer makes a disclosure and, at the request of the department, can establish by a preponderance of the evidence that: 
+
+(A) 
+the payment was received from a person or entity that is an unrelated party, and on behalf of that unrelated party, paid that amount to the recipient in an arm's length transaction; and 
+
+(B) 
+the transaction giving rise to the intangible expenses or the directly related interest expenses between the taxpayer and the recipient did not have Indiana tax avoidance as the principal purpose. 
+
+
+
+(6) 
+The taxpayer makes a disclosure and, at the request of the department, can establish by a preponderance of the evidence that: 
+
+(A) 
+the recipient paid, accrued, or incurred a liability to an unrelated party during the taxable year for an equal or greater amount that was directly for, related to, or in connection with the same property giving rise to the expenses; and 
+
+(B) 
+the transactions giving rise to the intangible expenses or the directly related interest expenses between the taxpayer and the recipient did not have Indiana tax avoidance as the principal purpose. 
+
+
+
+(7) 
+The taxpayer makes a disclosure and, at the request of the 
+
+
+
+
+department, can establish by a preponderance of the evidence that: 
+(A) the recipient is engaged in: 
+(i) 
+substantial business activities from the acquisition, use, licensing, maintenance, management, ownership, sale, exchange, or any other disposition of intangible property; or 
+
+(ii) 
+other substantial business activities separate and apart 
+
+
+from the business activities described in item (i); as evidenced by the maintenance of a permanent office space and an adequate number of full-time, experienced employees; 
+(B) 
+the transactions giving rise to the intangible expenses or the directly related interest expenses between the taxpayer and the recipient did not have Indiana tax avoidance as the principal purpose; and 
+
+(C) 
+the transaction was made at a commercially reasonable rate and at terms comparable to an arm's length transaction. 
+
+
+(8) 
+The taxpayer and the department agree, in writing, to the application or use of an alternative method of allocation or apportionment under section 2(l) or 2(m) of this chapter. 
+
+(9) 
+Upon request by the taxpayer, the department determines that the adjustment otherwise required by this section is unreasonable. 
+
+
+(d) 
+For purposes of this section, intangible expenses or directly related interest expenses shall be considered to be at a commercially reasonable rate or at terms comparable to an arm's length transaction if the intangible expenses or directly related interest expenses meet the arm's length standards of United States Treasury Regulation 1.482-1(b). 
+
+(e) 
+If intangible expenses or directly related interest expenses are determined not to be at a commercially reasonable rate or at terms comparable to an arm's length transaction for purposes of this section, the adjustment required by subsection (b) shall be made only to the extent necessary to cause the intangible expenses or directly related interest expenses to be at a commercially reasonable rate and at terms comparable to an arm's length transaction. 
+
+(f) 
+For purposes of this section, transactions giving rise to intangible expenses or the directly related interest expenses between the taxpayer and the recipient shall be considered as having Indiana tax avoidance as the principal purpose if: 
+
+(1) 
+there is not one (1) or more valid business purposes that independently sustain the transaction notwithstanding any tax benefits associated with the transaction; and 
+
+(2) 
+the principal purpose of tax avoidance exceeds any other valid business purpose. 
+
+
+
+
+As added by P.L.162-2006, SEC.26. Amended by P.L.211-2007, SEC.21; P.L.250-2015, SEC.24. 
+
+IC 6-3-2-21.7 Exemption for certain income derived from patents 
+Sec. 21.7. (a) This section applies to a qualified patent issued to a taxpayer after December 31, 2007. 
+(b) 
+As used in this section, "invention" has the meaning set forth in 35 U.S.C. 100(a). 
+
+(c) As used in this section, "qualified patent" means: 
+(1) a utility patent issued under 35 U.S.C. 101; or 
+
+(2) 
+a plant patent issued under 35 U.S.C. 161; after December 31, 2007, for an invention resulting from a development process conducted in Indiana. The term does not include a design patent issued under 35 U.S.C. 171. 
+
+(d) 
+As used in this section, "qualified taxpayer" means a taxpayer that on the effective filing date of the claimed invention: 
+
+(1) 
+is either: 
+
+(A) an individual or corporation, if the number of employees of the individual or corporation, including affiliates as specified in 13 CFR 121.103, does not exceed five hundred 
+(500) persons; or 
+(B) a nonprofit organization or nonprofit corporation as specified in: 
+(i)
+ 37 CFR 1.27(a)(3)(ii)(A) or 37 CFR 1.27(a)(3)(ii)(B); or 
+
+(ii) 
+IC 23-17; and 
+
+
+
+(2) 
+is domiciled in Indiana. 
+
+
+
+(e) 
+Subject to subsections (g) and (h), in determining adjusted gross income or taxable income under IC 6-3-1-3.5 or IC 6-5.5-1-2, a qualified taxpayer is entitled to an exemption from taxation under IC 6-3-1 through IC 6-3-7 for the following: 
+
+(1) 
+Licensing fees or other income received for the use of a qualified patent. 
+
+(2) 
+Royalties received for the infringement of a qualified patent. 
+
+(3) 
+Receipts from the sale of a qualified patent. 
+
+(4) 
+Subject to subsection (f), income from the taxpayer's own use of the taxpayer's qualified patent to produce the claimed invention. 
+
+
+
+(f) 
+The exemption provided by subsection (e)(4) may not exceed the fair market value of the licensing fees or other income that would be received by allowing use of the qualified taxpayer's qualified patent by someone other than the taxpayer. The fair market value referred to in this subsection must be determined in each taxable year in which the qualified taxpayer claims an exemption under subsection (e)(4). 
+
+(g) 
+The total amount of exemptions claimed under this section by a qualified taxpayer in a taxable year may not exceed five million dollars ($5,000,000). 
+
+(h) 
+A taxpayer may not claim an exemption under this section with respect to a particular qualified patent for more than ten (10) 
+
+taxable years. Subject to the provisions of this section, the following amount of the income, royalties, or receipts described in subsection 
+
+(e)
+ from a particular qualified patent is exempt: 
+
+(1) 
+Fifty percent (50%) for each of the first five (5) taxable years in which the exemption is claimed for the qualified patent. 
+
+(2) 
+Forty percent (40%) for the sixth taxable year in which the exemption is claimed for the qualified patent. 
+
+(3) 
+Thirty percent (30%) for the seventh taxable year in which the exemption is claimed for the qualified patent. 
+
+(4) 
+Twenty percent (20%) for the eighth taxable year in which the exemption is claimed for the qualified patent. 
+
+(5) 
+Ten percent (10%) each year for the ninth and tenth taxable year in which the exemption is claimed for the qualified patent. 
+
+(6) 
+No exemption under this section for the particular qualified patent after the eleventh taxable year in which the exemption is claimed for the qualified patent. 
+
+
+
+(i) 
+To receive the exemption provided by this section, a qualified taxpayer must claim the exemption on the qualified taxpayer's annual state tax return or returns in the manner prescribed by the department. The qualified taxpayer shall submit to the department all information that the department determines is necessary for the determination of the exemption provided by this section. 
+
+(j) 
+On or before December 1 of each year, the department shall provide an evaluation report to the legislative council, the budget committee, and the Indiana economic development corporation. The evaluation report must contain the following: 
+
+(1) 
+The number of taxpayers claiming an exemption under this section. 
+
+(2) 
+The sum of all the exemptions claimed under this section. 
+
+(3) 
+The North American Industry Classification System code for each taxpayer claiming an exemption under this section. 
+
+(4) 
+Anyother information the department considers appropriate, including the number of qualified patents for which an exemption was claimed under this section. 
+
+
+
+
+The report required under this subsection must be in an electronic format under IC 5-14-6. 
+As added by P.L.223-2007, SEC.2. 
+
+IC 6-3-2-22 Deduction; unreimbursed education expenditures 
+Sec. 22. (a) The following definitions apply throughout this section: 
+(1) "Dependent child" means an individual who: 
+(A) 
+is eligible to receive a free elementary or high school education in an Indiana school corporation; 
+
+(B) 
+qualifies as a dependent (as defined in Section 152 of the Internal Revenue Code) of the taxpayer; and 
+
+(C) 
+is the natural or adopted child of the taxpayer or, if 
+
+
+custody of the child has been awarded in a court proceeding to someone other than the mother or father, the court appointed guardian or custodian of the child. 
+If the parents of a child are divorced, the term refers to the parent who is eligible to take the exemption for the child under Section 151 of the Internal Revenue Code. 
+(2) 
+"Education expenditure" refers to any expenditures made in connection with enrollment, attendance, or participation of the taxpayer's dependent child in a private elementary or high school education program. The term includes tuition, fees, computer software, textbooks, workbooks, curricula, school supplies (other than personal computers), and other written materials used primarily for academic instruction or for academic tutoring, or both. 
+
+(3) 
+"Private elementary or high school education program" means attendance at: 
+
+(A) a nonpublic school (as defined in IC 20-18-2-12); or 
+
+(B) 
+an accredited nonpublic school; in Indiana that satisfies a child's obligation under IC 20-33-2 for compulsory attendance at a school. The term does not include the delivery of instructional service in a home setting to a dependent child who is enrolled in a school corporation or a charter school. 
+
+
+(b) 
+This section applies to taxable years beginning after December 31, 2010. 
+
+(c) 
+A taxpayer who makes an unreimbursed education expenditure during the taxpayer's taxable year is entitled to a deduction against the taxpayer's adjusted gross income in the taxable year. 
+
+
+(d) The amount of the deduction is: 
+(1) 
+one thousand dollars ($1,000); multiplied by 
+
+(2) 
+the number of the taxpayer's dependent children for whom 
+
+
+the taxpayer made education expenditures in the taxable year. A husband and wife are entitled to only one (1) deduction under this section. 
+(e) To receive the deduction provided by this section, a taxpayer must claim the deduction on the taxpayer's annual state tax return or returns in the manner prescribed by the department. 
+As added by P.L.92-2011, SEC.1. Amended by P.L.229-2011, SEC.85. 
+
+IC 6-3-2-24 Income tax exemption; Olympic medalist 
+Sec. 24. (a) This section applies to a taxable year beginning after December 31, 2013. 
+(b) As used in this section, "international committee" refers to the International Olympic Committee and the International Paralympic Committee. 
+(c) As used in this section, "Olympic games" refers to an international sports competition conducted every two (2) years by an international committee, including both the summer and winter games. 
+(d) 
+As used in this section, "Olympic medal" refers to a gold, silver, or bronze medal won by an individual competing at the Olympic games. 
+
+(e) 
+An individual is entitled to an exemption from the adjusted gross income tax imposed under this article equal to the sum of: 
+
+(1) 
+the value of an Olympic medal won during the taxable year; plus 
+
+(2) 
+the amount of income received during the taxable year from the United States Olympic Committee as prize money for winning the Olympic medal. 
+
+
+
+
+As added by P.L.87-2014, SEC.3. 
+
+IC 6-3-2-25 Adjusted gross income tax deduction for property taxes imposed for March 1, 2006, or January 15, 2007, assessment 
+Sec. 25. (a) This section applies only to an individual who in 2008 paid property taxes that: 
+(1) 
+were imposed on the individual's principal place of residence for the March 1, 2006, assessment date or the January 15, 2007, assessment date; 
+
+(2) 
+are due after December 31, 2007; and 
+
+(3) 
+are paid on or before the due date for the property taxes. 
+
+
+(b) 
+As used in this section, "adjusted gross income" has the meaning set forth in IC 6-3-1-3.5. 
+
+(c) 
+An individual described in subsection (a) is entitled to a deduction from the individual's adjusted gross income for a taxable year beginning after December 31, 2007, and before January 1, 2009, in an amount equal to the amount determined in the following STEPS: 
+
+
+STEP ONE: Determine the lesser of: 
+(A) 
+two thousand five hundred dollars ($2,500); or 
+
+(B) 
+the total amount of property taxes imposed on the individual's principal place of residence for the March 1, 2006, assessment date or the January 15, 2007, assessment date and paid in 2007 or 2008. 
+
+
+STEP TWO: Determine the greater of zero (0) or the result of: 
+(A) 
+the STEP ONE result; minus 
+
+(B) 
+the total amount of property taxes that: 
+
+(i) 
+were imposed on the individual's principal place of residence for the March 1, 2006, assessment date or the January 15, 2007, assessment date; 
+
+(ii) 
+were paid in 2007; and 
+
+
+
+
+(iii) were deducted from the individual's adjusted gross income under IC 6-3-1-3.5(a)(13) by the individual on the individual's state income tax return for a taxable year beginning before January 1, 2008. 
+(d) The deduction under this section is in addition to any deduction that an individual is otherwise entitled to claim under IC 6-3-1-3.5(a)(13). However, an individual may not deduct under IC 6-3-1-3.5(a)(13) any property taxes deducted under this section. 
+As added by P.L.220-2011, SEC.139. Amended by P.L.6-2012, SEC.50; P.L.250-2015, SEC.25. 
+

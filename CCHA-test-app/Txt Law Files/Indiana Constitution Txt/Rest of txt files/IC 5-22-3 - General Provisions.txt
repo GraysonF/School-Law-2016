@@ -1,0 +1,185 @@
+IC 5-22-3 Chapter 3. General Provisions 
+IC 5-22-3-0.1 Application of certain amendments to chapter 
+Sec. 0.1. The addition of section 7 of this chapter in the 2005 regular session of the general assembly applies only to a contract entered into or renewed after May 6, 2005. 
+As added by P.L.220-2011, SEC.102. Amended by P.L.13-2013, SEC.12. 
+
+IC 5-22-3-1 Good faith requirement 
+Sec. 1. All parties involved in the negotiation, performance, or administration of contracts under this article shall act in good faith. 
+As added by P.L.49-1997, SEC.1. 
+
+IC 5-22-3-2 Compliance with terms and conditions of gift 
+Sec. 2. Notwithstanding this article, a governmental body may comply with the terms and conditions of a gift if noncompliance with those terms and conditions would invalidate the gift. 
+As added by P.L.49-1997, SEC.1. 
+
+IC 5-22-3-3 Rules; written policies 
+Sec. 3. (a) A governmental body may adopt rules to regulate purchases of the governmental body. A rule adopted under this subsection may: 
+(1) 
+supplement this article; and 
+
+(2) 
+not be inconsistent with this article. 
+
+
+(b) The purchasing agency of a governmental body may establish written policies for purchases made by the purchasing agency. The written policies may apply to all purchases generally or to a specific purchase as stated in the solicitation for the purchase. A written policy established under this subsection may: 
+(1) 
+supplement this article or a rule adopted by the purchasing agency's governmental body; and 
+
+(2) 
+not be inconsistent with this article or a rule adopted by the purchasing agency's governmental body. 
+
+
+As added by P.L.49-1997, SEC.1. 
+
+IC 5-22-3-4 Electronic transmission of notice or other materials 
+Sec. 4. (a) Whenever this article requires that notice or other material be sent by mail, the material may be sent by electronic means as stated in any of the following: 
+(1) 
+Rules adopted by the governmental body. 
+
+(2) 
+Written policies of the purchasing agency. 
+
+(3) 
+A solicitation. 
+
+
+(b) 
+Rules, written policies, and solicitation statements described in subsection (a): 
+
+(1) 
+are subject to this article; and 
+
+(2) 
+must provide that the transmission of information is at least as efficient and secure as sending the material by mail. 
+
+
+
+(c) 
+A governmental body may receive electronic offers if both of the following apply: 
+
+(1) 
+The solicitation indicates the procedure for transmitting the electronic offer to the governmental body. 
+
+(2) 
+The governmental body receives the offer on a fax machine, by electronic mail, or by means of another electronic system that has a security feature that protects the content of an electronic offer with the same degree of protection as the content of an offer that is not transmitted by electronic means. 
+
+
+
+(d) 
+A governmental body conducting a reverse auction must receive electronic offers for supplies through an Internet purchasing site. 
+
+
+As added by P.L.49-1997, SEC.1. Amended by P.L.31-2002, SEC.2; P.L.1-2003, SEC.19; P.L.93-2004, SEC.7. 
+
+IC 5-22-3-5 Offers submitted by trusts 
+Sec. 5. (a) This section applies whenever a trust submits an offer to a governmental body to do either of the following: 
+(1) 
+Enter into a contract with the governmental body. 
+
+(2) 
+Purchase surplus property from the governmental body under this article. 
+
+
+(b) 
+As used in this section, "trust" has the meaning set forth in IC 30-4-1-1(a). 
+
+(c) 
+An offer submitted by a trust must identify all of the following: 
+
+(1) 
+Each beneficiary of the trust. 
+
+(2) 
+Each settlor empowered to revoke or modify the trust. 
+
+
+
+
+As added by P.L.49-1997, SEC.1. 
+
+IC 5-22-3-6 Property interest in award of contract 
+Sec. 6. An offeror does not gain a property interest in the award of a contract by a governmental body unless: 
+(1) 
+the offeror is awarded the contract; and 
+
+(2) 
+the contract is completely executed. 
+
+
+As added by P.L.49-1997, SEC.1. 
+
+IC 5-22-3-7 Prospective contractors requiredtomakecertificationsconcerning deceptive acts and telephone privacy; sanctions 
+Sec. 7. (a) This section applies to every use of funds by a governmental body. However, this section does not apply to a contract in which one (1) party is a political subdivision, including a body corporate and politic created by or authorized by a political subdivision. 
+(b) 
+A prospective contractor may not contract with a governmental body unless the prospective contractor includes the following certifications as terms of the contract with the governmental body: 
+
+(1) 
+The contractor and any principals of the contractor certify that: 
+
+(A) the contractor, except for de minimis and nonsystematic violations, has not violated the terms of: 
+(i)
+ IC 24-4.7; 
+
+(ii) 
+IC 24-5-12; or 
+
+
+(iii) IC 24-5-14; in the previous three hundred sixty-five (365) days, even if IC 24-4.7 is preempted by federal law; and 
+(B) the contractor will not violate the terms of IC 24-4.7 for the duration of the contract, even if IC 24-4.7 is preempted by federal law. 
+
+(2) 
+The contractor and any principals of the contractor certify that an affiliate or principal of the contractor and any agent acting on behalf of the contractor or on behalf of an affiliate or principal of the contractor: 
+
+(A) 
+except for de minimis and nonsystematic violations, has not violated the terms of IC 24-4.7 in the previous three hundred sixty-five (365) days, even if IC 24-4.7 is preempted by federal law; and 
+
+(B) 
+will not violate the terms of IC 24-4.7 for the duration of the contract, even if IC 24-4.7 is preempted by federal law. 
+
+
+
+
+
+(c) 
+If a certification in subsection (b) concerning compliance with IC 24-4.7, IC 24-5-12, or IC 24-5-14 is materially false or if the contractor, an affiliate or a principal of the contractor, or an agent acting on behalf of the contractor or an affiliate or a principal of the contractor violates the terms of IC 24-4.7, IC 24-5-12, or IC 24-5-14, even if IC 24-4.7 is preempted by federal law, the attorney general may bring a civil action in the circuit or superior court of Marion County to: 
+
+(1) void a contract under this section, subject to subsection (d); and 
+
+(2) 
+obtain other proper relief. However, a contractor is not liable under this section if the contractor or an affiliate of the contractor acquires another business entity that violated the terms of IC 24-4.7, IC 24-5-12, or IC 24-5-14 within the preceding three hundred sixty-five (365) days before the date of the acquisition if the acquired business entity ceases violating IC 24-4.7, IC 24-5-12, or IC 24-5-14, even if IC 24-4.7 is preempted by federal 
+
+
+law, as of the date of the acquisition. 
+(d) If: 
+(1) 
+the attorney general notifies the contractor, department of administration, and budget agency in writing of the intention of the attorney general to void a contract; and 
+
+(2) 
+the attorney general does not receive a written objection from the department of administration or budget agency, sent to both the attorney general and the contractor, within thirty (30) days of the notice; 
+
+
+a contract between a contractor and a governmental body is voidable at the election of the attorney general in a civil action brought under subsection (c). If an objection of the department of administration or the budget agency is submitted under subdivision (2), the contract that is the subject of the objection is not voidable at the election of the attorney general unless the objection is rescinded or withdrawn by the department of administration or the budget agency. 
+(e) 
+If the attorney general establishes in a civil action that a contractor is knowingly, intentionally, or recklessly liable under subsection (c), the contractor is prohibited from entering into a contract with a governmental body for three hundred sixty-five (365) days after the date on which the contractor exhausts appellate remedies. 
+
+(f) 
+In addition to any remedy obtained in a civil action brought under this section, the attorney general may obtain the following: 
+
+(1) 
+All money the contractor obtained through each telephone call made in violation of the terms of IC 24-4.7, IC 24-5-12, or IC 24-5-14, even if IC 24-4.7 is preempted by federal law. 
+
+(2) 
+The attorney general's reasonable expenses incurred in: 
+
+(A) 
+investigation; and 
+
+(B) 
+maintaining the civil action. 
+
+
+
+
+
+
+As added by P.L.165-2005, SEC.4 and P.L.222-2005, SEC.27. 
+

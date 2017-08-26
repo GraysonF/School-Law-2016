@@ -1,0 +1,179 @@
+IC 34-51-2 Chapter 2. Compensatory Damages: Comparative Fault 
+IC 34-51-2-1 Applicability of chapter 
+Sec. 1. (a) This chapter governs any action based on fault that is brought to recover damages for injury or death to a person or harm to property, except as provided in subsection (b). 
+(b) This chapter does not apply to an action: 
+(1) 
+brought against a qualified health care provider under IC 16-9.5 (before its repeal), IC 27-12 (before its repeal), or IC 34-18 for medical malpractice; or 
+
+(2) 
+that accrued before January 1, 1985. 
+
+
+As added by P.L.1-1998, SEC.47. 
+
+IC 34-51-2-2 Governmental entities and public employees excepted 
+Sec. 2. This chapter does not apply in any manner to tort claims against governmental entities or public employees under IC 34-13-3 (or IC 34-4-16.5 before its repeal). As added by P.L.1-1998, SEC.47. 
+
+IC 34-51-2-3 Causation 
+Sec. 3. In an action brought under this chapter (or IC 34-4-33 before its repeal), legal requirements of causal relation apply to: 
+(1) 
+fault as the basis for liability; and 
+
+(2) 
+contributory fault. 
+
+
+As added by P.L.1-1998, SEC.47. 
+
+IC 34-51-2-4 Defendant as single party 
+Sec. 4. For purposes of sections 6 through 10 of this chapter, a defendant may be treated along with another defendant as a single party where recovery is sought against that defendant not based upon the defendant's own alleged act or omission but upon the defendant's relationship to the other defendant. As added by P.L.1-1998, SEC.47. 
+
+IC 34-51-2-5 Effect of contributory fault 
+Sec. 5. In an action based on fault, any contributory fault chargeable to the claimant diminishes proportionately the amount awarded as compensatory damages for an injury attributable to the claimant's contributory fault, but does not bar recovery except as provided in section 6 of this chapter. As added by P.L.1-1998, SEC.47. 
+
+IC 34-51-2-6 Barring of recovery; degree of contributory fault 
+Sec. 6. (a) In an action based on fault that is brought against: 
+(1) 
+one (1) defendant; or 
+
+(2) 
+two (2) or more defendants who may be treated as a single 
+
+
+party; the claimant is barred from recovery if the claimant's contributory fault is greater than the fault of all persons whose fault proximately contributed to the claimant's damages. 
+(b) In an action based on fault that is brought against two (2) or more defendants, the claimant is barred from recovery if the claimant's contributory fault is greater than the fault of all persons whose fault proximately contributed to the claimant's damages. 
+As added by P.L.1-1998, SEC.47. 
+
+IC 34-51-2-7 Jury instructions; single party defendant 
+Sec. 7. (a) This section applies to an action based on fault that is: 
+(1) 
+brought against one (1) defendant or two (2) or more defendants who may be treated as a single party; and 
+
+(2) 
+tried to a jury. 
+
+
+(b) The court, unless all the parties agree otherwise, shall instruct the jury to determine its verdict in the following manner: 
+(1) 
+The jury shall determine the percentage of fault of the claimant, of the defendant, and of any person who is a nonparty. The jury may not be informed of any immunity defense that is available to a nonparty. In assessing percentage of fault, the jury shall consider the fault of all persons who caused or contributed to cause the alleged injury, death, or damage to property, tangible or intangible, regardless of whether the person was or could have been named as a party. The percentage of fault of parties to the action may total less than one hundred percent (100%) if the jury finds that fault contributing to cause the claimant's loss has also come from a nonparty or nonparties. 
+
+(2) 
+If the percentage of fault of the claimant is greater than fifty percent (50%) of the total fault involved in the incident which caused the claimant's death, injury, or property damage, the jury shall return a verdict for the defendant and no further deliberation of the jury is required. 
+
+(3) 
+If the percentage of fault of the claimant is not greater than fifty percent (50%) of the total fault, the jury then shall determine the total amount of damages the claimant would be entitled to recover if contributory fault were disregarded. 
+
+(4) 
+The jury next shall multiply the percentage of fault of the defendant by the amount of damages determined under subdivision (3) and shall then enter a verdict for the claimant in the amount of the product of that multiplication. 
+
+
+As added by P.L.1-1998, SEC.47. 
+
+IC 34-51-2-8 Jury instructions; multiple defendants 
+Sec. 8. (a) This section applies to an action based on fault that: 
+(1) 
+is brought against two (2) or more defendants; and 
+
+(2) 
+is tried to a jury. 
+
+
+(b) The court, unless all the parties agree otherwise, shall instruct the jury to determine its verdict in the following manner: 
+(1) 
+The jury shall determine the percentage of fault of the claimant, of the defendants, and of any person who is a nonparty. The jury may not be informed of any immunity defense that might be available to a nonparty. In assessing percentage of fault, the jury shall consider the fault of all persons who caused or contributed to cause the alleged injury, death, or damage to property, tangible or intangible, regardless of whether the person was or could have been named as a party. The percentage of fault of parties to the action may total less than one hundred percent (100%) if the jury finds that fault contributing to cause the claimant's loss has also come from a nonparty or nonparties. 
+
+(2) 
+If the percentage of fault of the claimant is greater than fifty percent (50%) of the total fault involved in the incident which caused the claimant's death, injury, or property damage, the jury shall return a verdict for the defendants and no further deliberation of the jury is required. 
+
+(3) 
+If the percentage of fault of the claimant is not greater than fifty percent (50%) of the total fault, the jury shall then determine the total amount of damages the claimant would be entitled to recover if contributory fault were disregarded. 
+
+(4) 
+The jury next shall multiply the percentage of fault of each defendant by the amount of damages determined under subdivision (3) and shall enter a verdict against each defendant (and such other defendants as are liable with the defendant by reason of their relationship to a defendant) in the amount of the product of the multiplication of each defendant's percentage of fault times the amount of damages as determined under subdivision (3). 
+
+
+As added by P.L.1-1998, SEC.47. 
+
+IC 34-51-2-9 Trial without jury; award of damages 
+Sec. 9. In an action based on fault that is tried by the court without a jury, the court shall make its award of damages according to the principles specified for juries in sections 7 and 8 of this chapter. 
+As added by P.L.1-1998, SEC.47. 
+
+IC 34-51-2-10 Intentional torts; full recovery of damages from convicted defendant 
+Sec. 10. In the case of an intentional tort, the plaintiff may recover one hundred percent (100%) of the compensatory damages in a civil action for intentional tort from a defendant who was convicted after a prosecution based on the same evidence. As added by P.L.1-1998, SEC.47. 
+
+IC 34-51-2-11 Forms of verdicts; disclosure requirements 
+Sec. 11. The court shall furnish to the jury forms of verdicts that require only the disclosure of: 
+(1) the percentage of fault charged against each party and nonparty; and 
+(2) the amount of the verdict against each defendant. If the evidence in the action is sufficient to support the charging of fault to a nonparty, the form of verdict also shall require a disclosure of the name of the nonparty and the percentage of fault charged to the nonparty. As added by P.L.1-1998, SEC.47. 
+
+IC 34-51-2-12 Contribution; indemnity 
+Sec. 12. In an action under this chapter (or IC 34-4-33 before its repeal), there is no right of contribution among tortfeasors. However, this section does not affect any rights of indemnity. As added by P.L.1-1998, SEC.47. 
+
+IC 34-51-2-13 Inconsistent verdicts 
+Sec. 13. In actions brought under this chapter (or IC 34-4-33 before its repeal), whenever a jury returns verdicts in which the ultimate amounts awarded are inconsistent with its determinations of total damages and percentages of fault, the trial court shall: 
+(1) 
+inform the jury of such inconsistencies; 
+
+(2) 
+order the jury to resume deliberations to correct the inconsistencies; and 
+
+(3) 
+instruct the jury that the jury is at liberty to change any portion or portions of the verdicts to correct the inconsistencies. 
+
+
+As added by P.L.1-1998, SEC.47. 
+
+IC 34-51-2-14 Nonparty defense; assertion 
+Sec. 14. In an action based on fault, a defendant may assert as a defense that the damages of the claimant were caused in full or in part by a nonparty. This defense is referred to in this chapter as a nonparty defense. As added by P.L.1-1998, SEC.47. 
+IC 34-51-2-15 Nonparty defense; burden of proof 
+
+Sec. 15. The burden of proof of a nonparty defense is upon the defendant, who must affirmatively plead the defense. However, this chapter does not relieve the claimant of the burden of proving that fault on the part of the defendant or defendants caused, in whole or in part, the damages of the claimant. As added by P.L.1-1998, SEC.47. 
+
+IC 34-51-2-16 Nonparty defense; pleadings 
+Sec. 16. A nonparty defense that is known by the defendant when the defendant files the defendant's first answer shall be pleaded as a part of the first answer. A defendant who gains actual knowledge of a nonparty defense after the filing of an answer may plead the defense with reasonable promptness. However, if the defendant was served with a complaint and summons more than one hundred fifty 
+(150) days before the expiration of the limitation of action applicable to the claimant's claim against the nonparty, the defendant shall plead any nonparty defense not later than forty-five (45) days before the expiration of that limitation of action. The trial court may alter these time limitations or make other suitable time limitations in any manner that is consistent with: 
+(1) 
+giving the defendant a reasonable opportunity to discover the existence of a nonparty defense; and 
+
+(2) 
+giving the claimant a reasonable opportunity to add the nonparty as an additional defendant to the action before the expiration of the period of limitation applicable to the claim. 
+
+
+As added by P.L.1-1998, SEC.47. 
+
+IC 34-51-2-17 Nonparty defense; medical malpractice claims 
+Sec. 17. This section applies to a claim filed with the insurance commissioner under IC 16-9.5 (before its repeal), IC 27-12 (before its repeal), or IC 34-18 against a qualified health care provider, with the exception that the pleading of a nonparty defense, as required by sections 15 and 16 of this chapter must occur not later than ninety 
+(90) days after the filing of the claim with the insurance commissioner. However, this time limitation may be enlarged or shortened by a court having jurisdiction over the claim in such matter as will give: 
+(1) 
+the qualified health care provider reasonable opportunity to discover the existence of a nonparty defense; and 
+
+(2) 
+the claimant reasonable opportunity to assert a claim against the nonparty before the expiration of the period of limitation applicable to the claim. 
+
+
+As added by P.L.1-1998, SEC.47. 
+IC 34-51-2-18 Actions againstdefendantswho are qualifiedhealthcareproviders and who are not qualified health care providers; delay; joinder 
+
+Sec. 18. (a) This section applies to an action based on fault that is brought by the claimant against: 
+(1) 
+one (1) or more defendants who are qualified health care providers under IC 34-18; and 
+
+(2) 
+one (1) or more defendants who are not qualified health care providers. 
+
+
+(b) Upon application of the claimant, the trial court shall grant reasonable delays in the action brought against those defendants who are not qualified health care providers until the medical review panel procedure can be completed as to the qualified health care providers. 
+(c) When an action is permitted to be filed against the qualified health care providers, the trial court shall permit a joinder of the qualified health care providers as additional defendants in the action on file against the nonhealth care providers. As added by P.L.1-1998, SEC.47. 
+
+IC 34-51-2-19 Liens or claims to diminish in same proportion as claimant's recovery is diminished 
+Sec. 19. If a subrogation claim or other lien or claim that arose out of the payment of medical expenses or other benefits exists in respect to a claim for personal injuries or death and the claimant's recovery is diminished: 
+(1) 
+by comparative fault; or 
+
+(2) 
+by reason of the uncollectibility of the full value of the claim for personal injuries or death resulting from limited liability insurance or from any other cause; 
+
+
+the lien or claim shall be diminished in the same proportion as the claimant's recovery is diminished. The party holding the lien or claim shall bear a pro rata share of the claimant's attorney's fees and litigation expenses. 
+As added by P.L.1-1998, SEC.47. 
+

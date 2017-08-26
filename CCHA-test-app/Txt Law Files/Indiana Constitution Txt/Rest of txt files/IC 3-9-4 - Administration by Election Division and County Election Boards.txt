@@ -1,0 +1,485 @@
+IC 3-9-4 
+Chapter 4. Administration by Election Division and County Election Boards 
+IC 3-9-4-1 Application of chapter 
+Sec. 1. (a) Except as provided in subsection (b), this chapter applies to candidates in all elections and caucuses and to the following types of committees: 
+(1) 
+Candidate's committees. 
+
+(2) 
+Regular party committees. 
+
+(3) 
+Political action committees. 
+
+(4) 
+A legislative caucus committee. 
+
+
+(b) This chapter does not apply to the following: 
+(1) 
+A candidate for a local office for which the compensation is less than five thousand dollars ($5,000) per year unless the candidate is required to file a written instrument designating a principal committee under IC 3-9-1-5.5. 
+
+(2) 
+Elections for precinct committeeman or delegate to a state convention. 
+
+(3) 
+A candidate for a school board office unless the candidate is required to file a written instrument designating a principal committee under IC 3-9-1-5.5. 
+
+
+(4) An auxiliary party organization. As added by P.L.5-1986, SEC.5. Amended by P.L.3-1987, SEC.146; P.L.3-1993, SEC.88; P.L.3-1995, SEC.71; P.L.3-1997, SEC.184; P.L.26-2000, SEC.13. 
+
+IC 3-9-4-2 Forms 
+Sec. 2. The election division shall prescribe and furnish forms for making the reports and statements required to be filed under this article. As added by P.L.5-1986, SEC.5. Amended by P.L.2-1996, SEC.97; P.L.3-1997, SEC.185; P.L.169-2015, SEC.72. 
+
+IC 3-9-4-3 Information manual 
+Sec. 3. The commission shall prepare, publish, and furnish to candidates and all interested persons on request a manual setting forth recommended uniform methods of bookkeeping and reporting and shall summarize all the requirements of this article. As added by P.L.5-1986, SEC.5. Amended by P.L.2-1996, SEC.98. 
+
+IC 3-9-4-4 Filing, coding, and cross-indexing system; computer system; standardized software program; electronic submission 
+Sec. 4. (a) The election division shall develop a filing and coding system consistent with the purposes of this article. The election division and each county election board shall use the filing and coding system. The coding system must provide: 
+(1) 
+not more than ten (10) codes to account for various campaign expenditure items; and 
+
+(2) 
+a clear explanation of the kinds of expenditure items that must be accounted for under each code. 
+
+
+(b) 
+The election division shall develop and use a computer system to store campaign finance reports required to be filed under IC 3-9-5-6, IC 3-9-5-10, and IC 3-9-5-20.1. The computer system must enable the election division to do the following: 
+
+(1) 
+Identify all candidates or committees that received contributions from a contributor over the past three (3) years. 
+
+(2) 
+Identify all contributors to a candidate or committee over the past three (3) years. 
+
+(3) 
+Provide for electronic submission, retrieval, storage, and disclosure of campaign finance reports of candidates for the following: 
+
+(A) Legislative office. 
+
+(B) 
+State office. The election division shall provide training at no cost to candidates to enable candidates described in this subdivision to file campaign finance reports electronically. 
+
+
+
+(c) 
+The election division shall notify each candidate's committee that the election division will provide at the committee's request at no cost a standardized software program to permit the committee to install the software on a computer and generate an electronic version of the reports and statements required to be filed with the election division under this article. However, the election division is not required to provide or alter the software program to make the program compatible for installation or operation on a specific computer. 
+
+
+(d) This subsection applies to the following committees: 
+(1) 
+A committee for a candidate seeking election to a state office. 
+
+(2) 
+A political action committee that has received more than fifty thousand dollars ($50,000) in contributions since the close of the previous reporting period. 
+
+
+The committee must file electronically the report or statement required under this article with the election division using a standardized software program supplied to the committee without charge under subsection (c) or another format approved by the election division. An electronic filing approved by the election division under this subsection may not require manual reentry into a computer system of the data contained in the report or statement in order to make the data available to the general public under subsection (g). 
+(e) This subsection applies to an electronic submission under subsection (b)(3). An electronic submission must be in a format previously approved by the election division that permits the election division to print out a hard copy of the report after the receipt of the electronic submission from the candidate. Filing of a report occurs under IC 3-5-2-24.5 on the date and at the time electronically recorded by the election division's computer system. If a discrepancy exists between the text of the electronic submission and the printed report, the text of the printed report prevails until an amendment is filed under this article to correct the discrepancy. 
+(f) The election division is not required to accept an electronic submission unless the submission complies with subsection (b)(3). Upon receiving approval from the commission, the election division may accept an electronic submission from candidates, committees, or persons described in subsection (b)(3). 
+(g) The election division shall make campaign finance reports stored on the computer system under subsection (b) available to the general public through an on-line service. As added by P.L.5-1986, SEC.5. Amended by P.L.2-1996, SEC.99; P.L.4-1996, SEC.33; P.L.3-1997, SEC.186; P.L.176-1999, SEC.43; P.L.126-2002, SEC.34; P.L.45-2003,SEC.1; P.L.221-2005, SEC.19; P.L.164-2006, SEC.61; P.L.169-2015, SEC.73. 
+
+IC 3-9-4-5 Reports and statements; public inspection and copying; sale of information copied 
+Sec. 5. (a) The election division and each county election board shall make the reports and statements filed with them available for public inspection and copying, commencing as soon as practicable but not later than the end of the second business day following the day during which they were received. 
+(b) 
+The election division and the county election boards shall also permit copying of a report or statement by hand or by duplicating machine, as requested, at the expense of the person and subject to IC 5-14-3-8. Inspection and copying of records contained on the computer system described in section 4(b) of this chapter are subject to IC 5-14-3. 
+
+(c) 
+A person may not sell information copied from reports and statements under this section or use it for a commercial purpose. However, this restriction does not apply to a newspaper, magazine, book, or other communication with a principal purpose other than communicating contributor information: 
+
+
+(1) to solicit contributions; or 
+(2) for other commercial purposes. As added by P.L.5-1986, SEC.5. Amended by P.L.10-1988, SEC.70; P.L.8-1992, SEC.9; P.L.2-1996, SEC.100; P.L.4-1996, SEC.34; P.L.3-1997, SEC.187. 
+IC 3-9-4-6 Preservation of reports and statements 
+
+Sec. 6. (a) Except as provided in subsections (b) and (c), the election division and each county election board shall preserve reports and statements for four (4) years from December 1 following the election to which they pertain, unless the records are in litigation. 
+(b) This subsection applies to reports and statements filed by a person that seeks to influence the election or retention of an individual to an office with a term of more than four (4) years. The election division and each county election board shall preserve the reports and statements subject to this subsection until the final December 1 before the expiration of the term for the office, unless the records are in litigation. 
+(c) If a report is a duplicate of a report required to be filed under the federal Election Campaign Act (52 U.S.C. 30101 et seq.), the report may be discarded on January 1 of the second year after the report was filed. As added by P.L.5-1986, SEC.5. Amended by P.L.3-1995, SEC.72; P.L.2-1996, SEC.101; P.L.3-1997, SEC.188; P.L.66-2003, SEC.22; P.L.128-2015, SEC.147. 
+
+IC 3-9-4-7 List of statements 
+Sec. 7. The election division and each county election board shall compile and maintain a current list of all statements or parts of statements pertaining to each candidate, committee, and public question. As added by P.L.5-1986, SEC.5. Amended by P.L.2-1996, SEC.102; P.L.3-1997, SEC.189. 
+
+IC 3-9-4-8 Annual report 
+Sec. 8. (a) The election division shall prepare and make available to the public an annual report including compilations of total reported contributions and expenditures for all candidates, committees, and other persons during the year. 
+(b) Each county election board may prepare an annual report that includes compilations of total reported contributions and expenditures for all candidates, committees, and otherpersons within the county during the year. As added by P.L.5-1986, SEC.5. Amended by P.L.3-1987, SEC.147; P.L.2-1996, SEC.103; P.L.3-1997, SEC.190. 
+
+IC 3-9-4-9 Annual compilations 
+Sec. 9. The election division and each county election board may prepare and publish annual compilations of: 
+(1) 
+total amounts expended according to categories it determines and broken down into: 
+
+(A) 
+candidate; 
+
+(B) 
+party; 
+
+(C) 
+legislative caucus committee; and 
+
+
+
+(D) 
+political action committee; expenditures on the state, legislative, and local levels; 
+
+(2) 
+total amounts expended for influencing nominations and elections stated separately; and 
+
+(3) 
+total amounts contributed according to categories of amounts it determines and broken down into contributions on the state, legislative, and local levels for candidates and committees. 
+
+
+As added by P.L.5-1986, SEC.5. Amended by P.L.2-1996, SEC.104; P.L.3-1997, SEC.191. 
+
+IC 3-9-4-10 Special reports 
+Sec. 10. The election division and each county election board may prepare and publish special reports from time to time comparing the various totals and categories of contributions and expenditures made with respect to previous elections. As added by P.L.5-1986, SEC.5. Amended by P.L.2-1996, SEC.105; P.L.3-1997, SEC.192. 
+
+IC 3-9-4-11 Miscellaneous reports 
+Sec. 11. The election division and each county election board may prepare and publish other reports they consider appropriate. As added by P.L.5-1986, SEC.5. Amended by P.L.2-1996, SEC.106; P.L.3-1997, SEC.193. 
+
+IC 3-9-4-12 Repealed 
+(Repealed by P.L.3-1995, SEC.157.) 
+
+IC 3-9-4-13 Audits; investigations 
+Sec. 13. The election division and each county election board shall make audits and field investigations from time to time with respect to reports and statements filed under this article and with respect to an alleged failure to file a report or statement required under this article. The election division may request the state board of accounts to assist in the performance of audits the election division considers necessary, and the state board of accounts may perform the audits that are requested. As added by P.L.5-1986, SEC.5. Amended by P.L.2-1996, SEC.107; P.L.3-1997, SEC.194. 
+IC 3-9-4-14 Examination of statements of organization or reports; campaign finance reports 
+
+Sec. 14. (a) The election division and each county election board shall do all of the following: 
+(1) 
+Ascertain whether candidates, committees, or other persons have: 
+
+(A) 
+failed to file statements of organization or reports; or 
+
+(B) 
+filed defective statements of organization or reports. 
+
+
+
+(2) 
+Give the following notices: 
+
+(A) 
+To delinquents to file a statement of organization or a report immediately upon receipt of the notice. A delinquency notice for a report must be given not later than thirty (30) days after the date the report was required to be filed. The election division or a county election board may, but is not required to, give delinquency notices at other times. 
+
+(B) 
+To persons filing defective reports to make a supplemental statement or report correcting all defects not later than noon five (5) calendar days after receipt of the notice. 
+
+
+
+(3) 
+Make available for public inspection a list of delinquents and persons who have failed to file the required supplemental statement or report. The election division and each county election board shall post a list of delinquents in a public place at or near the entrance of the commission's or board's respective offices. 
+
+
+(b) The election division shall mail: 
+(1) 
+to each candidate required to file a campaign finance report with the election division; and 
+
+(2) 
+twenty-one (21) days before the campaign finance reports 
+
+
+are due; the proper campaign finance report forms and a notice that states the date the campaign finance reports are due. The election division is required to mail notices and forms only to candidates for state offices and legislative offices. A county election board may, but is not required to, implement this subsection for candidates for local offices. 
+(c) Notwithstanding any notice given to a delinquent under subsection (a) or (b), the delinquent remains liable for a civil penalty in the full amount permitted under this chapter for failing to file a campaign finance report or statement of organization not later than the date and time prescribed under this article. As added by P.L.5-1986, SEC.5. Amended by P.L.3-1995, SEC.73; P.L.2-1996, SEC.108; P.L.3-1997, SEC.195;P.L.176-1999, SEC.44; P.L.14-2004, SEC.71. 
+IC 3-9-4-15 Hearings 
+Sec. 15. A member of the commission, the co-directors, with the authorization of the commission, or a member of a county election board may conduct a hearing or an investigation, take evidence, and report back to the commission or board for its consideration and action. 
+As added by P.L.5-1986, SEC.5. Amended by P.L.8-1995, SEC.37. 
+
+IC 3-9-4-16 Civil penalties; election commission 
+Sec. 16. (a) In addition to any other penalty imposed, a person who does any of the following is subject to a civil penalty under this section: 
+(1) 
+Fails to file with the election division a report in the manner required under IC 3-9-5. 
+
+(2) 
+Fails to file a statement of organization required under IC 3-9-1. 
+
+(3) 
+Is a committee or a member of a committee who disburses or expends money or other property for any political purpose before the money or other property has passed through the hands of the treasurer of the committee. 
+
+(4) 
+Makes a contribution other than to a committee subject to this article or to a person authorized by law or a committee to receive contributions on the committee's behalf. 
+
+(5) 
+Is a corporation or labor organization that exceeds any of the limitations on contributions prescribed by IC 3-9-2-4. 
+
+(6) 
+Makes a contribution in the name of another person. 
+
+(7) 
+Accepts a contribution made by one (1) person in the name of another person. 
+
+(8) 
+Is not the treasurer of a committee subject to this article, and pays any expenses of an election or a caucus except as authorized by this article. 
+
+(9) 
+Commingles the funds of a committee with the personal funds of an officer, a member, or an associate of the committee. 
+
+(10) 
+Wrongfully uses campaign contributions in violation of IC 3-9-3-4. 
+
+(11)
+ Violates IC 3-9-2-12. 
+
+(12) 
+Fails to designate a contribution as required by IC 3-9-2-5(c). 
+
+(13)
+ Violates IC 3-9-3-5. 
+
+(14) 
+Serves as a treasurer of a committee in violation of any of the following: 
+
+(A) 
+IC 3-9-1-13(1). 
+
+(B) 
+IC 3-9-1-13(2). 
+
+(C) 
+IC 3-9-1-18. 
+
+
+
+(15)
+ Fails to comply with section 4(d) of this chapter. 
+
+(16) 
+Violates IC 3-9-3-2.5 by making a communication that contains a disclaimer that is not presented in a clear and conspicuous manner required by IC 3-9-3-2.5(d) and IC 3-9-3-2.5(e). This subdivision does not apply to a person 
+
+
+whose sole act is, in the normal course of business, participating in the preparation, printing, distribution, or broadcast of the communication containing the disclaimer. 
+(b) 
+This subsection applies to a person who is subject to a civil penalty under subsection (a)(1) or (a)(2) for filing a defective report or statement. If the commission determines that a person failed to file the amended report or statement of organization not later than noon five (5) days after being given notice under section 14 of this chapter, the commission may assess a civil penalty. The penalty is ten dollars ($10) for each day the report is late after the expiration of the five (5) day period, not to exceed one hundred dollars ($100) plus any investigative costs incurred and documented by the election division. The civil penalty limit under this subsection applies to each report separately. 
+
+(c) 
+This subsection applies to a person who is subject to a civil penalty under subsection (a)(1) or (a)(2) for a delinquent report or statement. If the commission determines that a person failed to file the report or statement of organization by the deadline prescribed under this article, the commission shall assess a civil penalty. The penalty is fifty dollars ($50) for each day the report or statement is late, with the afternoon of the final date for filing the report or statement being calculated as the first day. The civil penalty under this subsection may not exceed one thousand dollars ($1,000) plus any investigative costs incurred and documented by the election division. The civil penalty limit under this subsection applies to each report separately. 
+
+(d) 
+This subsection applies to a person who is subject to a civil penalty under subsection (a)(3), (a)(4), (a)(6), (a)(7), (a)(8), (a)(9), or (a)(10). If the commission determines that a person is subject to a civil penalty under subsection (a), the commission may assess a civil penalty of not more than one thousand dollars ($1,000), plus any investigative costs incurred and documented by the election division. 
+
+(e) 
+This subsection applies to a person who is subject to a civil penalty under subsection (a)(5). If the commission determines that a person is subject to a civil penalty under subsection (a)(5), the commission may assess a civil penalty of not more than three (3) times the amount of the contribution in excess of the limit prescribed by IC 3-9-2-4, plus any investigative costs incurred and documented by the election division. 
+
+(f) 
+This subsection applies to a person who is subject to a civil penalty under subsection (a)(11). If the commission determines that a candidate or the candidate's committee has violated IC 3-9-2-12, the commission shall assess a civil penalty equal to the greater of the following, plus any investigative costs incurred and documented by the election division: 
+
+(1) 
+Two (2) times the amount of any contributions received. 
+
+(2) 
+One thousand dollars ($1,000). 
+
+
+
+(g) 
+This subsection applies to a person who is subject to a civil penalty under subsection (a)(12). If the commission determines that a corporation or a labor organization has failed to designate a contribution in violation of IC 3-9-2-5(c), the commission shall assess a civil penalty equal to the greater of the following, plus any investigative costs incurred and documented by the election division: 
+
+(1) 
+Two (2) times the amount of the contributions undesignated. 
+
+(2) 
+One thousand dollars ($1,000). 
+
+
+
+(h) 
+This subsection applies to a person who is subject to a civil penalty under subsection (a)(13). If the commission determines, by unanimous vote of the entire membership of the commission, that a person has violated IC 3-9-3-5, the commission may assess a civil penalty of not more than five hundred dollars ($500), plus any investigative costs incurred and documented by the election division. 
+
+(i) 
+This subsection applies to a person who is subject to a civil penalty under subsection (a)(14). If the commission determines, by unanimous vote of the entire membership of the commission, that a person has served as the treasurer of a committee in violation of any of the statutes listed in subsection (a)(14), the commission may assess a civil penalty of not more than five hundred dollars ($500), plus any investigative costs incurred and documented by the election division. 
+
+(j) 
+This subsection applies to a person who is subject to a civil penalty under subsection (a)(15). The commission may assess a civil penalty equal to the costs incurred by the election division for the manual entry of the data contained in the report or statement, plus any investigative costs incurred and documented by the election division. 
+
+(k) 
+This subsection applies to a person who is subject to a civil penalty under subsection (a)(16). If the commission determines that a person is subject to a civil penalty under subsection (a)(16), the commission may assess a civil penalty of not more than one thousand dollars ($1,000) for each communication circulated or published (but not for each of the copies of the communication actually circulated or published), plus any investigative costs incurred and documented by the election division. 
+
+(l) 
+All civil penalties collected under this section shall be deposited with the treasurer of state in the campaign finance enforcement account. 
+
+
+(m) Proceedings of the commission under this section are subject to IC 4-21.5. As added by P.L.3-1993, SEC.89. Amended by P.L.3-1995, SEC.74; P.L.2-1996, SEC.109; P.L.4-1996, SEC.35; P.L.3-1997, SEC.196; P.L.66-2003, SEC.23; P.L.14-2004, SEC.72; P.L.221-2005, SEC.20; P.L.225-2011, SEC.43. 
+IC 3-9-4-17 
+Civil penalties imposed by county election board; procedure; 
+
+
+disposition of penalties collected 
+Sec. 17. (a) In addition to any other penalty imposed, a person who does any of the following is subject to a civil penalty under this section: 
+(1) 
+Fails to file with a county election board a report in the manner required under IC 3-9-5. 
+
+(2) 
+Fails to file a statement of organization required under IC 3-9-1. 
+
+(3) 
+Is a committee or a member of a committee who disburses or expends money or other property for any political purpose before the money or other property has passed through the hands of the treasurer of the committee. 
+
+(4) 
+Makes a contribution other than to a committee subject to this article or to a person authorized by law or a committee to receive contributions in the committee's behalf. 
+
+(5) 
+Is a corporation or labor organization that exceeds any of the limitations on contributions prescribed by IC 3-9-2-4. 
+
+(6) 
+Makes a contribution in the name of another person. 
+
+(7) 
+Accepts a contribution made by one (1) person in the name of another person. 
+
+(8) 
+Is not the treasurer of a committee subject to this article, and pays any expenses of an election or a caucus except as authorized by this article. 
+
+(9) 
+Commingles the funds of a committee with the personal funds of an officer, a member, or an associate of the committee. 
+
+(10) 
+Wrongfully uses campaign contributions in violation of IC 3-9-3-4. 
+
+(11) 
+Fails to designate a contribution as required by IC 3-9-2-5(c). 
+
+(12)
+ Violates IC 3-9-3-5. 
+
+(13) 
+Serves as a treasurer of a committee in violation of any of the following: 
+
+(A) 
+IC 3-9-1-13(1). 
+
+(B) 
+IC 3-9-1-13(2). 
+
+(C) 
+IC 3-9-1-18. 
+
+
+
+(14) 
+Violates IC 3-9-3-2.5 by making a communication that contains a disclaimer that is not presented in a clear and conspicuous manner, as required by IC 3-9-3-2.5(d) and IC 3-9-3-2.5(e). This subdivision does not apply to a person whose sole act is, in the normal course of business, participating in the preparation, printing, distribution, or broadcast of the communication containing the disclaimer. 
+
+
+(b) 
+This subsection applies to a person who is subject to a civil penalty under subsection (a)(1) or (a)(2) for filing a defective report or statement. If the county election board determines that a person failed to file the report or a statement of organization not later than noon five (5) days after being given notice under section 14 of this chapter, the county election board may assess a civil penalty. The 
+
+penalty is ten dollars ($10) for each day the report is late after the expiration of the five (5) day period, not to exceed one hundred dollars ($100) plus any investigative costs incurred and documented by the board. The civil penalty limit under this subsection applies to each report separately. 
+
+(c) 
+This subsection applies to a person who is subject to a civil penalty under subsection (a)(1) or (a)(2) for a delinquent report or statement. If the county election board determines that a person failed to file the report or statement of organization by the deadline prescribed under this article, the board shall assess a civil penalty. The penalty is fifty dollars ($50) for each day the report is late, with the afternoon of the final date for filing the report or statement being calculated as the first day. The civil penalty under this subsection may not exceed one thousand dollars ($1,000) plus any investigative costs incurred and documented by the board. The civil penalty limit under this subsection applies to each report separately. 
+
+(d) 
+This subsection applies to a person who is subject to a civil penalty under subsection (a)(3), (a)(4), (a)(6), (a)(7), (a)(8), (a)(9), or (a)(10). If the county election board determines that a person is subject to a civil penalty under subsection (a), the board may assess a civil penalty of not more than one thousand dollars ($1,000), plus any investigative costs incurred and documented by the board. 
+
+(e) 
+This subsection applies to a person who is subject to a civil penalty under subsection (a)(5). If the county election board determines that a person is subject to a civil penalty under subsection (a)(5), the board may assess a civil penalty of not more than three (3) times the amount of the contribution in excess of the limit prescribed by IC 3-9-2-4, plus any investigative costs incurred and documented by the board. 
+
+(f) 
+This subsection applies to a person who is subject to a civil penalty under subsection (a)(11). If the county election board determines that a corporation or a labor organization has failed to designate a contribution in violation of IC 3-9-2-5(c), the board shall assess a civil penalty equal to the greater of the following, plus any investigative costs incurred and documented by the board: 
+
+(1) 
+Two (2) times the amount of the contributions undesignated. 
+
+(2) 
+One thousand dollars ($1,000). 
+
+
+
+(g) 
+This subsection applies to a person who is subject to a civil penalty under subsection (a)(12). If the county election board determines, by unanimous vote of the entire membership of the board, that a person has violated IC 3-9-3-5, the board may assess a civil penalty of not more than five hundred dollars ($500), plus any investigative costs incurred and documented by the board. 
+
+(h) 
+This subsection applies to a person who is subject to a civil penalty under subsection (a)(13). If the county election board determines, by unanimous vote of the entire membership of the board, that a person has served as the treasurer of a committee in violation of any of the statutes listed in subsection (a)(13), the board 
+
+may assess a civil penalty of not more than five hundred dollars ($500), plus any investigative costs incurred and documented by the board. 
+
+(i) 
+This subsection applies to a person who is subject to a civil penalty under subsection (a)(14). If the board determines that a person is subject to a civil penalty under subsection (a)(14), the board may assess a civil penalty of not more than one thousand dollars ($1,000) for each communication circulated or published (but not for each of the copies of the communication actually circulated or published), plus any investigative costs incurred and documented by the election division. 
+
+(j) 
+All civil penalties collected under this section shall be deposited with the county treasurer to be deposited by the county treasurer in a separate account. The funds in the account are available, with the approval of the county fiscal body, to augment and supplement the funds appropriated for the administration of this title in the county. 
+
+(k) 
+Money in the account established under subsection (j) does not revert to the county general fund at the end of a county fiscal year. 
+
+
+(l) Proceedings of the county election board under this section are subject to IC 4-21.5. As added by P.L.3-1993, SEC.90. Amended by P.L.3-1995, SEC.75; P.L.3-1997, SEC.197; P.L.66-2003, SEC.24; P.L.14-2004, SEC.73; P.L.225-2011, SEC.44; P.L.169-2015, SEC.74. 
+
+IC 3-9-4-18 Delinquent or defective report 
+Sec. 18. (a) As used in this section, "delinquent or defective report" refers to a campaign finance report or statement of organization: 
+(1) 
+that was required to be filed under IC 3-9-5 but was not filed in the manner required under IC 3-9-5; and 
+
+(2) 
+for which a person was assessed a civil penalty under section 16 or 17 of this chapter. 
+
+
+(b) As used in this section, "election board" refers to the following: 
+(1) 
+The commission if a civil penalty was assessed under section 16 of this chapter. 
+
+(2) 
+The county election board if a civil penalty was assessed under section 17 of this chapter. 
+
+
+(c)
+ As used in this section, "person" refers to a person who: 
+
+(1) 
+has been assessed a civil penalty under section 16 or 17 of this chapter; and 
+
+(2) 
+has filed a declaration of candidacy, a petition of nomination, or a declaration of intent to be a write-in candidate in a subsequent election or for whom a certificate of nomination has been filed. 
+
+
+
+(d) 
+A person who does both of the following is relieved from 
+
+
+further civil liability under this chapter for the delinquent or defective report: 
+(1) Files the delinquent report or amends the defective report from the previous candidacy: 
+(A) 
+before filing a report required under IC 3-9-5-6; or 
+
+(B) 
+at the same time the person files the report required 
+
+
+under IC 3-9-5-6; 
+for a subsequent candidacy. 
+
+(2) Pays all civil penalties assessed under section 16 or 17 of this chapter for the delinquent report. 
+(e) This subsection applies to a person who: 
+(1) is assessed a civil penalty under this chapter; and 
+(2) 
+is elected to office in the subsequent election. The election board may order the auditor of state or the fiscal officer of the political subdivision responsible for issuing the person's payment for serving in office to withhold from the person's paycheck the amount of the civil penalty assessed under this chapter. If the amount of the paycheck is less than the amount of the civil penalty, the auditor or fiscal officer shall continue withholding money from the person's paycheck until an amount equal to the amount of the civil penalty has been withheld. 
+
+(f) 
+The auditor of state or fiscal officer shall deposit an amount paid, recovered, or withheld under this section in the election board's campaign finance enforcement account. 
+
+
+(g) Proceedings of the election board under this section are subject to IC 4-21.5. As added by P.L.3-1993, SEC.91. Amended by P.L.3-1995, SEC.76; P.L.2-1996, SEC.110; P.L.3-1997, SEC.198; P.L.176-1999, SEC.45. 
+
+IC 3-9-4-19 Waiver or reduction of civil penalty 
+Sec. 19. Notwithstanding section 16 or 17 of this chapter, if upon the unanimous vote of its entire membership, the commission or a county election board finds that imposition of a civil penalty required to be imposed would be unjust under the circumstances, the commission or board may do either of the following: 
+(1) 
+Waive the penalty. 
+
+(2) 
+Reduce the penalty to an amount specified by the commission or the board. 
+
+
+As added by P.L.3-1997, SEC.199. 
+
+IC 3-9-4-20 Settlement agreement to pay proposed civil penalty 
+Sec. 20. (a) Notwithstanding section 16 of this chapter, if a person is notified by the election division that the commission may assess a proposed civil penalty under this article against the person, the person may enter into an agreement with the election division to pay the proposed penalty and waive a hearing before the commission otherwise required under section 16 of this chapter. 
+(b) An agreement entered into under this section must: 
+(1) 
+provide for the payment of the entire proposed civil penalty not later than the date of the execution of the agreement; and 
+
+(2) 
+be presented to the commission by the election division for ratification at the commission's next regularly scheduled meeting. 
+
+
+As added by P.L.221-2005, SEC.21. 
+

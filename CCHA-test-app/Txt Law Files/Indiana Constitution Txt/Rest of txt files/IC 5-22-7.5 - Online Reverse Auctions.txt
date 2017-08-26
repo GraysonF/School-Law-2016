@@ -1,0 +1,86 @@
+IC 5-22-7.5 Chapter 7.5. Online Reverse Auctions 
+IC 5-22-7.5-1 Authorization for reverse auction 
+Sec. 1. (a) A purchasing agency may conduct a reverse auction for the purchase of supplies by using an Internet purchasing site to: 
+(1) 
+issue an invitation for bids; and 
+
+(2) 
+receive bids. 
+
+
+(b) Except as provided in this chapter, a purchasing agency and a bidder must comply with the requirements of this article when participating in a reverse auction. 
+As added by P.L.93-2004, SEC.9. 
+
+IC 5-22-7.5-2 Necessity for written policies 
+Sec. 2. (a) Before conducting a reverse auction, the purchasing agency must adopt written policies that do the following: 
+(1) 
+Establish procedures for all the following: 
+
+(A) 
+Transmitting notices, solicitations, and specifications. 
+
+(B) 
+Receiving offers. 
+
+(C) 
+Making payments. 
+
+(D) 
+Protecting the identity of a bidder or an offeror. 
+
+(E) 
+For a reverse auction, providing for the display of the amount of each offer previously submitted for public viewing. 
+
+(F) 
+Establishing the deadline by which offers must be received and will be considered to be open and available for public inspection. 
+
+(G) 
+Establishing the procedure for the opening of offers. 
+
+
+
+(2) 
+Require the purchasing agency to maintain adequate documentation regarding reverse auctions so that the transactions may be audited as provided by law. 
+
+
+(b) Written policies that comply with rules for an Internet public purchasing site adopted by the Indiana department of administration under IC 4-13-17-4 satisfy the requirements of this section. 
+As added by P.L.93-2004, SEC.9. Amended by P.L.160-2006, SEC.7. 
+
+IC 5-22-7.5-3 Bids in a reverse auction 
+Sec. 3. If a purchasing agency issues an invitation for bids using a reverse auction conducted through an Internet purchasing site under this chapter, only bids made: 
+(1) in accordance with the policies described in section 2 of this chapter; and 
+(2) through the Internet purchasing site; may be evaluated by the purchasing entity at the close of bidding. 
+As added by P.L.93-2004, SEC.9. 
+ 
+
+IC 5-22-7.5-4 Requirements of Internet purchasing site for reverse auction 
+Sec. 4. When used for a reverse auction, an Internet purchasing site must do the following: 
+(1) 
+Provide information that the purchasing entity considers necessary or beneficial to potential bidders. 
+
+(2) 
+Display the amount of all bids previously submitted regarding the reverse auction for public viewing. 
+
+(3) 
+Conceal information that identifies a bidder. 
+
+(4) 
+Comply with this article. 
+
+
+As added by P.L.93-2004, SEC.9. 
+
+IC 5-22-7.5-5 Bidder fees 
+Sec. 5. The purchasing agency may charge a bidder in a reverse auction a fee set in the written policies adopted under section 2 of this chapter. As added by P.L.93-2004, SEC.9. 
+
+IC 5-22-7.5-6 Opening reverse auction bids 
+Sec. 6. For purposes of IC 5-22-7-6, a bid made through an Internet purchasing site is considered to be opened when a computer generated record of the information contained in all bids for a proposed purchase that were received by the site not later than the posted bid deadline is reviewed publicly by the purchasing agency in the presence of one (1) or more witnesses at the time and place designated in the invitation for bids. As added by P.L.93-2004, SEC.9. 
+
+IC 5-22-7.5-7 Noncollusion affirmation inapplicable 
+Sec. 7. IC 5-22-16-6(a)(2) does not apply to a reverse auction. 
+As added by P.L.93-2004, SEC.9. 
+
+IC 5-22-7.5-8 Repealed 
+(As added by P.L.93-2004, SEC.9. Repealed by P.L.160-2006, SEC.11.) 
+ 
+

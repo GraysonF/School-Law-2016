@@ -1,0 +1,71 @@
+IC 20-43-13 Chapter 13. Complexity Grants 
+IC 20-43-13-1 Applicability 
+Sec. 1. This chapter applies to all school corporations, including virtual charter schools. 
+As added by P.L.205-2013, SEC.301. 
+
+IC 20-43-13-2 Repealed 
+(As added by P.L.205-2013, SEC.301. Amended by P.L.5-2015, SEC.48. Repealed by P.L.213-2015, SEC.227.) 
+
+IC 20-43-13-3 Determination of complexity index grant amount 
+Sec. 3. The total amount to be distributed under this chapter to a school corporation or charter school for a state fiscal year beginning after June 30, 2015, is the amount determined in STEP FIVE of the following formula: 
+STEP ONE: Determine the percentage of the school corporation's students who were receiving Supplemental Nutrition Assistance Program (SNAP) benefits, Temporary Assistance for Needy Families (TANF) benefits, or foster care services as of October 1 in the school year ending in the later of: 
+(A) 2015; or 
+(B) the first year of operation of the school corporation. For a conversion charter school, the percentage determined under this STEP is the percentage of the sponsor school corporation. STEP TWO: Determine: 
+(A) 
+for a charter school in the first year of operation, the STEP ONE amount; or 
+
+(B) 
+for all other school corporations, the result of: 
+
+(i) 
+the STEP ONE amount minus the school corporation's prior year complexity index; divided by 
+
+(ii) 
+three (3) for the state fiscal year beginning July 1, 2015, or two (2) for the state fiscal year beginning July 1, 2016. 
+
+
+
+
+STEP THREE: Determine the sum of: 
+(A) 
+the prior year complexity index; plus 
+
+(B) 
+the STEP TWO result; plus 
+
+(C) 
+for a school corporation that is not a charter school: 
+
+(i) 
+with at least twenty-five percent (25%) of its ADM eligible for the English language learners program; and 
+
+(ii) 
+that has a STEP TWO (B)(i) amount that is less than negative one-tenth (-0.1); 
+
+
+
+
+ 
+the absolute value of the STEP TWO (B)(i) amount divided by four (4). STEP FOUR: Determine the product of: 
+(A) 
+the STEP THREE result; multiplied by 
+
+(B) 
+three thousand four hundred eighty-nine dollars ($3,489) for the state fiscal year beginning July 1, 2015, and three thousand five hundred thirty-nine dollars ($3,539) for the state fiscal year beginning July 1, 2016. 
+
+
+STEP FIVE: Determine the product of: 
+(A) 
+the STEP FOUR result; multiplied by 
+
+(B) 
+the school corporation's current ADM. 
+
+
+As added by P.L.205-2013, SEC.301. Amended by P.L.37-2014, SEC.2; P.L.5-2015, SEC.49; P.L.213-2015, SEC.228. 
+
+IC 20-43-13-4 Determination of complexity index 
+Sec. 4. The complexity index is the result determined under STEP THREE in section 3 of this chapter for a state fiscal year beginning after June 30, 2015. 
+As added by P.L.205-2013, SEC.301. Amended by P.L.213-2015, SEC.229. 
+ 
+

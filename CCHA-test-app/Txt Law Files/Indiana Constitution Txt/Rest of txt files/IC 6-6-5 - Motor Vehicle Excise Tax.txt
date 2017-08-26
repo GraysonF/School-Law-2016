@@ -1,0 +1,858 @@
+IC 6-6-5 Chapter 5. Motor Vehicle Excise Tax 
+IC 6-6-5-0.1 Application of certain amendments to chapter 
+Sec. 0.1. The following amendments to this chapter apply as follows: 
+(1) 
+The amendments made to sections 1 and 14 of this chapter by P.L.98-1989 apply to boating years beginning after December 31, 1989. 
+
+(2) 
+The addition of section 5.5 of this chapter by P.L.98-1989 applies to boating years beginning after December 31, 1989. 
+
+(3) 
+The amendments made to sections 5 and 14 of this chapter by P.L.33-1990 apply to vehicles registered after December 31, 1990. 
+
+(4) 
+The addition of section 9.5 of this chapter by P.L.33-1990 applies to vehicles registered after December 31, 1990. 
+
+
+As added by P.L.220-2011, SEC.158. 
+
+IC 6-6-5-1 Definitions; applicability 
+Sec. 1. (a) As used in this chapter, "vehicle" means a vehicle subject to annual registration as a condition of its operation on the public highways pursuant to the motor vehicle registration laws of the state. 
+(b) 
+As used in this chapter, "mobile home" means a nonself-propelled vehicle designed for occupancy as a dwelling or sleeping place. 
+
+(c) 
+As used in this chapter, "bureau" means the bureau of motor vehicles. 
+
+(d) 
+As used in this chapter, "license branch" means a branch office of the bureau authorized to register motor vehicles pursuant to the laws of the state. 
+
+(e) 
+As used in this chapter, "owner" means the person in whose name the vehicle or trailer is registered (as defined in IC 9-13-2). 
+
+(f) 
+As used in this chapter, "motor home" means a self-propelled vehicle having been designed and built as an integral part thereof having living and sleeping quarters, including that which is commonly referred to as a recreational vehicle. 
+
+(g) 
+As used in this chapter, "last preceding annual excise tax liability" means either: 
+
+(1) 
+the amount of excise tax liability to which the vehicle was subject on the owner's last preceding regular annual registration date; or 
+
+(2) 
+the amount of excise tax liability to which a vehicle that was registered after the owner's last preceding annual registration date would have been subject if it had been registered on that date. 
+
+
+
+(h) 
+As used in this chapter, "trailer" means a device having a gross vehicle weight equal to or less than three thousand (3,000) pounds that is pulled behind a vehicle and that is subject to annual registration as a condition of its operation on the public highways pursuant to the motor vehicle registration laws of the state. The term includes any utility, boat, or other two (2) wheeled trailer. 
+
+
+(i) This chapter does not apply to the following: 
+(1) 
+Vehicles owned, or leased and operated, by the United States, the state, or political subdivisions of the state. 
+
+(2) 
+Vehicles subject to taxation under IC 6-6-5.1. 
+
+(3) 
+Vehicles assessed under IC 6-1.1-8. 
+
+(4) 
+Vehicles subject to taxation under IC 6-6-5.5. 
+
+(5) 
+Vehicles owned, or leased and operated, by a postsecondary educational institution described in IC 6-3-3-5(d). 
+
+(6) 
+Vehicles owned, or leased and operated, by a volunteer fire department (as defined in IC 36-8-12-2). 
+
+(7) 
+Vehicles owned, or leased and operated, by a volunteer emergency ambulance service that: 
+
+(A) 
+meets the requirements of IC 16-31; and 
+
+(B) 
+has only members that serve for no compensation or a nominal annual compensation of not more than three thousand five hundred dollars ($3,500). 
+
+
+
+(8) 
+Vehicles that are exempt from the payment of registration fees under IC 9-18-3-1 (before its expiration) or IC 9-18.1-9. 
+
+(9) 
+Farm wagons. 
+
+(10)
+ Off-road vehicles (as defined in IC 14-8-2-185). 
+
+(11)
+ Snowmobiles (as defined in IC 14-8-2-261). 
+
+(12)
+ After June 30, 2017, vehicles owned or otherwise held as inventory by a person licensed under IC 9-32. 
+
+(13)
+ Special machinery (as defined in IC 9-13-2-170.3). 
+
+
+(14) Buses (as defined in IC 9-13-2-17). (Formerly: Acts 1969, c.423, s.1; Acts 1971, P.L.73, SEC.1; Acts 1973, P.L.54, SEC.1; Acts 1975, P.L.67, SEC.1.) As amended by Acts 1978, P.L.48, SEC.1; Acts 1981, P.L.94, SEC.1; P.L.98-1987, SEC.1; P.L.99-1987, SEC.1; P.L.98-1989, SEC.5; P.L.2-1991, SEC.44; P.L.2-1993, SEC.59; P.L.1-1999, SEC.16; P.L.2-2007, SEC.126; P.L.259-2013, SEC.1; P.L.174-2016,SEC.2; P.L.198-2016, SEC.31. 
+
+IC 6-6-5-2 License excise tax; imposition; proof of payment of property tax not required 
+Sec. 2. (a) There is imposed an annual license excise tax upon vehicles, which tax shall be in lieu of the ad valorem property tax levied for state or local purposes, but in addition to any registration fees imposed on such vehicles. 
+(b) The tax imposed by this chapter is a listed tax and subject to the provisions of IC 6-8.1. 
+(c) No vehicle, as defined in section 1 of this chapter, shall be assessed as personal property for the purpose of the assessment and levy of personal property taxes or shall be subject to ad valorem taxes whether or not such vehicle is in fact registered pursuant to the motor vehicle registration laws. No person shall be required to give proof of the payment of ad valorem property taxes as a condition to the registration of any vehicle that is subject to the tax imposed by this chapter. 
+(Formerly: Acts 1969, c.423, s.2.) As amended by Acts 1981, P.L.94, SEC.2; Acts 1982, P.L.43, SEC.6; P.L.335-1989(ss), SEC.7; P.L.146-2008, SEC.352. 
+
+IC 6-6-5-3 Valuation of vehicles 
+Sec. 3. (a) As the basis for measuring the tax imposed by this chapter, the bureau shall determine the value of each vehicle as of the time it is first offered for sale as a new vehicle in Indiana. The bureau shall adopt rules for determining the value of vehicles, using the "factory advertised delivered price" or the "port of entry price". 
+(b) 
+If the bureau is unable to ascertain a value by this method in respect to any vehicle or class of vehicles because the vehicle is a specially constructed vehicle or for any other reason, the bureau shall determine, from any information available, the true tax value subject to review and adjustment by the department of local government finance. 
+
+(c) 
+For each vehicle, beginning with the 1990 model year, the bureau shall reduce the value determined under subsection (a) or (b) by dividing: 
+
+(1) 
+the price determined under subsection (a) or (b); by 
+
+(2) 
+one (1) plus the average percentage increase in new automobile prices using the most recent annual reference to the Consumer Price Index for Private New Automobiles as published by the Bureau of Labor Statistics, United States Department of Labor. 
+
+
+
+
+(Formerly: Acts 1969, c.423, s.3; Acts 1971, P.L.73, SEC.2.) As amended by P.L.24-1986, SEC.31; P.L.335-1989(ss), SEC.8; P.L.90-2002, SEC.304. 
+
+IC 6-6-5-4 Classification of vehicles 
+Sec. 4. After determining the value of a vehicle, as prescribed in section 3 of this chapter, the bureau shall classify every vehicle in its proper class according to the following classification plan: 
+Class  I  less than $ 1,500  
+Class  II  at least $ 1,500 but less than $ 2,250  
+Class  III  at least $ 2,250 but less than $ 3,000  
+Class  IV  at least $ 3,000 but less than $ 4,000  
+Class  V  at least $ 4,000 but less than $ 5,500  
+Class  VI  at least $ 5,500 but less than $ 7,000  
+
+Class VII at least $ 7,000 but less than $ 8,500 
+Class VIII at least $ 8,500 but less than $10,000 
+Class IX at least $10,000 but less than $12,500 
+Class X at least $12,500 but less than $15,000 
+Class XI at least $15,000 but less than $18,000 
+Class XII at least $18,000 but less than $22,000 
+Class XIII at least $22,000 but less than $25,000 
+Class XIV at least $25,000 but less than $30,000 
+Class XV at least $30,000 but less than $35,000 
+Class XVI at least $35,000 but less than $42,500 
+Class XVII $42,500 and over (Formerly: Acts 1969, c.423, s.4; Acts 1973, P.L.54, SEC.2.) As amended by Acts 1982, P.L.60, SEC.1; P.L.91-1983, SEC.1. 
+
+IC 6-6-5-5 Version a Amount of tax credit against tax 
+Note: This version of section effective until 1-1-2017. See also following version of this section, effective 1-1-2017. 
+Sec. 5. (a) The amount of tax imposed by this chapter shall be based upon the classification of the vehicle, as provided in section 4 of this chapter, and the age of the vehicle, in accordance with the schedule set out in subsection (c) or (d). 
+(b) 
+A person who owns a vehicle and who is entitled to a property tax deduction under IC 6-1.1-12-13, IC 6-1.1-12-14, IC 6-1.1-12-16, or IC 6-1.1-12-17.4 is entitled to a credit against the annual license excise tax as follows: Any remaining deduction from assessed valuation to which the person is entitled, applicable to property taxes payable in the year in which the excise tax imposed by this chapter is due, after allowance of the deduction on real estate and personal property owned by the person, shall reduce the annual excise tax in the amount of two dollars ($2) on each one hundred dollars ($100) of taxable value or major portion thereof. The county auditor shall, upon request, furnish a certified statement to the person verifying the credit allowable under this section and the statement shall be presented to and retained by the bureau to support the credit. 
+
+(c) After January 1, 1996, the tax schedule is as follows: 
+
+(d) 
+Every vehicle shall be taxed as a vehicle in its first year of manufacture throughout the calendar year in which vehicles of that make and model are first offered for sale in Indiana, except that: 
+
+(1) a vehicle of a make and model first offered for sale in Indiana after August 1 of any year; and 
+
+(2) 
+all motorcycles; shall continue to be taxed as a vehicle in its first year of manufacture until the end of the calendar year following the year in which it is 
+
+
+Year of  
+Manufacture  I  II  III  IV  V  
+1st  $12  $36  $50  $50  $66  
+2nd  12  30  50  50  57  
+3rd  12  27  42  50  50  
+4th  12  24  33  50  50  
+5th  12  18  24  48  50  
+6th  12  12  18  36  50  
+7th  12  12  12  24  42  
+8th  12  12  12  18  24  
+9th  12  12  12  12  12  
+10th  12  12  12  12  12  
+
+and thereafter  
+Year of  
+Manufacture  VI  VII  VIII  IX  X  
+1st  $84  $103  $123  $150  $172  
+2nd  74  92  110  134  149  
+3rd  63  77  93  115  130  
+4th  52  64  78  98  112  
+5th  50  52  64  82  96  
+6th  50  50  50  65  79  
+7th  49  50  50  52  65  
+8th  30  40  50  50  53  
+9th  18  21  34  40  50  
+10th  12  12  12  12  12  
+and thereafter  
+Year of  
+Manufacture  XI  XII  XIII  XIV  XV  
+1st  $207  $250  $300  $350  $406  
+2nd  179  217  260  304  353  
+3rd  156  189  225  265  307  
+4th  135  163  184  228  257  
+5th  115  139  150  195  210  
+6th  94  114  121  160  169  
+7th  78  94  96  132  134  
+8th  64  65  65  91  91  
+9th  50  50  50  50  50  
+10th  21  26  30  36  42  
+and thereafter  
+Year of  
+Manufacture  XVI  XVII  
+1st  $469  $532  
+2nd  407  461  
+3rd  355  398  
+4th  306  347  
+5th  261  296  
+6th  214  242  
+7th  177  192  
+8th  129  129  
+9th  63  63  
+10th  49  50  
+and thereafter.  
+
+first offered for sale. Thereafter, the vehicle shall be considered to have aged one (1) year as of January 1 of each year. 
+(Formerly: Acts 1969, c.423, s.5; Acts 1973, P.L.54, SEC.3; Acts 1975, P.L.21, SEC.10.) As amended by Acts 1979, P.L.216, SEC.2; Acts 1980, P.L.38, SEC.22; Acts 1982, P.L.60, SEC.2; P.L.91-1983, SEC.2; P.L.33-1990, SEC.13; P.L.240-1991(ss2), SEC.53; P.L.25-1995, SEC.57; P.L.26-1996, SEC.8; P.L.6-1997, SEC.127; P.L.149-2015, SEC.15. 
+
+IC 6-6-5-5 Version b Amount of tax credit against tax 
+Note: This version of section effective 1-1-2017. See also preceding version of this section, effective until 1-1-2017. 
+Sec. 5. (a) The amount of tax imposed by this chapter shall be based upon the classification of the vehicle, as provided in section 4 of this chapter, and the age of the vehicle, in accordance with the schedule set out in subsection (c) or (d). 
+(b) 
+A person that owns a vehicle and that is entitled to a property tax deduction under IC 6-1.1-12-13, IC 6-1.1-12-14, or IC 6-1.1-12-16 is entitled to a credit against the annual license excise tax as follows: Any remaining deduction from assessed valuation to which the person is entitled, applicable to property taxes payable in the year in which the excise tax imposed by this chapter is due, after allowance of the deduction on real estate and personal property owned by the person, shall reduce the annual excise tax in the amount of two dollars ($2) on each one hundred dollars ($100) of taxable value or major portion thereof. The county auditor shall, upon request, furnish a certified statement to the person verifying the credit allowable under this section, and the statement shall be presented to and retained by the bureau to support the credit. 
+
+(c) After January 1, 1996, the tax schedule is as follows: 
+
+(d) 
+Every vehicle shall be taxed as a vehicle in its first year of manufacture throughout the calendar year in which vehicles of that make and model are first offered for sale in Indiana, except that: 
+
+
+Year of  
+Manufacture  I  II  III  IV  V  
+1st  $12  $36  $50  $50  $66  
+2nd  12  30  50  50  57  
+3rd  12  27  42  50  50  
+4th  12  24  33  50  50  
+5th  12  18  24  48  50  
+6th  12  12  18  36  50  
+7th  12  12  12  24  42  
+8th  12  12  12  18  24  
+9th  12  12  12  12  12  
+10th  12  12  12  12  12  
+and thereafter  
+Year of  
+Manufacture  VI  VII  VIII  IX  X  
+1st  $84  $103  $123  $150  $172  
+2nd  74  92  110  134  149  
+
+3rd  63  77  93  115  130  
+4th  52  64  78  98  112  
+5th  50  52  64  82  96  
+6th  50  50  50  65  79  
+7th  49  50  50  52  65  
+8th  30  40  50  50  53  
+9th  18  21  34  40  50  
+10th  12  12  12  12  12  
+and thereafter  
+Year of  
+Manufacture  XI  XII  XIII  XIV  XV  
+1st  $207  $250  $300  $350  $406  
+2nd  179  217  260  304  353  
+3rd  156  189  225  265  307  
+4th  135  163  184  228  257  
+5th  115  139  150  195  210  
+6th  94  114  121  160  169  
+7th  78  94  96  132  134  
+8th  64  65  65  91  91  
+9th  50  50  50  50  50  
+10th  21  26  30  36  42  
+and thereafter  
+Year of  
+Manufacture  XVI  XVII  
+1st  $469  $532  
+2nd  407  461  
+3rd  355  398  
+4th  306  347  
+5th  261  296  
+6th  214  242  
+7th  177  192  
+8th  129  129  
+9th  63  63  
+10th  49  50  
+and thereafter.  
+
+(1) a vehicle of a make and model first offered for sale in Indiana after August 1 of any year; and 
+(2) all motorcycles; shall continue to be taxed as a vehicle in its first year of manufacture until the end of the calendar year following the year in which it is first offered for sale. Thereafter, the vehicle shall be considered to have aged one (1) year as of January 1 of each year. (Formerly: Acts 1969, c.423, s.5; Acts 1973, P.L.54, SEC.3; Acts 1975, P.L.21, SEC.10.) As amended by Acts 1979, P.L.216, SEC.2; Acts 1980, P.L.38, SEC.22; Acts 1982, P.L.60, SEC.2; P.L.91-1983, 
+SEC.2; P.L.33-1990, SEC.13; P.L.240-1991(ss2), SEC.53; P.L.25-1995, SEC.57; P.L.26-1996, SEC.8; P.L.6-1997, SEC.127; P.L.149-2015, SEC.15; P.L.250-2015, SEC.43; P.L.198-2016, SEC.32. 
+
+IC 6-6-5-5.1 Repealed 
+(Repealed by P.L.25-1995, SEC.94 and P.L.25-1995, SEC.95.) 
+
+IC 6-6-5-5.2 Credit for certain veterans who are not eligible for a property tax deduction 
+Sec. 5.2. (a) This section applies to a registration year beginning after December 31, 2013. 
+(b) Subject to subsection (d), an individual may claim a credit against the tax imposed by this chapter upon a vehicle owned by the individual if the individual is eligible for the credit under any of the following: 
+(1) 
+The individual meets all the following requirements: 
+
+(A) 
+The individual served in the military or naval forces of the United States during any of its wars. 
+
+(B) 
+The individual received an honorable discharge. 
+
+(C) 
+The individual has a disability with a service connected disability of ten percent (10%) or more. 
+
+(D) 
+The individual's disability is evidenced by: 
+
+(i) 
+a pension certificate, an award of compensation, or a disability compensation check issued by the United States Department of Veterans Affairs; or 
+
+(ii) 
+a certificate of eligibility issued to the individual by the Indiana department of veterans'affairs after the Indiana department of veterans' affairs has determined that the individual's disability qualifies the individual to receive a credit under this section. 
+
+
+
+(E) 
+The individual does not own property to which a property tax deduction may be applied under IC 6-1.1-12-13. 
+
+
+
+(2) 
+The individual meets all the following requirements: 
+
+(A) 
+The individual served in the military or naval forces of the United States for at least ninety (90) days. 
+
+(B) 
+The individual received an honorable discharge. 
+
+(C) 
+The individual either: 
+
+(i)
+ has a total disability; or 
+
+(ii) 
+is at least sixty-two (62) years of age and has a disability of at least ten percent (10%). 
+
+
+
+(D) 
+The individual's disability is evidenced by: 
+
+(i) 
+a pension certificate or an award of compensation issued by the United States Department of Veterans Affairs; or 
+
+(ii) 
+a certificate of eligibility issued to the individual by 
+
+
+
+
+
+
+the Indiana department of veterans'affairs after the Indiana department of veterans' affairs has determined that the individual's disability qualifies the individual to receive a credit under this section. 
+(E) The individual does not own property to which a property tax deduction may be applied under IC 6-1.1-12-14. 
+(3) The individual meets both of the following requirements: 
+(A) 
+The individual is the surviving spouse of any of the following: 
+
+(i) 
+An individual who would have been eligible for a credit under this section if the individual had been alive in 2013 and this section had been in effect in 2013. 
+
+(ii) 
+An individual who received a credit under this section in the previous calendar year. 
+
+
+(iii) A World War I veteran. 
+
+(B) 
+The individual does not own property to which a property tax deduction may be applied under IC 6-1.1-12-13, IC 6-1.1-12-14, or IC 6-1.1-12-16. 
+
+
+(c) 
+The amount of the credit that may be claimed under this section is equal to the lesser of the following: 
+
+(1) 
+The amount of the excise tax liability for the individual's vehicle as determined under section 5 of this chapter. 
+
+(2) 
+Seventy dollars ($70). 
+
+
+
+(d) 
+The maximum number of motor vehicles for which an individual may claim a credit under this section is two (2). 
+
+(e) An individual may not claim a credit under both: 
+(1) 
+this section; and 
+
+(2) 
+section 5(b) of this chapter. 
+
+
+
+(f)
+ The credit allowed by this section must be claimed on a form prescribed by the bureau. An individual claiming the credit must attach to the form an affidavit from the county auditor stating that the claimant does not own property to which a property tax deduction may be applied under IC 6-1.1-12-13, IC 6-1.1-12-14, or IC 6-1.1-12-16. 
+
+
+As added by P.L.293-2013(ts), SEC.19. 
+
+IC 6-6-5-5.5 Trailers; annual excise tax 
+Sec. 5.5. There is imposed an annual excise tax on trailers. The tax shall be paid at the same time the trailer is registered. Except for the amount of tax imposed, a trailer is to be treated the same as a vehicle for purposes of this chapter. The amount of tax owed for a trailer for a year is eight dollars ($8). The tax is due at the same time the owner is or would be required to pay the motor vehicle excise tax under this chapter. 
+As added by P.L.98-1989, SEC.6. 
+IC 6-6-5-5.6 
+
+Excise tax on motor driven cycles 
+Sec. 5.6. There is imposed an annual excise tax on motor driven cycles. The tax shall be paid at the same time the motor driven cycle is registered. Except for the amount of tax imposed, a motor driven cycle is to be treated the same as a vehicle for purposes of this chapter. The amount of tax owed for a motor driven cycle for a year is ten dollars ($10). The tax is due at the same time the owner is or would be required to pay the motor vehicle excise tax under this chapter. As added by P.L.221-2014, SEC.5. 
+
+IC 6-6-5-5.7 Tax on mini-trucks; amount 
+Sec. 5.7. (a) There is imposed an annual excise tax on mini-trucks (as defined in IC 9-13-2-103.1). The tax shall be paid at the same time the mini-truck is registered. 
+(b) Except for the amount of tax imposed, a mini-truck is to be treated the same as a vehicle for purposes of this chapter. 
+(c) The amount of tax owed for a mini-truck under subsection (a) for a year is thirty dollars ($30). The tax is due at the same time the owner is or would be required to pay the motor vehicle excise tax under this chapter. As added by P.L.180-2015, SEC.1. 
+
+IC 6-6-5-6 Payment of tax; registration of vehicle 
+Sec. 6. (a) Except as otherwise provided in this chapter, the excise tax imposed under this chapter upon vehicles shall be payable for each registration year, by the owners thereof in respect to vehicles required to be registered for such registration year as provided in the motor vehicle laws of Indiana. Except as provided in section 7.2 of this chapter, such excise tax shall be due on or before the regular annual registration date in each year on or before which the owner is required under the motor vehicle registration laws of Indiana to register vehicles and such excise tax shall be paid to the bureau at the time the vehicle is registered by the owner as provided in the motor vehicle registration laws of Indiana. Each vehicle subject to taxation under this chapter shall be registered by the owner thereof as being taxable in the county of the owner's residence. The payment of the excise tax imposed by this chapter shall be a condition to the right to register or reregister the vehicle and shall be in addition to all other conditions prescribed by law. 
+(b) A voucher from the department of state revenue showing payment of the excise tax imposed by this chapter may be accepted by the bureau in lieu of a payment under subsection (a). (Formerly: Acts 1969, c.423, s.6; Acts 1971, P.L.73, SEC.3.) As amended by P.L.2-1988, SEC.14; P.L.335-1989(ss), SEC.9; P.L.3-2008, SEC.63. 
+
+IC 6-6-5-6.7 "Passenger motor vehicle" and "truck" defined; credits for rental vehicles; inspection of records 
+Sec. 6.7. (a) As used in this section, "passenger motor vehicle" and "truck" have the meanings set forth for those terms in IC 9-13-2-123 and IC 9-13-2-188(a). 
+(b) 
+Every owner of a passenger motor vehicle or passenger motor vehicles or of a truck or trucks who during a registration year regularly rents those vehicles or trucks for periods of under thirty 
+
+(30) 
+days to others in the regular course of the owner's business is entitled to a credit against the motor vehicle excise tax liability owed for those passenger motor vehicles or trucks for that registration year. The maximum credit an owner is entitled to claim against the tax owed for all those passenger motor vehicles and trucks for a registration year under this section equals the lesser of: 
+
+(1) 
+the total motor vehicle excise taxes due for those passenger motor vehicles and trucks for that registration year, before the application of the credit allowed by this section; or 
+
+(2) 
+the total auto rental excise taxes collected by the owner during the immediately preceding registration year. 
+
+
+
+
+(c) A passenger motor vehicle or truck is regularly rented by a person in the regular course of the person's business during a registration year if the passenger motor vehicle or truck is rented by the person to another person an average of ten (10) days each month of the registration year that the person owned the passenger motor vehicle or truck. As added by P.L.79-1985, SEC.2. Amended by P.L.335-1989(ss), SEC.10; P.L.2-1991, SEC.45; P.L.214-2007, SEC.1. 
+
+IC 6-6-5-7 Repealed 
+(Formerly: Acts 1969, c.423, s.7; Acts 1971, P.L.73, SEC.4; Acts 1973, P.L.54, SEC.4. As amended by Acts 1981, P.L.94, SEC.3; Acts 1982, P.L.60, SEC.3; Acts 1982, P.L.61, SEC.1; P.L.92-1983, SEC.1; P.L.91-1983, SEC.3; P.L.335-1989(ss), SEC.11; P.L.43-1994, SEC.3; P.L.70-1998, SEC.1; P.L.184-2007, SEC.2. Repealed by P.L.3-2008, SEC.269.) 
+
+IC 6-6-5-7.2 Application of section; proration of tax; credits; refund for destroyed vehicle not replaced 
+Sec. 7.2. (a) This section applies to a vehicle that has been acquired, or brought into the state, or for any other reason becomes subject to registration after the regular annual registration date in the year on or before which the owner of the vehicle is required, under the motor vehicle registration laws of Indiana, to register vehicles. The tax imposed by this chapter shall become due and payable at the time the vehicle is acquired, brought into the state, or otherwise becomes subject to registration. 
+(b) 
+For taxes due and payable before January 1, 2017, the amount of tax to be paid by the owner for the remainder of the year shall be reduced by eight and thirty-three hundredths percent (8.33%) for each full calendar month that has elapsed since the regular annual registration date in the year fixed by the motor vehicle registration laws for annual registration by the owner. The tax shall be paid by the owner at the time of the registration of the vehicle. 
+
+(c) 
+For taxes due and payable after December 31, 2016, the tax shall be paid by the owner at the time of the registration of the vehicle and is determined as follows: 
+
+
+(1) For a vehicle with an initial registration period under IC 9-18.1-11-3, the amount determined under STEP THREE of the following formula: 
+STEP ONE: Determine the number of months remaining until the vehicle's next registration date under IC 9-18.1-11-3. A partial month shall be rounded up to one 
+(1) month. 
+STEP TWO: Multiply the STEP ONE result by one-twelfth 
+(1/12). 
+STEP THREE: Multiply the annual excise tax for the vehicle 
+by the STEP TWO product. 
+
+(2) For a vehicle with a renewal registration period described in IC 9-18.1-11-3(b), the annual excise tax for the current registration period. 
+(d) 
+Except as provided in subsection (g), no reduction in the applicable annual excise tax will be allowed to an Indiana resident applicant upon registration of any vehicle that was owned by the applicant on or prior to the registrant's annual registration period. A vehicle owned by an Indiana resident applicant that was located in and registered for use in another state during the same calendar year shall be entitled to the same reduction when registered in Indiana. 
+
+(e) 
+The owner of a vehicle who sells the vehicle in a year in which the owner has paid the tax imposed by this chapter shall receive a credit equal to the remainder of: 
+
+(1) 
+the tax paid for the vehicle; reduced by 
+
+(2) 
+eight and thirty-three hundredths percent (8.33%) for each full or partial calendar month that has elapsed in the registrant's annual registration year before the date of the sale. 
+
+
+
+
+The credit shall be applied to the tax due on any other vehicle purchased or subsequently registered by the owner in the same registrant's annual registration year. If the credit is not fully used and the amount of the credit remaining is at least four dollars ($4), the owner is entitled to a refund in the amount of the unused credit. The owner must pay a fee of three dollars ($3) to the bureau to cover costs of providing the refund, which may be deducted from the refund. The bureau shall issue the refund. The bureau shall transfer to the bureau of motor vehicles commission three dollars ($3) of the fee to cover the commission's costs in processing the refund. To claim the credit and refund provided by this subsection, the owner of the vehicle must present to the bureau proof of sale of the vehicle. 
+(f) 
+Subject to the requirements of subsection (h), the owner of a vehicle that is destroyed in a year in which the owner has paid the tax imposed by this chapter, which vehicle is not replaced by a replacement vehicle for which a credit is issued under this section, shall receive a refund in an amount equal to eight and thirty-three hundredths percent (8.33%) of the tax paid for each full calendar month remaining in the registrant's annual registration year after the date of destruction, but only upon presentation or return to the bureau of the following: 
+
+(1) 
+A request for refund on a form furnished by the bureau. 
+
+(2) 
+A statement of proof of destruction on an affidavit furnished by the bureau. 
+
+(3) 
+The license plate from the vehicle. 
+
+
+
+(4) 
+The registration from the vehicle. However, the refund may not exceed ninety percent (90%) of the tax paid on the destroyed vehicle. The amount shall be refunded by a warrant issued by the auditor of the county that received the excise tax revenue and shall be paid out of the special account created for settlement of the excise tax collections under IC 6-6-5-10. For purposes of this subsection, a vehicle is considered destroyed if the cost of repair of damages suffered by the vehicle exceeds the vehicle's fair market value. 
+
+(g) 
+If the name of the owner of a vehicle is legally changed and the change has caused a change in the owner's annual registration date, the excise tax liability of the owner shall be adjusted as follows: 
+
+(1) 
+If the name change requires the owner to register sooner than the owner would have been required to register if there had been no name change, the owner shall, at the time the name change is reported, be authorized a refund from the county treasurer in the amount of the product of: 
+
+(A) 
+eight and thirty-three hundredths percent (8.33%) of the owner's last preceding annual excise tax liability; and 
+
+(B) 
+the number of full calendar months between the owner's new regular annual registration month and the next succeeding regular annual registration month that is based on the owner's former name. 
+
+
+
+(2) 
+If the name change required the owner to register later than the owner would have been required to register if there had been no name change, the vehicle shall be subject to excise tax for the period between the month in which the owner would have been required to register if there had been no name change and the new regular annual registration month in the amount determined under STEP FOUR of the following formula: 
+
+
+
+
+STEP ONE: Determine the number of full calendar months between the month in which the owner would have been required to register if there had been no name change and the owner's new regular annual registration month. STEP TWO: Multiply the STEP ONE amount by one-twelfth (1/12). STEP THREE: Determine the owner's tax liability computed as of the time the owner would have been required to register if there had been no name change. STEP FOUR: Multiply the STEP TWO product by the STEP THREE amount. 
+(h) In order to claim a credit under subsection (f) for a vehicle that is destroyed, the owner of the vehicle must present to the bureau of motor vehicles a valid registration for the vehicle within ninety (90) days of the date that it was destroyed. The bureau shall then fix the amount of the credit that the owner is entitled to receive. 
+As added by P.L.184-2007, SEC.3. Amended by P.L.3-2008, SEC.64; P.L.149-2015, SEC.16; P.L.198-2016, SEC.33. 
+
+IC 6-6-5-7.4 Refund of taxes paid for vehicle used in other state 
+Sec. 7.4. (a) The owner of a vehicle registered with the bureau is entitled to a refund of taxes paid under this chapter if, after the owner's regular registration date: 
+(1) 
+the owner registers the vehicle for use in another state; and 
+
+(2) 
+the owner pays tax for use of the vehicle to another state for the same time period which the tax was paid under this chapter. 
+
+
+(b) 
+This subsection applies after December 31, 2007. The refund provided under subsection (a) is equal to: 
+
+(1) 
+the annual license excise tax paid for use of the vehicle by the owner of the vehicle for the year; minus 
+
+(2) 
+eight and thirty-three hundredths percent (8.33%) of the annual license excise tax paid for use of the vehicle for each full or partial calendar month between the date the annual license excise tax was due and the date the owner registered the vehicle for use in another state. 
+
+
+
+(c) 
+To claim the refund provided by this section, the owner of the vehicle must provide the bureau with: 
+
+(1) 
+a request for a refund on a form furnished by the bureau; and 
+
+(2) 
+proof that a tax described in subsection (a)(2) was paid. 
+
+
+
+
+As added by P.L.335-1989(ss), SEC.12. Amended by P.L.184-2007, SEC.4; P.L.3-2008, SEC.65. 
+
+IC 6-6-5-7.5 Repealed 
+(As added by P.L.176-2001, SEC.1. Repealed by P.L.2-2005, SEC.131.) 
+
+IC 6-6-5-7.7 Tax credit or refund claims; inspection of records; improperly allowed claims 
+Sec. 7.7. (a) To claim a credit or a refund, or both, under this chapter, a person must provide a sworn statement to the bureau that the person is entitled to the credit or refund, or both, claimed by the person. 
+(b) The bureau may inspect records of a person claiming a credit or refund, or both, under this chapter to determine if a credit or refund, or both, was properly allowed against the motor vehicle excise tax imposed on a vehicle owned by the person. 
+(c) If the bureau determines that a credit or refund, or both, was improperly allowed for a particular vehicle, the person that claimed the credit or refund, or both, shall pay the bureau an amount equal to the credit or refund, or both, improperly allowed to the person plus a penalty of ten percent (10%) of the credit or refund, or both, improperly allowed. The tax collected under this subsection shall be paid to the county treasurer of the county in which the taxpayer resides. However, a penalty collected under this subsection shall be retained by the bureau. As added by P.L.335-1989(ss), SEC.13. Amended by P.L.198-2016, SEC.34. 
+
+IC 6-6-5-7.9 Repealed 
+(As added by P.L.210-2005, SEC.3. Repealed by P.L.1-2007, SEC.248.) 
+
+IC 6-6-5-8 Registration forms; verification by BMV; schedules 
+Sec. 8. (a) The bureau shall include on all registration forms suitable spaces for the applicant's Social Security number or federal tax identification number, the amount of the registration fee, the amount of excise tax, the amount of credit, if any, as provided in section 5 of this chapter, and the total amount of payment due on account of the applicable registration fees and excise taxes upon the registration of the vehicle. The forms shall also include spaces for showing the county, city, or town and township and address of the place where the owner resides. Using procedures determined by the bureau to be appropriate, the bureau shall verify the accuracy and completeness of the information on the registration form concerning: 
+(1) 
+the county and city or town; 
+
+(2) 
+the township; and 
+
+
+(3) 
+the address; of the owner. 
+
+(b) 
+The bureau shall list on all registration forms for vehicles prepared by it the amount of registration fees and taxes due. In addition, the bureau shall prepare by December 1 of each year a 
+
+
+schedule showing the excise tax payable on each make and model of vehicle. 
+(Formerly: Acts 1969, c.423, s.8.) As amended by P.L.2-1988, SEC.15; P.L.335-1989(ss), SEC.14; P.L.261-2013, SEC.33. 
+
+IC 6-6-5-9 Version a License branches; administration and collection of taxes; report; distribution of credited delinquent taxes 
+Note: This version of section effective until 7-1-2016. See also following version of this section, effective 7-1-2016. 
+Sec. 9. (a) The bureau, in the administration and collection of the annual license excise tax imposed by this chapter, may utilize the services and facilities of license branches operated under IC 9-16 in its administration of the motor vehicle registration laws of the state of Indiana. The license branches may be so utilized in accordance with such procedures, in such manner, and to such extent as the bureau shall deem necessary and proper to implement and effectuate the administration and collection of the excise tax imposed by this chapter. However, in the event the bureau shall utilize such license branches in the collection of excise tax, the following apply: 
+(1) 
+The bureau of motor vehicles shall report the excise taxes collected on at least a weekly basis to the county auditor of the county to which the collections are due. 
+
+(2) 
+If the services of a license branch are used by the bureau in the collection of the excise tax imposed by this chapter, the license branch shall collect the service charge prescribed under IC 9-29-1-10 for each vehicle registered upon which an excise tax is collected by that branch. 
+
+(3) 
+If the excise tax imposed by this chapter is collected by the department of state revenue, the money collected shall be deposited in the state general fund to the credit of the appropriate county and reported to the bureau of motor vehicles on the first working day following the week of collection. Except as provided in subdivision (4), any amount collected by the department which represents interest or a penalty shall be retained by the department and used to pay its costs of enforcing this chapter. 
+
+(4) 
+This subdivision applies only to interest or a penalty collected by the department of state revenue from a person who: 
+
+(A) 
+fails to properly register a vehicle as required by IC 9-18 and pay the tax due under this chapter; and 
+
+(B) 
+during any time after the date by which the vehicle was required to be registered under IC 9-18 displays on the vehicle a license plate issued by another state. 
+
+
+
+
+The total amount collected by the department that represents interest or a penalty, minus a reasonable amount determined by the department to represent its administrative expenses, shall be deposited in the state general fund for the credit of the county in which the person resides. The amount shall be reported to the 
+bureau of motor vehicles on the first working day following the 
+week of collection. The bureau may contract with a bank card or credit card vendor for acceptance of bank or credit cards. 
+(b) 
+On or before April 1 of each year the bureau shall provide to the auditor of state the amount of motor vehicle excise taxes collected for each county for the preceding year. 
+
+(c) 
+On or before May 10 and November 10 of each year the auditor of state shall distribute to each county one-half (1/2) of: 
+
+(1) the amount of delinquent taxes; and 
+
+(2) 
+any penalty or interest described in subsection (a)(4); that have been credited to the county under subsection (a). There is appropriated from the state general fund the amount necessary to make the distributions required by this subsection. The county auditor shall apportion and distribute the delinquent tax distributions to the taxing units in the county at the same time and in the same manner as excise taxes are apportioned and distributed under section 10 of this chapter. 
+
+
+(d) The commissioner of insurance shall prescribe the form of the bonds or crime policies required by this section. (Formerly: Acts 1969, c.423, s.9; Acts 1971, P.L.73, SEC.5; Acts 1972, P.L.55, SEC.2; Acts 1973, P.L.54, SEC.6.) As amended by Acts 1977(ss), P.L.8, SEC.3; P.L.42-1986, SEC.5; P.L.335-1989(ss), SEC.15; P.L.2-1991, SEC.46; P.L.44-1992, SEC.3; P.L.49-1995, SEC.7; P.L.62-1996, SEC.1; P.L.115-1998, SEC.1; P.L.70-1998, SEC.2; P.L.184-2007, SEC.5; P.L.107-2008, SEC.3; P.L.131-2008, SEC.21; P.L.149-2015, SEC.17; P.L.149-2016, SEC.30. 
+
+IC 6-6-5-9 Version b Administration and collection of taxes; service charge; report; distribution of credited delinquent taxes 
+Note: This version of section effective 7-1-2016. See also preceding version of this section, effective until 7-1-2016. 
+Sec. 9. (a) The bureau, in the administration and collection of the annual license excise tax imposed by this chapter, may utilize the services and facilities of: 
+(1) 
+license branches operated under IC 9-14.1; 
+
+(2) 
+full service providers (as defined in IC 9-14.1-1-2); and 
+
+
+(3) 
+partial services providers (as defined in IC 9-14.1-1-3); in its administration of the motor vehicle registration laws of the state of Indiana in accordance with such procedures, in such manner, and to such extent as the bureau shall deem necessary and proper to implement and effectuate the administration and collection of the excise tax imposed by this chapter. 
+
+(b) 
+The bureau may impose a service charge of one dollar and seventy cents ($1.70) for each excise tax collection made under this chapter. The service charge shall be deposited in the bureau of motor 
+
+vehicles commission fund. 
+
+(c) 
+The bureau of motor vehicles shall report the excise taxes collected on at least a weekly basis to the county auditor of the county to which the collections are due. 
+
+(d) 
+If the excise tax imposed by this chapter is collected by the department of state revenue, the money collected shall be deposited in the state general fund to the credit of the appropriate county and reported to the bureau of motor vehicles on the first working day following the week of collection. Except as provided in subsection (e), anyamount collected by the department which represents interest or a penalty shall be retained by the department and used to pay its costs of enforcing this chapter. 
+
+(e) 
+This subsection applies only to interest or a penalty collected by the department of state revenue from a person that: 
+
+(1) 
+fails to properly register a vehicle as required by IC 9-18 (before its expiration) or IC 9-18.1 and pay the tax due under this chapter; and 
+
+(2) 
+during any time after the date by which the vehicle was required to be registered under IC 9-18 (before its expiration) or IC 9-18.1 displays on the vehicle a license plate issued by another state. 
+
+
+
+
+The total amount collected by the department that represents interest or a penalty, minus a reasonable amount determined by the department to represent its administrative expenses, shall be deposited in the state general fund for the credit of the county in which the person resides. The amount shall be reported to the bureau of motor vehicles on the first working day following the week of collection. 
+(f) 
+The bureau may contract with a bank card or credit card vendor for acceptance of bank or credit cards. 
+
+(g) 
+On or before April 1 of each year, the bureau shall provide to the auditor of state the amount of motor vehicle excise taxes collected for each county for the preceding year. 
+
+(h) 
+On or before May 10 and November 10 of each year, the auditor of state shall distribute to each county one-half (1/2) of: 
+
+(1) the amount of delinquent taxes; and 
+
+(2) 
+any penalty or interest described in subsection (e); that have been credited to the county under subsection (e). There is appropriated from the state general fund the amount necessary to make the distributions required by this subsection. The county auditor shall apportion and distribute the delinquent tax distributions to the taxing units in the county at the same time and in the same manner as excise taxes are apportioned and distributed under section 10 of this chapter. 
+
+
+(i) The commissioner of insurance shall prescribe the form of the bonds or crime policies required by this section. (Formerly: Acts 1969, c.423, s.9; Acts 1971, P.L.73, SEC.5; Acts 1972, P.L.55, SEC.2; Acts 1973, P.L.54, SEC.6.) As amended by Acts 1977(ss), P.L.8, SEC.3; P.L.42-1986, SEC.5; P.L.335-1989(ss), SEC.15; P.L.2-1991, SEC.46; P.L.44-1992, SEC.3; P.L.49-1995, SEC.7; P.L.62-1996, SEC.1; P.L.115-1998, SEC.1; P.L.70-1998, SEC.2; P.L.184-2007, SEC.5; P.L.107-2008, SEC.3; P.L.131-2008, SEC.21; P.L.149-2015, SEC.17; P.L.149-2016, SEC.30; P.L.198-2016, SEC.35. 
+
+IC 6-6-5-9.5 Excise tax replacement disbursement; calculation and procedure; transfers from state general fund 
+Sec. 9.5. (a) Before the twentieth day of each month the bureau shall do the following: 
+(1) 
+Determine the amount of excise taxes that would have been collected for each county for the preceding month based on the tax rate schedule that was in effect on January 1, 1995. 
+
+(2) 
+Determine and report to the auditor of state the difference between what was actually collected for each county for that month and what would have been collected at the January 1, 1995, rates. 
+
+
+(b) 
+For the months of January through November, the auditor of state shall determine a monthly uniform disbursement percentage to be applied in determining the amount of motor vehicle excise tax replacement money to be disbursed to each county. The monthly uniform disbursement percentage equals the quotient of the sum of the amounts transferred under IC 4-30-17-3.5 plus the amounts transferred under subsections (f) and (g) to the motor vehicle excise tax replacement account in the month of the bureau's report divided by the sum of the total differences for all counties, as determined under subsection (a) and identified in the bureau's report for that month. 
+
+(c)
+ For December, the auditor of state shall determine an annual uniform disbursement percentage to be applied in determining the amount of motor vehicle excise tax replacement money to be disbursed to each county in December as an annual adjustment. 
+
+(d) 
+The annual uniform disbursement percentage equals the quotient of the sum of the amounts transferred under IC 4-30-17-3.5 plus the amounts transferred under subsections (f) and (g) to the motor vehicle excise tax replacement account in the months of January through December divided by the sum of the total differences for all counties, as determined under subsection (a) and identified in the bureau's reports for the months of January through December. 
+
+(e) 
+For the months of January through November, the auditor of state shall distribute to the county the amount of the difference determined under subsection (a) in the month of the bureau's report for that county, multiplied by the monthly uniform disbursement percentage for that month. For December, the auditor shall distribute to the county the total difference in the bureau's reports determined 
+
+under subsection (a) in the months of January through December for that county, multiplied by the annual uniform disbursement percentage, less the amounts distributed to the county in January through November. However, the total distribution to a county in a calendar year may not exceed the total difference in the bureau's reports determined under subsection (a) in the months of January through December for that county in the year. 
+
+(f) 
+The transfers under this subsection are in addition to the transfers required under IC 4-30-17-3.5 and subsection (g). Before the twenty-fifth day of each month, the auditor of state shall transfer from the state general fund to the state general fund motor vehicle excise tax replacement account sixteen thousand nine hundred seventy-four dollars ($16,974). The transfers required under this subsection are annually appropriated from the state general fund. 
+
+(g) 
+This subsection applies only after December 31, 1995, and applies only if insufficient money is available in the build Indiana fund to make the distributions to the state general fund motor vehicle excise tax replacement account that are required under IC 4-30-17-3.5. Before the twenty-fifth day of each month, the auditor of state shall transfer from the state general fund to the state general fund motor vehicle excise tax replacement account the difference between: 
+
+(1) 
+the amount that IC 4-30-17-3.5 requires the auditor of state to distribute from the build Indiana fund to the state general fund motor vehicle excise tax replacement account; and 
+
+(2) 
+the amount that is available for distribution from the build Indiana fund to the state general fund motor vehicle excise tax replacement account. 
+
+
+
+
+The transfers required under this subsection are annually appropriated from the state general fund. 
+(h) 
+Any money remaining in the motor vehicle excise tax replacement account after the last county distribution in December shall be transferred to the build Indiana fund. The auditor of state shall make the distribution before the end of the month the auditor receives the bureau's report. 
+
+(i) 
+The money needed for the distribution shall be withdrawn from the motor vehicle excise tax replacement account. There is appropriated from the state general fund motor vehicle excise tax replacement account, the amount needed to make the distributions required by this section. 
+
+
+(j) Distributions made under this section are considered motor vehicle excise taxes for purposes of allocating revenue among taxing units under this chapter. As added by P.L.33-1990, SEC.14. Amended by P.L.25-1995, SEC.58; P.L.26-1996, SEC.9; P.L.186-2002, SEC.13. 
+IC 6-6-5-10 Collection procedures; duties of county officials; distribution 
+Sec. 10. (a) The bureau shall establish procedures necessary for the collection of the tax imposed by this chapter and for the proper accounting for the same. The necessary forms and records shall be subject to approval by the state board of accounts. 
+(b) 
+The county treasurer, upon receiving the excise tax collections, shall receipt such collections into a separate account for settlement thereof at the same time as property taxes are accounted for and settled in June and December of each year, with the right and duty of the treasurer and auditor to make advances prior to the time of final settlement of such property taxes in the same manner as provided in IC 5-13-6-3. 
+
+(c) 
+As used in this subsection, "taxing district" has the meaning set forth in IC 6-1.1-1-20, "taxing unit" has the meaning set forth in IC 6-1.1-1-21, and "tuition support levy" refers to a school corporation's tuition support property tax levy under IC 20-45-3-11 (repealed) for the school corporation's general fund. The county auditor shall determine the total amount of excise taxes collected for each taxing district in the county and the amount so collected (and the distributions received under section 9.5 of this chapter) shall be apportioned and distributed among the respective funds of the taxing units in the same manner and at the same time as property taxes are apportioned and distributed (subject to adjustment as provided in IC 36-8-19-7.5). However, for purposes of determining distributions under this section for 2009 and each year thereafter, a state welfare and tuition support allocation shall be deducted from the total amount available for apportionment and distribution to taxing units under this section before any apportionment and distribution is made. The county auditor shall remit the state welfare and tuition support allocation to the treasurer of state for deposit, as directed by the budget agency. The amount of the state welfare and tuition support allocation for a county for a particular year is equal to the result determined under STEP FOUR of the following formula: 
+
+
+STEP ONE: Determine the result of the following: 
+(A) 
+Separately for 1997, 1998, and 1999 for each taxing district in the county, determine the result of: 
+
+(i) 
+the amount appropriated in the year by the county from the county's county welfare fund and county welfare administration fund; divided by 
+
+(ii) 
+the total amounts appropriated by all taxing units in the county for the same year. 
+
+
+
+(B) 
+Determine the sum of the clause (A) amounts. 
+
+(C) 
+Divide the clause (B) amount by three (3). 
+
+(D) 
+Determine the result of: 
+
+
+(i) the amount of excise taxes allocated to the taxing district that would otherwise be available for distribution to taxing units in the taxing district; multiplied by 
+(ii) the clause (C) amount. 
+STEP TWO: Determine the result of the following: 
+
+(A) 
+Separately for 2006, 2007, and 2008 for each taxing district in the county, determine the result of: 
+
+(i) 
+the tax rate imposed in the taxing district for the county's county medical assistance to wards fund, family and children's fund, children's psychiatric residential treatment services fund, county hospital care for the indigent fund, children with special health care needs county fund, plus, in the case of Marion County, the tax rate imposed by the health and hospital corporation that was necessary to raise thirty-five million dollars ($35,000,000) from all taxing districts in the county; divided by 
+
+(ii) 
+the aggregate tax rate imposed in the taxing district for the same year. 
+
+
+
+(B) 
+Determine the sum of the clause (A) amounts. 
+
+(C) 
+Divide the clause (B) amount by three (3). 
+
+(D) 
+Determine the result of: 
+
+(i) 
+the amount of excise taxes allocated to the taxing district that would otherwise be available for distribution to taxing units in the taxing district after subtracting the STEP ONE (D) amount for the same taxing district; multiplied by 
+
+(ii) 
+the clause (C) amount. 
+
+
+
+(E) 
+Determine the sum of the clause (D) amounts for all 
+
+
+taxing districts in the county. STEP THREE: Determine the result of the following: 
+(A) 
+Separately for 2006, 2007, and 2008 for each taxing district in the county, determine the result of: 
+
+(i) 
+the tuition support levy tax rate imposed in the taxing district plus the tax rate imposed by the school corporation for the school corporation's special education preschool fund in the district; divided by 
+
+(ii) 
+the aggregate tax rate imposed in the taxing district for the same year. 
+
+
+
+(B) 
+Determine the sum of the clause (A) amounts. 
+
+(C) 
+Divide the clause (B) amount by three (3). 
+
+(D) 
+Determine the result of: 
+
+(i) 
+the amount of excise taxes allocated to the taxing district that would otherwise be available for distribution to taxing units in the taxing district after subtracting the STEP ONE (D) amount for the same taxing district; multiplied by 
+
+(ii) 
+the clause (C) amount. 
+
+
+
+(E) 
+Determine the sum of the clause (D) amounts for all 
+
+
+taxing districts in the county. STEP FOUR: Determine the sum of the STEP ONE, STEP TWO, and STEP THREE amounts for the county. 
+If the boundaries of a taxing district change after the years for which a ratio is calculated under STEP ONE, STEP TWO, or STEP THREE, the auditor of state shall establish a ratio for the new taxing district that reflects the tax rates imposed in the predecessor taxing districts. If a new taxing district is established after the years for which a ratio is calculated under STEP ONE, STEP TWO, or STEP THREE, the auditor of state shall establish a ratio for the new taxing district and adjust the ratio for other taxing districts in the county. 
+(d) Such determination shall be made from copies of vehicle registration forms furnished by the bureau of motor vehicles. Prior to such determination, the county assessor of each county shall, from copies of registration forms, cause information pertaining to legal residence of persons owning taxable vehicles to be verified from the assessor's records, to the extent such verification can be so made. The assessor shall further identify and verify from the assessor's records the several taxing units within which such persons reside. 
+(e) Such verifications shall be done by not later than thirty (30) days after receipt of vehicle registration forms by the county assessor, and the assessor shall certify such information to the county auditor for the auditor's use as soon as it is checked and completed. (Formerly: Acts 1969, c.423, s.10; Acts 1971, P.L.74, SEC.1; Acts 1972, P.L.55, SEC.1.) As amended by P.L.19-1987, SEC.18; P.L.273-1999, SEC.59; P.L.283-2001, SEC.7; P.L.120-2002, SEC.7; P.L.255-2003, SEC.7; P.L.146-2008, SEC.353; P.L.182-2009(ss), SEC.237; P.L.261-2013, SEC.34. 
+
+IC 6-6-5-10.4 Verification of taxes collected for each taxing unit 
+Sec. 10.4. The county auditor, shall from the copies of the registration forms furnished by the bureau, verify and determine the total amount of excise taxes collected for each taxing unit in the county. The bureau shall verify the collections and provide the county auditor adequate and accurate audit information, registration form information, records, and materials to support the proper assessment, collection, and refund of excise taxes. (Formerly: Acts 1971, P.L.73, SEC.6; Acts 1973, P.L.54, SEC.7.) As amended by P.L.70-1998, SEC.3; P.L.198-2016, SEC.36. 
+
+IC 6-6-5-10.5 Municipal corporations; estimates of amounts to be distributed 
+Sec. 10.5. The county auditor shall, not later than August first of each year, furnish to the proper officer of each municipal corporation an estimate of the amounts to be distributed to the taxing units under this chapter during the next calendar year and the budget of each such municipal corporation shall show the estimated amounts to be received for each fund for which a property tax is proposed to be levied. The term "municipal corporation" shall mean any county, city, town, township, school corporation, public library or other taxing district. 
+(Formerly: Acts 1971, P.L.74, SEC.2.) 
+
+IC 6-6-5-11 Registration of vehicle without payment of tax; offenses 
+Sec. 11. An owner of a vehicle that knowingly registers the vehicle without paying the excise tax required by this chapter commits a Class B misdemeanor. A person that recklessly issues a registration on any vehicle without collecting excise tax required to be collected with the registration commits a Class B misdemeanor. (Formerly: Acts 1969, c.423, s.11.) As amended by Acts 1978, P.L.2, SEC.641; Acts 1981, P.L.94, SEC.4; Acts 1982, P.L.43, SEC.7; P.L.198-2016, SEC.37. 
+
+IC 6-6-5-12 Registration of vehicle without payment of tax; void registration 
+Sec. 12. The registration of any vehicle registered without payment of the excise tax imposed by this chapter is void, and the bureau shall take possession of the registration certificate, license plate, and other evidence of registration until the owner has paid the delinquent excise taxes and an additional fee of ten dollars ($10) to compensate the bureau for the additional duties performed by it. (Formerly: Acts 1969, c.423, s.12.) As amended by Acts 1981, P.L.94, SEC.5; Acts 1982, P.L.43, SEC.8. 
+
+IC 6-6-5-13 Agents for collection of tax 
+Sec. 13. In the administration and collection of the annual license excise taxes imposed by this chapter, the bureau may use and employ and is hereby expressly empowered and authorized to appoint, use, and employ such persons who under the laws of the state of Indiana may be appointed as an agent by a county treasurer to collect and receive property taxes on behalf of such county treasurer, and such persons, when so appointed by the bureau, may receive and collect on behalf of the bureau the annual license excise taxes imposed by this chapter and such registration fees and charges as the bureau may direct in making such appointments. Such persons, when so appointed, shall comply with such requirements as exist concerning their collection of property taxes on behalf of county treasurers and such other requirements, including the posting of a bond, as may be established by the bureau at the time of such appointments. (Formerly: Acts 1969, c.423, s.13.) As amended by P.L.2-1988, SEC.16. 
+
+IC 6-6-5-14 Limitations onindebtedness of politicalormunicipal corporations; effect 
+Sec. 14. The excise tax imposed by this chapter is hereby determined to be equivalent to an average property tax rate of two dollars ($2) on each one hundred dollars ($100) taxable value. For the purpose of limitations on indebtedness of political or municipal corporations imposed by Article 13, Section 1 of the Constitution of the State of Indiana, motor vehicles subject to tax under this chapter shall be deemed to be taxable property within each such political or municipal corporation where the owner resides. The assessed valuation of such vehicles shall be determined by multiplying the amount of the tax by one hundred (100) and dividing such result by two dollars ($2). 
+(Formerly: Acts 1969, c.423, s.14.) As amended by P.L.2-1988, SEC.17; P.L.98-1989, SEC.7; P.L.33-1990, SEC.15; P.L.6-1997, SEC.128. 
+
+IC 6-6-5-15 Consolidation of taxes for taxpayers owning more than one vehicle 
+Sec. 15. In the administration and collection of the annual license excise tax as imposed by this chapter, the bureau may coordinate and consolidate the collection of such taxes from each taxpayer as imposed on all vehicles owned by such taxpayer in accordance with such procedures as the bureau shall deem reasonable and feasible, including, but not limited to, the revocation of all registrations of vehicles by an owner if such owner shall willfully fail and refuse to pay any excise tax imposed by this chapter. Upon a revocation of registration the bureau shall notify the department of state revenue of the name and address of the taxpayer. (Formerly: Acts 1969, c.423, s.15.) As amended by P.L.2-1988, SEC.18; P.L.335-1989(ss), SEC.16. 
+
+IC 6-6-5-16 Appropriation for administration 
+Sec. 16. There is hereby appropriated to the bureau from the general fund of the state, from monies not otherwise appropriated, a sum sufficient to defray the expenses incurred by the bureau in the administration of the excise tax provisions of this chapter. Only those expenses which would not otherwise be incurred in the administration of the motor vehicle registration laws of this state shall be paid out of the general fund. The state budget agency shall approve all funds paid out of the general fund as required in this section. (Formerly: Acts 1969, c.423, s.18.) As amended by P.L.2-1988, SEC.19. 
+
